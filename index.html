@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>인디게임 행사 트래커</title>
-  <link rel="stylesheet" href="./styles.css?v=5">
+  <link rel="stylesheet" href="./styles.css?v=2">
 </head>
 <body>
   <main class="shell">
@@ -23,14 +23,12 @@
 
     <!-- Main content area -->
     <div class="workspace">
-      <!-- Left: filters -->
-      <aside class="left-panel">
+      <!-- Left: filters (for events) -->
+      <aside class="left-panel" id="eventFilters">
         <h2>국가</h2>
         <div id="countryFilters" class="filter-list"></div>
-
         <h2>유형</h2>
         <div id="typeFilters" class="filter-list"></div>
-
         <h2>상태</h2>
         <div class="status-toggles" id="statusToggles">
           <label class="chip"><input type="checkbox" data-status="upcoming" checked> 예정</label>
@@ -38,21 +36,34 @@
         </div>
       </aside>
 
-      <!-- Right: event list -->
+      <!-- Left: filters (for steam) -->
+      <aside class="left-panel" id="steamFilters" style="display:none">
+        <h2>상태</h2>
+        <div class="status-toggles" id="steamStatusToggles">
+          <label class="chip"><input type="checkbox" data-status="upcoming" checked> 출시 예정</label>
+          <label class="chip"><input type="checkbox" data-status="released" checked> 최근 출시</label>
+        </div>
+        <h2>장르</h2>
+        <div id="steamGenreFilters" class="filter-list"></div>
+      </aside>
+
+      <!-- Right: views -->
       <section class="main-content">
         <div class="main-tabs">
           <button class="main-tab active" data-view="timeline">📅 타임라인</button>
           <button class="main-tab" data-view="upcoming">⏰ 다가오는 행사</button>
           <button class="main-tab" data-view="history">📋 변경 이력</button>
+          <button class="main-tab" data-view="steam">🎮 Steam 인디 워치</button>
         </div>
 
         <div id="viewTimeline" class="view"></div>
         <div id="viewUpcoming" class="view" style="display:none"></div>
         <div id="viewHistory" class="view" style="display:none"></div>
+        <div id="viewSteam" class="view" style="display:none"></div>
       </section>
     </div>
   </main>
 
-  <script src="./app.js?v=5"></script>
+  <script src="./app.js?v=2"></script>
 </body>
 </html>

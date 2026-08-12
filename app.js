@@ -23,13 +23,13 @@ const els = {
   viewHistory: $('#viewHistory'),
 };
 
-// === Load data ===
+// === Init ===
 async function init() {
   try {
     const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=5'),
-      fetch('./data/history.json?v=5'),
-      fetch('./data/summary.json?v=5'),
+      fetch('./data/data.json?v=2'),
+      fetch('./data/history.json?v=2'),
+      fetch('./data/summary.json?v=2'),
     ]);
     state.data = await dataRes.json();
     state.history = await historyRes.json();
@@ -44,6 +44,11 @@ async function init() {
     console.error('Failed to load data:', err);
     els.viewTimeline.innerHTML = '<div class="empty-state"><div class="empty-icon">⚠️</div>데이터를 불러올 수 없습니다</div>';
   }
+  
+  // Load Steam data in background
+  loadSteamData().then(() => {
+    renderSteamGenreFilters();
+  }).catch(() => {});
 }
 
 function formatDate(isoStr) {
@@ -148,6 +153,15 @@ function renderView() {
   if (state.view === 'timeline') renderTimeline(events);
   else if (state.view === 'upcoming') renderUpcoming(events);
   else if (state.view === 'history') renderHistory();
+  else if (state.view === 'steam') renderSteamView();
+  
+  // Toggle filter panels
+  document.querySelector('#eventFilters').style.display = state.view === 'steam' ? 'none' : '';
+  document.querySelector('#steamFilters').style.display = state.view === 'steam' ? '' : 'none';
+  
+  // Render appropriate stats
+  if (state.view === 'steam') renderSteamStats();
+  else renderStats();
 }
 
 function renderTimeline(events) {
@@ -267,7 +281,9 @@ document.addEventListener('click', (e) => {
     e.target.classList.add('active');
     state.view = e.target.dataset.view;
     $$('.view').forEach(v => v.style.display = 'none');
-    $(`#view${e.target.dataset.view.charAt(0).toUpperCase() + e.target.dataset.view.slice(1)}`).style.display = '';
+    const viewId = `#view${e.target.dataset.view.charAt(0).toUpperCase() + e.target.dataset.view.slice(1)}`;
+    const viewEl = document.querySelector(viewId);
+    if (viewEl) viewEl.style.display = '';
     renderView();
   }
   
@@ -292,11 +308,135 @@ document.addEventListener('click', (e) => {
 document.addEventListener('change', (e) => {
   if (e.target.matches('.chip input[data-status]')) {
     const status = e.target.dataset.status;
-    if (e.target.checked) state.statuses.add(status);
-    else state.statuses.delete(status);
-    renderView();
+    const parentId = e.target.closest('[id]')?.id;
+    
+    if (parentId === 'steamStatusToggles') {
+      if (e.target.checked) steamState.statuses.add(status);
+      else steamState.statuses.delete(status);
+      if (state.view === 'steam') renderSteamView();
+    } else {
+      if (e.target.checked) state.statuses.add(status);
+      else state.statuses.delete(status);
+      renderView();
+    }
   }
 });
 
-// === Init ===
+// Steam genre filter
+document.addEventListener('click', (e) => {
+  if (e.target.matches('.filter-btn[data-steam-genre]')) {
+    document.querySelectorAll('.filter-btn[data-steam-genre]').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    steamState.genre = e.target.dataset.steamGenre;
+    renderSteamView();
+  }
+});
+
+// === Steam state ===
+const steamState = {
+  data: null,
+  history: null,
+  genre: '전체',
+  statuses: new Set(['upcoming', 'released']),
+};
+
+// === Steam: Load data ===
+async function loadSteamData() {
+  try {
+    const [dataRes, historyRes] = await Promise.all([
+      fetch('./data/steam/data.json?v=2'),
+      fetch('./data/steam/history.json?v=2'),
+    ]);
+    steamState.data = await dataRes.json();
+    steamState.history = await historyRes.json();
+  } catch (err) {
+    console.error('Failed to load Steam data:', err);
+  }
+}
+
+// === Steam: Filter ===
+function filteredSteamGames() {
+  if (!steamState.data) return [];
+  return steamState.data.games.filter(g => {
+    if (!steamState.statuses.has(g.status)) return false;
+    if (steamState.genre !== '전체' && !(g.genres || []).includes(steamState.genre)) return false;
+    return true;
+  });
+}
+
+// === Steam: Render ===
+function renderSteamView() {
+  const games = filteredSteamGames();
+  if (!games.length) {
+    document.querySelector('#viewSteam').innerHTML = '<div class="empty-state"><div class="empty-icon">🎮</div>데이터가 없습니다</div>';
+    return;
+  }
+  
+  document.querySelector('#viewSteam').innerHTML = games.map(g => renderSteamCard(g)).join('');
+}
+
+function renderSteamCard(g) {
+  const genres = (g.genres || []).slice(0, 3).map(genre => 
+    `<span class="badge badge-expo">${escapeHtml(genre)}</span>`
+  ).join(' ');
+  
+  const devs = (g.developers || []).slice(0, 2).join(', ');
+  const isUpcoming = g.status === 'upcoming';
+  
+  return `
+    <div class="event-card ${isUpcoming ? '' : 'past'}">
+      <div class="event-date">
+        <div class="date-month">#${g.steam_rank}</div>
+        <div class="date-main" style="font-size:0.7rem;color:var(--${isUpcoming ? 'accent2' : 'text2'})">${isUpcoming ? '출시예정' : '출시완료'}</div>
+      </div>
+      <div class="event-body">
+        <div class="event-name">${escapeHtml(g.name)}</div>
+        <div class="event-meta">
+          ${genres}
+          ${devs ? `<span>👤 ${escapeHtml(devs)}</span>` : ''}
+          <span style="color:var(--text3)">📅 ${escapeHtml(g.release_date || '미정')}</span>
+        </div>
+        ${g.short_description ? `<div style="font-size:0.75rem;color:var(--text3);margin-top:4px;">${escapeHtml(g.short_description).substring(0, 120)}</div>` : ''}
+        <div class="event-url" style="margin-top:6px;">
+          <a href="${escapeHtml(g.store_url || '')}" target="_blank" rel="noopener">🛒 Steam 스토어</a>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+// === Steam: Render genre filters ===
+function renderSteamGenreFilters() {
+  if (!steamState.data) return;
+  const genres = {};
+  steamState.data.games.forEach(g => {
+    (g.genres || []).forEach(genre => {
+      genres[genre] = (genres[genre] || 0) + 1;
+    });
+  });
+  
+  const container = document.querySelector('#steamGenreFilters');
+  container.innerHTML = [
+    `<button class="filter-btn ${steamState.genre === '전체' ? 'active' : ''}" data-steam-genre="전체">전체 <span class="count">${steamState.data.games.length}</span></button>`,
+    ...Object.entries(genres).sort((a, b) => b[1] - a[1]).map(([genre, count]) =>
+      `<button class="filter-btn ${steamState.genre === genre ? 'active' : ''}" data-steam-genre="${genre}">${genre} <span class="count">${count}</span></button>`
+    )
+  ].join('');
+}
+
+// === Steam: Render stats ===
+function renderSteamStats() {
+  if (!steamState.data) return;
+  const s = steamState.data.summary;
+  const el = document.querySelector('#statsCards');
+  if (state.view !== 'steam') return; // only show steam stats on steam tab
+  
+  el.innerHTML = [
+    { label: '트래킹 게임', value: s.total, cls: '' },
+    { label: '출시 예정', value: s.upcoming, cls: 'green' },
+    { label: '최근 출시', value: s.released, cls: 'accent' },
+    { label: '무료 게임', value: s.free_games, cls: '' },
+    { label: '장르 수', value: (s.top_genres || []).length, cls: 'amber' },
+  ].map(c => `<div class="stat-card ${c.cls}"><div class="stat-value">${c.value}</div><div class="stat-label">${c.label}</div></div>`).join('');
+}
 init();
