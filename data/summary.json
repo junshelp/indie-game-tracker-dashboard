@@ -91,14 +91,14 @@
           "name": "ゲームパビリオンjp 2026 (春)",
           "startDate": "2026-03-28",
           "endDate": "2026-03-28",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "ハピネットゲームフェス！",
           "startDate": "2026-03-28",
           "endDate": "2026-03-29",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         }
       ]
@@ -129,7 +129,7 @@
           "name": "栃木 INDIE GAME Devs Digger Ex",
           "startDate": "2026-05-02",
           "endDate": "2026-05-02",
-          "type": "기타",
+          "type": "컨퍼런스",
           "country": "JP"
         },
         {
@@ -150,7 +150,7 @@
           "name": "ILLUSTAR FES (봄 에디션)",
           "startDate": "2026-05-23",
           "endDate": "2026-05-23",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "KR"
         }
       ]
@@ -166,7 +166,7 @@
           "name": "KCCF (코리아 카드 컬쳐 페어)",
           "startDate": "2026-06-06",
           "endDate": "2026-06-06",
-          "type": "마켓",
+          "type": "전시회",
           "country": "KR"
         },
         {
@@ -187,28 +187,28 @@
           "name": "九州ゲームアイランド",
           "startDate": "2026-06-13",
           "endDate": "2026-06-14",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "인디크래프트 네트워킹 데이",
           "startDate": "2026-06-19",
           "endDate": "2026-06-19",
-          "type": "기타",
+          "type": "컨퍼런스",
           "country": "KR"
         },
         {
           "name": "Dissonance #1",
           "startDate": "2026-06-20",
           "endDate": "2026-06-21",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "Build051 2026 (빌드051)",
           "startDate": "2026-06-25",
           "endDate": "2026-06-26",
-          "type": "기타",
+          "type": "게임잼",
           "country": "KR"
         }
       ]
@@ -232,7 +232,7 @@
           "name": "CCG EXPO 2026 (중국국제애니메이션게임박람회)",
           "startDate": "2026-07-04",
           "endDate": "2026-07-06",
-          "type": "기타",
+          "type": "전시회",
           "country": "CN"
         },
         {
@@ -253,21 +253,21 @@
           "name": "OPEN GAME FEST 2026",
           "startDate": "2026-07-11",
           "endDate": "2026-07-11",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
           "name": "indiePlay 2026 응모 마감",
           "startDate": "2026-07-17",
           "endDate": "2026-07-17",
-          "type": "기타",
+          "type": "공모전",
           "country": "CN"
         },
         {
           "name": "CEDEC2026 (Computer Entertainment Developers Conference)",
           "startDate": "2026-07-22",
           "endDate": "2026-07-24",
-          "type": "컨퍼런스",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
@@ -281,7 +281,7 @@
           "name": "디버그 이스케이프 룸 (Debug Escape Room)",
           "startDate": "2026-07-26",
           "endDate": "2026-07-26",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -318,14 +318,14 @@
           "name": "東京ゲームダンジョン13",
           "startDate": "2026-08-08",
           "endDate": "2026-08-08",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "インディーRTAリレー (Indie RTA Relay)",
           "startDate": "2026-08-10",
           "endDate": "2026-08-10",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
@@ -411,14 +411,14 @@
           "name": "京都国際マンガ・アニメフェア2026 (京まふ)",
           "startDate": "2026-09-19",
           "endDate": "2026-09-20",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "大月ゲームサミット2026 (Otsuki Game Summit)",
           "startDate": "2026-09-26",
           "endDate": "2026-09-26",
-          "type": "기타",
+          "type": "컨퍼런스",
           "country": "JP"
         }
       ]
@@ -435,21 +435,21 @@
           "name": "OSAKA INDIE GAMES SUMMIT 2026",
           "startDate": "2026-10-03",
           "endDate": "2026-10-04",
-          "type": "기타",
+          "type": "컨퍼런스",
           "country": "JP"
         },
         {
           "name": "대전콘텐츠페어 2026",
           "startDate": "2026-10-16",
           "endDate": "2026-10-18",
-          "type": "기타",
+          "type": "전시회",
           "country": "KR"
         },
         {
           "name": "第8回全国エンタメまつり",
           "startDate": "2026-10-17",
           "endDate": "2026-10-18",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
@@ -470,14 +470,14 @@
           "name": "東京ゲームダンジョン14",
           "startDate": "2026-10-31",
           "endDate": "2026-10-31",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "OTAFEST 2026",
           "startDate": "2026-10-31",
           "endDate": "2026-10-11",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         }
       ]
@@ -500,14 +500,14 @@
           "name": "Kita-Con (키타콘)",
           "startDate": "2026-11-14",
           "endDate": "2026-11-15",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
           "name": "SANUKI X GAME",
           "startDate": "2026-11-15",
           "endDate": "2026-11-15",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -521,21 +521,21 @@
           "name": "神戸ゲームラビリンス2026 (Kobe Game Labyrinth)",
           "startDate": "2026-11-21",
           "endDate": "2026-11-21",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
           "name": "Indie Developers Conference 2026",
           "startDate": "2026-11-28",
           "endDate": "2026-11-28",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
           "name": "HORROR GALLERY",
           "startDate": "2026-11-28",
           "endDate": "2026-11-28",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         }
       ]
@@ -560,7 +560,7 @@
           "name": "AGF 2026 (Anime×Game Festival)",
           "startDate": "2026-12-04",
           "endDate": "2026-12-06",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "KR"
         },
         {
@@ -574,21 +574,21 @@
           "name": "Comic Fiesta 2026",
           "startDate": "2026-12-19",
           "endDate": "2026-12-20",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "OTHER"
         },
         {
           "name": "MY GAME FES Vol.4",
           "startDate": "2026-12-25",
           "endDate": "2026-12-28",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
           "name": "大阪ゲームダンジョン2",
           "startDate": "2026-12-26",
           "endDate": "2026-12-26",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {

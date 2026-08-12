@@ -27,9 +27,9 @@ const els = {
 async function init() {
   try {
     const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=3'),
-      fetch('./data/history.json?v=3'),
-      fetch('./data/summary.json?v=3'),
+      fetch('./data/data.json?v=4'),
+      fetch('./data/history.json?v=4'),
+      fetch('./data/summary.json?v=4'),
     ]);
     state.data = await dataRes.json();
     state.history = await historyRes.json();
