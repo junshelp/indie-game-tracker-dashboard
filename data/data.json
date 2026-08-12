@@ -12,7 +12,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 1
     },
@@ -27,7 +27,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 1
     },
@@ -42,7 +42,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 1
     },
@@ -57,7 +57,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 1
     },
@@ -72,7 +72,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 2
     },
@@ -84,10 +84,10 @@
       "startDate": "2026-02-11",
       "endDate": "2026-02-11",
       "venue": "도쿄 시부야",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "contest",
+      "typeLabel": "공모전",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 2
     },
@@ -99,10 +99,10 @@
       "startDate": "2026-02-23",
       "endDate": "2026-02-23",
       "venue": "오사카",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "market",
+      "typeLabel": "마켓",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 2
     },
@@ -114,10 +114,10 @@
       "startDate": "2026-03-07",
       "endDate": "2026-03-07",
       "venue": "센다이",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "market",
+      "typeLabel": "마켓",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 3
     },
@@ -132,7 +132,7 @@
       "type": "conference",
       "typeLabel": "컨퍼런스",
       "submissionPeriod": "마감",
-      "url": "[indiegamessummit.tokyo](https://indiegamessummit.tokyo/)",
+      "url": "https://indiegamessummit.tokyo/",
       "status": "past",
       "month": 3
     },
@@ -147,7 +147,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 3
     },
@@ -162,7 +162,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 3
     },
@@ -177,7 +177,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[indie.live-expo.games](https://indie.live-expo.games/ko/)",
+      "url": "https://indie.live-expo.games/ko/",
       "status": "past",
       "month": 4
     },
@@ -192,7 +192,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 5
     },
@@ -207,7 +207,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[playx4.com](https://www.playx4.com/)",
+      "url": "https://www.playx4.com/",
       "status": "past",
       "month": 5
     },
@@ -222,7 +222,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[bitsummit.org](https://bitsummit.org/en/)",
+      "url": "https://bitsummit.org/en/",
       "status": "past",
       "month": 5
     },
@@ -252,7 +252,7 @@
       "type": "market",
       "typeLabel": "마켓",
       "submissionPeriod": "마감",
-      "url": "[kccf.net](https://kccf.net/)",
+      "url": "https://kccf.net/",
       "status": "past",
       "month": 6
     },
@@ -267,7 +267,7 @@
       "type": "market",
       "typeLabel": "마켓",
       "submissionPeriod": "마감",
-      "url": "[gamemarket.jp](https://gamemarket.jp/)",
+      "url": "https://gamemarket.jp/",
       "status": "past",
       "month": 6
     },
@@ -282,7 +282,7 @@
       "type": "doujin",
       "typeLabel": "동인",
       "submissionPeriod": "마감",
-      "url": "[comitia.co.jp](https://www.comitia.co.jp/)",
+      "url": "https://www.comitia.co.jp/",
       "status": "past",
       "month": 6
     },
@@ -297,7 +297,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 6
     },
@@ -312,7 +312,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[discoverynews.kr](https://www.discoverynews.kr/news/articleView.html?idxno=1092223)",
+      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1092223",
       "status": "past",
       "month": 6
     },
@@ -327,7 +327,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "past",
       "month": 6
     },
@@ -342,7 +342,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[build051.org](https://build051.org/)",
+      "url": "https://build051.org/",
       "status": "past",
       "month": 6
     },
@@ -357,7 +357,7 @@
       "type": "conference",
       "typeLabel": "컨퍼런스",
       "submissionPeriod": "마감",
-      "url": "[ciga.me](https://www.ciga.me/)",
+      "url": "https://www.ciga.me/",
       "status": "past",
       "month": 7
     },
@@ -372,7 +372,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[jufair.com](https://www.jufair.com/wiki/3392-968-0-0.html)",
+      "url": "https://www.jufair.com/wiki/3392-968-0-0.html",
       "status": "past",
       "month": 7
     },
@@ -387,7 +387,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[seoulgametown.com](https://seoulgametown.com/)",
+      "url": "https://seoulgametown.com/",
       "status": "past",
       "month": 7
     },
@@ -402,7 +402,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[bw.bilibili.com](https://bw.bilibili.com/)",
+      "url": "https://bw.bilibili.com/",
       "status": "past",
       "month": 7
     },
@@ -417,7 +417,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[gamemakers.jp](https://gamemakers.jp/article/2026_03_23_133956/)",
+      "url": "https://gamemakers.jp/article/2026_03_23_133956/",
       "status": "past",
       "month": 7
     },
@@ -432,7 +432,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[ciga.me](https://www.ciga.me/)",
+      "url": "https://www.ciga.me/",
       "status": "past",
       "month": 7
     },
@@ -447,7 +447,7 @@
       "type": "conference",
       "typeLabel": "컨퍼런스",
       "submissionPeriod": "마감",
-      "url": "[cedec.cesa.or.jp](https://cedec.cesa.or.jp/)",
+      "url": "https://cedec.cesa.or.jp/",
       "status": "past",
       "month": 7
     },
@@ -462,7 +462,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감 (당일)",
-      "url": "[4gamer](https://www.4gamer.net/games/991/G999110/20260414030/)",
+      "url": "https://www.4gamer.net/games/991/G999110/20260414030/",
       "status": "past",
       "month": 7
     },
@@ -477,7 +477,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[debug-escape.gamebrushup.org](https://debug-escape.gamebrushup.org/)",
+      "url": "https://debug-escape.gamebrushup.org/",
       "status": "past",
       "month": 7
     },
@@ -492,7 +492,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[chinajoy.net](https://www.chinajoy.net/)",
+      "url": "https://www.chinajoy.net/",
       "status": "past",
       "month": 7
     },
@@ -504,10 +504,10 @@
       "startDate": "2026-08-01",
       "endDate": "2026-08-02",
       "venue": "나가노",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "expo",
+      "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[dreamworks-ent.com](https://www.dreamworks-ent.com/)",
+      "url": "https://www.dreamworks-ent.com/",
       "status": "past",
       "month": 8
     },
@@ -522,7 +522,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "접수중 (6월~)  학생부문 ~8/20",
-      "url": "[bicfest.org](https://bicfest.org/boards/rpb/ids/11501)",
+      "url": "https://bicfest.org/boards/rpb/ids/11501",
       "status": "upcoming",
       "month": 8
     },
@@ -537,7 +537,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "마감",
-      "url": "[tokyogamedungeon.com](https://tokyogamedungeon.com/)",
+      "url": "https://tokyogamedungeon.com/",
       "status": "past",
       "month": 8
     },
@@ -567,7 +567,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "접수중  학생부문 ~8/20",
-      "url": "[bicfest.org](https://bicfest.org/boards/rpb/ids/11501)",
+      "url": "https://bicfest.org/boards/rpb/ids/11501",
       "status": "upcoming",
       "month": 8
     },
@@ -579,10 +579,10 @@
       "startDate": "2026-08-14",
       "endDate": "2026-08-16",
       "venue": "서울",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "festival",
+      "typeLabel": "페스티벌",
       "submissionPeriod": "",
-      "url": "[capsuleinc.co](https://jtg.capsuleinc.co/news/posts-database/korea-anime-events-agf-popcon-etc)",
+      "url": "https://jtg.capsuleinc.co/news/posts-database/korea-anime-events-agf-popcon-etc",
       "status": "upcoming",
       "month": 8
     },
@@ -597,7 +597,7 @@
       "type": "doujin",
       "typeLabel": "동인",
       "submissionPeriod": "마감",
-      "url": "[comiket.co.jp](https://www.comiket.co.jp/)",
+      "url": "https://www.comiket.co.jp/",
       "status": "upcoming",
       "month": 8
     },
@@ -609,10 +609,10 @@
       "startDate": "2026-08-15",
       "endDate": "2026-08-15",
       "venue": "도쿄 칸다묘진",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "festival",
+      "typeLabel": "페스티벌",
       "submissionPeriod": "",
-      "url": "[prtimes.jp](https://prtimes.jp/main/html/rd/p/000000007.000150262.html)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000150262.html",
       "status": "upcoming",
       "month": 8
     },
@@ -624,10 +624,10 @@
       "startDate": "2026-08-20",
       "endDate": "2026-08-20",
       "venue": "큐슈",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "festival",
+      "typeLabel": "페스티벌",
       "submissionPeriod": "",
-      "url": "[tri-core.co.jp](https://tri-core.co.jp/event/game-festival-2026/)",
+      "url": "https://tri-core.co.jp/event/game-festival-2026/",
       "status": "upcoming",
       "month": 8
     },
@@ -642,7 +642,7 @@
       "type": "doujin",
       "typeLabel": "동인",
       "submissionPeriod": "마감",
-      "url": "[comitia.co.jp](https://www.comitia.co.jp/)",
+      "url": "https://www.comitia.co.jp/",
       "status": "upcoming",
       "month": 8
     },
@@ -654,10 +654,10 @@
       "startDate": "2026-08-30",
       "endDate": "2026-08-30",
       "venue": "TOC有明 Convention Hall (도쿄)",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "conference",
+      "typeLabel": "컨퍼런스",
       "submissionPeriod": "유료 티켓",
-      "url": "[gamemakers.jp](https://gamemakers.jp/2026_gms_news/)",
+      "url": "https://gamemakers.jp/2026_gms_news/",
       "status": "upcoming",
       "month": 8
     },
@@ -669,10 +669,10 @@
       "startDate": "2026-09-06",
       "endDate": "2026-09-06",
       "venue": "도쿄",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "expo",
+      "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[bear.cool](https://www.bear.cool/board-game/event/123751/info)",
+      "url": "https://www.bear.cool/board-game/event/123751/info",
       "status": "upcoming",
       "month": 9
     },
@@ -687,7 +687,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[tgs.nikkeibp.co.jp](https://events.nikkeibp.co.jp/tgs/2026/)",
+      "url": "https://events.nikkeibp.co.jp/tgs/2026/",
       "status": "upcoming",
       "month": 9
     },
@@ -699,10 +699,10 @@
       "startDate": "2026-09-18",
       "endDate": "2026-09-19",
       "venue": "서울",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "expo",
+      "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[indiecraft.or.kr](https://www.indiecraft.or.kr/)",
+      "url": "https://www.indiecraft.or.kr/",
       "status": "upcoming",
       "month": 9
     },
@@ -717,7 +717,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[kyomaf.kyoto](https://kyomaf.kyoto/)",
+      "url": "https://kyomaf.kyoto/",
       "status": "upcoming",
       "month": 9
     },
@@ -732,7 +732,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "upcoming",
       "month": 9
     },
@@ -747,7 +747,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[gamemakers.jp](https://gamemakers.jp/article/2026_04_02_134883/)",
+      "url": "https://gamemakers.jp/article/2026_04_02_134883/",
       "status": "upcoming",
       "month": 10
     },
@@ -762,7 +762,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[k-character.co.kr](https://www.k-character.co.kr/community/news/85)",
+      "url": "https://www.k-character.co.kr/community/news/85",
       "status": "upcoming",
       "month": 10
     },
@@ -777,7 +777,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "upcoming",
       "month": 10
     },
@@ -792,7 +792,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "upcoming",
       "month": 10
     },
@@ -807,7 +807,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[gamescom.asia](https://gamescom.asia/)",
+      "url": "https://gamescom.asia/",
       "status": "upcoming",
       "month": 10
     },
@@ -822,7 +822,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[tokyogamedungeon.com](https://tokyogamedungeon.com/)",
+      "url": "https://tokyogamedungeon.com/",
       "status": "upcoming",
       "month": 10
     },
@@ -837,7 +837,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[x.com/OTACRUZinfo](https://x.com/OTACRUZinfo)",
+      "url": "https://x.com/OTACRUZinfo",
       "status": "upcoming",
       "month": 10
     },
@@ -849,10 +849,10 @@
       "startDate": "2026-11-08",
       "endDate": "2026-11-08",
       "venue": "도쿄",
-      "type": "other",
-      "typeLabel": "기타",
+      "type": "expo",
+      "typeLabel": "전시회",
       "submissionPeriod": "",
-      "url": "[digigame-expo.org](https://digigame-expo.org/)",
+      "url": "https://digigame-expo.org/",
       "status": "upcoming",
       "month": 11
     },
@@ -867,7 +867,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[gigazine.net](https://gigazine.net/gsc_news/en/20260516-kitakon-machiasobi30/)",
+      "url": "https://gigazine.net/gsc_news/en/20260516-kitakon-machiasobi30/",
       "status": "upcoming",
       "month": 11
     },
@@ -882,7 +882,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "upcoming",
       "month": 11
     },
@@ -897,7 +897,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "8~9월 예정",
-      "url": "[gstar.or.kr](https://www.gstar.or.kr/)",
+      "url": "https://www.gstar.or.kr/",
       "status": "upcoming",
       "month": 11
     },
@@ -912,7 +912,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[game.watch](https://game.watch.impress.co.jp/docs/news/2123150.html)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2123150.html",
       "status": "upcoming",
       "month": 11
     },
@@ -927,7 +927,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[recgame.jp](https://recgame.jp/news/detail/3014)",
+      "url": "https://recgame.jp/news/detail/3014",
       "status": "upcoming",
       "month": 11
     },
@@ -942,7 +942,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[note.com/ririka_y_](https://note.com/ririka_y_/n/n00fe303bbe0c)",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
       "status": "upcoming",
       "month": 11
     },
@@ -957,7 +957,7 @@
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
-      "url": "[indie.live-expo.games](https://indie.live-expo.games/ko/)",
+      "url": "https://indie.live-expo.games/ko/",
       "status": "upcoming",
       "month": 12
     },
@@ -972,7 +972,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[byline.network](https://byline.network/2026/06/19-645/)",
+      "url": "https://byline.network/2026/06/19-645/",
       "status": "upcoming",
       "month": 12
     },
@@ -987,7 +987,7 @@
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "마감",
-      "url": "[beaverrocks.com](https://beaverrocks.com/creator)",
+      "url": "https://beaverrocks.com/creator",
       "status": "upcoming",
       "month": 12
     },
@@ -1002,7 +1002,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[instagram](https://www.instagram.com/p/DYoetTAGtT9/)",
+      "url": "https://www.instagram.com/p/DYoetTAGtT9/",
       "status": "upcoming",
       "month": 12
     },
@@ -1032,7 +1032,7 @@
       "type": "other",
       "typeLabel": "기타",
       "submissionPeriod": "",
-      "url": "[tokyogamedungeon.com](https://tokyogamedungeon.com/)",
+      "url": "https://tokyogamedungeon.com/",
       "status": "upcoming",
       "month": 12
     },
@@ -1047,7 +1047,7 @@
       "type": "doujin",
       "typeLabel": "동인",
       "submissionPeriod": "",
-      "url": "[comiket.co.jp](https://www.comiket.co.jp/)",
+      "url": "https://www.comiket.co.jp/",
       "status": "upcoming",
       "month": 12
     }
@@ -1066,11 +1066,12 @@
       "OTHER": 1
     },
     "byType": {
-      "전시회": 11,
-      "페스티벌": 9,
-      "기타": 41,
-      "컨퍼런스": 3,
-      "마켓": 2,
+      "전시회": 15,
+      "페스티벌": 12,
+      "공모전": 1,
+      "마켓": 4,
+      "컨퍼런스": 4,
+      "기타": 30,
       "동인": 4
     },
     "byMonth": {

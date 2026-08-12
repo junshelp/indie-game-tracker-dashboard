@@ -242,10 +242,16 @@ function renderEventCard(e, urgent = false) {
           ${e.venue ? `<span>📍 ${escapeHtml(e.venue)}</span>` : ''}
           ${e.submissionPeriod ? `<span class="badge badge-deadline">📝 ${escapeHtml(e.submissionPeriod)}</span>` : ''}
         </div>
-        ${e.url ? `<div class="event-url"><a href="${escapeHtml(e.url)}" target="_blank" rel="noopener">🔗 바로가기</a></div>` : ''}
+        ${e.url ? `<div class="event-url"><a href="${escapeHtml(cleanURL(e.url))}" target="_blank" rel="noopener">🔗 바로가기</a></div>` : ''}
       </div>
     </div>
   `;
+}
+
+function cleanURL(raw) {
+  // Strip markdown link syntax: [text](url) → url
+  const m = String(raw || '').match(/\[.*?\]\((https?:\/\/[^\s)]+)\)/);
+  return m ? m[1] : raw;
 }
 
 function escapeHtml(str) {
