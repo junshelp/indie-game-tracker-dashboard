@@ -27,9 +27,9 @@ const els = {
 async function init() {
   try {
     const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=3'),
-      fetch('./data/history.json?v=3'),
-      fetch('./data/summary.json?v=3'),
+      fetch('./data/data.json?v=2'),
+      fetch('./data/history.json?v=2'),
+      fetch('./data/summary.json?v=2'),
     ]);
     state.data = await dataRes.json();
     state.history = await historyRes.json();
@@ -344,8 +344,8 @@ const steamState = {
 async function loadSteamData() {
   try {
     const [dataRes, historyRes] = await Promise.all([
-      fetch('./data/steam/data.json?v=3'),
-      fetch('./data/steam/history.json?v=3'),
+      fetch('./data/steam/data.json?v=2'),
+      fetch('./data/steam/history.json?v=2'),
     ]);
     steamState.data = await dataRes.json();
     steamState.history = await historyRes.json();
@@ -383,23 +383,36 @@ function renderSteamCard(g) {
   const devs = (g.developers || []).slice(0, 2).join(', ');
   const isUpcoming = g.status === 'upcoming';
   
+  // Engagement number: recommendations for released, rank for upcoming
+  let engagementHTML = '';
+  if (g.recommendations) {
+    engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--green)">👍 ${g.recommendations.toLocaleString()}</div>
+                      <div class="stat-label">추천</div>`;
+  } else if (g.status === 'upcoming') {
+    engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)">#${g.steam_rank}</div>
+                      <div class="stat-label">Steam 인기 순위</div>`;
+  }
+  
   return `
     <div class="event-card ${isUpcoming ? '' : 'past'}">
-      <div class="event-date">
+      <div class="event-date" style="width:100px;">
         <div class="date-month">#${g.steam_rank}</div>
-        <div class="date-main" style="font-size:0.7rem;color:var(--${isUpcoming ? 'accent2' : 'text2'})">${isUpcoming ? '출시예정' : '출시완료'}</div>
+        <div class="date-main" style="font-size:0.7rem;color:var(--${isUpcoming ? 'accent2' : 'text2'})">${isUpcoming ? '출시예정' : '출시일'}</div>
+        <div style="font-size:0.65rem;color:var(--text3)">${escapeHtml(g.release_date || '미정').substring(0, 12)}</div>
       </div>
       <div class="event-body">
         <div class="event-name">${escapeHtml(g.name)}</div>
         <div class="event-meta">
           ${genres}
           ${devs ? `<span>👤 ${escapeHtml(devs)}</span>` : ''}
-          <span style="color:var(--text3)">📅 ${escapeHtml(g.release_date || '미정')}</span>
         </div>
         ${g.short_description ? `<div style="font-size:0.75rem;color:var(--text3);margin-top:4px;">${escapeHtml(g.short_description).substring(0, 120)}</div>` : ''}
         <div class="event-url" style="margin-top:6px;">
           <a href="${escapeHtml(g.store_url || '')}" target="_blank" rel="noopener">🛒 Steam 스토어</a>
         </div>
+      </div>
+      <div class="event-date" style="width:90px;border-left:1px solid var(--border);padding-left:12px;">
+        ${engagementHTML}
       </div>
     </div>
   `;
