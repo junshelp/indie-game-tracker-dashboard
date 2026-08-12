@@ -466,21 +466,6 @@
       "release_date": "12 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Refugium Games"
-      ],
-      "publishers": [
-        "Refugium Games"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Relive your High School days in the town of Agefield. It’s the early 2000s, and graduation is on the horizon. REBEL with your friends, win over your dream girl and ROCK the school! A coming-of-age adv",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562580/a8e9cf70e0a843030ada838228d7414b90bdcdd3/header.jpg?t=1786276448",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3562580/"
     },
@@ -491,23 +476,6 @@
       "release_date": "12 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Ovsko"
-      ],
-      "publishers": [
-        "Ovsko"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A brutally challenging physics-horror caving game. Using only your hands, drag yourself down a suffocating cave system where every hold pulls you further into the darkness. Equal parts rage-game, clau",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004390/7e0e803320878ed401fe7e7f35ac52a466a66d29/header.jpg?t=1786307071",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3004390/"
     },
@@ -553,46 +521,6 @@
     },
     {
       "steam_rank": 25,
-      "appid": 3878620,
-      "name": "Red Tape Rampage",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3878620/"
-    },
-    {
-      "steam_rank": 26,
-      "appid": 4361680,
-      "name": "Home Store Simulator",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4361680/"
-    },
-    {
-      "steam_rank": 27,
-      "appid": 4454000,
-      "name": "Desperate Gambling",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4454000/"
-    },
-    {
-      "steam_rank": 28,
-      "appid": 4456630,
-      "name": "Incremental Fishing",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4456630/"
-    },
-    {
-      "steam_rank": 29,
       "appid": 4087250,
       "name": "OOPS! Simulator",
       "release_date": "12 Aug, 2026",
@@ -602,7 +530,7 @@
       "store_url": "https://store.steampowered.com/app/4087250/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 26,
       "appid": 4985210,
       "name": "Storehand",
       "release_date": "12 Aug, 2026",
@@ -612,12 +540,66 @@
       "store_url": "https://store.steampowered.com/app/4985210/"
     },
     {
+      "steam_rank": 27,
+      "appid": 3878620,
+      "name": "Red Tape Rampage",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3878620/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 4361680,
+      "name": "Home Store Simulator",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4361680/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 4454000,
+      "name": "Desperate Gambling",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4454000/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 4456630,
+      "name": "Incremental Fishing",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4456630/"
+    },
+    {
       "steam_rank": 5,
       "appid": 3812600,
       "name": "ReStory: Chill Electronics Repairs",
       "release_date": "6 Aug, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "Mandragora"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c07daeca18353c666d51462d2e69c30ec68094ad/header_alt_assets_3.jpg?t=1786119982",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3812600/"
     },
@@ -628,6 +610,23 @@
       "release_date": "6 Aug, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "Nick Nieuwoudt",
+        "Dominik Latos"
+      ],
+      "publishers": [
+        "Nick Nieuwoudt",
+        "Dominik Latos"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics,",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1786366652",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2950790/"
     },
@@ -638,6 +637,22 @@
       "release_date": "31 Jul, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "TEAM HORAY"
+      ],
+      "publishers": [
+        "TEAM HORAY"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep you",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1786421771",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2436940/"
     },
@@ -648,6 +663,21 @@
       "release_date": "30 Jul, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "Mike Klubnika",
+        "GDeavid"
+      ],
+      "publishers": [
+        "Oro Interactive"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4108000/"
     },
@@ -658,6 +688,20 @@
       "release_date": "6 Aug, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "WILD WITS GAMES"
+      ],
+      "publishers": [
+        "Curve Games"
+      ],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1786457942",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4113940/"
     },
@@ -668,6 +712,23 @@
       "release_date": "29 Jul, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "Rike Games"
+      ],
+      "publishers": [
+        "Rike Games"
+      ],
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "You're broke, smash piggy banks, bills must be paid. A short active incremental game. Get money, upgrade, and get debt free!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1786185422",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4421010/"
     },
@@ -678,6 +739,21 @@
       "release_date": "7 Aug, 2026",
       "review_summary": "",
       "source": "recent_release",
+      "developers": [
+        "Beck & Branch Games"
+      ],
+      "publishers": [
+        "Neem Interactive"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4450620/"
     }
@@ -685,28 +761,28 @@
   "summary": {
     "total": 37,
     "free_games": 1,
-    "released": 0,
-    "upcoming": 37,
+    "released": 7,
+    "upcoming": 30,
     "top_genres": [
       [
         "Indie",
-        20
+        25
       ],
       [
         "Casual",
         15
       ],
       [
-        "Strategy",
-        9
-      ],
-      [
         "Simulation",
-        9
+        13
       ],
       [
         "Action",
-        7
+        10
+      ],
+      [
+        "Strategy",
+        9
       ]
     ],
     "top_developers": [

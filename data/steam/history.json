@@ -3,6 +3,20 @@
   "changes": [
     {
       "date": "2026-08-12",
+      "type": "released",
+      "appid": 3562580,
+      "name": "Agefield High: Rock the School",
+      "detail": "출시 완료! (12 Aug, 2026)"
+    },
+    {
+      "date": "2026-08-12",
+      "type": "released",
+      "appid": 3004390,
+      "name": "The Cave Diver",
+      "detail": "출시 완료! (12 Aug, 2026)"
+    },
+    {
+      "date": "2026-08-12",
       "type": "new_entry",
       "appid": 2950790,
       "name": "IRON NEST: Heavy Turret Simulator",
