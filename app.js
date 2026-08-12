@@ -332,12 +332,21 @@ document.addEventListener('click', (e) => {
   }
 });
 
+// Steam sort change event
+document.addEventListener('change', (e) => {
+  if (e.target.id === 'steamSortSelect') {
+    steamState.sortBy = e.target.value;
+    if (state.view === 'steam') renderSteamView();
+  }
+});
+
 // === Steam state ===
 const steamState = {
   data: null,
   history: null,
   genre: '전체',
   statuses: new Set(['upcoming', 'released']),
+  sortBy: 'smart',  // 'smart' | 'date' | 'recommendations' | 'steam_rank'
 };
 
 // === Steam: Load data ===
@@ -357,11 +366,68 @@ async function loadSteamData() {
 // === Steam: Filter ===
 function filteredSteamGames() {
   if (!steamState.data) return [];
-  return steamState.data.games.filter(g => {
+  let games = steamState.data.games.filter(g => {
     if (!steamState.statuses.has(g.status)) return false;
     if (steamState.genre !== '전체' && !(g.genres || []).includes(steamState.genre)) return false;
     return true;
   });
+
+  // === Sort ===
+  const sortBy = steamState.sortBy || 'smart';
+  
+  // Helper: check if new entry from history
+  const newAppIds = new Set(
+    (steamState.history?.changes || [])
+      .filter(c => c.type === 'new_entry')
+      .map(c => c.appid)
+  );
+  
+  // Helper: parse release date
+  function parseDate(ds) {
+    if (!ds) return new Date(0);
+    const d = new Date(ds);
+    return isNaN(d.getTime()) ? new Date(0) : d;
+  }
+  
+  switch (sortBy) {
+    case 'date':
+      games.sort((a, b) => parseDate(a.release_date) - parseDate(b.release_date));
+      break;
+    case 'recommendations':
+      games.sort((a, b) => (b.recommendations || 0) - (a.recommendations || 0));
+      break;
+    case 'steam_rank':
+      games.sort((a, b) => (a.steam_rank || 999) - (b.steam_rank || 999));
+      break;
+    case 'smart':
+    default:
+      games.sort((a, b) => {
+        // 1st: upcoming before released
+        if (a.status !== b.status)
+          return a.status === 'upcoming' ? -1 : 1;
+        
+        if (a.status === 'upcoming') {
+          // New entries first
+          const aNew = newAppIds.has(a.appid) ? 1 : 0;
+          const bNew = newAppIds.has(b.appid) ? 1 : 0;
+          if (aNew !== bNew) return bNew - aNew;
+          // Sooner release first
+          const dd = parseDate(a.release_date) - parseDate(b.release_date);
+          if (dd !== 0) return dd;
+          // Tiebreaker: steam_rank
+          return (a.steam_rank || 999) - (b.steam_rank || 999);
+        }
+        
+        // Released: most recommendations first
+        const rd = (b.recommendations || 0) - (a.recommendations || 0);
+        if (rd !== 0) return rd;
+        // Tiebreaker: recent release first
+        return parseDate(b.release_date) - parseDate(a.release_date);
+      });
+      break;
+  }
+  
+  return games;
 }
 
 // === Steam: Render ===
@@ -372,7 +438,33 @@ function renderSteamView() {
     return;
   }
   
-  document.querySelector('#viewSteam').innerHTML = games.map(g => renderSteamCard(g)).join('');
+  // Group by status
+  const upcoming = games.filter(g => g.status === 'upcoming');
+  const released = games.filter(g => g.status === 'released');
+  
+  let html = '';
+  
+  if (upcoming.length > 0) {
+    html += `<div class="month-group">
+      <div class="month-header">
+        <span>🆕 출시 예정</span>
+        <span class="month-count">${upcoming.length}개</span>
+      </div>
+      ${upcoming.map(g => renderSteamCard(g)).join('')}
+    </div>`;
+  }
+  
+  if (released.length > 0) {
+    html += `<div class="month-group">
+      <div class="month-header">
+        <span>✅ 최근 출시</span>
+        <span class="month-count">${released.length}개</span>
+      </div>
+      ${released.map(g => renderSteamCard(g)).join('')}
+    </div>`;
+  }
+  
+  document.querySelector('#viewSteam').innerHTML = html;
 }
 
 function renderSteamCard(g) {
