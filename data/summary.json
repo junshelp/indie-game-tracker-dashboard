@@ -55,14 +55,14 @@
           "name": "ゲームクリエイター甲子園 × 神ゲー創造主エボリューション",
           "startDate": "2026-02-11",
           "endDate": "2026-02-11",
-          "type": "기타",
+          "type": "공모전",
           "country": "JP"
         },
         {
           "name": "そうさくマーケット2",
           "startDate": "2026-02-23",
           "endDate": "2026-02-23",
-          "type": "기타",
+          "type": "마켓",
           "country": "JP"
         }
       ]
@@ -77,7 +77,7 @@
           "name": "インディゲームマーケット6",
           "startDate": "2026-03-07",
           "endDate": "2026-03-07",
-          "type": "기타",
+          "type": "마켓",
           "country": "JP"
         },
         {
@@ -304,7 +304,7 @@
           "name": "즈쿠즈쿠2026",
           "startDate": "2026-08-01",
           "endDate": "2026-08-02",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -339,7 +339,7 @@
           "name": "Seoul POPCON 2026",
           "startDate": "2026-08-14",
           "endDate": "2026-08-16",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "KR"
         },
         {
@@ -353,14 +353,14 @@
           "name": "AKIBA 서브컬처 서밋 @칸다묘진 2026",
           "startDate": "2026-08-15",
           "endDate": "2026-08-15",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
           "name": "九州学生ゲーム大祭2026 (큐슈학생게임대제)",
           "startDate": "2026-08-20",
           "endDate": "2026-08-20",
-          "type": "기타",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
@@ -374,7 +374,7 @@
           "name": "게임메이커즈 스크램블 2026",
           "startDate": "2026-08-30",
           "endDate": "2026-08-30",
-          "type": "기타",
+          "type": "컨퍼런스",
           "country": "JP"
         }
       ]
@@ -390,7 +390,7 @@
           "name": "보도테크2026",
           "startDate": "2026-09-06",
           "endDate": "2026-09-06",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -404,7 +404,7 @@
           "name": "GXG × INDIE CRAFT 2026",
           "startDate": "2026-09-18",
           "endDate": "2026-09-19",
-          "type": "기타",
+          "type": "전시회",
           "country": "KR"
         },
         {
@@ -493,7 +493,7 @@
           "name": "デジゲー博2026 (디지게임엑스포)",
           "startDate": "2026-11-08",
           "endDate": "2026-11-08",
-          "type": "기타",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -606,6 +606,6 @@
     "dateChanges": 0,
     "submissionUpdates": 0,
     "totalChanges": 1,
-    "note": "Seoul Game Town 신규 발견 (ririka_y_ 라운드업)"
+    "note": ""
   }
 }
