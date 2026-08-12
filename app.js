@@ -385,13 +385,32 @@ function renderSteamCard(g) {
   
   // Engagement number: recommendations for released, rank for upcoming
   let engagementHTML = '';
+  let reviewBadge = '';
+  
+  // Review score badge
+  if (g.review_summary) {
+    const summary = g.review_summary.toLowerCase();
+    let color = 'var(--text3)';
+    if (summary.includes('overwhelmingly positive')) color = '#1a7f37';
+    else if (summary.includes('very positive')) color = '#2ea043';
+    else if (summary.includes('positive')) color = '#3fb950';
+    else if (summary.includes('mixed')) color = '#d29922';
+    else if (summary.includes('negative')) color = '#f85149';
+    reviewBadge = `<div style="font-size:0.7rem;color:${color};margin-top:2px;">⭐ ${escapeHtml(g.review_summary).substring(0, 25)}</div>`;
+  }
+  
   if (g.recommendations) {
     engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--green)">👍 ${g.recommendations.toLocaleString()}</div>
-                      <div class="stat-label">추천</div>`;
+                      <div class="stat-label">추천</div>
+                      ${reviewBadge}`;
   } else if (g.status === 'upcoming') {
     engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)">#${g.steam_rank}</div>
                       <div class="stat-label">Steam 인기 순위</div>`;
   }
+  
+  // Check if game is newly discovered (from history)
+  const isNew = (steamState.history?.changes || []).some(c => c.appid === g.appid && c.type === 'new_entry');
+  const newBadge = isNew ? ' 🆕' : '';
   
   return `
     <div class="event-card ${isUpcoming ? '' : 'past'}">
@@ -401,7 +420,7 @@ function renderSteamCard(g) {
         <div style="font-size:0.65rem;color:var(--text3)">${escapeHtml(g.release_date || '미정').substring(0, 12)}</div>
       </div>
       <div class="event-body">
-        <div class="event-name">${escapeHtml(g.name)}</div>
+        <div class="event-name">${escapeHtml(g.name)}${newBadge}</div>
         <div class="event-meta">
           ${genres}
           ${devs ? `<span>👤 ${escapeHtml(devs)}</span>` : ''}
@@ -409,6 +428,7 @@ function renderSteamCard(g) {
         ${g.short_description ? `<div style="font-size:0.75rem;color:var(--text3);margin-top:4px;">${escapeHtml(g.short_description).substring(0, 120)}</div>` : ''}
         <div class="event-url" style="margin-top:6px;">
           <a href="${escapeHtml(g.store_url || '')}" target="_blank" rel="noopener">🛒 Steam 스토어</a>
+          <a href="https://steamdb.info/app/${g.appid}/" target="_blank" rel="noopener" style="margin-left:8px;">📊 SteamDB</a>
         </div>
       </div>
       <div class="event-date" style="width:90px;border-left:1px solid var(--border);padding-left:12px;">
