@@ -34,7 +34,7 @@
       "type": "new_entry",
       "appid": 4113940,
       "name": "Sovereign Tower",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #22)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #21)"
     },
     {
       "date": "2026-08-12",
@@ -104,7 +104,7 @@
       "type": "new_entry",
       "appid": 4456630,
       "name": "Incremental Fishing",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #29)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #28)"
     },
     {
       "date": "2026-08-12",
@@ -118,7 +118,7 @@
       "type": "new_entry",
       "appid": 4450620,
       "name": "GRAIN ROT",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #30)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #28)"
     },
     {
       "date": "2026-08-12",
@@ -167,21 +167,21 @@
       "type": "new_entry",
       "appid": 4361680,
       "name": "Home Store Simulator",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #27)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #26)"
     },
     {
       "date": "2026-08-12",
       "type": "new_entry",
       "appid": 4087250,
       "name": "OOPS! Simulator",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #26)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #29)"
     },
     {
       "date": "2026-08-12",
       "type": "new_entry",
       "appid": 3562580,
       "name": "Agefield High: Rock the School",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #18)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #19)"
     },
     {
       "date": "2026-08-12",
@@ -221,9 +221,16 @@
     {
       "date": "2026-08-12",
       "type": "new_entry",
+      "appid": 4985210,
+      "name": "Storehand",
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-12",
+      "type": "new_entry",
       "appid": 4454000,
       "name": "Desperate Gambling",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #28)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #27)"
     },
     {
       "date": "2026-08-12",
@@ -237,7 +244,7 @@
       "type": "new_entry",
       "appid": 4216180,
       "name": "IGNOBLE",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #19)"
+      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #18)"
     },
     {
       "date": "2026-08-12",
@@ -252,13 +259,6 @@
       "appid": 4621690,
       "name": "Quantum Hell",
       "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #4)"
-    },
-    {
-      "date": "2026-08-12",
-      "type": "new_entry",
-      "appid": 4883580,
-      "name": "The One Fish",
-      "detail": "Steam 인디 다가오는 게임 Top 37 신규 진입 (랭크 #30)"
     }
   ]
 }

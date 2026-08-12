@@ -432,31 +432,6 @@
     },
     {
       "steam_rank": 18,
-      "appid": 3562580,
-      "name": "Agefield High: Rock the School",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Refugium Games"
-      ],
-      "publishers": [
-        "Refugium Games"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Relive your High School days in the town of Agefield. It’s the early 2000s, and graduation is on the horizon. REBEL with your friends, win over your dream girl and ROCK the school! A coming-of-age adv",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562580/a8e9cf70e0a843030ada838228d7414b90bdcdd3/header.jpg?t=1786276448",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3562580/"
-    },
-    {
-      "steam_rank": 19,
       "appid": 4216180,
       "name": "IGNOBLE",
       "release_date": "12 Aug, 2026",
@@ -483,6 +458,31 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/a63a3cc06582d10e1d527a6086c0cf43ec6bd1c0/header.jpg?t=1786515718",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4216180/"
+    },
+    {
+      "steam_rank": 19,
+      "appid": 3562580,
+      "name": "Agefield High: Rock the School",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "Refugium Games"
+      ],
+      "publishers": [
+        "Refugium Games"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Relive your High School days in the town of Agefield. It’s the early 2000s, and graduation is on the horizon. REBEL with your friends, win over your dream girl and ROCK the school! A coming-of-age adv",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562580/a8e9cf70e0a843030ada838228d7414b90bdcdd3/header.jpg?t=1786276448",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3562580/"
     },
     {
       "steam_rank": 20,
@@ -563,16 +563,6 @@
     },
     {
       "steam_rank": 26,
-      "appid": 4087250,
-      "name": "OOPS! Simulator",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4087250/"
-    },
-    {
-      "steam_rank": 27,
       "appid": 4361680,
       "name": "Home Store Simulator",
       "release_date": "12 Aug, 2026",
@@ -582,7 +572,7 @@
       "store_url": "https://store.steampowered.com/app/4361680/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 27,
       "appid": 4454000,
       "name": "Desperate Gambling",
       "release_date": "12 Aug, 2026",
@@ -592,7 +582,7 @@
       "store_url": "https://store.steampowered.com/app/4454000/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 28,
       "appid": 4456630,
       "name": "Incremental Fishing",
       "release_date": "12 Aug, 2026",
@@ -602,14 +592,24 @@
       "store_url": "https://store.steampowered.com/app/4456630/"
     },
     {
-      "steam_rank": 30,
-      "appid": 4883580,
-      "name": "The One Fish",
+      "steam_rank": 29,
+      "appid": 4087250,
+      "name": "OOPS! Simulator",
       "release_date": "12 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4883580/"
+      "store_url": "https://store.steampowered.com/app/4087250/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 4985210,
+      "name": "Storehand",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4985210/"
     },
     {
       "steam_rank": 5,
@@ -652,7 +652,7 @@
       "store_url": "https://store.steampowered.com/app/4108000/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 21,
       "appid": 4113940,
       "name": "Sovereign Tower",
       "release_date": "6 Aug, 2026",
@@ -672,7 +672,7 @@
       "store_url": "https://store.steampowered.com/app/4421010/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 28,
       "appid": 4450620,
       "name": "GRAIN ROT",
       "release_date": "7 Aug, 2026",
