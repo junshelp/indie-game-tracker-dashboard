@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-08-12T12:00:00.000Z",
+  "events": [
+    {
+      "date": "2026-08-12",
+      "type": "discovered",
+      "eventId": "evt-071",
+      "name": "Seoul Game Town 2026",
+      "detail": "신규 발견 (ririka_y_ 라운드업에서)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "confirmed",
+      "eventId": "evt-045",
+      "name": "CEDEC 2026",
+      "detail": "접수 기간 확정: 2026-05-01 ~ 2026-06-30",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "discovered",
+      "eventId": "evt-060",
+      "name": "TIGS 2026",
+      "detail": "신규 발견: 2026/3/20-21, Koenji IMAGINUS",
+      "country": "🇯🇵 일본"
+    }
+  ],
+  "totalTracked": 70
+}

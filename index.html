@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>인디게임 행사 트래커</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">🎮 Indie Game Event Tracker</p>
+        <h1>인디·서브컬처 게임 행사 대시보드</h1>
+      </div>
+      <div class="actions">
+        <span id="refreshTime" class="refresh-time">마지막 갱신: -</span>
+      </div>
+    </header>
+
+    <!-- Stats cards -->
+    <section class="stats-strip" id="statsCards" aria-label="통계 요약"></section>
+
+    <!-- Main content area -->
+    <div class="workspace">
+      <!-- Left: filters -->
+      <aside class="left-panel">
+        <h2>국가</h2>
+        <div id="countryFilters" class="filter-list"></div>
+
+        <h2>유형</h2>
+        <div id="typeFilters" class="filter-list"></div>
+
+        <h2>상태</h2>
+        <div class="status-toggles" id="statusToggles">
+          <label class="chip"><input type="checkbox" data-status="upcoming" checked> 예정</label>
+          <label class="chip"><input type="checkbox" data-status="past"> 종료</label>
+        </div>
+      </aside>
+
+      <!-- Right: event list -->
+      <section class="main-content">
+        <div class="main-tabs">
+          <button class="main-tab active" data-view="timeline">📅 타임라인</button>
+          <button class="main-tab" data-view="upcoming">⏰ 다가오는 행사</button>
+          <button class="main-tab" data-view="history">📋 변경 이력</button>
+        </div>
+
+        <div id="viewTimeline" class="view"></div>
+        <div id="viewUpcoming" class="view" style="display:none"></div>
+        <div id="viewHistory" class="view" style="display:none"></div>
+      </section>
+    </div>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
