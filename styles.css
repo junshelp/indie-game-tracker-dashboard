@@ -114,6 +114,18 @@ body {
 }
 .month-header .month-count { font-size: 0.8rem; color: var(--text3); font-weight: 400; }
 
+/* === Wishlist disclaimer banner === */
+.wishlist-banner {
+  background: var(--surface);
+  border: 1px solid var(--amber);
+  border-left: 4px solid var(--amber);
+  color: var(--text2);
+  font-size: 0.8rem;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  margin-bottom: 18px;
+}
+
 /* === Event Card === */
 .event-card {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);

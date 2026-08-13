@@ -27,9 +27,9 @@ const els = {
 async function init() {
   try {
     const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=3'),
-      fetch('./data/history.json?v=3'),
-      fetch('./data/summary.json?v=3'),
+      fetch('./data/data.json?v=4'),
+      fetch('./data/history.json?v=4'),
+      fetch('./data/summary.json?v=4'),
     ]);
     state.data = await dataRes.json();
     state.history = await historyRes.json();
@@ -353,8 +353,8 @@ const steamState = {
 async function loadSteamData() {
   try {
     const [dataRes, historyRes] = await Promise.all([
-      fetch('./data/steam/data.json?v=3'),
-      fetch('./data/steam/history.json?v=3'),
+      fetch('./data/steam/data.json?v=4'),
+      fetch('./data/steam/history.json?v=4'),
     ]);
     steamState.data = await dataRes.json();
     steamState.history = await historyRes.json();
@@ -398,6 +398,9 @@ function filteredSteamGames() {
       break;
     case 'steam_rank':
       games.sort((a, b) => (a.steam_rank || 999) - (b.steam_rank || 999));
+      break;
+    case 'wishlist':
+      games.sort((a, b) => (a.wishlist_rank || 9999) - (b.wishlist_rank || 9999));
       break;
     case 'smart':
     default:
@@ -443,6 +446,8 @@ function renderSteamView() {
   const released = games.filter(g => g.status === 'released');
   
   let html = '';
+  
+  html += `<div class="wishlist-banner">⭐ 위시리스트 순위는 Steam 'popularwishlist' 랭킹(상대 순위)입니다. 절대 위시리스트·팔로워 수치는 Steam이 공개하지 않아 제공하지 않습니다.</div>`;
   
   if (upcoming.length > 0) {
     html += `<div class="month-group">
@@ -496,8 +501,13 @@ function renderSteamCard(g) {
                       <div class="stat-label">추천</div>
                       ${reviewBadge}`;
   } else if (g.status === 'upcoming') {
-    engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)">#${g.steam_rank}</div>
-                      <div class="stat-label">Steam 인기 순위</div>`;
+    if (g.wishlist_rank) {
+      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:#e3b341">⭐ #${g.wishlist_rank}</div>
+                        <div class="stat-label">위시리스트 순위</div>`;
+    } else {
+      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)">#${g.steam_rank}</div>
+                        <div class="stat-label">출시 예정 순</div>`;
+    }
   }
   
   // Check if game is newly discovered (from history)
@@ -507,7 +517,7 @@ function renderSteamCard(g) {
   return `
     <div class="event-card ${isUpcoming ? '' : 'past'}">
       <div class="event-date" style="width:100px;">
-        <div class="date-month">#${g.steam_rank}</div>
+        <div class="date-month">#${g.wishlist_rank || g.steam_rank}</div>
         <div class="date-main" style="font-size:0.7rem;color:var(--${isUpcoming ? 'accent2' : 'text2'})">${isUpcoming ? '출시예정' : '출시일'}</div>
         <div style="font-size:0.65rem;color:var(--text3)">${escapeHtml(g.release_date || '미정').substring(0, 12)}</div>
       </div>
@@ -558,6 +568,7 @@ function renderSteamStats() {
   
   el.innerHTML = [
     { label: '트래킹 게임', value: s.total, cls: '' },
+    { label: '위시리스트 랭킹', value: s.wishlisted || 0, cls: 'amber' },
     { label: '출시 예정', value: s.upcoming, cls: 'green' },
     { label: '최근 출시', value: s.released, cls: 'accent' },
     { label: '무료 게임', value: s.free_games, cls: '' },
