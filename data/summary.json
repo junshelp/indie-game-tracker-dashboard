@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T12:00:00.000Z",
-  "kstDate": "2026-08-12",
+  "generatedAt": "2026-08-13T12:00:00.000Z",
+  "kstDate": "2026-08-13",
   "monthly": {
     "1월": {
       "total": 4,
@@ -424,10 +424,10 @@
       ]
     },
     "10월": {
-      "total": 7,
+      "total": 8,
       "byCountry": {
         "JP": 5,
-        "KR": 1,
+        "KR": 2,
         "TH": 1
       },
       "events": [
@@ -437,6 +437,13 @@
           "endDate": "2026-10-04",
           "type": "컨퍼런스",
           "country": "JP"
+        },
+        {
+          "name": "ALT+G (제2회)",
+          "startDate": "2026-10-09",
+          "endDate": "2026-10-09",
+          "type": "기타",
+          "country": "KR"
         },
         {
           "name": "대전콘텐츠페어 2026",

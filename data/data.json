@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T12:00:00.000Z",
+  "generatedAt": "2026-08-13T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -752,6 +752,21 @@
       "month": 10
     },
     {
+      "id": "evt-051",
+      "name": "ALT+G (제2회)",
+      "country": "🇰🇷 한국",
+      "countryCode": "KR",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "venue": "성수동 Platz2",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "8/11~23 (접수중)",
+      "url": "https://x.com/ALTG_OFFICIAL",
+      "status": "upcoming",
+      "month": 10
+    },
+    {
       "id": "evt-052",
       "name": "대전콘텐츠페어 2026",
       "country": "🇰🇷 한국",
@@ -1053,14 +1068,14 @@
     }
   ],
   "summary": {
-    "totalEvents": 70,
-    "upcomingEvents": 33,
+    "totalEvents": 71,
+    "upcomingEvents": 34,
     "pastEvents": 37,
     "upcoming30Days": 8,
     "byCountry": {
       "JP": 47,
       "ONLINE": 2,
-      "KR": 14,
+      "KR": 15,
       "CN": 5,
       "TH": 1,
       "OTHER": 1
@@ -1072,7 +1087,8 @@
       "마켓": 3,
       "컨퍼런스": 7,
       "동인": 4,
-      "게임잼": 1
+      "게임잼": 1,
+      "기타": 1
     },
     "byMonth": {
       "1": 4,
@@ -1084,11 +1100,11 @@
       "7": 10,
       "8": 11,
       "9": 5,
-      "10": 7,
+      "10": 8,
       "11": 7,
       "12": 7
     },
-    "submissionOpen": 41,
+    "submissionOpen": 42,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"

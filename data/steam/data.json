@@ -1,93 +1,132 @@
 {
-  "generatedAt": "2026-08-12T12:00:00.000Z",
+  "generatedAt": "2026-08-13T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
-      "appid": 5001100,
-      "name": "Da Bomb!",
+      "appid": 4931700,
+      "name": "Alien Siege: Earth",
       "release_date": "12 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "937 Games"
+        "Don'tSayGame"
       ],
       "publishers": [
-        "937 Games"
+        "Don'tSayGame"
       ],
       "genres": [
+        "Action",
         "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Discover the revival of Minesweeper. Da Bomb! twists the classic concept into an explosive 3D puzzle. Clear the grid across the surface of a cube, and test your reflexes in the innovative and addictiv",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001100/692279701a402b1424776af5c48012bc4f057894/header.jpg?t=1785958848",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5001100/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 4911030,
-      "name": "Tough Cat",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "86岁按时吃饭"
-      ],
-      "publishers": [
-        "86岁按时吃饭"
-      ],
-      "genres": [
-        "Adventure",
         "Indie"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "This is a survival shooter game where players must survive in a stationary shooting format. You can play effortlessly with only the mouse plus Q and W keys. You may enter the shop periodically to buy ",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911030/091a3a833e668db4c3b3ad63728ffe335051c592/header.jpg?t=1786407045",
+      "short_description": "Top-down arcade space shooter with retro pixel-art style. Fight waves of alien invaders across world landmarks, buy upgrades between battles, collect power ups, participate in events &amp; missions, d",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931700/3adf62a97e6bee90495635f02b74c68f6fe81603/header.jpg?t=1786577449",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4911030/"
+      "store_url": "https://store.steampowered.com/app/4931700/"
     },
     {
-      "steam_rank": 3,
-      "appid": 3893560,
-      "name": "Patisserie Simulator",
+      "steam_rank": 2,
+      "appid": 3180830,
+      "name": "Circuit Stance",
       "release_date": "12 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "Roasted Pepper"
+        "Fluffy Brown"
       ],
       "publishers": [
-        "Roasted Pepper"
+        "Anotherindie"
+      ],
+      "genres": [
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Circuit Stance is a turn-based strategy roguelike game. Players take on the role of a super AI, programming robot AI chips to craft unique strategies, competing in intense arena battles to secure reso",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180830/bcf7a7b93e46e0fccd4eb4b99d13c92c9dd05d40/header.jpg?t=1786011439",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3180830/"
+    },
+    {
+      "steam_rank": 3,
+      "appid": 4985510,
+      "name": "Path of Idle: Old Gods Rising - Supporter Pack",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4985510/"
+    },
+    {
+      "steam_rank": 4,
+      "appid": 4243990,
+      "name": "Path of Idle: Old Gods Rising",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "Small Mill",
+        "Small Mill"
+      ],
+      "publishers": [
+        "Small Mill",
+        "Small Mill"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A Lovecraftian idle RPG with auto-battles, loot farming, chests, team strategy, town building, gear crafting, Runewords, stages, towers, realms, and seasons. Serve the Old Gods, build your town, corru",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243990/f57865591fd6192077e1f0458d9b2a9454133df9/header.jpg?t=1786579153",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4243990/"
+    },
+    {
+      "steam_rank": 5,
+      "appid": 4967500,
+      "name": "Tidy Mart",
+      "release_date": "12 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "ShiningStarsTeam"
+      ],
+      "publishers": [
+        "ShiningStarsTeam"
       ],
       "genres": [
         "Casual",
         "Indie",
-        "Simulation",
-        "Early Access"
+        "Simulation"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Run your own cozy patisserie and grow your fortune! Serve coffee, fresh pastries, and orange juice to customers, unlock new recipes, and decorate your patisserie to make it more charming and profitabl",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893560/7115eb6a003a4aec4376af65f95a9704c23681fd/header.jpg?t=1785515667",
+      "short_description": "Tidy Mart is a cozy organizing game where you arrange hundreds of products across different stores, from a small corner shop to a sprawling supermarket. No time limits. No rushing customers. Sit back,",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967500/f91b5a01743bda87e16c83a5cf27ef68b428aa72/header.jpg?t=1786086845",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3893560/"
+      "store_url": "https://store.steampowered.com/app/4967500/"
     },
     {
-      "steam_rank": 4,
-      "appid": 4621690,
-      "name": "Quantum Hell",
-      "release_date": "12 Aug, 2026",
+      "steam_rank": 6,
+      "appid": 2871010,
+      "name": "VanySlash",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "LUO BIN STUDIO"
+        "Atelier Delion"
       ],
       "publishers": [
-        "LUO BIN STUDIO"
+        "Atelier Delion"
       ],
       "genres": [
         "Action",
@@ -95,47 +134,98 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Take on the role of a journalist trapped in a ruthless quantum universe where you'll need a diverse arsenal and the manipulation of quantum physics to survive and progress. Quick thinking, speed, and ",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621690/d983e2e7f238e58342860fcf52f9e3bdd167de9a/header.jpg?t=1785510269",
+      "short_description": "Heroine, a close-combat magic-user, and her partner, an axe to fight and collect magical Tools!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871010/header.jpg?t=1784636056",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4621690/"
+      "store_url": "https://store.steampowered.com/app/2871010/"
     },
     {
-      "steam_rank": 5,
-      "appid": 3829280,
-      "name": "The Merchant's Eden",
-      "release_date": "12 Aug, 2026",
+      "steam_rank": 7,
+      "appid": 4622790,
+      "name": "Pin Money",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "Norse Sea Studio"
+        "thirtysmooth"
       ],
       "publishers": [
-        "Norse Sea Studio"
+        "thirtysmooth"
       ],
       "genres": [
         "Casual",
         "Indie",
+        "Simulation",
+        "Sports"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Turn a rundown neon bowling alley into a billion-dollar strike empire. Stack absurd multipliers, unlock powerful upgrades, expand to 7 simultaneous lanes, and break the economy in this incremental idl",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622790/0f21fb4a3a23a8ba449892c6fd59f4836e2d7541/header.jpg?t=1786193666",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4622790/"
+    },
+    {
+      "steam_rank": 8,
+      "appid": 4719460,
+      "name": "Amlebic",
+      "release_date": "13 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "Mad Turtle Studios"
+      ],
+      "publishers": [
+        "Mad Turtle Studios"
+      ],
+      "genres": [
+        "Casual",
         "Strategy"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Build a medieval town around a thriving market. Defend your citizens and traveling merchants against raiding bandits. A minimalist game blending cozy city-building and intense tower-defense as you gro",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3829280/2eb4784ba34e4885d122ac4196dce331c3ee0faf/header.jpg?t=1785501792",
+      "short_description": "Amlebic is a alchemy deckbuilder. Lay elemental reagents on the great circle, chain resonance and reaction, and multiply essence by catalyst to beat the yield. Collect sigils, master the tension, and ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719460/1f789125dd45c639270e69ec421b95196529f572/header.jpg?t=1786254887",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3829280/"
+      "store_url": "https://store.steampowered.com/app/4719460/"
     },
     {
-      "steam_rank": 6,
-      "appid": 4962110,
-      "name": "Bloomvale: Bouquets &amp; Scents Demo",
-      "release_date": "12 Aug, 2026",
+      "steam_rank": 9,
+      "appid": 4860340,
+      "name": "Dream House Cleaning",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "AM Playhouse"
+        "ONLYGAMES S.R.L."
       ],
       "publishers": [
+        "ONLYGAMES S.R.L."
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Bring forgotten places back to life in a cozy cleaning and restoration game! Clean dirt and trash, repair damaged areas, decorate interiors with furniture, and enjoy a relaxing experience at your own ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860340/992d309b682c8ab0440211ced692f7e10d80f253/header.jpg?t=1785334374",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4860340/"
+    },
+    {
+      "steam_rank": 10,
+      "appid": 3787060,
+      "name": "It Works: Electronics Repair Simulator Demo",
+      "release_date": "13 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "Games Incubator"
+      ],
+      "publishers": [
+        "Games Incubator",
         "PlayWay S.A."
       ],
       "genres": [
@@ -145,47 +235,23 @@
       ],
       "is_free": true,
       "coming_soon": true,
-      "short_description": "This is a Demo Version of Bloomvale: Bouquets &amp; Scents, a cozy 2D game where you grow flowers, craft beautiful bouquets, and blend fragrant perfumes for your customers. A relaxing experience focus",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962110/f496c35edbab17849f72eece5e83fee1365ec3ca/header.jpg?t=1786359472",
+      "short_description": "Step into the shoes of an electronics technician and repair damaged devices: receivers, phones, speakers, and more. Solder, diagnose, replace components, earn money, and grow your workshop!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787060/dab097f4a758042879548bc53e06832fa06300db/header.jpg?t=1785959503",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4962110/"
+      "store_url": "https://store.steampowered.com/app/3787060/"
     },
     {
-      "steam_rank": 7,
-      "appid": 4760390,
-      "name": "ABSOLUTE TOFU",
-      "release_date": "12 Aug, 2026",
+      "steam_rank": 11,
+      "appid": 3967760,
+      "name": "纵横麻将 Matrix Mahjong",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "minufy"
+        "Chao8games"
       ],
       "publishers": [
-        "minufy"
-      ],
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "ABSOLUTE TOFU is a one-button platformer.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760390/0b70275477f0a063516781f03632db563ef360e5/header.jpg?t=1784640908",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4760390/"
-    },
-    {
-      "steam_rank": 8,
-      "appid": 4370480,
-      "name": "Burnstation",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Klafti Studio"
-      ],
-      "publishers": [
-        "Klafti Studio"
+        "Chao8games"
       ],
       "genres": [
         "Casual",
@@ -194,390 +260,230 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Deck-burning. Score-chasing. Roguelike in stile plinko. Compra cartucce retrò in un mondo cyberpunk, accumula un’enorme quantità di punti e spingi la Burnstation oltre i suoi limiti!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370480/b0696459264c2ddafb9b42d411ecd895e8763a03/header.jpg?t=1785172252",
+      "short_description": "No Mahjong experience needed! A strategy card game focused on crafting Hu (winning hands). Easier to Hu, but takes deeper strategy. Form melds on a grid, and use items to complete Hu with multiple Faa",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967760/aea21c4f8dc497197ca28d1c563e2dea80d8f6bc/header.jpg?t=1786575715",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4370480/"
+      "store_url": "https://store.steampowered.com/app/3967760/"
     },
     {
-      "steam_rank": 9,
-      "appid": 4413460,
-      "name": "Airport Manager Simulator 2026",
-      "release_date": "12 Aug, 2026",
+      "steam_rank": 12,
+      "appid": 4829490,
+      "name": "The Finest Spark",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "IORDER "
+        "Crossheart"
       ],
       "publishers": [
-        "IORDER "
+        "Crossheart"
       ],
       "genres": [
-        "Casual",
+        "Action",
         "Indie",
-        "RPG",
         "Simulation",
         "Early Access"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Take full control of a busy international airport. Manage passengers, baggage, aircraft servicing, and flight schedules while operating real ground equipment. Balance efficiency, safety, and satisfact",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413460/5bcf88040ea6c0ee0dfa40a4573b222b6869e399/header.jpg?t=1784791468",
+      "short_description": "/You are the captain! Pull yourself together and get us out of here... sir!/ — gather EXPARTS, advance weapons, master space flight, and rain metal onto your enemies in this physics-driven space sim r",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829490/0c338b2c871fe7c14c7fe29f681fbc17569a240a/header.jpg?t=1786561752",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4413460/"
-    },
-    {
-      "steam_rank": 10,
-      "appid": 4585070,
-      "name": "Boil Cabbage Make Soup",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Valorware"
-      ],
-      "publishers": [
-        "Valorware"
-      ],
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A cosy idler starring an Onion who makes soup anywhere on your desktop! Watch him grow and harvest cabbages to make delicious soup for a cast of colourful customers. Decorate your island and customise",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585070/222502d3777418b8ebcf2f52226a39ce06e4f41b/header.jpg?t=1785955002",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4585070/"
-    },
-    {
-      "steam_rank": 11,
-      "appid": 4988320,
-      "name": "Renz Village Adventure",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Logan Renz"
-      ],
-      "publishers": [
-        "Renz Studios"
-      ],
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie",
-        "RPG",
-        "Simulation",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "An idle village simulation RPG where you build a thriving town, recruit unique heroes, send adventurers into dangerous dungeons, and watch your village grow into a legendary kingdom.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988320/d50cbc078c4e39e13043c3e32c7f7682560db3ba/header.jpg?t=1785703557",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4988320/"
-    },
-    {
-      "steam_rank": 12,
-      "appid": 4664900,
-      "name": "Sunder Siege",
-      "release_date": "12 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Wise and Wild"
-      ],
-      "publishers": [
-        "Wise and Wild"
-      ],
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie",
-        "Simulation",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A short incremental physics game. Swing a wrecking ball to smash monsters before they reach your home! Upgrade your ball and your home for more smashy goodness!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664900/a39e67d570d1de08fee9026d0e713f3aefaeb877/header.jpg?t=1784129481",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4664900/"
+      "store_url": "https://store.steampowered.com/app/4829490/"
     },
     {
       "steam_rank": 13,
-      "appid": 3860450,
-      "name": "No Knock",
-      "release_date": "12 Aug, 2026",
+      "appid": 4658000,
+      "name": "The Derailed: Devour the Harvest Demo",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "No Knock"
+        "Deformed Dreams Studio"
       ],
       "publishers": [
-        "Cheesecake Dev"
+        "Deformed Dreams Studio"
       ],
       "genres": [
-        "Indie",
-        "Simulation"
+        "Adventure",
+        "Indie"
       ],
-      "is_free": false,
+      "is_free": true,
       "coming_soon": true,
-      "short_description": "Break in through the back door, think like a thief, win with theft. Bypass the locks, steal everything, and disappear without a trace! Begin in the gutter, end with the crown — steal your way to the t",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860450/8bd046facb21e28d603495c4ce475470efe48502/header.jpg?t=1785994090",
+      "short_description": "The Derailed: Devour the Harvest DEMO - a standalone story set in the world of The Derailed. While investigating a mass disappearance, you find yourself at an abandoned factory. Answers lie within - b",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658000/94a82531b8ea843a22590bbdf6654aaf2eaf9cb4/header.jpg?t=1785701896",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3860450/"
+      "store_url": "https://store.steampowered.com/app/4658000/"
     },
     {
       "steam_rank": 14,
-      "appid": 4356400,
-      "name": "Greedy Greedy Gnomes",
-      "release_date": "12 Aug, 2026",
+      "appid": 3904880,
+      "name": "DIY Store Simulator (Demo)",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Nautlander"
-      ],
-      "publishers": [
-        "Future Friends Games"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "RPG"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A short incremental game set in a sleepy RPG town. Smash pots, recruit gnomes, raid mines, unlock upgrades, and optimize everything until you’re FILTHY STINKING RICH!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356400/f4935636d8bf9187d168a9b5897cdb39525248c1/header.jpg?t=1785929142",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4356400/"
+      "store_url": "https://store.steampowered.com/app/3904880/"
     },
     {
       "steam_rank": 15,
-      "appid": 3164310,
-      "name": "Verde ",
-      "release_date": "12 Aug, 2026",
+      "appid": 3636770,
+      "name": "Servant of the Lake",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Antimeta Studio"
-      ],
-      "publishers": [
-        "Assemble Entertainment"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Build a small town of seedlets, mysterious seed like creatures in this cozy city builder. Build facilities, put up decorations, and help the seedlets thrive!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164310/3c5a34ecbdb1e8bdd0585432c8ec1710f179149a/header_alt_assets_0.jpg?t=1786441244",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3164310/"
+      "store_url": "https://store.steampowered.com/app/3636770/"
     },
     {
       "steam_rank": 16,
-      "appid": 4763670,
-      "name": "G.O.D. Global Orbital Defense",
-      "release_date": "12 Aug, 2026",
+      "appid": 5009510,
+      "name": "Aquasushi Cat",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Nicola Conte"
-      ],
-      "publishers": [
-        "Nicola Conte"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "Simulation",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Take control of the G.O.D. system, the U.P.A.’s tactical satellite. Orbiting in silence above Vel’Aris, your mission is to protect the planet from every threat. Manage orbital fire. But remember: G.O.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763670/6e4267e59148705b33355c96b3265b30963076bf/header.jpg?t=1785925801",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4763670/"
+      "store_url": "https://store.steampowered.com/app/5009510/"
     },
     {
       "steam_rank": 17,
-      "appid": 4565490,
-      "name": "mhas dungeon sweeper",
-      "release_date": "12 Aug, 2026",
+      "appid": 3881960,
+      "name": "The Box of Fear",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "tchevin"
-      ],
-      "publishers": [
-        "tchevin"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Explore the dungeon in this roguelike twist on Minesweeper, where monsters replace mines. Defeat increasingly powerful enemies to vanquish the Reaper. Read the situation. Watch their behavior. Use you",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565490/3e644d3d325a5d26a155745b3b664e3380266e49/header.jpg?t=1786369743",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4565490/"
+      "store_url": "https://store.steampowered.com/app/3881960/"
     },
     {
       "steam_rank": 18,
-      "appid": 4216180,
-      "name": "IGNOBLE",
-      "release_date": "12 Aug, 2026",
+      "appid": 4692610,
+      "name": "Hellforged Demo",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "developers": [
-        "Retromagine"
-      ],
-      "publishers": [
-        "Retromagine",
-        "Gamersky Games"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Simulation",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Destroy enemies and harvest blood, bones, and marrow to grow stronger, unlock forbidden skills, and wipe out the Ignoble tyrants who dare threaten your master.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/a63a3cc06582d10e1d527a6086c0cf43ec6bd1c0/header.jpg?t=1786515718",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4216180/"
+      "store_url": "https://store.steampowered.com/app/4692610/"
     },
     {
       "steam_rank": 19,
-      "appid": 3562580,
-      "name": "Agefield High: Rock the School",
-      "release_date": "12 Aug, 2026",
+      "appid": 4867810,
+      "name": "Spear Of The Sky Supporter Edition",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3562580/"
+      "store_url": "https://store.steampowered.com/app/4867810/"
     },
     {
       "steam_rank": 20,
-      "appid": 3004390,
-      "name": "The Cave Diver",
-      "release_date": "12 Aug, 2026",
+      "appid": 4642840,
+      "name": "Spear of the Sky",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3004390/"
+      "store_url": "https://store.steampowered.com/app/4642840/"
     },
     {
       "steam_rank": 21,
-      "appid": 4839160,
-      "name": "Copter Dude",
-      "release_date": "12 Aug, 2026",
+      "appid": 4953970,
+      "name": "xvorogue",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4839160/"
+      "store_url": "https://store.steampowered.com/app/4953970/"
     },
     {
       "steam_rank": 22,
-      "appid": 4869410,
-      "name": "How Many Calories Are In A Muffin?",
-      "release_date": "12 Aug, 2026",
+      "appid": 4704270,
+      "name": "Roadhouse Simulator Demo",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4869410/"
+      "store_url": "https://store.steampowered.com/app/4704270/"
     },
     {
       "steam_rank": 23,
-      "appid": 4380980,
-      "name": "N.I.V.O",
-      "release_date": "12 Aug, 2026",
+      "appid": 5008870,
+      "name": "Medieval Travelling Merchant",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4380980/"
+      "store_url": "https://store.steampowered.com/app/5008870/"
     },
     {
       "steam_rank": 24,
-      "appid": 4825420,
-      "name": "Frost-Buried Truth",
-      "release_date": "12 Aug, 2026",
+      "appid": 3962460,
+      "name": "THE CANON OF BALLS",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4825420/"
+      "store_url": "https://store.steampowered.com/app/3962460/"
     },
     {
       "steam_rank": 25,
-      "appid": 4087250,
-      "name": "OOPS! Simulator",
-      "release_date": "12 Aug, 2026",
+      "appid": 3431400,
+      "name": "Crimson Covenant",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4087250/"
+      "store_url": "https://store.steampowered.com/app/3431400/"
     },
     {
       "steam_rank": 26,
-      "appid": 4985210,
-      "name": "Storehand",
-      "release_date": "12 Aug, 2026",
+      "appid": 4688770,
+      "name": "Choice of Life: Floors - Wallpapers",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4985210/"
+      "store_url": "https://store.steampowered.com/app/4688770/"
     },
     {
       "steam_rank": 27,
-      "appid": 3878620,
-      "name": "Red Tape Rampage",
-      "release_date": "12 Aug, 2026",
+      "appid": 5007880,
+      "name": "One More Byte",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3878620/"
+      "store_url": "https://store.steampowered.com/app/5007880/"
     },
     {
       "steam_rank": 28,
-      "appid": 4361680,
-      "name": "Home Store Simulator",
-      "release_date": "12 Aug, 2026",
+      "appid": 5027790,
+      "name": "Colorful Boi 2 Demo",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4361680/"
+      "store_url": "https://store.steampowered.com/app/5027790/"
     },
     {
       "steam_rank": 29,
-      "appid": 4454000,
-      "name": "Desperate Gambling",
-      "release_date": "12 Aug, 2026",
+      "appid": 4224220,
+      "name": "Skatesterre",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4454000/"
+      "store_url": "https://store.steampowered.com/app/4224220/"
     },
     {
       "steam_rank": 30,
-      "appid": 4456630,
-      "name": "Incremental Fishing",
-      "release_date": "12 Aug, 2026",
+      "appid": 3809640,
+      "name": "999 Hidden Cats: Brazil Together",
+      "release_date": "13 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4456630/"
+      "store_url": "https://store.steampowered.com/app/3809640/"
     },
     {
       "steam_rank": 5,
@@ -600,7 +506,7 @@
       "coming_soon": false,
       "short_description": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customer",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c07daeca18353c666d51462d2e69c30ec68094ad/header_alt_assets_3.jpg?t=1786119982",
-      "recommendations": 4100,
+      "recommendations": 4420,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3812600/"
     },
@@ -627,8 +533,8 @@
       "is_free": false,
       "coming_soon": false,
       "short_description": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics,",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1786366652",
-      "recommendations": 7203,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1786529110",
+      "recommendations": 7761,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2950790/"
     },
@@ -655,7 +561,7 @@
       "coming_soon": false,
       "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep you",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1786421771",
-      "recommendations": 8392,
+      "recommendations": 8538,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2436940/"
     },
@@ -680,13 +586,13 @@
       "is_free": false,
       "coming_soon": false,
       "short_description": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
-      "recommendations": 2634,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+      "recommendations": 2718,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4108000/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 22,
       "appid": 4113940,
       "name": "Sovereign Tower",
       "release_date": "6 Aug, 2026",
@@ -706,12 +612,12 @@
       "coming_soon": false,
       "short_description": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1786457942",
-      "recommendations": 1161,
+      "recommendations": 1249,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4113940/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 23,
       "appid": 4421010,
       "name": "Bills Must Be Paid",
       "release_date": "29 Jul, 2026",
@@ -734,12 +640,12 @@
       "coming_soon": false,
       "short_description": "You're broke, smash piggy banks, bills must be paid. A short active incremental game. Get money, upgrade, and get debt free!",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1786185422",
-      "recommendations": 6314,
+      "recommendations": 6471,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4421010/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 26,
       "appid": 4450620,
       "name": "GRAIN ROT",
       "release_date": "7 Aug, 2026",
@@ -760,57 +666,57 @@
       "coming_soon": false,
       "short_description": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
-      "recommendations": 859,
+      "recommendations": 928,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4450620/"
     }
   ],
   "summary": {
     "total": 37,
-    "free_games": 1,
+    "free_games": 2,
     "released": 7,
     "upcoming": 30,
     "top_genres": [
       [
         "Indie",
-        25
+        18
       ],
       [
         "Casual",
-        15
+        9
       ],
       [
         "Simulation",
-        13
+        9
       ],
       [
         "Action",
-        10
+        8
       ],
       [
         "Strategy",
-        9
+        5
       ]
     ],
     "top_developers": [
       [
-        "937 Games",
+        "Small Mill",
+        2
+      ],
+      [
+        "Don'tSayGame",
         1
       ],
       [
-        "86岁按时吃饭",
+        "Fluffy Brown",
         1
       ],
       [
-        "Roasted Pepper",
+        "ShiningStarsTeam",
         1
       ],
       [
-        "LUO BIN STUDIO",
-        1
-      ],
-      [
-        "Norse Sea Studio",
+        "Atelier Delion",
         1
       ]
     ]
