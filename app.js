@@ -76,6 +76,21 @@ function formatDateRange(start, end) {
   return `${sStr}-${eStr}`;
 }
 
+function timeAgo(isoStr) {
+  if (!isoStr) return '';
+  try {
+    const diff = Date.now() - new Date(isoStr).getTime();
+    if (diff < 0) return '방금 전';
+    const mins = Math.floor(diff / 60000);
+    if (mins < 1) return '방금 전';
+    if (mins < 60) return `${mins}분 전`;
+    const hrs = Math.floor(mins / 60);
+    if (hrs < 24) return `${hrs}시간 전`;
+    const days = Math.floor(hrs / 24);
+    return `${days}일 전`;
+  } catch { return ''; }
+}
+
 // === Render ===
 function render() {
   renderStats();
@@ -434,45 +449,58 @@ function filteredSteamGames() {
 }
 
 // === Steam: Render ===
+function buildRankChangeMap() {
+  const map = {};
+  (steamState.history?.changes || []).forEach(c => {
+    if (c.type === 'rank_change' && c.appid != null && !map[c.appid]) {
+      map[c.appid] = c;
+    }
+  });
+  return map;
+}
+
 function renderSteamView() {
   const games = filteredSteamGames();
   if (!games.length) {
     document.querySelector('#viewSteam').innerHTML = '<div class="empty-state"><div class="empty-icon">🎮</div>데이터가 없습니다</div>';
     return;
   }
-  
+
+  const rankChangeMap = buildRankChangeMap();
+
   // Group by status
   const upcoming = games.filter(g => g.status === 'upcoming');
   const released = games.filter(g => g.status === 'released');
-  
+
   let html = '';
-  
+
   html += `<div class="wishlist-banner">⭐ 위시리스트 순위는 Steam 'popularwishlist' 랭킹(상대 순위)입니다. 절대 위시리스트·팔로워 수치는 Steam이 공개하지 않아 제공하지 않습니다.</div>`;
-  
+  html += `<div style="font-size:0.75rem;color:var(--text3);margin:6px 2px;">🕒 Steam 데이터 수집: ${timeAgo(steamState.data?.generatedAt) || '—'} &nbsp;·&nbsp; ▲▼ = 직전 수집 대비 랭킹 변동</div>`;
+
   if (upcoming.length > 0) {
     html += `<div class="month-group">
       <div class="month-header">
         <span>🆕 출시 예정</span>
         <span class="month-count">${upcoming.length}개</span>
       </div>
-      ${upcoming.map(g => renderSteamCard(g)).join('')}
+      ${upcoming.map(g => renderSteamCard(g, rankChangeMap)).join('')}
     </div>`;
   }
-  
+
   if (released.length > 0) {
     html += `<div class="month-group">
       <div class="month-header">
         <span>✅ 최근 출시</span>
         <span class="month-count">${released.length}개</span>
       </div>
-      ${released.map(g => renderSteamCard(g)).join('')}
+      ${released.map(g => renderSteamCard(g, rankChangeMap)).join('')}
     </div>`;
   }
-  
+
   document.querySelector('#viewSteam').innerHTML = html;
 }
 
-function renderSteamCard(g) {
+function renderSteamCard(g, rankChangeMap = {}) {
   const genres = (g.genres || []).slice(0, 3).map(genre => 
     `<span class="badge badge-expo">${escapeHtml(genre)}</span>`
   ).join(' ');
@@ -501,11 +529,20 @@ function renderSteamCard(g) {
                       <div class="stat-label">추천</div>
                       ${reviewBadge}`;
   } else if (g.status === 'upcoming') {
+    const rc = rankChangeMap[g.appid];
+    let trendHTML = '';
+    if (rc) {
+      const m = (rc.detail || '').match(/\(([↑↓])(\d+)\)/);
+      if (m) {
+        const up = m[1] === '↑';
+        trendHTML = ` <span style="font-size:0.68rem;color:${up ? '#3fb950' : '#f85149'}" title="직전 수집 대비 위시리스트 랭킹 ${up ? '상승' : '하락'} ${m[2]}계단">${m[1]}${m[2]}</span>`;
+      }
+    }
     if (g.wishlist_rank) {
-      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:#e3b341">⭐ #${g.wishlist_rank}</div>
-                        <div class="stat-label">위시리스트 순위</div>`;
+      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:#e3b341" title="위시리스트 상대 순위(팔로워 수 아님) — Steam popularwishlist 랭킹 기준">⭐ #${g.wishlist_rank}${trendHTML}</div>
+                        <div class="stat-label">위시리스트 상대순위</div>`;
     } else {
-      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)">#${g.steam_rank}</div>
+      engagementHTML = `<div class="stat-value" style="font-size:1.2rem;color:var(--accent2)" title="출시 예정 목록 내 상대 순서(날짜순, 위시리스트 랭킹 미포함)">#${g.steam_rank}</div>
                         <div class="stat-label">출시 예정 순</div>`;
     }
   }
