@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T12:00:00.000Z",
-  "kstDate": "2026-08-13",
+  "generatedAt": "2026-08-14T12:00:00.000Z",
+  "kstDate": "2026-08-14",
   "monthly": {
     "1월": {
       "total": 4,
@@ -609,10 +609,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 1,
+    "newDiscoveries": 0,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 1,
+    "totalChanges": 0,
     "note": ""
   }
 }
