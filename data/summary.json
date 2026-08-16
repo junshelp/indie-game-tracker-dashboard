@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T12:00:00.000Z",
-  "kstDate": "2026-08-15",
+  "generatedAt": "2026-08-16T12:00:00.000Z",
+  "kstDate": "2026-08-16",
   "monthly": {
     "1월": {
       "total": 4,
@@ -39,9 +39,10 @@
       ]
     },
     "2월": {
-      "total": 3,
+      "total": 5,
       "byCountry": {
-        "JP": 3
+        "JP": 4,
+        "KR": 1
       },
       "events": [
         {
@@ -52,11 +53,25 @@
           "country": "JP"
         },
         {
+          "name": "東京ゲームダンジョン11",
+          "startDate": "2026-02-08",
+          "endDate": "2026-02-08",
+          "type": "전시회",
+          "country": "JP"
+        },
+        {
           "name": "ゲームクリエイター甲子園 × 神ゲー創造主エボリューション",
           "startDate": "2026-02-11",
           "endDate": "2026-02-11",
           "type": "공모전",
           "country": "JP"
+        },
+        {
+          "name": "ILLUSTAR FES 10 (겨울)",
+          "startDate": "2026-02-21",
+          "endDate": "2026-02-22",
+          "type": "페스티벌",
+          "country": "KR"
         },
         {
           "name": "そうさくマーケット2",
@@ -68,9 +83,9 @@
       ]
     },
     "3월": {
-      "total": 4,
+      "total": 5,
       "byCountry": {
-        "JP": 4
+        "JP": 5
       },
       "events": [
         {
@@ -85,6 +100,13 @@
           "startDate": "2026-03-20",
           "endDate": "2026-03-21",
           "type": "컨퍼런스",
+          "country": "JP"
+        },
+        {
+          "name": "GEIDAI GAMES 07 東京藝術大学 게임코스展",
+          "startDate": "2026-03-20",
+          "endDate": "2026-03-22",
+          "type": "기타",
           "country": "JP"
         },
         {
@@ -104,9 +126,10 @@
       ]
     },
     "4월": {
-      "total": 1,
+      "total": 2,
       "byCountry": {
-        "ONLINE": 1
+        "ONLINE": 1,
+        "JP": 1
       },
       "events": [
         {
@@ -115,13 +138,20 @@
           "endDate": "2026-04-25",
           "type": "전시회",
           "country": "ONLINE"
+        },
+        {
+          "name": "ぶらり川越 GAME DIGG2",
+          "startDate": "2026-04-25",
+          "endDate": "2026-04-25",
+          "type": "기타",
+          "country": "JP"
         }
       ]
     },
     "5월": {
-      "total": 4,
+      "total": 5,
       "byCountry": {
-        "JP": 2,
+        "JP": 3,
         "KR": 2
       },
       "events": [
@@ -130,6 +160,13 @@
           "startDate": "2026-05-02",
           "endDate": "2026-05-02",
           "type": "컨퍼런스",
+          "country": "JP"
+        },
+        {
+          "name": "東京ゲームダンジョン12",
+          "startDate": "2026-05-03",
+          "endDate": "2026-05-03",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -156,10 +193,10 @@
       ]
     },
     "6월": {
-      "total": 7,
+      "total": 8,
       "byCountry": {
         "KR": 3,
-        "JP": 4
+        "JP": 5
       },
       "events": [
         {
@@ -181,6 +218,13 @@
           "startDate": "2026-06-07",
           "endDate": "2026-06-07",
           "type": "동인",
+          "country": "JP"
+        },
+        {
+          "name": "SAPPORO GAME ODYSSEY",
+          "startDate": "2026-06-07",
+          "endDate": "2026-06-07",
+          "type": "기타",
           "country": "JP"
         },
         {
@@ -609,10 +653,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 6,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 0,
+    "totalChanges": 6,
     "note": ""
   }
 }

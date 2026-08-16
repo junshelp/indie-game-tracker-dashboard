@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-15T12:00:00.000Z",
+  "updatedAt": "2026-08-16T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-005",
+      "name": "東京ゲームダンジョン11",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-007",
+      "name": "ILLUSTAR FES 10 (겨울)",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-010",
+      "name": "GEIDAI GAMES 07 東京藝術大学 게임코스展",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-015",
+      "name": "ぶらり川越 GAME DIGG2",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-020",
+      "name": "東京ゲームダンジョン12",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "discovered",
+      "eventId": "evt-024",
+      "name": "SAPPORO GAME ODYSSEY",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-08-13",
       "type": "discovered",
@@ -34,5 +82,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 71
+  "totalTracked": 77
 }

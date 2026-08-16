@@ -1,6 +1,272 @@
 {
-  "updatedAt": "2026-08-15T12:00:00.000Z",
+  "updatedAt": "2026-08-16T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 5026560,
+      "name": "Worm In Rotating Land",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 4955650,
+      "name": "Infinite Number Factory",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 3598690,
+      "name": "Pachinko Farm",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 3147720,
+      "name": "Dual Cat: Max",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 4939310,
+      "name": "Plonkers - totally bonkers plinko",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 4595310,
+      "name": "Platon³",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 5011090,
+      "name": "Hacker vs IT",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "new_entry",
+      "appid": 4450620,
+      "name": "GRAIN ROT",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 3816000,
+      "name": "Flowers and Deities",
+      "detail": "Top 67에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 5044420,
+      "name": "KingLike",
+      "detail": "Top 67에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 3248200,
+      "name": "Witchpop",
+      "detail": "Top 67에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 4831310,
+      "name": "Karma Kingdom",
+      "detail": "Top 67에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 4421010,
+      "name": "Bills Must Be Paid",
+      "detail": "Top 67에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 4957620,
+      "name": "Thermal Runaway",
+      "detail": "Top 67에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 4240150,
+      "name": "Sister Other Paranoia",
+      "detail": "Top 67에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "dropped",
+      "appid": 4952120,
+      "name": "Deeds were Done 2: Project Ascend",
+      "detail": "Top 67에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4143360,
+      "name": "PILLARS OF DESPAIR - Mission Valoria",
+      "detail": "랭크 변동: #11 → #5 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4382980,
+      "name": "演义三国",
+      "detail": "랭크 변동: #15 → #9 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4935320,
+      "name": "MODIFY",
+      "detail": "랭크 변동: #17 → #11 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4880670,
+      "name": "PuruPuru: Pull It Along",
+      "detail": "랭크 변동: #8 → #1 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4845230,
+      "name": "Spinebreaker",
+      "detail": "랭크 변동: #30 → #23 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4926770,
+      "name": "Guardian of soul tower",
+      "detail": "랭크 변동: #16 → #10 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5073330,
+      "name": "FAIL GAMES Demo",
+      "detail": "랭크 변동: #23 → #16 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5015990,
+      "name": "GameOverd",
+      "detail": "랭크 변동: #27 → #20 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 3732030,
+      "name": "Palianytsia",
+      "detail": "랭크 변동: #22 → #14 (↑8)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4985670,
+      "name": "Chained Horror Experiences ～AT THE THE CATTY PARK～",
+      "detail": "랭크 변동: #12 → #6 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4968140,
+      "name": "Lunch Break Dodgeball",
+      "detail": "랭크 변동: #10 → #4 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4342860,
+      "name": "Stellar Freight: Endless Horizon Demo",
+      "detail": "랭크 변동: #29 → #22 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5019600,
+      "name": "Battle Of Plans",
+      "detail": "랭크 변동: #18 → #12 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4881490,
+      "name": "FinSim",
+      "detail": "랭크 변동: #19 → #13 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4981470,
+      "name": "Asobutsuri",
+      "detail": "랭크 변동: #7 → #2 (↑5)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4579940,
+      "name": "Crownhold",
+      "detail": "랭크 변동: #14 → #7 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5013860,
+      "name": "Bacteria Buster",
+      "detail": "랭크 변동: #25 → #19 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4960760,
+      "name": "Cat Girl Survivor - New Character &quot;Emer&quot;",
+      "detail": "랭크 변동: #9 → #3 (↑6)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4915190,
+      "name": "Kingdom of the Beast: CAT",
+      "detail": "랭크 변동: #13 → #8 (↑5)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 4135030,
+      "name": "Catfall Demo",
+      "detail": "랭크 변동: #20 → #15 (↑5)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5014260,
+      "name": "Is That a Human Organ?",
+      "detail": "랭크 변동: #28 → #21 (↑7)"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "rank_change",
+      "appid": 5052540,
+      "name": "Death by Taxes Demo",
+      "detail": "랭크 변동: #24 → #18 (↑6)"
+    },
     {
       "date": "2026-08-15",
       "type": "new_entry",
