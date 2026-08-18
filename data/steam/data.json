@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:00:00.000Z",
+  "generatedAt": "2026-08-18T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -326,6 +326,24 @@
       "review_summary": "",
       "wishlist_rank": 13,
       "source": "top_wishlisted",
+      "developers": [
+        "Wingeon Game Studios LLC"
+      ],
+      "publishers": [
+        "Wingeon Game Studios LLC"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+      ],
+      "is_free": true,
+      "coming_soon": true,
+      "short_description": "Drakantos is a free-to-play MMORPG with a nostalgic pixel art style, combined with exciting action combat and more than 20 unique playable heroes.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454980/header.jpg?t=1785521350",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2454980/"
     },
@@ -518,306 +536,333 @@
     },
     {
       "steam_rank": 1,
-      "appid": 4382980,
-      "name": "演义三国",
-      "release_date": "16 Aug, 2026",
+      "appid": 4412960,
+      "name": "光与影之恋 Chiaroscuro Lovers",
+      "release_date": "17 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4382980/"
+      "store_url": "https://store.steampowered.com/app/4412960/"
     },
     {
       "steam_rank": 2,
-      "appid": 4926770,
-      "name": "Guardian of soul tower",
-      "release_date": "16 Aug, 2026",
+      "appid": 4951180,
+      "name": "Avalon Gates: 1 Million D",
+      "release_date": "17 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4926770/"
+      "store_url": "https://store.steampowered.com/app/4951180/"
     },
     {
       "steam_rank": 3,
-      "appid": 4935320,
-      "name": "MODIFY",
-      "release_date": "16 Aug, 2026",
+      "appid": 4846800,
+      "name": "1000 Princes: ChouChou Condo",
+      "release_date": "17 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4935320/"
+      "store_url": "https://store.steampowered.com/app/4846800/"
     },
     {
       "steam_rank": 4,
-      "appid": 5019600,
-      "name": "Battle Of Plans",
-      "release_date": "16 Aug, 2026",
+      "appid": 4979160,
+      "name": "All Your Wrestling Pro Manager",
+      "release_date": "17 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5019600/"
+      "store_url": "https://store.steampowered.com/app/4979160/"
     },
     {
       "steam_rank": 5,
-      "appid": 4135030,
-      "name": "Catfall Demo",
+      "appid": 4390450,
+      "name": "Funeral Flowers Lament: Helena",
       "release_date": "17 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4135030/"
+      "store_url": "https://store.steampowered.com/app/4390450/"
     },
     {
       "steam_rank": 6,
-      "appid": 4999780,
-      "name": "Sectron Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 4378740,
+      "name": "Wordforge: Silent Letters",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4999780/"
+      "store_url": "https://store.steampowered.com/app/4378740/"
     },
     {
       "steam_rank": 7,
-      "appid": 3732030,
-      "name": "Palianytsia",
-      "release_date": "17 Aug, 2026",
+      "appid": 5081710,
+      "name": "Yathsel Demo",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3732030/"
+      "store_url": "https://store.steampowered.com/app/5081710/"
     },
     {
       "steam_rank": 8,
-      "appid": 5073330,
-      "name": "FAIL GAMES Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 4663080,
+      "name": "Escape the Grind",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5073330/"
+      "store_url": "https://store.steampowered.com/app/4663080/"
     },
     {
       "steam_rank": 9,
-      "appid": 5052540,
-      "name": "Death by Taxes Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 5004570,
+      "name": "Watch Party: Watch the web together",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5052540/"
+      "store_url": "https://store.steampowered.com/app/5004570/"
     },
     {
       "steam_rank": 10,
-      "appid": 5013860,
-      "name": "Bacteria Buster",
-      "release_date": "17 Aug, 2026",
+      "appid": 4942090,
+      "name": "Forts &amp; Castles",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5013860/"
+      "store_url": "https://store.steampowered.com/app/4942090/"
     },
     {
       "steam_rank": 11,
-      "appid": 5015990,
-      "name": "GameOverd",
-      "release_date": "17 Aug, 2026",
+      "appid": 4417770,
+      "name": "Gambit's Escape",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5015990/"
+      "store_url": "https://store.steampowered.com/app/4417770/"
     },
     {
       "steam_rank": 12,
-      "appid": 5014260,
-      "name": "Is That a Human Organ?",
-      "release_date": "17 Aug, 2026",
+      "appid": 4950450,
+      "name": "Loop of Agony",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5014260/"
+      "store_url": "https://store.steampowered.com/app/4950450/"
     },
     {
       "steam_rank": 13,
-      "appid": 4342860,
-      "name": "Stellar Freight: Endless Horizon Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 3729550,
+      "name": "Stackmon",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4342860/"
+      "store_url": "https://store.steampowered.com/app/3729550/"
     },
     {
       "steam_rank": 14,
-      "appid": 4845230,
-      "name": "Spinebreaker",
-      "release_date": "17 Aug, 2026",
+      "appid": 4279130,
+      "name": "Tower64",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4845230/"
+      "store_url": "https://store.steampowered.com/app/4279130/"
     },
     {
       "steam_rank": 15,
-      "appid": 3335490,
-      "name": "SkyFab",
-      "release_date": "17 Aug, 2026",
+      "appid": 4922330,
+      "name": "Casino Legends",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3335490/"
+      "store_url": "https://store.steampowered.com/app/4922330/"
     },
     {
       "steam_rank": 16,
-      "appid": 5026560,
-      "name": "Worm In Rotating Land",
-      "release_date": "17 Aug, 2026",
+      "appid": 4316230,
+      "name": "Mystic Garden",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5026560/"
+      "store_url": "https://store.steampowered.com/app/4316230/"
     },
     {
       "steam_rank": 17,
-      "appid": 3598690,
-      "name": "Pachinko Farm",
-      "release_date": "17 Aug, 2026",
+      "appid": 4896990,
+      "name": "MEGALITH",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3598690/"
+      "store_url": "https://store.steampowered.com/app/4896990/"
     },
     {
       "steam_rank": 18,
-      "appid": 5011090,
-      "name": "Hacker vs IT",
-      "release_date": "17 Aug, 2026",
+      "appid": 3435610,
+      "name": "Exark",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5011090/"
+      "store_url": "https://store.steampowered.com/app/3435610/"
     },
     {
       "steam_rank": 19,
-      "appid": 4955650,
-      "name": "Infinite Number Factory",
-      "release_date": "17 Aug, 2026",
+      "appid": 3083550,
+      "name": "Literally Just A Rock",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4955650/"
+      "store_url": "https://store.steampowered.com/app/3083550/"
     },
     {
       "steam_rank": 20,
-      "appid": 4595310,
-      "name": "Platon³",
-      "release_date": "17 Aug, 2026",
+      "appid": 4957580,
+      "name": "Liar’s Line Demo",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4595310/"
+      "store_url": "https://store.steampowered.com/app/4957580/"
     },
     {
       "steam_rank": 21,
-      "appid": 3147720,
-      "name": "Dual Cat: Max",
-      "release_date": "17 Aug, 2026",
+      "appid": 4048540,
+      "name": "Victor Space Program",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3147720/"
+      "store_url": "https://store.steampowered.com/app/4048540/"
     },
     {
       "steam_rank": 22,
-      "appid": 5040530,
-      "name": "Dice'n'Go Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 1112390,
+      "name": "HyperCore : Rhythm Bullet Hell",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5040530/"
+      "store_url": "https://store.steampowered.com/app/1112390/"
     },
     {
       "steam_rank": 23,
-      "appid": 5020600,
-      "name": "Korovany: A Dzhva-Year Dream",
-      "release_date": "17 Aug, 2026",
+      "appid": 4953310,
+      "name": "Neon Tyrant",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5020600/"
+      "store_url": "https://store.steampowered.com/app/4953310/"
     },
     {
       "steam_rank": 24,
-      "appid": 5055240,
-      "name": "Time to Pay the Bills Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 4836900,
+      "name": "Finding Ruby: Hidden Object Adventure",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5055240/"
+      "store_url": "https://store.steampowered.com/app/4836900/"
     },
     {
       "steam_rank": 25,
-      "appid": 5052140,
-      "name": "Magika Bounce Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 1575990,
+      "name": "Twisted Tower",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5052140/"
+      "store_url": "https://store.steampowered.com/app/1575990/"
     },
     {
       "steam_rank": 26,
-      "appid": 4831440,
-      "name": "I Want to Play the Villain! Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 4950510,
+      "name": "Cozy Drone",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4831440/"
+      "store_url": "https://store.steampowered.com/app/4950510/"
     },
     {
       "steam_rank": 27,
-      "appid": 4264950,
-      "name": "Farewells clicker",
-      "release_date": "17 Aug, 2026",
+      "appid": 4965510,
+      "name": "Escape Sequence",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4264950/"
+      "store_url": "https://store.steampowered.com/app/4965510/"
     },
     {
       "steam_rank": 28,
-      "appid": 4268200,
-      "name": "Excremental Game",
-      "release_date": "17 Aug, 2026",
+      "appid": 4977820,
+      "name": "Political Survival - Head of State",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4268200/"
+      "store_url": "https://store.steampowered.com/app/4977820/"
     },
     {
       "steam_rank": 29,
-      "appid": 4994400,
-      "name": "Cubic Color Confusion Demo",
-      "release_date": "17 Aug, 2026",
+      "appid": 5060980,
+      "name": "HORDELIGHT Demo",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4994400/"
+      "store_url": "https://store.steampowered.com/app/5060980/"
     },
     {
       "steam_rank": 30,
-      "appid": 4956830,
-      "name": "Gulugulu",
-      "release_date": "17 Aug, 2026",
+      "appid": 5002930,
+      "name": "GOD CANDLE",
+      "release_date": "18 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4956830/"
+      "store_url": "https://store.steampowered.com/app/5002930/"
     },
     {
-      "steam_rank": 3,
+      "steam_rank": 4,
+      "appid": 2436940,
+      "name": "Sephiria",
+      "release_date": "31 Jul, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "TEAM HORAY"
+      ],
+      "publishers": [
+        "TEAM HORAY"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep you",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1786421771",
+      "recommendations": 9412,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "steam_rank": 5,
       "appid": 2950790,
       "name": "IRON NEST: Heavy Turret Simulator",
       "release_date": "6 Aug, 2026",
@@ -840,36 +885,9 @@
       "coming_soon": false,
       "short_description": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics,",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1786639727",
-      "recommendations": 9932,
+      "recommendations": 10333,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2950790/"
-    },
-    {
-      "steam_rank": 5,
-      "appid": 2436940,
-      "name": "Sephiria",
-      "release_date": "31 Jul, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "TEAM HORAY"
-      ],
-      "publishers": [
-        "TEAM HORAY"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep you",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1786421771",
-      "recommendations": 9261,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/2436940/"
     },
     {
       "steam_rank": 6,
@@ -892,7 +910,7 @@
       "coming_soon": false,
       "short_description": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customer",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c07daeca18353c666d51462d2e69c30ec68094ad/header_alt_assets_3.jpg?t=1786634154",
-      "recommendations": 5930,
+      "recommendations": 6203,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3812600/"
     },
@@ -918,12 +936,12 @@
       "coming_soon": false,
       "short_description": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
-      "recommendations": 3098,
+      "recommendations": 3162,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4108000/"
     },
     {
-      "steam_rank": 16,
+      "steam_rank": 17,
       "appid": 4421010,
       "name": "Bills Must Be Paid",
       "release_date": "29 Jul, 2026",
@@ -946,7 +964,7 @@
       "coming_soon": false,
       "short_description": "You're broke, smash piggy banks, bills must be paid. A short active incremental game. Get money, upgrade, and get debt free!",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1786871377",
-      "recommendations": 7168,
+      "recommendations": 7322,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4421010/"
     },
@@ -971,12 +989,12 @@
       "coming_soon": false,
       "short_description": "Begin your new job as a servant at the mysterious Vanderboom estate. Solve puzzles, serve the family and uncover their dark alchemical secrets in Servant of the Lake, a new upcoming single-player poin",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786888533",
-      "recommendations": 3693,
+      "recommendations": 4187,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3636770/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 27,
       "appid": 4113940,
       "name": "Sovereign Tower",
       "release_date": "6 Aug, 2026",
@@ -996,41 +1014,15 @@
       "coming_soon": false,
       "short_description": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1786457942",
-      "recommendations": 1735,
+      "recommendations": 1849,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4113940/"
-    },
-    {
-      "steam_rank": 29,
-      "appid": 4450620,
-      "name": "GRAIN ROT",
-      "release_date": "7 Aug, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Beck & Branch Games"
-      ],
-      "publishers": [
-        "Neem Interactive"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
-      "recommendations": 1183,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/4450620/"
     }
   ],
   "summary": {
-    "total": 68,
-    "free_games": 0,
-    "released": 8,
+    "total": 67,
+    "free_games": 1,
+    "released": 7,
     "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
@@ -1044,15 +1036,15 @@
       ],
       [
         "Adventure",
-        8
+        9
       ],
       [
         "Simulation",
-        8
+        7
       ],
       [
-        "Casual",
-        4
+        "RPG",
+        5
       ]
     ],
     "top_developers": [

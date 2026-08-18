@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:00:00.000Z",
+  "generatedAt": "2026-08-18T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -926,7 +926,7 @@
       "venue": "도쿄 하마마츠초",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "",
+      "submissionPeriod": "8/21(금) 20:00 시작 (선착순 270枠)",
       "url": "https://tokyogamedungeon.com/",
       "status": "upcoming",
       "month": 10
@@ -1161,7 +1161,7 @@
     "totalEvents": 77,
     "upcomingEvents": 30,
     "pastEvents": 47,
-    "upcoming30Days": 4,
+    "upcoming30Days": 5,
     "byCountry": {
       "JP": 52,
       "KR": 16,
@@ -1194,7 +1194,7 @@
       "11": 7,
       "12": 7
     },
-    "submissionOpen": 48,
+    "submissionOpen": 49,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"

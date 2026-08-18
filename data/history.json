@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-17T12:00:00.000Z",
+  "updatedAt": "2026-08-18T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-08-18",
+      "type": "confirmed",
+      "eventId": "evt-060",
+      "name": "東京ゲームダンジョン14",
+      "detail": "접수 기간 확정: 8/21(금) 20:00 시작 (선착순 270枠)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-08-16",
       "type": "discovered",
