@@ -1,6 +1,867 @@
 {
-  "updatedAt": "2026-08-18T12:00:00.000Z",
+  "updatedAt": "2026-08-20T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4963330,
+      "name": "Rythix 2048",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4914820,
+      "name": "The Walks We Used To Take",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4202500,
+      "name": "Gallipoli - Ordered to Die Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4449030,
+      "name": "File Tower Defence",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4936850,
+      "name": "Hideout Heist Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4354710,
+      "name": "Ghost Buster:Village",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4973210,
+      "name": "TRAPZONE",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 3958820,
+      "name": "Drive Me Broke",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4895140,
+      "name": "Snake Extended",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5009320,
+      "name": "DylanBoat",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4772010,
+      "name": "Roll to Ruin",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4110900,
+      "name": "Meowmories",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5014070,
+      "name": "Planet Fatta",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4961990,
+      "name": "語彙コイン",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 2124360,
+      "name": "HYPER PRIMATE",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4006600,
+      "name": "Plinkomancy",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5070160,
+      "name": "Wuwei Cultivation",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4202450,
+      "name": "Gallipoli - Sunburnt Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5063510,
+      "name": "僵尸驾到 Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4202460,
+      "name": "Gallipoli - Light Horse Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4586750,
+      "name": "Nova Fleet",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4001890,
+      "name": "How to Fish",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5046370,
+      "name": "COSMOS VR",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5013220,
+      "name": "Bulwark Tower Defense",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 3467750,
+      "name": "Fairysite",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4202470,
+      "name": "Gallipoli - Besieged Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4988670,
+      "name": "Command-Ω Omega 2",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 1334390,
+      "name": "Deckalypse",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 5007480,
+      "name": "Maze Of Doors ",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4202490,
+      "name": "Gallipoli - Conscript Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "new_entry",
+      "appid": 4289150,
+      "name": "Can Your Otaku Cabinet Grow a Beautiful Girl?",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4937090,
+      "name": "Axomorph Idle Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4510210,
+      "name": "Still in the Fog",
+      "detail": "Top 67에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4686470,
+      "name": "BPE: Airportoday",
+      "detail": "Top 67에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 5048710,
+      "name": "Don't Mention B3 Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4625290,
+      "name": "Incident Archives - Flight 882",
+      "detail": "Top 67에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4869770,
+      "name": "Full Body Ratio VR",
+      "detail": "Top 67에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4026250,
+      "name": "Project P.I.T.T.",
+      "detail": "Top 67에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4972690,
+      "name": "Blue Guy Must Die",
+      "detail": "Top 67에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 5016980,
+      "name": "Portality Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 5005590,
+      "name": "Sudoku Mansion",
+      "detail": "Top 67에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 3115160,
+      "name": "Warhammer 40,000: Boltgun 2",
+      "detail": "Top 67에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4980890,
+      "name": "Peaceful Bug Catching Story",
+      "detail": "Top 67에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4771610,
+      "name": "The Hidden Camp",
+      "detail": "Top 67에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4778140,
+      "name": "Summer Hiking Wear - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure",
+      "detail": "Top 67에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4109210,
+      "name": "Blood in the Panopticon",
+      "detail": "Top 67에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 1572260,
+      "name": "Wild Ice",
+      "detail": "Top 67에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4836390,
+      "name": "Space Chickens",
+      "detail": "Top 67에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4633140,
+      "name": "My Singing Monsters Karaoke",
+      "detail": "Top 67에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4580660,
+      "name": "Click &amp; Curate: Idle Photography",
+      "detail": "Top 67에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 3492150,
+      "name": "Ministry of Truth: False Memory",
+      "detail": "Top 67에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4961460,
+      "name": "MarginCall",
+      "detail": "Top 67에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4303290,
+      "name": "Vivere Retro",
+      "detail": "Top 67에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4969170,
+      "name": "Ministry of Truth: False Memory - Supporter Pack",
+      "detail": "Top 67에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4501720,
+      "name": "Aluminium City",
+      "detail": "Top 67에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4584290,
+      "name": "Esordie",
+      "detail": "Top 67에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 1490020,
+      "name": "TIC-TAC: Twelve o'clock",
+      "detail": "Top 67에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4132330,
+      "name": "Pizza House Simulator🍕",
+      "detail": "Top 67에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 5080300,
+      "name": "Kinghold Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4899440,
+      "name": "Elemental Forge",
+      "detail": "Top 67에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4944370,
+      "name": "All Time High",
+      "detail": "Top 67에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "dropped",
+      "appid": 4922870,
+      "name": "TIC-TAC: Twelve o'clock - Supporter Pack",
+      "detail": "Top 67에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4937090,
+      "name": "Axomorph Idle Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4510210,
+      "name": "Still in the Fog",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4686470,
+      "name": "BPE: Airportoday",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 5048710,
+      "name": "Don't Mention B3 Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4625290,
+      "name": "Incident Archives - Flight 882",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4869770,
+      "name": "Full Body Ratio VR",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4026250,
+      "name": "Project P.I.T.T.",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4972690,
+      "name": "Blue Guy Must Die",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 5016980,
+      "name": "Portality Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 5005590,
+      "name": "Sudoku Mansion",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4980890,
+      "name": "Peaceful Bug Catching Story",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4771610,
+      "name": "The Hidden Camp",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4778140,
+      "name": "Summer Hiking Wear - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4109210,
+      "name": "Blood in the Panopticon",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 1572260,
+      "name": "Wild Ice",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4836390,
+      "name": "Space Chickens",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4633140,
+      "name": "My Singing Monsters Karaoke",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4580660,
+      "name": "Click &amp; Curate: Idle Photography",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 3492150,
+      "name": "Ministry of Truth: False Memory",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4961460,
+      "name": "MarginCall",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4303290,
+      "name": "Vivere Retro",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4969170,
+      "name": "Ministry of Truth: False Memory - Supporter Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4501720,
+      "name": "Aluminium City",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4584290,
+      "name": "Esordie",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 1490020,
+      "name": "TIC-TAC: Twelve o'clock",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4132330,
+      "name": "Pizza House Simulator🍕",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 5080300,
+      "name": "Kinghold Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4899440,
+      "name": "Elemental Forge",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4944370,
+      "name": "All Time High",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "new_entry",
+      "appid": 4922870,
+      "name": "TIC-TAC: Twelve o'clock - Supporter Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 67 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4965510,
+      "name": "Escape Sequence",
+      "detail": "Top 67에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4942090,
+      "name": "Forts &amp; Castles",
+      "detail": "Top 67에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4957580,
+      "name": "Liar’s Line Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4951180,
+      "name": "Avalon Gates: 1 Million D",
+      "detail": "Top 67에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 3729550,
+      "name": "Stackmon",
+      "detail": "Top 67에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 5004570,
+      "name": "Watch Party: Watch the web together",
+      "detail": "Top 67에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4977820,
+      "name": "Political Survival - Head of State",
+      "detail": "Top 67에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4048540,
+      "name": "Victor Space Program",
+      "detail": "Top 67에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 3083550,
+      "name": "Literally Just A Rock",
+      "detail": "Top 67에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4412960,
+      "name": "光与影之恋 Chiaroscuro Lovers",
+      "detail": "Top 67에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4836900,
+      "name": "Finding Ruby: Hidden Object Adventure",
+      "detail": "Top 67에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4663080,
+      "name": "Escape the Grind",
+      "detail": "Top 67에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4390450,
+      "name": "Funeral Flowers Lament: Helena",
+      "detail": "Top 67에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4950450,
+      "name": "Loop of Agony",
+      "detail": "Top 67에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 5002930,
+      "name": "GOD CANDLE",
+      "detail": "Top 67에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 1575990,
+      "name": "Twisted Tower",
+      "detail": "Top 67에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4316230,
+      "name": "Mystic Garden",
+      "detail": "Top 67에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 1112390,
+      "name": "HyperCore : Rhythm Bullet Hell",
+      "detail": "Top 67에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4846800,
+      "name": "1000 Princes: ChouChou Condo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4979160,
+      "name": "All Your Wrestling Pro Manager",
+      "detail": "Top 67에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4279130,
+      "name": "Tower64",
+      "detail": "Top 67에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4922330,
+      "name": "Casino Legends",
+      "detail": "Top 67에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 3435610,
+      "name": "Exark",
+      "detail": "Top 67에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4896990,
+      "name": "MEGALITH",
+      "detail": "Top 67에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4953310,
+      "name": "Neon Tyrant",
+      "detail": "Top 67에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4417770,
+      "name": "Gambit's Escape",
+      "detail": "Top 67에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 5081710,
+      "name": "Yathsel Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4950510,
+      "name": "Cozy Drone",
+      "detail": "Top 67에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 4378740,
+      "name": "Wordforge: Silent Letters",
+      "detail": "Top 67에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "dropped",
+      "appid": 5060980,
+      "name": "HORDELIGHT Demo",
+      "detail": "Top 67에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "rank_change",
+      "appid": 4421010,
+      "name": "Bills Must Be Paid",
+      "detail": "랭크 변동: #17 → #22 (↓5)"
+    },
     {
       "date": "2026-08-18",
       "type": "new_entry",
