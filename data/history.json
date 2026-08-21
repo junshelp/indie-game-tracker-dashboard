@@ -1,32 +1,48 @@
 {
-  "updatedAt": "2026-08-20T12:00:00.000Z",
+  "updatedAt": "2026-08-21T12:00:00.000Z",
   "events": [
     {
-      "date": "2026-08-19",
-      "type": "confirmed",
-      "eventId": "evt-060",
-      "name": "東京ゲームダンジョン14",
-      "detail": "접수 기간 확정: 출전접수 8/21(금) 20:00~ (선착순 270枠)",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-000",
+      "name": "コウゲイゲームショウ2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-19",
-      "type": "confirmed",
-      "eventId": "evt-076",
-      "name": "大阪ゲームダンジョン2",
-      "detail": "접수 기간 확정: 마감",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-001",
+      "name": "ホッカイドウシュピールフェスト3",
+      "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-18",
-      "type": "confirmed",
-      "eventId": "evt-060",
-      "name": "東京ゲームダンジョン14",
-      "detail": "접수 기간 확정: 8/21(금) 20:00 시작 (선착순 270枠)",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-002",
+      "name": "DREAMSCAPE4",
+      "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-003",
+      "name": "GAME PIT TOKYO 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-004",
+      "name": "SHIBUYA GAMES WEEK 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-005",
       "name": "東京ゲームダンジョン11",
@@ -34,7 +50,15 @@
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-006",
+      "name": "ゲームクリエイター甲子園 × 神ゲー創造主エボリューション",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-007",
       "name": "ILLUSTAR FES 10 (겨울)",
@@ -42,7 +66,31 @@
       "country": "🇰🇷 한국"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-008",
+      "name": "そうさくマーケット2",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-011",
+      "name": "インディゲームマーケット6",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-009",
+      "name": "TOKYO INDIE GAMES SUMMIT 2026 (TIGS2026)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-010",
       "name": "GEIDAI GAMES 07 東京藝術大学 게임코스展",
@@ -50,7 +98,31 @@
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-012",
+      "name": "ゲームパビリオンjp 2026 (春)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-013",
+      "name": "ハピネットゲームフェス！",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-014",
+      "name": "INDIE Live Expo Spring",
+      "detail": "신규 발견 (🌏 온라인)",
+      "country": "🌏 온라인"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-015",
       "name": "ぶらり川越 GAME DIGG2",
@@ -58,7 +130,15 @@
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-019",
+      "name": "栃木 INDIE GAME Devs Digger Ex",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-020",
       "name": "東京ゲームダンジョン12",
@@ -66,7 +146,55 @@
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-016",
+      "name": "PlayX4 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-017",
+      "name": "BitSummit PUNCH 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-018",
+      "name": "ILLUSTAR FES (봄 에디션)",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-021",
+      "name": "KCCF (코리아 카드 컬쳐 페어)",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-022",
+      "name": "Game Market 2026 Spring",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-023",
+      "name": "COMITIA 156",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-024",
       "name": "SAPPORO GAME ODYSSEY",
@@ -74,35 +202,419 @@
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-027",
+      "name": "九州ゲームアイランド",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-025",
+      "name": "인디크래프트 네트워킹 데이",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-028",
+      "name": "Dissonance #1",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-026",
+      "name": "Build051 2026 (빌드051)",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-029",
+      "name": "CiGA Game Jam 2026",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-030",
+      "name": "CCG EXPO 2026 (중국국제애니메이션게임박람회)",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-031",
+      "name": "Seoul Game Town 정기 전시",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-032",
+      "name": "Bilibili World 2026",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-033",
+      "name": "OPEN GAME FEST 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-034",
+      "name": "indiePlay 2026 응모 마감",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-037",
+      "name": "CEDEC2026 (Computer Entertainment Developers Conference)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-035",
+      "name": "게임파빌리온jp2026夏 (Game Pavilion jp)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-036",
+      "name": "디버그 이스케이프 룸 (Debug Escape Room)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-038",
+      "name": "ChinaJoy 2026",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-039",
+      "name": "즈쿠즈쿠2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-040",
+      "name": "BIC 2026 온라인 페스티벌",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-041",
+      "name": "東京ゲームダンジョン13",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-042",
+      "name": "インディーRTAリレー (Indie RTA Relay)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-043",
+      "name": "BIC 2026 오프라인 페스티벌",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-044",
+      "name": "Seoul POPCON 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-045",
+      "name": "Comiket C108 (Summer)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-046",
+      "name": "AKIBA 서브컬처 서밋 @칸다묘진 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-047",
+      "name": "九州学生ゲーム大祭2026 (큐슈학생게임대제)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-048",
+      "name": "COMITIA 157",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-049",
+      "name": "게임메이커즈 스크램블 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-050",
+      "name": "보도테크2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-051",
+      "name": "TGS 2026 (도쿄 게임쇼) ⭐5일",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-052",
+      "name": "GXG × INDIE CRAFT 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-053",
+      "name": "京都国際マンガ・アニメフェア2026 (京まふ)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-054",
+      "name": "大月ゲームサミット2026 (Otsuki Game Summit)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-055",
+      "name": "OSAKA INDIE GAMES SUMMIT 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-057",
       "name": "ALT+G (제2회)",
       "detail": "신규 발견 (🇰🇷 한국)",
       "country": "🇰🇷 한국"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-21",
       "type": "discovered",
-      "eventId": "evt-071",
-      "name": "Seoul Game Town 2026",
-      "detail": "신규 발견 (ririka_y_ 라운드업에서)",
+      "eventId": "evt-058",
+      "name": "대전콘텐츠페어 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
       "country": "🇰🇷 한국"
     },
     {
-      "date": "2026-08-05",
-      "type": "confirmed",
-      "eventId": "evt-045",
-      "name": "CEDEC 2026",
-      "detail": "접수 기간 확정: 2026-05-01 ~ 2026-06-30",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-062",
+      "name": "第8回全国エンタメまつり",
+      "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-063",
+      "name": "DREAMSCAPE5",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-059",
+      "name": "gamescom asia 2026",
+      "detail": "신규 발견 (🇹🇭 태국)",
+      "country": "🇹🇭 태국"
+    },
+    {
+      "date": "2026-08-21",
       "type": "discovered",
       "eventId": "evt-060",
-      "name": "TIGS 2026",
-      "detail": "신규 발견: 2026/3/20-21, Koenji IMAGINUS",
+      "name": "東京ゲームダンジョン14",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-061",
+      "name": "OTAFEST 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-066",
+      "name": "デジゲー博2026 (디지게임엑스포)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-064",
+      "name": "Kita-Con (키타콘)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-069",
+      "name": "SANUKI X GAME",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-065",
+      "name": "G-STAR 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-067",
+      "name": "神戸ゲームラビリンス2026 (Kobe Game Labyrinth)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-068",
+      "name": "Indie Developers Conference 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-070",
+      "name": "HORROR GALLERY",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-074",
+      "name": "INDIE Live Expo 2026.12.1",
+      "detail": "신규 발견 (🌏 온라인)",
+      "country": "🌏 온라인"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-071",
+      "name": "AGF 2026 (Anime×Game Festival)",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-072",
+      "name": "BEAVER ROCKS 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-073",
+      "name": "Comic Fiesta 2026",
+      "detail": "신규 발견 (🇲🇾 말레이시아)",
+      "country": "🇲🇾 말레이시아"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-075",
+      "name": "MY GAME FES Vol.4",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-076",
+      "name": "大阪ゲームダンジョン2",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "discovered",
+      "eventId": "evt-077",
+      "name": "Comiket C109 (Winter)",
+      "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     }
   ],
