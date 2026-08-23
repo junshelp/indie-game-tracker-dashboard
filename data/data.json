@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:00:00.000Z",
+  "generatedAt": "2026-08-23T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -776,7 +776,7 @@
       "venue": "치바 마쿠하리 멧세",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "",
+      "submissionPeriod": "마감",
       "url": "https://events.nikkeibp.co.jp/tgs/2026/",
       "status": "upcoming",
       "month": 9
@@ -1194,7 +1194,7 @@
       "11": 7,
       "12": 7
     },
-    "submissionOpen": 50,
+    "submissionOpen": 51,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"

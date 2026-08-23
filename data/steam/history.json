@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-22T12:00:00.000Z",
+  "updatedAt": "2026-08-23T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-08-23",
+      "type": "new_entry",
+      "appid": 5123490,
+      "name": "BRAVERY Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "new_entry",
+      "appid": 5000680,
+      "name": "Lv Down RPG",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "new_entry",
+      "appid": 4252820,
+      "name": "EventBox",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "new_entry",
+      "appid": 5088120,
+      "name": "水浒英雄传：八幕战役",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "new_entry",
+      "appid": 4902780,
+      "name": "Crack That Smile",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "dropped",
+      "appid": 5009540,
+      "name": "Ashfire Keep",
+      "detail": "Top 66에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "dropped",
+      "appid": 4895410,
+      "name": "Warrior Spirits",
+      "detail": "Top 66에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "dropped",
+      "appid": 3866770,
+      "name": "DualVerse86",
+      "detail": "Top 66에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "dropped",
+      "appid": 3998900,
+      "name": "Claws Of Power",
+      "detail": "Top 66에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "dropped",
+      "appid": 5050070,
+      "name": "The Escape From Dungeon Keep",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "rank_change",
+      "appid": 4697810,
+      "name": "Beefy Boi Demo",
+      "detail": "랭크 변동: #23 → #18 (↑5)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "rank_change",
+      "appid": 4001890,
+      "name": "How to Fish",
+      "detail": "랭크 변동: #14 → #6 (↑8)"
+    },
     {
       "date": "2026-08-22",
       "type": "new_entry",

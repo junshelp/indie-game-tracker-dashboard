@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-22T12:00:00.000Z",
+  "updatedAt": "2026-08-23T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-08-23",
+      "type": "confirmed",
+      "eventId": "evt-051",
+      "name": "TGS 2026 (도쿄 게임쇼) ⭐5일",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-08-21",
       "type": "discovered",
