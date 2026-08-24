@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:00:00.000Z",
+  "generatedAt": "2026-08-24T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -733,7 +733,7 @@
       "typeLabel": "동인",
       "submissionPeriod": "마감",
       "url": "https://www.comitia.co.jp/",
-      "status": "upcoming",
+      "status": "past",
       "month": 8
     },
     {
@@ -1159,9 +1159,9 @@
   ],
   "summary": {
     "totalEvents": 77,
-    "upcomingEvents": 29,
-    "pastEvents": 48,
-    "upcoming30Days": 6,
+    "upcomingEvents": 28,
+    "pastEvents": 49,
+    "upcoming30Days": 5,
     "byCountry": {
       "JP": 52,
       "KR": 16,

@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-08-23T12:00:00.000Z",
+  "updatedAt": "2026-08-24T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-08-24",
+      "type": "new_entry",
+      "appid": 3978240,
+      "name": "Wordless Forest",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "new_entry",
+      "appid": 4001350,
+      "name": "Iron Blight",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "new_entry",
+      "appid": 5005670,
+      "name": "Chichi's Desktop Journey Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "new_entry",
+      "appid": 4637870,
+      "name": "Smashing Bottles",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "new_entry",
+      "appid": 3866770,
+      "name": "DualVerse86",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "dropped",
+      "appid": 4937120,
+      "name": "スマートフォン",
+      "detail": "Top 66에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "dropped",
+      "appid": 4587970,
+      "name": "桌面塔罗 Desktop Tarot",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "dropped",
+      "appid": 3295430,
+      "name": "Type Ride",
+      "detail": "Top 66에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "dropped",
+      "appid": 5069100,
+      "name": "Dice Chemist",
+      "detail": "Top 66에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "dropped",
+      "appid": 4986740,
+      "name": "AFTERLIGHT: The Apartment",
+      "detail": "Top 66에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "rank_change",
+      "appid": 3985330,
+      "name": "BURNED HORIZONS",
+      "detail": "랭크 변동: #21 → #16 (↑5)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "rank_change",
+      "appid": 4823350,
+      "name": "Tridan",
+      "detail": "랭크 변동: #19 → #13 (↑6)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "rank_change",
+      "appid": 4545720,
+      "name": "Killer Chase",
+      "detail": "랭크 변동: #26 → #21 (↑5)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "rank_change",
+      "appid": 5088120,
+      "name": "水浒英雄传：八幕战役",
+      "detail": "랭크 변동: #24 → #19 (↑5)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "rank_change",
+      "appid": 4902780,
+      "name": "Crack That Smile",
+      "detail": "랭크 변동: #30 → #25 (↑5)"
+    },
     {
       "date": "2026-08-23",
       "type": "new_entry",
