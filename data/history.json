@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-24T12:00:00.000Z",
+  "updatedAt": "2026-08-25T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-08-25",
+      "type": "discovered",
+      "eventId": "evt-064",
+      "name": "クリエイターズ文化祭2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-25",
+      "type": "discovered",
+      "eventId": "evt-073",
+      "name": "京都ゲームホリデー",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-08-23",
       "type": "confirmed",
@@ -626,5 +642,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 77
+  "totalTracked": 79
 }

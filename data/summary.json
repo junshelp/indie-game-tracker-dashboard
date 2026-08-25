@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T12:00:00.000Z",
-  "kstDate": "2026-08-24",
+  "generatedAt": "2026-08-25T12:00:00.000Z",
+  "kstDate": "2026-08-25",
   "monthly": {
     "1월": {
       "total": 4,
@@ -534,9 +534,9 @@
       ]
     },
     "11월": {
-      "total": 7,
+      "total": 8,
       "byCountry": {
-        "JP": 6,
+        "JP": 7,
         "KR": 1
       },
       "events": [
@@ -545,6 +545,13 @@
           "startDate": "2026-11-08",
           "endDate": "2026-11-08",
           "type": "전시회",
+          "country": "JP"
+        },
+        {
+          "name": "クリエイターズ文化祭2026",
+          "startDate": "2026-11-13",
+          "endDate": "2026-11-16",
+          "type": "페스티벌",
           "country": "JP"
         },
         {
@@ -592,12 +599,12 @@
       ]
     },
     "12월": {
-      "total": 7,
+      "total": 8,
       "byCountry": {
         "ONLINE": 1,
         "KR": 2,
-        "OTHER": 1,
-        "JP": 3
+        "JP": 4,
+        "OTHER": 1
       },
       "events": [
         {
@@ -613,6 +620,13 @@
           "endDate": "2026-12-06",
           "type": "페스티벌",
           "country": "KR"
+        },
+        {
+          "name": "京都ゲームホリデー",
+          "startDate": "2026-12-12",
+          "endDate": "2026-12-12",
+          "type": "페스티벌",
+          "country": "JP"
         },
         {
           "name": "BEAVER ROCKS 2026",
@@ -653,10 +667,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 2,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 0,
+    "totalChanges": 2,
     "note": ""
   }
 }

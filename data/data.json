@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:00:00.000Z",
+  "generatedAt": "2026-08-25T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -947,7 +947,7 @@
       "month": 10
     },
     {
-      "id": "evt-066",
+      "id": "evt-067",
       "name": "デジゲー博2026 (디지게임엑스포)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -963,6 +963,21 @@
     },
     {
       "id": "evt-064",
+      "name": "クリエイターズ文化祭2026",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-16",
+      "venue": "미정 (지역·온라인)",
+      "type": "festival",
+      "typeLabel": "페스티벌",
+      "submissionPeriod": "",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
+      "status": "upcoming",
+      "month": 11
+    },
+    {
+      "id": "evt-065",
       "name": "Kita-Con (키타콘)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -977,7 +992,7 @@
       "month": 11
     },
     {
-      "id": "evt-069",
+      "id": "evt-070",
       "name": "SANUKI X GAME",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -992,7 +1007,7 @@
       "month": 11
     },
     {
-      "id": "evt-065",
+      "id": "evt-066",
       "name": "G-STAR 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1007,7 +1022,7 @@
       "month": 11
     },
     {
-      "id": "evt-067",
+      "id": "evt-068",
       "name": "神戸ゲームラビリンス2026 (Kobe Game Labyrinth)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1022,7 +1037,7 @@
       "month": 11
     },
     {
-      "id": "evt-068",
+      "id": "evt-069",
       "name": "Indie Developers Conference 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1037,7 +1052,7 @@
       "month": 11
     },
     {
-      "id": "evt-070",
+      "id": "evt-071",
       "name": "HORROR GALLERY",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1052,7 +1067,7 @@
       "month": 11
     },
     {
-      "id": "evt-074",
+      "id": "evt-076",
       "name": "INDIE Live Expo 2026.12.1",
       "country": "🌏 온라인",
       "countryCode": "ONLINE",
@@ -1067,7 +1082,7 @@
       "month": 12
     },
     {
-      "id": "evt-071",
+      "id": "evt-072",
       "name": "AGF 2026 (Anime×Game Festival)",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1082,7 +1097,22 @@
       "month": 12
     },
     {
-      "id": "evt-072",
+      "id": "evt-073",
+      "name": "京都ゲームホリデー",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "venue": "교토 나카교구",
+      "type": "festival",
+      "typeLabel": "페스티벌",
+      "submissionPeriod": "",
+      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
+      "status": "upcoming",
+      "month": 12
+    },
+    {
+      "id": "evt-074",
       "name": "BEAVER ROCKS 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1097,7 +1127,7 @@
       "month": 12
     },
     {
-      "id": "evt-073",
+      "id": "evt-075",
       "name": "Comic Fiesta 2026",
       "country": "🇲🇾 말레이시아",
       "countryCode": "OTHER",
@@ -1112,7 +1142,7 @@
       "month": 12
     },
     {
-      "id": "evt-075",
+      "id": "evt-077",
       "name": "MY GAME FES Vol.4",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1127,7 +1157,7 @@
       "month": 12
     },
     {
-      "id": "evt-076",
+      "id": "evt-078",
       "name": "大阪ゲームダンジョン2",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1142,7 +1172,7 @@
       "month": 12
     },
     {
-      "id": "evt-077",
+      "id": "evt-079",
       "name": "Comiket C109 (Winter)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1158,12 +1188,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 77,
-    "upcomingEvents": 28,
+    "totalEvents": 79,
+    "upcomingEvents": 30,
     "pastEvents": 49,
     "upcoming30Days": 5,
     "byCountry": {
-      "JP": 52,
+      "JP": 54,
       "KR": 16,
       "ONLINE": 2,
       "CN": 5,
@@ -1172,7 +1202,7 @@
     },
     "byType": {
       "전시회": 31,
-      "페스티벌": 25,
+      "페스티벌": 27,
       "공모전": 2,
       "마켓": 3,
       "컨퍼런스": 7,
@@ -1191,8 +1221,8 @@
       "8": 11,
       "9": 5,
       "10": 8,
-      "11": 7,
-      "12": 7
+      "11": 8,
+      "12": 8
     },
     "submissionOpen": 51,
     "dateRange": {
