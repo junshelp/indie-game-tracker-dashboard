@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T12:00:00.000Z",
-  "kstDate": "2026-08-25",
+  "generatedAt": "2026-08-26T12:00:00.000Z",
+  "kstDate": "2026-08-26",
   "monthly": {
     "1월": {
       "total": 4,
@@ -468,9 +468,9 @@
       ]
     },
     "10월": {
-      "total": 8,
+      "total": 9,
       "byCountry": {
-        "JP": 5,
+        "JP": 6,
         "KR": 2,
         "TH": 1
       },
@@ -495,6 +495,13 @@
           "endDate": "2026-10-18",
           "type": "전시회",
           "country": "KR"
+        },
+        {
+          "name": "Game Market 2026 Autumn (게임마켓 2026 가을)",
+          "startDate": "2026-10-17",
+          "endDate": "2026-10-18",
+          "type": "마켓",
+          "country": "JP"
         },
         {
           "name": "第8回全国エンタメまつり",
@@ -667,9 +674,9 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 2,
+    "newDiscoveries": 1,
     "dateChanges": 0,
-    "submissionUpdates": 0,
+    "submissionUpdates": 1,
     "totalChanges": 2,
     "note": ""
   }

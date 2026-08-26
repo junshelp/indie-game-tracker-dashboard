@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-25T12:00:00.000Z",
+  "updatedAt": "2026-08-26T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-08-26",
+      "type": "discovered",
+      "eventId": "evt-062",
+      "name": "Game Market 2026 Autumn (게임마켓 2026 가을)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "confirmed",
+      "eventId": "evt-057",
+      "name": "ALT+G (제2회)",
+      "detail": "접수 기간 확정: 8/11~23 (마감)",
+      "country": "🇰🇷 한국"
+    },
     {
       "date": "2026-08-25",
       "type": "discovered",
@@ -642,5 +658,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 79
+  "totalTracked": 80
 }
