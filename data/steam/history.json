@@ -1,6 +1,454 @@
 {
-  "updatedAt": "2026-08-27T12:00:00.000Z",
+  "updatedAt": "2026-08-28T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4691330,
+      "name": "AlterMage Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4573700,
+      "name": "1116",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4899850,
+      "name": "HexLight",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4956300,
+      "name": "Dirtnap",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4676750,
+      "name": "Tap Dungeon",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4963090,
+      "name": "1930: Farm Manager",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4595220,
+      "name": "TARO IS BACK",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4584700,
+      "name": "Island Off Outer Dancing",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 1142040,
+      "name": "For Stella",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3783580,
+      "name": "Dicetris",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4849180,
+      "name": "The Day of Revenge",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4920990,
+      "name": "Unicycle Journey",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5093280,
+      "name": "Aim Clicker",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4849190,
+      "name": "Drown in Yesterday's Sea",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5109420,
+      "name": "The Black King",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3649710,
+      "name": "Bluff Roulette",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3850800,
+      "name": "WakuWaku Park",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4782770,
+      "name": "CYCLE01",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5052210,
+      "name": "Pastimes",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3664060,
+      "name": "Starweaver Express ~Per aspera ad astra~",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4919110,
+      "name": "bansoko: Class Crossing",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5024840,
+      "name": "上传器/Uploader",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4993110,
+      "name": "Ceramic · Stainless Steel · Neurotransmitter",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4406360,
+      "name": "The Abandoned House in Yeongdeok",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4870490,
+      "name": "Chore Pet",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3381340,
+      "name": "TransGenDeer",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4529120,
+      "name": "Alice's Gaze",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 4985330,
+      "name": "Arena Blues - Requiem for 35",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 3812600,
+      "name": "ReStory: Chill Electronics Repairs",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5083770,
+      "name": "Rimi Kaikkonen Racing 60 Seconds",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "new_entry",
+      "appid": 5094140,
+      "name": "Aim Clicker - Premium",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 3199880,
+      "name": "Airport Contraband: Prologue",
+      "detail": "Top 66에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4860940,
+      "name": "Typo Royale",
+      "detail": "Top 66에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4421010,
+      "name": "Bills Must Be Paid",
+      "detail": "Top 66에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4952980,
+      "name": "My Party Is Grinding",
+      "detail": "Top 66에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5054880,
+      "name": "Magic Chess",
+      "detail": "Top 66에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4632100,
+      "name": "PLACE TO FIT",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4261030,
+      "name": "Orb Breaker",
+      "detail": "Top 66에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4562470,
+      "name": "The Immortal John Triptych: Weird Extra Content Art Gallery DLC Thingy ¯\\_(ツ)_/¯",
+      "detail": "Top 66에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 3895720,
+      "name": "Black Tower Enigma",
+      "detail": "Top 66에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4962730,
+      "name": "Gambit Loop Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4696490,
+      "name": "Glow Box",
+      "detail": "Top 66에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4993720,
+      "name": "El sonido de un sueño",
+      "detail": "Top 66에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4705980,
+      "name": "SHOCKFACE",
+      "detail": "Top 66에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4564930,
+      "name": "Friend and foe",
+      "detail": "Top 66에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4517190,
+      "name": "DoDonPachi Resurrection Reignite",
+      "detail": "Top 66에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5068360,
+      "name": "Chained Parkour Together",
+      "detail": "Top 66에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4601160,
+      "name": "Just Keep Fishing",
+      "detail": "Top 66에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5069900,
+      "name": "Paper Trail",
+      "detail": "Top 66에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5039820,
+      "name": "ぼくたちの残響",
+      "detail": "Top 66에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4869710,
+      "name": "Runetome: Battle Practice",
+      "detail": "Top 66에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4750930,
+      "name": "Rabbit Claw Party",
+      "detail": "Top 66에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5050710,
+      "name": "Labhorror",
+      "detail": "Top 66에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4223200,
+      "name": "Ars Mechanica",
+      "detail": "Top 66에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4930540,
+      "name": "Anomaly Tunnel",
+      "detail": "Top 66에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4556780,
+      "name": "MetaHustle One",
+      "detail": "Top 66에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4918510,
+      "name": "Sudokiller Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5033200,
+      "name": "Nightlatch",
+      "detail": "Top 66에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5034610,
+      "name": "Dr. Bowlatzo's Crazy Bowling",
+      "detail": "Top 66에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 2054520,
+      "name": "Gawr Gura: Quest for Bread",
+      "detail": "Top 66에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 5044730,
+      "name": "The woods",
+      "detail": "Top 66에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "dropped",
+      "appid": 4284670,
+      "name": "Would You Love Me If I Was a Snake?",
+      "detail": "Top 66에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "rank_change",
+      "appid": 2950790,
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "detail": "랭크 변동: #30 → #25 (↑5)"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "rank_change",
+      "appid": 3636770,
+      "name": "Servant of the Lake",
+      "detail": "랭크 변동: #23 → #29 (↓6)"
+    },
     {
       "date": "2026-08-27",
       "type": "new_entry",
