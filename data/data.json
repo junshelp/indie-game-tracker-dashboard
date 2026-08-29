@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:00:00.000Z",
+  "generatedAt": "2026-08-29T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -613,7 +613,7 @@
       "typeLabel": "페스티벌",
       "submissionPeriod": "접수중 (6월~)  학생부문 ~8/20",
       "url": "https://bicfest.org/boards/rpb/ids/11501",
-      "status": "upcoming",
+      "status": "past",
       "month": 8
     },
     {
