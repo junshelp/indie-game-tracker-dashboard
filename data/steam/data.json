@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:00:00.000Z",
+  "generatedAt": "2026-08-30T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -129,7 +129,7 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve p",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1787926385",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788003150",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4656000/"
     },
@@ -433,6 +433,22 @@
       "review_summary": "",
       "wishlist_rank": 17,
       "source": "top_wishlisted",
+      "developers": [
+        "OldYacht"
+      ],
+      "publishers": [
+        "Polden Publishing",
+        "Blue Ocean Games"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Cartel Pilots Wanted is a co-op pilot job sim set in a tropical archipelago controlled by the cartel. Fly smuggling missions with friends, deliver sketchy cargo, and upgrade your aircraft. Master acce",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614080/ee7c38ae6bb63b3e425548512b98e0dd34d83dba/header.jpg?t=1786631735",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4614080/"
     },
@@ -449,25 +465,25 @@
     },
     {
       "steam_rank": 19,
-      "appid": 4258290,
-      "name": "We Are So Cooked",
-      "release_date": "15 Oct, 2026",
-      "review_summary": "",
-      "wishlist_rank": 19,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4258290/"
-    },
-    {
-      "steam_rank": 20,
       "appid": 2376260,
       "name": "Mariachi Legends",
       "release_date": "27 Apr, 2027",
       "review_summary": "",
-      "wishlist_rank": 20,
+      "wishlist_rank": 19,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2376260/"
+    },
+    {
+      "steam_rank": 20,
+      "appid": 4258290,
+      "name": "We Are So Cooked",
+      "release_date": "15 Oct, 2026",
+      "review_summary": "",
+      "wishlist_rank": 20,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4258290/"
     },
     {
       "steam_rank": 21,
@@ -581,46 +597,6 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5116640,
-      "name": "Night Spasm Demo",
-      "release_date": "28 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5116640/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 3867280,
-      "name": "Heartfall",
-      "release_date": "28 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3867280/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 4575420,
-      "name": "Push and Pull",
-      "release_date": "28 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4575420/"
-    },
-    {
-      "steam_rank": 4,
-      "appid": 5039800,
-      "name": "HARVEST ARCANA",
-      "release_date": "28 Aug, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5039800/"
-    },
-    {
-      "steam_rank": 5,
       "appid": 5081080,
       "name": "Neon Cruisers",
       "release_date": "29 Aug, 2026",
@@ -630,7 +606,7 @@
       "store_url": "https://store.steampowered.com/app/5081080/"
     },
     {
-      "steam_rank": 6,
+      "steam_rank": 2,
       "appid": 5089080,
       "name": "Capp's Ascent Demo",
       "release_date": "30 Aug, 2026",
@@ -640,7 +616,7 @@
       "store_url": "https://store.steampowered.com/app/5089080/"
     },
     {
-      "steam_rank": 7,
+      "steam_rank": 3,
       "appid": 5077560,
       "name": "Grey Cloaks of Aron: The Sleeping Village",
       "release_date": "30 Aug, 2026",
@@ -650,7 +626,7 @@
       "store_url": "https://store.steampowered.com/app/5077560/"
     },
     {
-      "steam_rank": 8,
+      "steam_rank": 4,
       "appid": 4424690,
       "name": "Just Open The Door",
       "release_date": "30 Aug, 2026",
@@ -660,7 +636,7 @@
       "store_url": "https://store.steampowered.com/app/4424690/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 5,
       "appid": 3160640,
       "name": "Don't Drop The Cake",
       "release_date": "30 Aug, 2026",
@@ -670,7 +646,7 @@
       "store_url": "https://store.steampowered.com/app/3160640/"
     },
     {
-      "steam_rank": 10,
+      "steam_rank": 6,
       "appid": 4724910,
       "name": "Level P",
       "release_date": "30 Aug, 2026",
@@ -680,7 +656,7 @@
       "store_url": "https://store.steampowered.com/app/4724910/"
     },
     {
-      "steam_rank": 11,
+      "steam_rank": 7,
       "appid": 4944450,
       "name": "DesktopDrifter.exe",
       "release_date": "30 Aug, 2026",
@@ -690,7 +666,7 @@
       "store_url": "https://store.steampowered.com/app/4944450/"
     },
     {
-      "steam_rank": 12,
+      "steam_rank": 8,
       "appid": 5007340,
       "name": "Coasteroid Demo",
       "release_date": "30 Aug, 2026",
@@ -700,17 +676,17 @@
       "store_url": "https://store.steampowered.com/app/5007340/"
     },
     {
-      "steam_rank": 13,
-      "appid": 4942320,
-      "name": "Nebulon",
+      "steam_rank": 9,
+      "appid": 5099540,
+      "name": "Peach Garden Survivors Demo",
       "release_date": "30 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4942320/"
+      "store_url": "https://store.steampowered.com/app/5099540/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 10,
       "appid": 5099380,
       "name": "Pitchside Empire",
       "release_date": "30 Aug, 2026",
@@ -720,17 +696,17 @@
       "store_url": "https://store.steampowered.com/app/5099380/"
     },
     {
-      "steam_rank": 15,
-      "appid": 4985620,
-      "name": "Tarot Gambit",
+      "steam_rank": 11,
+      "appid": 4942320,
+      "name": "Nebulon",
       "release_date": "30 Aug, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4985620/"
+      "store_url": "https://store.steampowered.com/app/4942320/"
     },
     {
-      "steam_rank": 16,
+      "steam_rank": 12,
       "appid": 4863170,
       "name": "Nellie's Nonograms",
       "release_date": "30 Aug, 2026",
@@ -740,7 +716,17 @@
       "store_url": "https://store.steampowered.com/app/4863170/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 13,
+      "appid": 4985620,
+      "name": "Tarot Gambit",
+      "release_date": "30 Aug, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4985620/"
+    },
+    {
+      "steam_rank": 14,
       "appid": 5087160,
       "name": "BLINDFOLD: Sound Chase Demo",
       "release_date": "30 Aug, 2026",
@@ -750,7 +736,7 @@
       "store_url": "https://store.steampowered.com/app/5087160/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 15,
       "appid": 5098800,
       "name": "Stillflow",
       "release_date": "30 Aug, 2026",
@@ -760,7 +746,7 @@
       "store_url": "https://store.steampowered.com/app/5098800/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 16,
       "appid": 3575370,
       "name": "The Macro-Mines",
       "release_date": "30 Aug, 2026",
@@ -768,6 +754,36 @@
       "source": "coming_soon",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3575370/"
+    },
+    {
+      "steam_rank": 17,
+      "appid": 1384210,
+      "name": "Gooober Acres",
+      "release_date": "August 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/1384210/"
+    },
+    {
+      "steam_rank": 18,
+      "appid": 3345650,
+      "name": "Kingdoms Test Of Time",
+      "release_date": "August 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3345650/"
+    },
+    {
+      "steam_rank": 19,
+      "appid": 3589770,
+      "name": "Vibe City Islands Architect",
+      "release_date": "August 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3589770/"
     },
     {
       "steam_rank": 20,
@@ -791,56 +807,46 @@
     },
     {
       "steam_rank": 22,
-      "appid": 3692030,
-      "name": "Star-Coat",
+      "appid": 3981880,
+      "name": "Infinite Game Cartridge Collection - One Box",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3692030/"
+      "store_url": "https://store.steampowered.com/app/3981880/"
     },
     {
       "steam_rank": 23,
-      "appid": 3589770,
-      "name": "Vibe City Islands Architect",
+      "appid": 4014940,
+      "name": "My Retro World",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3589770/"
+      "store_url": "https://store.steampowered.com/app/4014940/"
     },
     {
       "steam_rank": 24,
-      "appid": 4279850,
-      "name": "Paperman",
+      "appid": 3752890,
+      "name": "深渊放置者",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4279850/"
+      "store_url": "https://store.steampowered.com/app/3752890/"
     },
     {
       "steam_rank": 25,
-      "appid": 4264770,
-      "name": "fibbtry Demo",
+      "appid": 2831170,
+      "name": "Color Fear",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4264770/"
+      "store_url": "https://store.steampowered.com/app/2831170/"
     },
     {
       "steam_rank": 26,
-      "appid": 4348240,
-      "name": "Ashen Knight",
-      "release_date": "August 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4348240/"
-    },
-    {
-      "steam_rank": 27,
       "appid": 4365640,
       "name": "Categories",
       "release_date": "August 2026",
@@ -850,34 +856,44 @@
       "store_url": "https://store.steampowered.com/app/4365640/"
     },
     {
-      "steam_rank": 28,
-      "appid": 4249610,
-      "name": "Sleep Outbreak",
+      "steam_rank": 27,
+      "appid": 4420090,
+      "name": "Survivors: Become an Immortal",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4249610/"
+      "store_url": "https://store.steampowered.com/app/4420090/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 4407110,
+      "name": "FRAWL",
+      "release_date": "August 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4407110/"
     },
     {
       "steam_rank": 29,
-      "appid": 3345650,
-      "name": "Kingdoms Test Of Time",
+      "appid": 4348240,
+      "name": "Ashen Knight",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3345650/"
+      "store_url": "https://store.steampowered.com/app/4348240/"
     },
     {
       "steam_rank": 30,
-      "appid": 3981880,
-      "name": "Infinite Game Cartridge Collection - One Box",
+      "appid": 5014840,
+      "name": "Pixie - Desktop Pet That Mirrors You",
       "release_date": "August 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3981880/"
+      "store_url": "https://store.steampowered.com/app/5014840/"
     },
     {
       "steam_rank": 2,
@@ -902,39 +918,12 @@
       "coming_soon": false,
       "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
-      "recommendations": 30637,
+      "recommendations": 34129,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4001890/"
     },
     {
-      "steam_rank": 5,
-      "appid": 2436940,
-      "name": "Sephiria",
-      "release_date": "31 Jul, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "TEAM HORAY"
-      ],
-      "publishers": [
-        "TEAM HORAY"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep you",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/cb7dc6f4ed2f0012eb557365966be9b69815f7ae/header.jpg?t=1787290452",
-      "recommendations": 10467,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "steam_rank": 12,
+      "steam_rank": 18,
       "appid": 3812600,
       "name": "ReStory: Chill Electronics Repairs",
       "release_date": "6 Aug, 2026",
@@ -954,12 +943,12 @@
       "coming_soon": false,
       "short_description": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customer",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c07daeca18353c666d51462d2e69c30ec68094ad/header_alt_assets_3.jpg?t=1787245453",
-      "recommendations": 8021,
+      "recommendations": 8094,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3812600/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 25,
       "appid": 2950790,
       "name": "IRON NEST: Heavy Turret Simulator",
       "release_date": "6 Aug, 2026",
@@ -982,15 +971,15 @@
       "coming_soon": false,
       "short_description": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics,",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1787498698",
-      "recommendations": 12247,
+      "recommendations": 12341,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2950790/"
     }
   ],
   "summary": {
-    "total": 64,
+    "total": 63,
     "free_games": 1,
-    "released": 4,
+    "released": 3,
     "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
@@ -1003,12 +992,12 @@
         10
       ],
       [
-        "Adventure",
-        9
+        "Simulation",
+        10
       ],
       [
-        "Simulation",
-        9
+        "Adventure",
+        8
       ],
       [
         "Casual",
