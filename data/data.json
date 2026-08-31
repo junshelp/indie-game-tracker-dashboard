@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:00:00.000Z",
+  "generatedAt": "2026-08-31T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -748,7 +748,7 @@
       "typeLabel": "컨퍼런스",
       "submissionPeriod": "유료 티켓",
       "url": "https://gamemakers.jp/2026_gms_news/",
-      "status": "upcoming",
+      "status": "past",
       "month": 8
     },
     {
@@ -1204,9 +1204,9 @@
   ],
   "summary": {
     "totalEvents": 80,
-    "upcomingEvents": 31,
-    "pastEvents": 49,
-    "upcoming30Days": 6,
+    "upcomingEvents": 30,
+    "pastEvents": 50,
+    "upcoming30Days": 5,
     "byCountry": {
       "JP": 55,
       "KR": 16,
