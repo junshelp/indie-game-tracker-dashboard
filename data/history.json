@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-31T12:00:00.000Z",
+  "updatedAt": "2026-09-01T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-055",
+      "name": "ゲーミングバザー2026秋",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-056",
+      "name": "THE TENTH MOSAIC",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-066",
+      "name": "どっかんナゴヤ 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-067",
+      "name": "博麗電脳試遊会2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-068",
+      "name": "LudoNarraCon",
+      "detail": "신규 발견 (🌏 온라인)",
+      "country": "🌏 온라인"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-069",
+      "name": "Game Market 2026 Autumn",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "discovered",
+      "eventId": "evt-078",
+      "name": "WePlay Expo 2026 + indiePlay 시상",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "confirmed",
+      "eventId": "evt-059",
+      "name": "ALT+G (제2회)",
+      "detail": "접수 기간 확정: 8/11~23 (접수중)",
+      "country": "🇰🇷 한국"
+    },
     {
       "date": "2026-08-26",
       "type": "discovered",
@@ -658,5 +722,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 80
+  "totalTracked": 86
 }
