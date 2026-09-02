@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T12:00:00.000Z",
-  "kstDate": "2026-09-01",
+  "generatedAt": "2026-09-02T12:00:00.000Z",
+  "kstDate": "2026-09-02",
   "monthly": {
     "1월": {
       "total": 4,
@@ -482,9 +482,9 @@
       ]
     },
     "10월": {
-      "total": 12,
+      "total": 13,
       "byCountry": {
-        "JP": 8,
+        "JP": 9,
         "ONLINE": 1,
         "KR": 2,
         "TH": 1
@@ -524,6 +524,13 @@
           "endDate": "2026-10-09",
           "type": "기타",
           "country": "KR"
+        },
+        {
+          "name": "サブカル魂2026",
+          "startDate": "2026-10-10",
+          "endDate": "2026-10-11",
+          "type": "기타",
+          "country": "JP"
         },
         {
           "name": "대전콘텐츠페어 2026",
@@ -718,10 +725,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 7,
+    "newDiscoveries": 3,
     "dateChanges": 0,
-    "submissionUpdates": 1,
-    "totalChanges": 8,
+    "submissionUpdates": 3,
+    "totalChanges": 6,
     "note": ""
   }
 }

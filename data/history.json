@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-01T12:00:00.000Z",
+  "updatedAt": "2026-09-02T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-02",
+      "type": "discovered",
+      "eventId": "evt-060",
+      "name": "サブカル魂2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-02",
+      "type": "confirmed",
+      "eventId": "evt-040",
+      "name": "BIC 2026 온라인 페스티벌",
+      "detail": "접수 기간 확정: 마감 (학생부문 ~8/20)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-09-02",
+      "type": "confirmed",
+      "eventId": "evt-043",
+      "name": "BIC 2026 오프라인 페스티벌",
+      "detail": "접수 기간 확정: 마감 (학생부문 ~8/20)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-09-02",
+      "type": "confirmed",
+      "eventId": "evt-059",
+      "name": "ALT+G (제2회)",
+      "detail": "접수 기간 확정: 마감 (8/11~23)",
+      "country": "🇰🇷 한국"
+    },
     {
       "date": "2026-09-01",
       "type": "discovered",
@@ -22,14 +54,6 @@
       "type": "discovered",
       "eventId": "evt-066",
       "name": "どっかんナゴヤ 2026",
-      "detail": "신규 발견 (🇯🇵 일본)",
-      "country": "🇯🇵 일본"
-    },
-    {
-      "date": "2026-09-01",
-      "type": "discovered",
-      "eventId": "evt-067",
-      "name": "博麗電脳試遊会2026",
       "detail": "신규 발견 (🇯🇵 일본)",
       "country": "🇯🇵 일본"
     },
@@ -722,5 +746,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 86
+  "totalTracked": 87
 }
