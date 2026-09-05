@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:00:00.000Z",
+  "generatedAt": "2026-09-05T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -137,7 +137,7 @@
       "month": 2
     },
     {
-      "id": "evt-011",
+      "id": "evt-009",
       "name": "インディゲームマーケット6",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -152,7 +152,7 @@
       "month": 3
     },
     {
-      "id": "evt-009",
+      "id": "evt-010",
       "name": "TOKYO INDIE GAMES SUMMIT 2026 (TIGS2026)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -167,7 +167,7 @@
       "month": 3
     },
     {
-      "id": "evt-010",
+      "id": "evt-011",
       "name": "GEIDAI GAMES 07 東京藝術大学 게임코스展",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -242,7 +242,7 @@
       "month": 4
     },
     {
-      "id": "evt-019",
+      "id": "evt-016",
       "name": "栃木 INDIE GAME Devs Digger Ex",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -257,7 +257,7 @@
       "month": 5
     },
     {
-      "id": "evt-020",
+      "id": "evt-017",
       "name": "東京ゲームダンジョン12",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -272,7 +272,7 @@
       "month": 5
     },
     {
-      "id": "evt-016",
+      "id": "evt-018",
       "name": "PlayX4 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -287,7 +287,7 @@
       "month": 5
     },
     {
-      "id": "evt-017",
+      "id": "evt-019",
       "name": "BitSummit PUNCH 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -302,7 +302,7 @@
       "month": 5
     },
     {
-      "id": "evt-018",
+      "id": "evt-020",
       "name": "ILLUSTAR FES (봄 에디션)",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -377,7 +377,7 @@
       "month": 6
     },
     {
-      "id": "evt-027",
+      "id": "evt-025",
       "name": "九州ゲームアイランド",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -392,7 +392,7 @@
       "month": 6
     },
     {
-      "id": "evt-025",
+      "id": "evt-026",
       "name": "인디크래프트 네트워킹 데이",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -407,7 +407,7 @@
       "month": 6
     },
     {
-      "id": "evt-028",
+      "id": "evt-027",
       "name": "Dissonance #1",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -422,7 +422,7 @@
       "month": 6
     },
     {
-      "id": "evt-026",
+      "id": "evt-028",
       "name": "Build051 2026 (빌드051)",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -527,7 +527,7 @@
       "month": 7
     },
     {
-      "id": "evt-037",
+      "id": "evt-035",
       "name": "CEDEC2026 (Computer Entertainment Developers Conference)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -542,7 +542,7 @@
       "month": 7
     },
     {
-      "id": "evt-035",
+      "id": "evt-036",
       "name": "게임파빌리온jp2026夏 (Game Pavilion jp)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -557,7 +557,7 @@
       "month": 7
     },
     {
-      "id": "evt-036",
+      "id": "evt-037",
       "name": "디버그 이스케이프 룸 (Debug Escape Room)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -768,6 +768,21 @@
     },
     {
       "id": "evt-051",
+      "name": "日本デジタルゲーム学会 2026年夏季研究発表大会",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-12",
+      "venue": "미정",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "",
+      "url": "https://digrajapan.org/?page_id=11380",
+      "status": "upcoming",
+      "month": 9
+    },
+    {
+      "id": "evt-052",
       "name": "TGS 2026 (도쿄 게임쇼) ⭐5일",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -782,7 +797,7 @@
       "month": 9
     },
     {
-      "id": "evt-052",
+      "id": "evt-053",
       "name": "GXG × INDIE CRAFT 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -797,7 +812,7 @@
       "month": 9
     },
     {
-      "id": "evt-053",
+      "id": "evt-054",
       "name": "京都国際マンガ・アニメフェア2026 (京まふ)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -842,7 +857,7 @@
       "month": 9
     },
     {
-      "id": "evt-054",
+      "id": "evt-057",
       "name": "大月ゲームサミット2026 (Otsuki Game Summit)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -857,7 +872,7 @@
       "month": 9
     },
     {
-      "id": "evt-057",
+      "id": "evt-059",
       "name": "OSAKA INDIE GAMES SUMMIT 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -872,7 +887,7 @@
       "month": 10
     },
     {
-      "id": "evt-067",
+      "id": "evt-060",
       "name": "どっかんナゴヤ 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -887,7 +902,7 @@
       "month": 10
     },
     {
-      "id": "evt-068",
+      "id": "evt-061",
       "name": "博麗電脳試遊会2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -902,7 +917,7 @@
       "month": 10
     },
     {
-      "id": "evt-069",
+      "id": "evt-062",
       "name": "LudoNarraCon",
       "country": "🌏 온라인",
       "countryCode": "ONLINE",
@@ -917,7 +932,7 @@
       "month": 10
     },
     {
-      "id": "evt-059",
+      "id": "evt-063",
       "name": "ALT+G (제2회)",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -932,7 +947,7 @@
       "month": 10
     },
     {
-      "id": "evt-060",
+      "id": "evt-064",
       "name": "サブカル魂2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -947,7 +962,7 @@
       "month": 10
     },
     {
-      "id": "evt-061",
+      "id": "evt-065",
       "name": "대전콘텐츠페어 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -962,7 +977,7 @@
       "month": 10
     },
     {
-      "id": "evt-065",
+      "id": "evt-066",
       "name": "第8回全国エンタメまつり",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -977,7 +992,7 @@
       "month": 10
     },
     {
-      "id": "evt-070",
+      "id": "evt-067",
       "name": "Game Market 2026 Autumn",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -992,7 +1007,7 @@
       "month": 10
     },
     {
-      "id": "evt-066",
+      "id": "evt-068",
       "name": "DREAMSCAPE5",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1007,7 +1022,7 @@
       "month": 10
     },
     {
-      "id": "evt-062",
+      "id": "evt-069",
       "name": "gamescom asia 2026",
       "country": "🇹🇭 태국",
       "countryCode": "TH",
@@ -1022,7 +1037,7 @@
       "month": 10
     },
     {
-      "id": "evt-063",
+      "id": "evt-070",
       "name": "東京ゲームダンジョン14",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1037,7 +1052,7 @@
       "month": 10
     },
     {
-      "id": "evt-064",
+      "id": "evt-071",
       "name": "OTAFEST 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1050,6 +1065,36 @@
       "url": "https://x.com/OTACRUZinfo",
       "status": "upcoming",
       "month": 10
+    },
+    {
+      "id": "evt-072",
+      "name": "Unreal Fest Tokyo 2026",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-04",
+      "venue": "도쿄",
+      "type": "festival",
+      "typeLabel": "페스티벌",
+      "submissionPeriod": "",
+      "url": "https://www.unrealengine.com/events/unreal-fest-tokyo-2026",
+      "status": "upcoming",
+      "month": 11
+    },
+    {
+      "id": "evt-073",
+      "name": "アミューズメントエキスポ 2026",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "venue": "미정",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000167085.html",
+      "status": "upcoming",
+      "month": 11
     },
     {
       "id": "evt-074",
@@ -1067,7 +1112,7 @@
       "month": 11
     },
     {
-      "id": "evt-071",
+      "id": "evt-075",
       "name": "クリエイターズ文化祭2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1082,7 +1127,7 @@
       "month": 11
     },
     {
-      "id": "evt-072",
+      "id": "evt-076",
       "name": "Kita-Con (키타콘)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1112,7 +1157,7 @@
       "month": 11
     },
     {
-      "id": "evt-073",
+      "id": "evt-078",
       "name": "G-STAR 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1121,13 +1166,13 @@
       "venue": "부산 벡스코",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "8~9월 예정",
+      "submissionPeriod": "접수중 (인디 쇼케이스 2.0: Galaxy)",
       "url": "https://www.gstar.or.kr/",
       "status": "upcoming",
       "month": 11
     },
     {
-      "id": "evt-075",
+      "id": "evt-079",
       "name": "神戸ゲームラビリンス2026 (Kobe Game Labyrinth)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1142,7 +1187,7 @@
       "month": 11
     },
     {
-      "id": "evt-079",
+      "id": "evt-080",
       "name": "WePlay Expo 2026 + indiePlay 시상",
       "country": "🇨🇳 중국",
       "countryCode": "CN",
@@ -1157,7 +1202,7 @@
       "month": 11
     },
     {
-      "id": "evt-076",
+      "id": "evt-081",
       "name": "Indie Developers Conference 2026",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1172,7 +1217,7 @@
       "month": 11
     },
     {
-      "id": "evt-078",
+      "id": "evt-082",
       "name": "HORROR GALLERY",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1187,7 +1232,7 @@
       "month": 11
     },
     {
-      "id": "evt-084",
+      "id": "evt-083",
       "name": "INDIE Live Expo 2026.12.1",
       "country": "🌏 온라인",
       "countryCode": "ONLINE",
@@ -1202,7 +1247,7 @@
       "month": 12
     },
     {
-      "id": "evt-080",
+      "id": "evt-084",
       "name": "AGF 2026 (Anime×Game Festival)",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1217,7 +1262,7 @@
       "month": 12
     },
     {
-      "id": "evt-081",
+      "id": "evt-085",
       "name": "京都ゲームホリデー",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1232,7 +1277,7 @@
       "month": 12
     },
     {
-      "id": "evt-082",
+      "id": "evt-086",
       "name": "BEAVER ROCKS 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1247,7 +1292,7 @@
       "month": 12
     },
     {
-      "id": "evt-083",
+      "id": "evt-087",
       "name": "Comic Fiesta 2026",
       "country": "🇲🇾 말레이시아",
       "countryCode": "OTHER",
@@ -1262,7 +1307,7 @@
       "month": 12
     },
     {
-      "id": "evt-085",
+      "id": "evt-088",
       "name": "MY GAME FES Vol.4",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1277,7 +1322,7 @@
       "month": 12
     },
     {
-      "id": "evt-086",
+      "id": "evt-089",
       "name": "大阪ゲームダンジョン2",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1292,7 +1337,7 @@
       "month": 12
     },
     {
-      "id": "evt-087",
+      "id": "evt-090",
       "name": "Comiket C109 (Winter)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1308,12 +1353,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 87,
-    "upcomingEvents": 37,
+    "totalEvents": 90,
+    "upcomingEvents": 40,
     "pastEvents": 50,
-    "upcoming30Days": 7,
+    "upcoming30Days": 11,
     "byCountry": {
-      "JP": 60,
+      "JP": 63,
       "KR": 16,
       "ONLINE": 3,
       "CN": 6,
@@ -1322,11 +1367,11 @@
     },
     "byType": {
       "전시회": 32,
-      "페스티벌": 28,
+      "페스티벌": 29,
       "공모전": 2,
       "마켓": 4,
       "컨퍼런스": 7,
-      "기타": 9,
+      "기타": 11,
       "동인": 4,
       "게임잼": 1
     },
@@ -1339,9 +1384,9 @@
       "6": 8,
       "7": 10,
       "8": 11,
-      "9": 7,
+      "9": 8,
       "10": 13,
-      "11": 9,
+      "11": 11,
       "12": 8
     },
     "submissionOpen": 51,

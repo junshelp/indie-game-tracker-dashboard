@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T12:00:00.000Z",
-  "kstDate": "2026-09-02",
+  "generatedAt": "2026-09-05T12:00:00.000Z",
+  "kstDate": "2026-09-05",
   "monthly": {
     "1월": {
       "total": 4,
@@ -424,9 +424,9 @@
       ]
     },
     "9월": {
-      "total": 7,
+      "total": 8,
       "byCountry": {
-        "JP": 6,
+        "JP": 7,
         "KR": 1
       },
       "events": [
@@ -435,6 +435,13 @@
           "startDate": "2026-09-06",
           "endDate": "2026-09-06",
           "type": "전시회",
+          "country": "JP"
+        },
+        {
+          "name": "日本デジタルゲーム学会 2026年夏季研究発表大会",
+          "startDate": "2026-09-11",
+          "endDate": "2026-09-12",
+          "type": "기타",
           "country": "JP"
         },
         {
@@ -584,13 +591,27 @@
       ]
     },
     "11월": {
-      "total": 9,
+      "total": 11,
       "byCountry": {
-        "JP": 7,
+        "JP": 9,
         "KR": 1,
         "CN": 1
       },
       "events": [
+        {
+          "name": "Unreal Fest Tokyo 2026",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-04",
+          "type": "페스티벌",
+          "country": "JP"
+        },
+        {
+          "name": "アミューズメントエキスポ 2026",
+          "startDate": "2026-11-06",
+          "endDate": "2026-11-07",
+          "type": "기타",
+          "country": "JP"
+        },
         {
           "name": "デジゲー博2026 (디지게임엑스포)",
           "startDate": "2026-11-08",
@@ -727,8 +748,8 @@
   "weekly": {
     "newDiscoveries": 3,
     "dateChanges": 0,
-    "submissionUpdates": 3,
-    "totalChanges": 6,
+    "submissionUpdates": 1,
+    "totalChanges": 4,
     "note": ""
   }
 }
