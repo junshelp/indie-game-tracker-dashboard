@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-05T12:00:00.000Z",
+  "updatedAt": "2026-09-06T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-06",
+      "type": "confirmed",
+      "eventId": "evt-070",
+      "name": "東京ゲームダンジョン14",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-09-05",
       "type": "discovered",

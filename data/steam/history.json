@@ -1,6 +1,230 @@
 {
-  "updatedAt": "2026-09-05T12:00:00.000Z",
+  "updatedAt": "2026-09-06T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 4466880,
+      "name": "(TwwwT) The Witches Who Weave Timelines",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 5058920,
+      "name": "Hentai Femboy Cute",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 3084810,
+      "name": "Tower Lab",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 5005100,
+      "name": "Corgi Corgi Cor!",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 4977900,
+      "name": "Shelf Happens",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "new_entry",
+      "appid": 5090260,
+      "name": "Pierline",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 5020610,
+      "name": "Record of Chaos - Korean Chapter",
+      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 4321510,
+      "name": "With the Devilish Her…",
+      "detail": "Top 63에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 5078600,
+      "name": "Load Factor",
+      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 5064400,
+      "name": "HubMaster",
+      "detail": "Top 63에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 4549300,
+      "name": "My Dearest Direst Disaster",
+      "detail": "Top 63에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 3435190,
+      "name": "Snowdrop and the Four Sisters",
+      "detail": "Top 63에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "dropped",
+      "appid": 5088120,
+      "name": "水浒英雄传：八幕战役",
+      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5045260,
+      "name": "Summer of Singing Insects",
+      "detail": "랭크 변동: #20 → #15 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5104660,
+      "name": "the Handyman",
+      "detail": "랭크 변동: #19 → #14 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4973460,
+      "name": "The Ash Remembers",
+      "detail": "랭크 변동: #21 → #16 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5103400,
+      "name": "Sue your parents",
+      "detail": "랭크 변동: #12 → #7 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4992680,
+      "name": "Breezy Blooms",
+      "detail": "랭크 변동: #24 → #19 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4099120,
+      "name": "My Darling Dark Elf",
+      "detail": "랭크 변동: #14 → #9 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5219120,
+      "name": "Moon Swarm Demo",
+      "detail": "랭크 변동: #28 → #23 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4908980,
+      "name": "Aethercrypt",
+      "detail": "랭크 변동: #11 → #6 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5192890,
+      "name": "Crypt Survivor Demo",
+      "detail": "랭크 변동: #13 → #8 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4704580,
+      "name": "The Hunter's Inn",
+      "detail": "랭크 변동: #22 → #17 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4938450,
+      "name": "BLACKOUT: Fatal Exposure Demo",
+      "detail": "랭크 변동: #18 → #12 (↑6)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5129430,
+      "name": "Arcanum Idle",
+      "detail": "랭크 변동: #15 → #10 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 3549150,
+      "name": "Leap Tactics",
+      "detail": "랭크 변동: #10 → #4 (↑6)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4050400,
+      "name": "Pyra",
+      "detail": "랭크 변동: #26 → #21 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 4429670,
+      "name": "The Ayna",
+      "detail": "랭크 변동: #30 → #25 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5097840,
+      "name": "Spellbound &amp; Shelved",
+      "detail": "랭크 변동: #29 → #24 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5186680,
+      "name": "Weaposy Demo",
+      "detail": "랭크 변동: #16 → #11 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5052540,
+      "name": "Death by Taxes Demo",
+      "detail": "랭크 변동: #23 → #18 (↑5)"
+    },
+    {
+      "date": "2026-09-06",
+      "type": "rank_change",
+      "appid": 5158270,
+      "name": "Don't Touch Me - Goblin Zombies",
+      "detail": "랭크 변동: #8 → #3 (↑5)"
+    },
     {
       "date": "2026-09-05",
       "type": "new_entry",

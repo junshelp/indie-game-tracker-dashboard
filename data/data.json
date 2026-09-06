@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T12:00:00.000Z",
+  "generatedAt": "2026-09-06T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1046,7 +1046,7 @@
       "venue": "도쿄 하마마츠초",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "출전접수 8/21(금) 20:00~ (선착순 270枠)",
+      "submissionPeriod": "마감",
       "url": "https://tokyogamedungeon.com/",
       "status": "upcoming",
       "month": 10
