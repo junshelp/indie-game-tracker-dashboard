@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:00:00.000Z",
+  "generatedAt": "2026-09-07T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -460,6 +460,20 @@
       "review_summary": "",
       "wishlist_rank": 18,
       "source": "top_wishlisted",
+      "developers": [
+        "Studio Rassvet"
+      ],
+      "publishers": [
+        "Studio Rassvet"
+      ],
+      "genres": [
+        "Casual",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "“I Have No Change” is a first-person narrative game that immerses players in the atmosphere of a night kiosk filled with stories, melancholia, and the reflections of residents from Russia’s regions.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3426150/header.jpg?t=1779138020",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3426150/"
     },
@@ -564,89 +578,39 @@
     },
     {
       "steam_rank": 28,
-      "appid": 3115160,
-      "name": "Warhammer 40,000: Boltgun 2",
-      "release_date": "14 Oct, 2026",
-      "review_summary": "",
-      "wishlist_rank": 28,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3115160/"
-    },
-    {
-      "steam_rank": 29,
-      "appid": 3590650,
-      "name": "OKU",
-      "release_date": "To be announced",
-      "review_summary": "",
-      "wishlist_rank": 29,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3590650/"
-    },
-    {
-      "steam_rank": 30,
       "appid": 3271280,
       "name": "Shroom and Gloom",
       "release_date": "10 Sep, 2026",
       "review_summary": "",
-      "wishlist_rank": 30,
+      "wishlist_rank": 28,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3271280/"
     },
     {
+      "steam_rank": 29,
+      "appid": 3115160,
+      "name": "Warhammer 40,000: Boltgun 2",
+      "release_date": "14 Oct, 2026",
+      "review_summary": "",
+      "wishlist_rank": 29,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3115160/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 3590650,
+      "name": "OKU",
+      "release_date": "To be announced",
+      "review_summary": "",
+      "wishlist_rank": 30,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3590650/"
+    },
+    {
       "steam_rank": 1,
-      "appid": 4916790,
-      "name": "Last Haven: Idle Survival",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4916790/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 5048570,
-      "name": "Invictvs",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5048570/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 5158270,
-      "name": "Don't Touch Me - Goblin Zombies",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5158270/"
-    },
-    {
-      "steam_rank": 4,
-      "appid": 3549150,
-      "name": "Leap Tactics",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3549150/"
-    },
-    {
-      "steam_rank": 5,
-      "appid": 4813750,
-      "name": "Speed Weaver",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4813750/"
-    },
-    {
-      "steam_rank": 6,
       "appid": 4908980,
       "name": "Aethercrypt",
       "release_date": "6 Sep, 2026",
@@ -656,7 +620,7 @@
       "store_url": "https://store.steampowered.com/app/4908980/"
     },
     {
-      "steam_rank": 7,
+      "steam_rank": 2,
       "appid": 5103400,
       "name": "Sue your parents",
       "release_date": "6 Sep, 2026",
@@ -666,7 +630,7 @@
       "store_url": "https://store.steampowered.com/app/5103400/"
     },
     {
-      "steam_rank": 8,
+      "steam_rank": 3,
       "appid": 5192890,
       "name": "Crypt Survivor Demo",
       "release_date": "6 Sep, 2026",
@@ -676,7 +640,7 @@
       "store_url": "https://store.steampowered.com/app/5192890/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 4,
       "appid": 4099120,
       "name": "My Darling Dark Elf",
       "release_date": "6 Sep, 2026",
@@ -686,7 +650,7 @@
       "store_url": "https://store.steampowered.com/app/4099120/"
     },
     {
-      "steam_rank": 10,
+      "steam_rank": 5,
       "appid": 5129430,
       "name": "Arcanum Idle",
       "release_date": "6 Sep, 2026",
@@ -696,7 +660,7 @@
       "store_url": "https://store.steampowered.com/app/5129430/"
     },
     {
-      "steam_rank": 11,
+      "steam_rank": 6,
       "appid": 5186680,
       "name": "Weaposy Demo",
       "release_date": "6 Sep, 2026",
@@ -706,17 +670,7 @@
       "store_url": "https://store.steampowered.com/app/5186680/"
     },
     {
-      "steam_rank": 12,
-      "appid": 4938450,
-      "name": "BLACKOUT: Fatal Exposure Demo",
-      "release_date": "6 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4938450/"
-    },
-    {
-      "steam_rank": 13,
+      "steam_rank": 7,
       "appid": 5183990,
       "name": "Jack's Achievements Simulator: Dog &amp; Lava Demo",
       "release_date": "6 Sep, 2026",
@@ -726,7 +680,7 @@
       "store_url": "https://store.steampowered.com/app/5183990/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 8,
       "appid": 5104660,
       "name": "the Handyman",
       "release_date": "6 Sep, 2026",
@@ -736,7 +690,7 @@
       "store_url": "https://store.steampowered.com/app/5104660/"
     },
     {
-      "steam_rank": 15,
+      "steam_rank": 9,
       "appid": 5045260,
       "name": "Summer of Singing Insects",
       "release_date": "7 Sep, 2026",
@@ -746,7 +700,7 @@
       "store_url": "https://store.steampowered.com/app/5045260/"
     },
     {
-      "steam_rank": 16,
+      "steam_rank": 10,
       "appid": 4973460,
       "name": "The Ash Remembers",
       "release_date": "7 Sep, 2026",
@@ -756,7 +710,7 @@
       "store_url": "https://store.steampowered.com/app/4973460/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 11,
       "appid": 4704580,
       "name": "The Hunter's Inn",
       "release_date": "7 Sep, 2026",
@@ -766,7 +720,7 @@
       "store_url": "https://store.steampowered.com/app/4704580/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 12,
       "appid": 5052540,
       "name": "Death by Taxes Demo",
       "release_date": "7 Sep, 2026",
@@ -776,7 +730,17 @@
       "store_url": "https://store.steampowered.com/app/5052540/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 13,
+      "appid": 4304820,
+      "name": "Locktale",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4304820/"
+    },
+    {
+      "steam_rank": 14,
       "appid": 4992680,
       "name": "Breezy Blooms",
       "release_date": "7 Sep, 2026",
@@ -786,7 +750,7 @@
       "store_url": "https://store.steampowered.com/app/4992680/"
     },
     {
-      "steam_rank": 20,
+      "steam_rank": 15,
       "appid": 4466880,
       "name": "(TwwwT) The Witches Who Weave Timelines",
       "release_date": "7 Sep, 2026",
@@ -796,7 +760,7 @@
       "store_url": "https://store.steampowered.com/app/4466880/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 16,
       "appid": 4050400,
       "name": "Pyra",
       "release_date": "7 Sep, 2026",
@@ -806,7 +770,7 @@
       "store_url": "https://store.steampowered.com/app/4050400/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 17,
       "appid": 5151910,
       "name": "Skillpoint Warrior Demo",
       "release_date": "7 Sep, 2026",
@@ -816,7 +780,7 @@
       "store_url": "https://store.steampowered.com/app/5151910/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 18,
       "appid": 5219120,
       "name": "Moon Swarm Demo",
       "release_date": "7 Sep, 2026",
@@ -826,7 +790,7 @@
       "store_url": "https://store.steampowered.com/app/5219120/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 19,
       "appid": 5097840,
       "name": "Spellbound &amp; Shelved",
       "release_date": "7 Sep, 2026",
@@ -836,7 +800,7 @@
       "store_url": "https://store.steampowered.com/app/5097840/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 20,
       "appid": 4429670,
       "name": "The Ayna",
       "release_date": "7 Sep, 2026",
@@ -846,7 +810,7 @@
       "store_url": "https://store.steampowered.com/app/4429670/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 21,
       "appid": 4977900,
       "name": "Shelf Happens",
       "release_date": "7 Sep, 2026",
@@ -856,7 +820,17 @@
       "store_url": "https://store.steampowered.com/app/4977900/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 22,
+      "appid": 5016700,
+      "name": "Tower Lab - Supporter Pack",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5016700/"
+    },
+    {
+      "steam_rank": 23,
       "appid": 5090260,
       "name": "Pierline",
       "release_date": "7 Sep, 2026",
@@ -866,7 +840,7 @@
       "store_url": "https://store.steampowered.com/app/5090260/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 24,
       "appid": 3084810,
       "name": "Tower Lab",
       "release_date": "7 Sep, 2026",
@@ -876,7 +850,7 @@
       "store_url": "https://store.steampowered.com/app/3084810/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 25,
       "appid": 5058920,
       "name": "Hentai Femboy Cute",
       "release_date": "7 Sep, 2026",
@@ -886,7 +860,7 @@
       "store_url": "https://store.steampowered.com/app/5058920/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 26,
       "appid": 5005100,
       "name": "Corgi Corgi Cor!",
       "release_date": "7 Sep, 2026",
@@ -896,7 +870,47 @@
       "store_url": "https://store.steampowered.com/app/5005100/"
     },
     {
-      "steam_rank": 1,
+      "steam_rank": 27,
+      "appid": 5203150,
+      "name": "Pillow vs Chickens Demo",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5203150/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 5131180,
+      "name": "Doomsayer",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5131180/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 5131590,
+      "name": "Tombstone Showdown",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5131590/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 4945040,
+      "name": "SmashCore",
+      "release_date": "7 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4945040/"
+    },
+    {
+      "steam_rank": 2,
       "appid": 4001890,
       "name": "How to Fish",
       "release_date": "20 Aug, 2026",
@@ -918,12 +932,12 @@
       "coming_soon": false,
       "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
-      "recommendations": 47670,
+      "recommendations": 49087,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4001890/"
     },
     {
-      "steam_rank": 8,
+      "steam_rank": 6,
       "appid": 4656000,
       "name": "BOMBANANA!",
       "release_date": "2 Sep, 2026",
@@ -943,64 +957,37 @@
       "coming_soon": false,
       "short_description": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve p",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
-      "recommendations": 895,
+      "recommendations": 1121,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4656000/"
-    },
-    {
-      "steam_rank": 27,
-      "appid": 4538960,
-      "name": "ZENONIA 1",
-      "release_date": "31 Aug, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Com2us Holdings",
-        "CFK Co., Ltd."
-      ],
-      "publishers": [
-        "Com2us Holdings"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Remember the RPG that defined a generation? ZENONIA is back—faithfully restored and now on Steam. Relive the adventure that kept you playing for hours, or experience it for the first time.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538960/f25c2ff778bf89922cba126556625d47a8a30ffa/header.jpg?t=1788416744",
-      "recommendations": 326,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/4538960/"
     }
   ],
   "summary": {
-    "total": 63,
+    "total": 62,
     "free_games": 1,
-    "released": 3,
+    "released": 2,
     "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
       [
         "Indie",
-        19
+        18
       ],
       [
         "Action",
-        10
-      ],
-      [
-        "Adventure",
         9
       ],
       [
         "Simulation",
+        9
+      ],
+      [
+        "Adventure",
         8
       ],
       [
         "Casual",
-        7
+        8
       ]
     ],
     "top_developers": [

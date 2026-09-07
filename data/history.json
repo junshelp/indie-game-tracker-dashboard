@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-06T12:00:00.000Z",
+  "updatedAt": "2026-09-07T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-07",
+      "type": "discovered",
+      "eventId": "evt-039",
+      "name": "ILLUSTAR FES 11",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
     {
       "date": "2026-09-06",
       "type": "confirmed",
@@ -786,5 +794,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 90
+  "totalTracked": 91
 }

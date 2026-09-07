@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T12:00:00.000Z",
-  "kstDate": "2026-09-06",
+  "generatedAt": "2026-09-07T12:00:00.000Z",
+  "kstDate": "2026-09-07",
   "monthly": {
     "1월": {
       "total": 4,
@@ -338,12 +338,19 @@
       ]
     },
     "8월": {
-      "total": 11,
+      "total": 12,
       "byCountry": {
-        "JP": 8,
-        "KR": 3
+        "KR": 4,
+        "JP": 8
       },
       "events": [
+        {
+          "name": "ILLUSTAR FES 11",
+          "startDate": "2026-08-01",
+          "endDate": "2026-08-02",
+          "type": "페스티벌",
+          "country": "KR"
+        },
         {
           "name": "즈쿠즈쿠2026",
           "startDate": "2026-08-01",
@@ -746,9 +753,9 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 1,
     "dateChanges": 0,
-    "submissionUpdates": 1,
+    "submissionUpdates": 0,
     "totalChanges": 1,
     "note": ""
   }
