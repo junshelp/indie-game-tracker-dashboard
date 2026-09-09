@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-08T12:00:00.000Z",
+  "updatedAt": "2026-09-09T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-059",
+      "name": "StellarFest (9월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-060",
+      "name": "GameJam EXPO (9월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-061",
+      "name": "インディーズゲームあつめました！ (9월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-076",
+      "name": "秋葉原インディーゲームショウ (10월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-077",
+      "name": "GAME CREATORS MARKET #13",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-089",
+      "name": "Sakura Indie Open Mic Season2 (11월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-090",
+      "name": "インディーズゲームあつめました！ (11월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-099",
+      "name": "インディーゲームフェスティバル @大阪梅田 (12월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "discovered",
+      "eventId": "evt-100",
+      "name": "GameJam EXPO (12월)",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-09-07",
       "type": "discovered",
@@ -794,5 +866,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 91
+  "totalTracked": 100
 }

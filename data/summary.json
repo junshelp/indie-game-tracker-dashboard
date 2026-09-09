@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T12:00:00.000Z",
-  "kstDate": "2026-09-08",
+  "generatedAt": "2026-09-09T12:00:00.000Z",
+  "kstDate": "2026-09-09",
   "monthly": {
     "1월": {
       "total": 4,
@@ -431,9 +431,9 @@
       ]
     },
     "9월": {
-      "total": 8,
+      "total": 11,
       "byCountry": {
-        "JP": 7,
+        "JP": 10,
         "KR": 1
       },
       "events": [
@@ -449,6 +449,20 @@
           "startDate": "2026-09-11",
           "endDate": "2026-09-12",
           "type": "기타",
+          "country": "JP"
+        },
+        {
+          "name": "StellarFest (9월)",
+          "startDate": "2026-09-13",
+          "endDate": "2026-09-13",
+          "type": "페스티벌",
+          "country": "JP"
+        },
+        {
+          "name": "GameJam EXPO (9월)",
+          "startDate": "2026-09-14",
+          "endDate": "2026-09-14",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -492,13 +506,20 @@
           "endDate": "2026-09-26",
           "type": "컨퍼런스",
           "country": "JP"
+        },
+        {
+          "name": "インディーズゲームあつめました！ (9월)",
+          "startDate": "2026-09-27",
+          "endDate": "2026-09-27",
+          "type": "기타",
+          "country": "JP"
         }
       ]
     },
     "10월": {
-      "total": 13,
+      "total": 15,
       "byCountry": {
-        "JP": 9,
+        "JP": 11,
         "ONLINE": 1,
         "KR": 2,
         "TH": 1
@@ -522,6 +543,13 @@
           "name": "博麗電脳試遊会2026",
           "startDate": "2026-10-03",
           "endDate": "2026-10-03",
+          "type": "기타",
+          "country": "JP"
+        },
+        {
+          "name": "秋葉原インディーゲームショウ (10월)",
+          "startDate": "2026-10-05",
+          "endDate": "2026-10-05",
           "type": "기타",
           "country": "JP"
         },
@@ -575,6 +603,13 @@
           "country": "JP"
         },
         {
+          "name": "GAME CREATORS MARKET #13",
+          "startDate": "2026-10-26",
+          "endDate": "2026-10-26",
+          "type": "기타",
+          "country": "JP"
+        },
+        {
           "name": "gamescom asia 2026",
           "startDate": "2026-10-29",
           "endDate": "2026-10-11",
@@ -598,13 +633,20 @@
       ]
     },
     "11월": {
-      "total": 11,
+      "total": 13,
       "byCountry": {
-        "JP": 9,
+        "JP": 11,
         "KR": 1,
         "CN": 1
       },
       "events": [
+        {
+          "name": "Sakura Indie Open Mic Season2 (11월)",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-01",
+          "type": "기타",
+          "country": "JP"
+        },
         {
           "name": "Unreal Fest Tokyo 2026",
           "startDate": "2026-11-03",
@@ -681,15 +723,22 @@
           "endDate": "2026-11-28",
           "type": "전시회",
           "country": "JP"
+        },
+        {
+          "name": "インディーズゲームあつめました！ (11월)",
+          "startDate": "2026-11-29",
+          "endDate": "2026-11-29",
+          "type": "기타",
+          "country": "JP"
         }
       ]
     },
     "12월": {
-      "total": 8,
+      "total": 10,
       "byCountry": {
         "ONLINE": 1,
         "KR": 2,
-        "JP": 4,
+        "JP": 6,
         "OTHER": 1
       },
       "events": [
@@ -715,6 +764,13 @@
           "country": "JP"
         },
         {
+          "name": "インディーゲームフェスティバル @大阪梅田 (12월)",
+          "startDate": "2026-12-13",
+          "endDate": "2026-12-13",
+          "type": "페스티벌",
+          "country": "JP"
+        },
+        {
           "name": "BEAVER ROCKS 2026",
           "startDate": "2026-12-18",
           "endDate": "2026-12-20",
@@ -727,6 +783,13 @@
           "endDate": "2026-12-20",
           "type": "페스티벌",
           "country": "OTHER"
+        },
+        {
+          "name": "GameJam EXPO (12월)",
+          "startDate": "2026-12-21",
+          "endDate": "2026-12-21",
+          "type": "전시회",
+          "country": "JP"
         },
         {
           "name": "MY GAME FES Vol.4",
@@ -753,10 +816,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 9,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 0,
+    "totalChanges": 9,
     "note": ""
   }
 }

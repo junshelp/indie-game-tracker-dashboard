@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:00:00.000Z",
+  "generatedAt": "2026-09-09T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -492,7 +492,7 @@
       "steam_rank": 20,
       "appid": 4293910,
       "name": "XenoFeels",
-      "release_date": "2026",
+      "release_date": "Coming soon",
       "review_summary": "",
       "wishlist_rank": 20,
       "source": "top_wishlisted",
@@ -611,303 +611,303 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5217860,
-      "name": "Holon Demo",
-      "release_date": "7 Sep, 2026",
+      "appid": 4214830,
+      "name": "Dawn Dew - Realm Heart",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5217860/"
+      "store_url": "https://store.steampowered.com/app/4214830/"
     },
     {
       "steam_rank": 2,
-      "appid": 4924230,
-      "name": "Seaside Wash Demo",
-      "release_date": "7 Sep, 2026",
+      "appid": 4741230,
+      "name": "CoAnnCo",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4924230/"
+      "store_url": "https://store.steampowered.com/app/4741230/"
     },
     {
       "steam_rank": 3,
-      "appid": 4587610,
-      "name": "Dice Tavern: Farkle Roguelike",
-      "release_date": "7 Sep, 2026",
+      "appid": 5177990,
+      "name": "UpDown DX",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4587610/"
+      "store_url": "https://store.steampowered.com/app/5177990/"
     },
     {
       "steam_rank": 4,
-      "appid": 4115370,
-      "name": "Dragon Tiles",
-      "release_date": "7 Sep, 2026",
+      "appid": 4915300,
+      "name": "CARDCRAFTER",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4115370/"
+      "store_url": "https://store.steampowered.com/app/4915300/"
     },
     {
       "steam_rank": 5,
-      "appid": 4994490,
-      "name": "Run to Run",
-      "release_date": "7 Sep, 2026",
+      "appid": 4479060,
+      "name": "Iron Wasteland",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4994490/"
+      "store_url": "https://store.steampowered.com/app/4479060/"
     },
     {
       "steam_rank": 6,
-      "appid": 3508260,
-      "name": "Hex Town",
-      "release_date": "7 Sep, 2026",
+      "appid": 5113600,
+      "name": "All Our Winters",
+      "release_date": "8 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3508260/"
+      "store_url": "https://store.steampowered.com/app/5113600/"
     },
     {
       "steam_rank": 7,
-      "appid": 5005150,
-      "name": "Flood With Friends",
-      "release_date": "7 Sep, 2026",
+      "appid": 3971950,
+      "name": "In Falsus",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5005150/"
+      "store_url": "https://store.steampowered.com/app/3971950/"
     },
     {
       "steam_rank": 8,
-      "appid": 5213200,
-      "name": "Echo Harvest Demo",
-      "release_date": "7 Sep, 2026",
+      "appid": 2459840,
+      "name": "Barbarian Saga: The Beastmaster",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5213200/"
+      "store_url": "https://store.steampowered.com/app/2459840/"
     },
     {
       "steam_rank": 9,
-      "appid": 5166060,
-      "name": "SwapHeads! Demo",
-      "release_date": "8 Sep, 2026",
+      "appid": 3711050,
+      "name": "BeaterCore",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5166060/"
+      "store_url": "https://store.steampowered.com/app/3711050/"
     },
     {
       "steam_rank": 10,
-      "appid": 5116750,
-      "name": "Violet Stardust",
-      "release_date": "8 Sep, 2026",
+      "appid": 5205900,
+      "name": "弾幕乱舞 ― バレットバラージュ ― Demo",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5116750/"
+      "store_url": "https://store.steampowered.com/app/5205900/"
     },
     {
       "steam_rank": 11,
-      "appid": 4235980,
-      "name": "Let Me Poo!",
-      "release_date": "8 Sep, 2026",
+      "appid": 4313880,
+      "name": "一落春The First Spring Demo",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4235980/"
+      "store_url": "https://store.steampowered.com/app/4313880/"
     },
     {
       "steam_rank": 12,
-      "appid": 4989230,
-      "name": "Baryum",
-      "release_date": "8 Sep, 2026",
+      "appid": 5116880,
+      "name": "CATAL CARTA",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4989230/"
+      "store_url": "https://store.steampowered.com/app/5116880/"
     },
     {
       "steam_rank": 13,
-      "appid": 5173960,
-      "name": "groky",
-      "release_date": "8 Sep, 2026",
+      "appid": 5152450,
+      "name": "Cutie Clicker",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5173960/"
+      "store_url": "https://store.steampowered.com/app/5152450/"
     },
     {
       "steam_rank": 14,
-      "appid": 5131150,
-      "name": "Hack You Demo",
-      "release_date": "8 Sep, 2026",
+      "appid": 5128370,
+      "name": "Coquí Crusader: Defenders of Borikén",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5131150/"
+      "store_url": "https://store.steampowered.com/app/5128370/"
     },
     {
       "steam_rank": 15,
-      "appid": 5131200,
-      "name": "Fortuna's Ledger",
-      "release_date": "8 Sep, 2026",
+      "appid": 4664470,
+      "name": "Bookstore Incremental",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5131200/"
+      "store_url": "https://store.steampowered.com/app/4664470/"
     },
     {
       "steam_rank": 16,
-      "appid": 3901610,
-      "name": "Factory Default: Build, Trade, Repeat",
-      "release_date": "8 Sep, 2026",
+      "appid": 4926780,
+      "name": "Moon Shop Simulator",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3901610/"
+      "store_url": "https://store.steampowered.com/app/4926780/"
     },
     {
       "steam_rank": 17,
-      "appid": 5075030,
-      "name": "Trouble Thief",
-      "release_date": "8 Sep, 2026",
+      "appid": 3105970,
+      "name": "ArmedAbyss",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5075030/"
+      "store_url": "https://store.steampowered.com/app/3105970/"
     },
     {
       "steam_rank": 18,
-      "appid": 4964730,
-      "name": "MapCity",
-      "release_date": "8 Sep, 2026",
+      "appid": 4380280,
+      "name": "Slay the Horde",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4964730/"
+      "store_url": "https://store.steampowered.com/app/4380280/"
     },
     {
       "steam_rank": 19,
-      "appid": 5010700,
-      "name": "Flip &amp; Shop Simulator: Prologue",
-      "release_date": "8 Sep, 2026",
+      "appid": 5018390,
+      "name": "Beyond Yardwork Simulator Prologue",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5010700/"
+      "store_url": "https://store.steampowered.com/app/5018390/"
     },
     {
       "steam_rank": 20,
-      "appid": 5091930,
-      "name": "Mudang",
-      "release_date": "8 Sep, 2026",
+      "appid": 5214890,
+      "name": "Halley's Big Catch Demo",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5091930/"
+      "store_url": "https://store.steampowered.com/app/5214890/"
     },
     {
       "steam_rank": 21,
-      "appid": 3609280,
-      "name": "Dicewayfarer",
-      "release_date": "8 Sep, 2026",
+      "appid": 4977580,
+      "name": "Lost Item",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3609280/"
+      "store_url": "https://store.steampowered.com/app/4977580/"
     },
     {
       "steam_rank": 22,
-      "appid": 5131220,
-      "name": "Anvil and Alembic",
-      "release_date": "8 Sep, 2026",
+      "appid": 5147340,
+      "name": "CPU: Computing Potatoes Unlimited Demo",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5131220/"
+      "store_url": "https://store.steampowered.com/app/5147340/"
     },
     {
       "steam_rank": 23,
-      "appid": 5131600,
-      "name": "Survindust Demo",
-      "release_date": "8 Sep, 2026",
+      "appid": 3874450,
+      "name": "Sunset Summit",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5131600/"
+      "store_url": "https://store.steampowered.com/app/3874450/"
     },
     {
       "steam_rank": 24,
-      "appid": 5014150,
-      "name": "Resettle Demo",
-      "release_date": "8 Sep, 2026",
+      "appid": 5142660,
+      "name": "Arx Temporis Demo",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5014150/"
+      "store_url": "https://store.steampowered.com/app/5142660/"
     },
     {
       "steam_rank": 25,
-      "appid": 4142290,
-      "name": "Monster Girl Evolution",
-      "release_date": "8 Sep, 2026",
+      "appid": 4972840,
+      "name": "Horny Femboy Vampires Supporter Pack",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4142290/"
+      "store_url": "https://store.steampowered.com/app/4972840/"
     },
     {
       "steam_rank": 26,
-      "appid": 3892390,
-      "name": "Horse Magic",
-      "release_date": "8 Sep, 2026",
+      "appid": 4972850,
+      "name": "Horny Femboy Vampires Wallpaper Pack",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3892390/"
+      "store_url": "https://store.steampowered.com/app/4972850/"
     },
     {
       "steam_rank": 27,
-      "appid": 4991340,
-      "name": "Might &amp; Poison Mushroom",
-      "release_date": "8 Sep, 2026",
+      "appid": 5054380,
+      "name": "Super Glitch Dash",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4991340/"
+      "store_url": "https://store.steampowered.com/app/5054380/"
     },
     {
       "steam_rank": 28,
-      "appid": 3170490,
-      "name": "Cat Me If You Can",
-      "release_date": "8 Sep, 2026",
+      "appid": 5162480,
+      "name": "SPACEJK - 月市 常連札",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3170490/"
+      "store_url": "https://store.steampowered.com/app/5162480/"
     },
     {
       "steam_rank": 29,
-      "appid": 5119830,
-      "name": "MergeCaster",
-      "release_date": "8 Sep, 2026",
+      "appid": 5111790,
+      "name": "A Dreaming Ladybug",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5119830/"
+      "store_url": "https://store.steampowered.com/app/5111790/"
     },
     {
       "steam_rank": 30,
-      "appid": 3391670,
-      "name": "Secret Kinks",
-      "release_date": "8 Sep, 2026",
+      "appid": 4956720,
+      "name": "Horny Femboy Vampires",
+      "release_date": "9 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3391670/"
+      "store_url": "https://store.steampowered.com/app/4956720/"
     },
     {
       "steam_rank": 2,
@@ -932,12 +932,12 @@
       "coming_soon": false,
       "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
-      "recommendations": 50275,
+      "recommendations": 51212,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4001890/"
     },
     {
-      "steam_rank": 5,
+      "steam_rank": 3,
       "appid": 4656000,
       "name": "BOMBANANA!",
       "release_date": "2 Sep, 2026",
@@ -957,7 +957,7 @@
       "coming_soon": false,
       "short_description": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve p",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
-      "recommendations": 1317,
+      "recommendations": 1490,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4656000/"
     }

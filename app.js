@@ -27,9 +27,9 @@ const els = {
 async function init() {
   try {
     const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=27'),
-      fetch('./data/history.json?v=27'),
-      fetch('./data/summary.json?v=27'),
+      fetch('./data/data.json?v=28'),
+      fetch('./data/history.json?v=28'),
+      fetch('./data/summary.json?v=28'),
     ]);
     state.data = await dataRes.json();
     state.history = await historyRes.json();
@@ -368,8 +368,8 @@ const steamState = {
 async function loadSteamData() {
   try {
     const [dataRes, historyRes] = await Promise.all([
-      fetch('./data/steam/data.json?v=27'),
-      fetch('./data/steam/history.json?v=27'),
+      fetch('./data/steam/data.json?v=28'),
+      fetch('./data/steam/history.json?v=28'),
     ]);
     steamState.data = await dataRes.json();
     steamState.history = await historyRes.json();
