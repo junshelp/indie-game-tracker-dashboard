@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T12:00:00.000Z",
-  "kstDate": "2026-09-10",
+  "generatedAt": "2026-09-11T12:00:00.000Z",
+  "kstDate": "2026-09-11",
   "monthly": {
     "1월": {
       "total": 4,
@@ -452,6 +452,13 @@
           "country": "JP"
         },
         {
+          "name": "GXG × INDIE CRAFT 2026",
+          "startDate": "2026-09-11",
+          "endDate": "2026-09-12",
+          "type": "전시회",
+          "country": "KR"
+        },
+        {
           "name": "StellarFest (9월)",
           "startDate": "2026-09-13",
           "endDate": "2026-09-13",
@@ -471,13 +478,6 @@
           "endDate": "2026-09-21",
           "type": "전시회",
           "country": "JP"
-        },
-        {
-          "name": "GXG × INDIE CRAFT 2026",
-          "startDate": "2026-09-18",
-          "endDate": "2026-09-19",
-          "type": "전시회",
-          "country": "KR"
         },
         {
           "name": "京都国際マンガ・アニメフェア2026 (京まふ)",
@@ -817,9 +817,9 @@
   },
   "weekly": {
     "newDiscoveries": 0,
-    "dateChanges": 0,
-    "submissionUpdates": 0,
-    "totalChanges": 0,
+    "dateChanges": 1,
+    "submissionUpdates": 2,
+    "totalChanges": 3,
     "note": ""
   }
 }

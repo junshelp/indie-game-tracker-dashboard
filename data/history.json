@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-10T12:00:00.000Z",
+  "updatedAt": "2026-09-11T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-09-11",
+      "type": "changed",
+      "eventId": "evt-054",
+      "name": "GXG × INDIE CRAFT 2026",
+      "detail": "일정 변경: 2026-09-18 → 2026-09-11",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "confirmed",
+      "eventId": "evt-054",
+      "name": "GXG × INDIE CRAFT 2026",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "confirmed",
+      "eventId": "evt-091",
+      "name": "INDIE Live Expo 2026.12.1",
+      "detail": "접수 기간 확정: 접수중 (~9/29)",
+      "country": "🌏 온라인"
+    },
     {
       "date": "2026-09-09",
       "type": "discovered",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:00:00.000Z",
+  "generatedAt": "2026-09-11T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -797,6 +797,21 @@
       "month": 9
     },
     {
+      "id": "evt-054",
+      "name": "GXG × INDIE CRAFT 2026",
+      "country": "🇰🇷 한국",
+      "countryCode": "KR",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-12",
+      "venue": "서울 판교",
+      "type": "expo",
+      "typeLabel": "전시회",
+      "submissionPeriod": "마감",
+      "url": "https://www.indiecraft.or.kr/",
+      "status": "upcoming",
+      "month": 9
+    },
+    {
       "id": "evt-059",
       "name": "StellarFest (9월)",
       "country": "🇯🇵 일본",
@@ -838,21 +853,6 @@
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
       "url": "https://events.nikkeibp.co.jp/tgs/2026/",
-      "status": "upcoming",
-      "month": 9
-    },
-    {
-      "id": "evt-054",
-      "name": "GXG × INDIE CRAFT 2026",
-      "country": "🇰🇷 한국",
-      "countryCode": "KR",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "venue": "서울",
-      "type": "expo",
-      "typeLabel": "전시회",
-      "submissionPeriod": "",
-      "url": "https://www.indiecraft.or.kr/",
       "status": "upcoming",
       "month": 9
     },
@@ -1361,7 +1361,7 @@
       "venue": "온라인 생중계",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "마감",
+      "submissionPeriod": "접수중 (~9/29)",
       "url": "https://indie.live-expo.games/ko/",
       "status": "upcoming",
       "month": 12
@@ -1539,7 +1539,7 @@
       "11": 13,
       "12": 10
     },
-    "submissionOpen": 52,
+    "submissionOpen": 53,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"
