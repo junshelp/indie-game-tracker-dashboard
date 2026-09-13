@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:00:00.000Z",
+  "generatedAt": "2026-09-13T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -534,49 +534,39 @@
     },
     {
       "steam_rank": 28,
+      "appid": 4705510,
+      "name": "Happy Wheels",
+      "release_date": "21 Sep, 2026",
+      "review_summary": "",
+      "wishlist_rank": 28,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4705510/"
+    },
+    {
+      "steam_rank": 29,
       "appid": 3115160,
       "name": "Warhammer 40,000: Boltgun 2",
       "release_date": "14 Oct, 2026",
       "review_summary": "",
-      "wishlist_rank": 28,
+      "wishlist_rank": 29,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3115160/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 30,
       "appid": 3590650,
       "name": "OKU",
-      "release_date": "To be announced",
-      "review_summary": "",
-      "wishlist_rank": 29,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3590650/"
-    },
-    {
-      "steam_rank": 30,
-      "appid": 3055670,
-      "name": "Risk of Rain 2: Hallowed Concepts",
       "release_date": "To be announced",
       "review_summary": "",
       "wishlist_rank": 30,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3055670/"
+      "store_url": "https://store.steampowered.com/app/3590650/"
     },
     {
       "steam_rank": 1,
-      "appid": 5104330,
-      "name": "Kilnborn",
-      "release_date": "11 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5104330/"
-    },
-    {
-      "steam_rank": 2,
       "appid": 4908980,
       "name": "Aethercrypt",
       "release_date": "12 Sep, 2026",
@@ -586,7 +576,7 @@
       "store_url": "https://store.steampowered.com/app/4908980/"
     },
     {
-      "steam_rank": 3,
+      "steam_rank": 2,
       "appid": 4357060,
       "name": "Urban Struggle",
       "release_date": "12 Sep, 2026",
@@ -596,7 +586,7 @@
       "store_url": "https://store.steampowered.com/app/4357060/"
     },
     {
-      "steam_rank": 4,
+      "steam_rank": 3,
       "appid": 3242510,
       "name": "Gun Of Fate: The Silver Gun Of Ylia",
       "release_date": "13 Sep, 2026",
@@ -604,6 +594,16 @@
       "source": "coming_soon",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3242510/"
+    },
+    {
+      "steam_rank": 4,
+      "appid": 5254080,
+      "name": "PARAGON 21 Demo",
+      "release_date": "13 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5254080/"
     },
     {
       "steam_rank": 5,
@@ -647,13 +647,13 @@
     },
     {
       "steam_rank": 9,
-      "appid": 5169430,
-      "name": "You Will Get Rich!",
+      "appid": 5079070,
+      "name": "Eternal Grove",
       "release_date": "13 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5169430/"
+      "store_url": "https://store.steampowered.com/app/5079070/"
     },
     {
       "steam_rank": 10,
@@ -667,16 +667,6 @@
     },
     {
       "steam_rank": 11,
-      "appid": 5079070,
-      "name": "Eternal Grove",
-      "release_date": "13 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5079070/"
-    },
-    {
-      "steam_rank": 12,
       "appid": 3424650,
       "name": "Stack Together: To the Moon – Stack, Build &amp; Escape",
       "release_date": "13 Sep, 2026",
@@ -686,7 +676,7 @@
       "store_url": "https://store.steampowered.com/app/3424650/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 12,
       "appid": 5052250,
       "name": "Suba Pogo",
       "release_date": "13 Sep, 2026",
@@ -696,7 +686,7 @@
       "store_url": "https://store.steampowered.com/app/5052250/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 13,
       "appid": 4672110,
       "name": "Remnants of the forsaken Past : Submerged Fantasy",
       "release_date": "13 Sep, 2026",
@@ -706,7 +696,7 @@
       "store_url": "https://store.steampowered.com/app/4672110/"
     },
     {
-      "steam_rank": 15,
+      "steam_rank": 14,
       "appid": 5057210,
       "name": "Dog",
       "release_date": "13 Sep, 2026",
@@ -716,7 +706,7 @@
       "store_url": "https://store.steampowered.com/app/5057210/"
     },
     {
-      "steam_rank": 16,
+      "steam_rank": 15,
       "appid": 5180900,
       "name": "Rogue Circuit",
       "release_date": "14 Sep, 2026",
@@ -726,7 +716,7 @@
       "store_url": "https://store.steampowered.com/app/5180900/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 16,
       "appid": 4138930,
       "name": "GameZone - Game Store Simulator",
       "release_date": "14 Sep, 2026",
@@ -736,7 +726,7 @@
       "store_url": "https://store.steampowered.com/app/4138930/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 17,
       "appid": 4628250,
       "name": "How to Grow Your Sausage",
       "release_date": "14 Sep, 2026",
@@ -746,27 +736,7 @@
       "store_url": "https://store.steampowered.com/app/4628250/"
     },
     {
-      "steam_rank": 19,
-      "appid": 4930040,
-      "name": "MAINLINE",
-      "release_date": "14 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4930040/"
-    },
-    {
-      "steam_rank": 20,
-      "appid": 5209070,
-      "name": "AITA: The Dark Domain Demo",
-      "release_date": "14 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5209070/"
-    },
-    {
-      "steam_rank": 21,
+      "steam_rank": 18,
       "appid": 4928640,
       "name": "Super Video Golf - Craewall County DLC",
       "release_date": "14 Sep, 2026",
@@ -776,7 +746,27 @@
       "store_url": "https://store.steampowered.com/app/4928640/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 19,
+      "appid": 5209070,
+      "name": "AITA: The Dark Domain Demo",
+      "release_date": "14 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5209070/"
+    },
+    {
+      "steam_rank": 20,
+      "appid": 4930040,
+      "name": "MAINLINE",
+      "release_date": "14 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4930040/"
+    },
+    {
+      "steam_rank": 21,
       "appid": 4300090,
       "name": "Neat!",
       "release_date": "14 Sep, 2026",
@@ -786,7 +776,7 @@
       "store_url": "https://store.steampowered.com/app/4300090/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 22,
       "appid": 5105480,
       "name": "Veridus The Walking Nightmare",
       "release_date": "14 Sep, 2026",
@@ -796,7 +786,7 @@
       "store_url": "https://store.steampowered.com/app/5105480/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 23,
       "appid": 4988660,
       "name": "cm360",
       "release_date": "14 Sep, 2026",
@@ -806,7 +796,7 @@
       "store_url": "https://store.steampowered.com/app/4988660/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 24,
       "appid": 4540130,
       "name": "Parry Survivor",
       "release_date": "14 Sep, 2026",
@@ -816,7 +806,7 @@
       "store_url": "https://store.steampowered.com/app/4540130/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 25,
       "appid": 4573090,
       "name": "Pibcremental",
       "release_date": "14 Sep, 2026",
@@ -826,7 +816,7 @@
       "store_url": "https://store.steampowered.com/app/4573090/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 26,
       "appid": 5026570,
       "name": "Fantasy Weaponsmith Simulator Demo",
       "release_date": "14 Sep, 2026",
@@ -836,7 +826,7 @@
       "store_url": "https://store.steampowered.com/app/5026570/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 27,
       "appid": 4961150,
       "name": "Station 5:21",
       "release_date": "14 Sep, 2026",
@@ -846,17 +836,17 @@
       "store_url": "https://store.steampowered.com/app/4961150/"
     },
     {
-      "steam_rank": 29,
-      "appid": 3562200,
-      "name": "Cloudscrapers",
+      "steam_rank": 28,
+      "appid": 5174760,
+      "name": "RIGGED2EXPLODE Demo",
       "release_date": "14 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3562200/"
+      "store_url": "https://store.steampowered.com/app/5174760/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 29,
       "appid": 5021910,
       "name": "Hextracer Demo",
       "release_date": "14 Sep, 2026",
@@ -864,6 +854,16 @@
       "source": "coming_soon",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5021910/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 3562200,
+      "name": "Cloudscrapers",
+      "release_date": "14 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3562200/"
     },
     {
       "steam_rank": 1,
@@ -888,12 +888,12 @@
       "coming_soon": false,
       "short_description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
-      "recommendations": 53663,
+      "recommendations": 54755,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4001890/"
     },
     {
-      "steam_rank": 2,
+      "steam_rank": 3,
       "appid": 4656000,
       "name": "BOMBANANA!",
       "release_date": "2 Sep, 2026",
@@ -913,12 +913,12 @@
       "coming_soon": false,
       "short_description": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve p",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789051356",
-      "recommendations": 1895,
+      "recommendations": 2010,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4656000/"
     },
     {
-      "steam_rank": 5,
+      "steam_rank": 7,
       "appid": 4659620,
       "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
       "release_date": "9 Sep, 2026",
@@ -939,12 +939,12 @@
       "coming_soon": false,
       "short_description": "Dodge the barrage, defeat the enemies, and brave the Scarlet Mist Incident. The Embodiment of Scarlet Devil returns with fresh music and graphics. Control the shrine maiden Reimu and the magician Mari",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659620/e1fc78d7ff003b772b8637de6440c541c25fa0b9/header.jpg?t=1788964897",
-      "recommendations": 2992,
+      "recommendations": 3273,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4659620/"
     },
     {
-      "steam_rank": 6,
+      "steam_rank": 8,
       "appid": 892970,
       "name": "Valheim",
       "release_date": "9 Sep, 2026",
@@ -966,12 +966,12 @@
       "coming_soon": false,
       "short_description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s pat",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789121975",
-      "recommendations": 462046,
+      "recommendations": 462697,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/892970/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 24,
       "appid": 4560660,
       "name": "Eslabong",
       "release_date": "24 Aug, 2026",
@@ -994,7 +994,7 @@
       "coming_soon": false,
       "short_description": "Arena combat meets mercenary club management. Recruit from a dynamic market, build your squad, and compete season after season in leagues and cups.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/2f57705341159c9893b7626b1b9c55fa0562d4ed/header.jpg?t=1788705826",
-      "recommendations": 950,
+      "recommendations": 977,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4560660/"
     }

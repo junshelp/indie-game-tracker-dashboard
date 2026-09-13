@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:00:00.000Z",
+  "generatedAt": "2026-09-13T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -793,7 +793,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "",
       "url": "https://digrajapan.org/?page_id=11380",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -808,7 +808,7 @@
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
       "url": "https://www.indiecraft.or.kr/",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {

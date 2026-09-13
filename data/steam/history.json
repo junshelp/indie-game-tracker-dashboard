@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-09-12T12:00:00.000Z",
+  "updatedAt": "2026-09-13T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-09-13",
+      "type": "new_entry",
+      "appid": 5254080,
+      "name": "PARAGON 21 Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "new_entry",
+      "appid": 5174760,
+      "name": "RIGGED2EXPLODE Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "new_entry",
+      "appid": 4705510,
+      "name": "Happy Wheels",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "dropped",
+      "appid": 3055670,
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "dropped",
+      "appid": 5104330,
+      "name": "Kilnborn",
+      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "dropped",
+      "appid": 5169430,
+      "name": "You Will Get Rich!",
+      "detail": "Top 65에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "rank_change",
+      "appid": 4560660,
+      "name": "Eslabong",
+      "detail": "랭크 변동: #17 → #24 (↓7)"
+    },
     {
       "date": "2026-09-12",
       "type": "new_entry",
