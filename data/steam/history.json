@@ -1,6 +1,286 @@
 {
-  "updatedAt": "2026-09-13T12:00:00.000Z",
+  "updatedAt": "2026-09-14T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 4934660,
+      "name": "The Way Home Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 5211460,
+      "name": "Void Nebula Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 5198150,
+      "name": "Wizzy the Wood Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 5037030,
+      "name": "Distorted Minds",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 4244590,
+      "name": "GRID/",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 5013360,
+      "name": "Peacemaker: Bloody Emperor - Official Artbook",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 4797460,
+      "name": "Smashville Detective Agency Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 4921590,
+      "name": "KasMind",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 4775670,
+      "name": "Garden Gingdom Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "new_entry",
+      "appid": 5236830,
+      "name": "Duplexity Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 5254080,
+      "name": "PARAGON 21 Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 4930400,
+      "name": "TaskPaw",
+      "detail": "Top 65에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 5114530,
+      "name": "GAMBLE LIFE",
+      "detail": "Top 65에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 5122530,
+      "name": "Water Sort:Alchemy",
+      "detail": "Top 65에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 4357060,
+      "name": "Urban Struggle",
+      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 4930040,
+      "name": "MAINLINE",
+      "detail": "Top 65에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 3242510,
+      "name": "Gun Of Fate: The Silver Gun Of Ylia",
+      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 4908980,
+      "name": "Aethercrypt",
+      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 3520600,
+      "name": "ORBA",
+      "detail": "Top 65에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "dropped",
+      "appid": 5057210,
+      "name": "Dog",
+      "detail": "Top 65에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4928640,
+      "name": "Super Video Golf - Craewall County DLC",
+      "detail": "랭크 변동: #18 → #11 (↑7)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 3424650,
+      "name": "Stack Together: To the Moon – Stack, Build &amp; Escape",
+      "detail": "랭크 변동: #11 → #4 (↑7)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5026570,
+      "name": "Fantasy Weaponsmith Simulator Demo",
+      "detail": "랭크 변동: #26 → #17 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4628250,
+      "name": "How to Grow Your Sausage",
+      "detail": "랭크 변동: #17 → #9 (↑8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5079070,
+      "name": "Eternal Grove",
+      "detail": "랭크 변동: #9 → #1 (↑8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4573090,
+      "name": "Pibcremental",
+      "detail": "랭크 변동: #25 → #16 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4138930,
+      "name": "GameZone - Game Store Simulator",
+      "detail": "랭크 변동: #16 → #8 (↑8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4300090,
+      "name": "Neat!",
+      "detail": "랭크 변동: #21 → #12 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5105480,
+      "name": "Veridus The Walking Nightmare",
+      "detail": "랭크 변동: #22 → #13 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4486350,
+      "name": "Fantasy Bird Woods",
+      "detail": "랭크 변동: #10 → #2 (↑8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5021910,
+      "name": "Hextracer Demo",
+      "detail": "랭크 변동: #29 → #20 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 3562200,
+      "name": "Cloudscrapers",
+      "detail": "랭크 변동: #30 → #21 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5052250,
+      "name": "Suba Pogo",
+      "detail": "랭크 변동: #12 → #5 (↑7)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4540130,
+      "name": "Parry Survivor",
+      "detail": "랭크 변동: #24 → #15 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5180900,
+      "name": "Rogue Circuit",
+      "detail": "랭크 변동: #15 → #7 (↑8)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5174760,
+      "name": "RIGGED2EXPLODE Demo",
+      "detail": "랭크 변동: #28 → #19 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4672110,
+      "name": "Remnants of the forsaken Past : Submerged Fantasy",
+      "detail": "랭크 변동: #13 → #6 (↑7)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 5209070,
+      "name": "AITA: The Dark Domain Demo",
+      "detail": "랭크 변동: #19 → #10 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4988660,
+      "name": "cm360",
+      "detail": "랭크 변동: #23 → #14 (↑9)"
+    },
+    {
+      "date": "2026-09-14",
+      "type": "rank_change",
+      "appid": 4961150,
+      "name": "Station 5:21",
+      "detail": "랭크 변동: #27 → #18 (↑9)"
+    },
     {
       "date": "2026-09-13",
       "type": "new_entry",
