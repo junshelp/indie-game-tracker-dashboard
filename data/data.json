@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:00:00.000Z",
+  "generatedAt": "2026-09-15T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -838,7 +838,7 @@
       "typeLabel": "전시회",
       "submissionPeriod": "",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -1504,9 +1504,9 @@
   ],
   "summary": {
     "totalEvents": 100,
-    "upcomingEvents": 45,
-    "pastEvents": 55,
-    "upcoming30Days": 14,
+    "upcomingEvents": 44,
+    "pastEvents": 56,
+    "upcoming30Days": 13,
     "byCountry": {
       "JP": 72,
       "KR": 17,
