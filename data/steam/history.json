@@ -1,6 +1,454 @@
 {
-  "updatedAt": "2026-09-18T12:00:00.000Z",
+  "updatedAt": "2026-09-19T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4535170,
+      "name": "Dicebinder",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4639490,
+      "name": "Custom Corner",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4157060,
+      "name": "Death Counter Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4110220,
+      "name": "Room 404: Erotic Massage",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4972300,
+      "name": "Screw IT",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4866450,
+      "name": "Cyberpunk Survivor",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4986770,
+      "name": "Gem Match: The Challenge of the 8 Queens",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5206420,
+      "name": "Big Sister",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5100690,
+      "name": "Battle For the Bridge",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5268760,
+      "name": "ESC ape, You died? Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5161630,
+      "name": "Dead Sector Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4513060,
+      "name": "Yandere Virus",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5157680,
+      "name": "DIY Dadish",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5040690,
+      "name": "GridEnergy",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4532660,
+      "name": "Keep the Witch Out of This Inn",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 776250,
+      "name": "Somebody's Tale",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5274560,
+      "name": "Back Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5267780,
+      "name": "VELOCIDE Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5195850,
+      "name": "Slap the Gamer",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4172110,
+      "name": "Dear Journey...",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5166800,
+      "name": "Partyforge Idle",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5184210,
+      "name": "Emberwall",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5187940,
+      "name": "Dreamfend Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5142630,
+      "name": "Fund Manager: Buy Side",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5015150,
+      "name": "Memory Dive: An 3xscape Game — Chapter One Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 4602350,
+      "name": "Turning point",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 3305840,
+      "name": "Custodes of Elf Hearts",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5265010,
+      "name": "KYC: K stands for Killing Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5242740,
+      "name": "One Bard Move Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 5171060,
+      "name": "Pirouette &amp; Smile",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_entry",
+      "appid": 3002740,
+      "name": "Project Solaris",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 764420,
+      "name": "Rogue Racer",
+      "detail": "Top 66에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4951700,
+      "name": "君と最後の放課後",
+      "detail": "Top 66에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5200660,
+      "name": "Dirt Spoon in Another World Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5136150,
+      "name": "Died in the Tower Again",
+      "detail": "Top 66에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5005850,
+      "name": "Data Survivor",
+      "detail": "Top 66에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4924570,
+      "name": "Hentai Tales: Twin Cage Tuning",
+      "detail": "Top 66에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5098270,
+      "name": "Appointment",
+      "detail": "Top 66에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4486180,
+      "name": "Ollie Ninja Slash",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5208490,
+      "name": "Project Nebula Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5208110,
+      "name": "NEONOVA Puzzle: Blue",
+      "detail": "Top 66에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5155250,
+      "name": "Giusto Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5058740,
+      "name": "Debt of Life",
+      "detail": "Top 66에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5136180,
+      "name": "The Midnight 21",
+      "detail": "Top 66에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4315830,
+      "name": "Skibidi Wars",
+      "detail": "Top 66에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4123320,
+      "name": "Shion Can't Fight! Level Up Failed... Lewdness Maxed",
+      "detail": "Top 66에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5192900,
+      "name": "Pirate Treasure: Tidy Up! Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4453830,
+      "name": "Channel 453",
+      "detail": "Top 66에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4083670,
+      "name": "Wobble Rumble",
+      "detail": "Top 66에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5112410,
+      "name": "The Endless Sky - Mecenas",
+      "detail": "Top 66에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 3503580,
+      "name": "Snap Chess",
+      "detail": "Top 66에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5191900,
+      "name": "The Hobo Dev",
+      "detail": "Top 66에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5172450,
+      "name": "Dirt Spoon in Another World",
+      "detail": "Top 66에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5260130,
+      "name": "GearTopia Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4001890,
+      "name": "How to Fish",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5256810,
+      "name": "Crossroad Chaos Demo",
+      "detail": "Top 66에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5158250,
+      "name": "The Legend of Water",
+      "detail": "Top 66에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4988660,
+      "name": "cm360",
+      "detail": "Top 66에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 5176950,
+      "name": "Glitch Protocol",
+      "detail": "Top 66에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4830070,
+      "name": "Gridmax",
+      "detail": "Top 66에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 4414070,
+      "name": "Mistik 8",
+      "detail": "Top 66에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "dropped",
+      "appid": 3855740,
+      "name": "Northanger Abbey",
+      "detail": "Top 66에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "rank_change",
+      "appid": 4560660,
+      "name": "Eslabong",
+      "detail": "랭크 변동: #15 → #22 (↓7)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "rank_change",
+      "appid": 4090260,
+      "name": "Lifeguard Holic",
+      "detail": "랭크 변동: #16 → #9 (↑7)"
+    },
     {
       "date": "2026-09-18",
       "type": "new_entry",
