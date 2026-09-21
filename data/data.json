@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:00:00.000Z",
+  "generatedAt": "2026-09-21T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -868,7 +868,7 @@
       "typeLabel": "전시회",
       "submissionPeriod": "",
       "url": "https://kyomaf.kyoto/",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -883,7 +883,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "",
       "url": "https://gbaza.com/",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -1504,9 +1504,9 @@
   ],
   "summary": {
     "totalEvents": 100,
-    "upcomingEvents": 43,
-    "pastEvents": 57,
-    "upcoming30Days": 15,
+    "upcomingEvents": 41,
+    "pastEvents": 59,
+    "upcoming30Days": 13,
     "byCountry": {
       "JP": 72,
       "KR": 17,
