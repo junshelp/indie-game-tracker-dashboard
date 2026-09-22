@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:00:00.000Z",
+  "generatedAt": "2026-09-22T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -853,7 +853,7 @@
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
       "url": "https://events.nikkeibp.co.jp/tgs/2026/",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
