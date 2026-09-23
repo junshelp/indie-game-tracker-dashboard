@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:00:00.000Z",
+  "generatedAt": "2026-09-23T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1504,9 +1504,9 @@
   ],
   "summary": {
     "totalEvents": 100,
-    "upcomingEvents": 41,
-    "pastEvents": 59,
-    "upcoming30Days": 13,
+    "upcomingEvents": 40,
+    "pastEvents": 60,
+    "upcoming30Days": 12,
     "byCountry": {
       "JP": 72,
       "KR": 17,
