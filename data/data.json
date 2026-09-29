@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T12:00:00.000Z",
+  "generatedAt": "2026-09-29T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -898,7 +898,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "",
       "url": "https://thetenthmosaic.jp/",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -913,7 +913,7 @@
       "typeLabel": "컨퍼런스",
       "submissionPeriod": "",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -928,7 +928,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 9
     },
     {
@@ -1361,7 +1361,7 @@
       "venue": "온라인 생중계",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "접수중 (~9/29)",
+      "submissionPeriod": "마감 (9/29 마감됨)",
       "url": "https://indie.live-expo.games/ko/",
       "status": "upcoming",
       "month": 12
@@ -1504,9 +1504,9 @@
   ],
   "summary": {
     "totalEvents": 100,
-    "upcomingEvents": 40,
-    "pastEvents": 60,
-    "upcoming30Days": 12,
+    "upcomingEvents": 38,
+    "pastEvents": 62,
+    "upcoming30Days": 13,
     "byCountry": {
       "JP": 72,
       "KR": 17,
