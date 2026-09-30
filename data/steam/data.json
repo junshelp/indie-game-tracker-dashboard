@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:00:00.000Z",
+  "generatedAt": "2026-09-30T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -329,20 +329,6 @@
       "review_summary": "",
       "wishlist_rank": 13,
       "source": "top_wishlisted",
-      "developers": [
-        "SCS Software"
-      ],
-      "publishers": [
-        "SCS Software"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Explore the heart of Russia, Moscow, and beyond. Feel the spirit of Russian history driving through centuries-old cities. Get lost in the sea of trees and open plains.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536500/header.jpg?t=1696679200",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1536500/"
     },
@@ -354,45 +340,30 @@
       "review_summary": "",
       "wishlist_rank": 14,
       "source": "top_wishlisted",
-      "developers": [
-        "Pocketpair"
-      ],
-      "publishers": [
-        "Pocketpair"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Enjoy a farming life with mysterious creatures known as Pals! Team up with them to grow your farm at your own pace in this brand new creature-collecting farming sim, fully playable in multiplayer!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031890/92aca012dc905e2a27e47e5f2b669ec9a811ab03/header.jpg?t=1782286523",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4031890/"
     },
     {
       "steam_rank": 15,
-      "appid": 4150720,
-      "name": "Drunken Goddess Reflux",
-      "release_date": "To be announced",
-      "review_summary": "",
-      "wishlist_rank": 15,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4150720/"
-    },
-    {
-      "steam_rank": 16,
       "appid": 5072600,
       "name": "Family Time",
       "release_date": "Q1 2027",
       "review_summary": "",
-      "wishlist_rank": 16,
+      "wishlist_rank": 15,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5072600/"
+    },
+    {
+      "steam_rank": 16,
+      "appid": 4150720,
+      "name": "Drunken Goddess Reflux",
+      "release_date": "To be announced",
+      "review_summary": "",
+      "wishlist_rank": 16,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4150720/"
     },
     {
       "steam_rank": 17,
@@ -550,306 +521,306 @@
     },
     {
       "steam_rank": 1,
-      "appid": 4767810,
-      "name": "Cancel Subscription Simulator",
-      "release_date": "28 Sep, 2026",
+      "appid": 5252390,
+      "name": "Arcane Library",
+      "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4767810/"
+      "store_url": "https://store.steampowered.com/app/5252390/"
     },
     {
       "steam_rank": 2,
-      "appid": 5193640,
-      "name": "SEVEN SCHOOL GHOST STORIES | 学校の七つの怪談",
-      "release_date": "28 Sep, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5193640/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 5209890,
-      "name": "World War Whack",
+      "appid": 5245810,
+      "name": "ForgeTax",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5209890/"
+      "store_url": "https://store.steampowered.com/app/5245810/"
+    },
+    {
+      "steam_rank": 3,
+      "appid": 3386350,
+      "name": "Shinjuku Anomaly",
+      "release_date": "29 Sep, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3386350/"
     },
     {
       "steam_rank": 4,
-      "appid": 5246180,
-      "name": "Never Enough Corn",
+      "appid": 5256480,
+      "name": "Little Sister",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5246180/"
+      "store_url": "https://store.steampowered.com/app/5256480/"
     },
     {
       "steam_rank": 5,
-      "appid": 2521160,
-      "name": "The Merlies",
+      "appid": 5257420,
+      "name": "Donation Voice Pack",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2521160/"
+      "store_url": "https://store.steampowered.com/app/5257420/"
     },
     {
       "steam_rank": 6,
-      "appid": 5275630,
-      "name": "Midnight Gunwatch",
+      "appid": 5154040,
+      "name": "Potassium Poisoning",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5275630/"
+      "store_url": "https://store.steampowered.com/app/5154040/"
     },
     {
       "steam_rank": 7,
-      "appid": 5270560,
-      "name": "Keycap Keycap! Demo",
+      "appid": 5044540,
+      "name": "Little Gable Studio",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5270560/"
+      "store_url": "https://store.steampowered.com/app/5044540/"
     },
     {
       "steam_rank": 8,
-      "appid": 3670670,
-      "name": "Wizzo PopOut",
+      "appid": 4376740,
+      "name": "Fruit Fetish",
       "release_date": "29 Sep, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3670670/"
+      "store_url": "https://store.steampowered.com/app/4376740/"
     },
     {
       "steam_rank": 9,
-      "appid": 3725800,
-      "name": "Island of Rebirth~NTR and Love~",
-      "release_date": "29 Sep, 2026",
+      "appid": 2440690,
+      "name": "Boogie Bashers",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3725800/"
+      "store_url": "https://store.steampowered.com/app/2440690/"
     },
     {
       "steam_rank": 10,
-      "appid": 3464000,
-      "name": "Eropsychosis: The Project Elysiara",
-      "release_date": "29 Sep, 2026",
+      "appid": 3431350,
+      "name": "武林群英录 Demo",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3464000/"
+      "store_url": "https://store.steampowered.com/app/3431350/"
     },
     {
       "steam_rank": 11,
-      "appid": 5247850,
-      "name": "Full Metal Hell Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 3593840,
+      "name": "Jangan Tersesat",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5247850/"
+      "store_url": "https://store.steampowered.com/app/3593840/"
     },
     {
       "steam_rank": 12,
-      "appid": 5101390,
-      "name": "Foxy's Potion Shop",
-      "release_date": "29 Sep, 2026",
+      "appid": 2543590,
+      "name": "Brain Escape",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5101390/"
+      "store_url": "https://store.steampowered.com/app/2543590/"
     },
     {
       "steam_rank": 13,
-      "appid": 5289020,
-      "name": "Endless Rails - Digital Artbook",
-      "release_date": "29 Sep, 2026",
+      "appid": 2545180,
+      "name": "落日满天星",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5289020/"
+      "store_url": "https://store.steampowered.com/app/2545180/"
     },
     {
       "steam_rank": 14,
-      "appid": 5264790,
-      "name": "MATE THEM ALL: Office Undercover",
-      "release_date": "29 Sep, 2026",
+      "appid": 3768800,
+      "name": "Shopska Salad",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5264790/"
+      "store_url": "https://store.steampowered.com/app/3768800/"
     },
     {
       "steam_rank": 15,
-      "appid": 5265420,
-      "name": "MATE THEM ALL: Summer Cruise",
-      "release_date": "29 Sep, 2026",
+      "appid": 3631900,
+      "name": "Tic Tac",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5265420/"
+      "store_url": "https://store.steampowered.com/app/3631900/"
     },
     {
       "steam_rank": 16,
-      "appid": 5040980,
-      "name": "MATE THEM ALL",
-      "release_date": "29 Sep, 2026",
+      "appid": 4540800,
+      "name": "Plug and Slay",
+      "release_date": "September 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5040980/"
+      "store_url": "https://store.steampowered.com/app/4540800/"
     },
     {
       "steam_rank": 17,
-      "appid": 5252020,
-      "name": "Idle Demon Lord II Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4542490,
+      "name": "NariNights",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5252020/"
+      "store_url": "https://store.steampowered.com/app/4542490/"
     },
     {
       "steam_rank": 18,
-      "appid": 5119030,
-      "name": "Nexus: Eternal Ruin Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4460200,
+      "name": "Blow The Cover",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5119030/"
+      "store_url": "https://store.steampowered.com/app/4460200/"
     },
     {
       "steam_rank": 19,
-      "appid": 5255950,
-      "name": "Don't Drop The Ball Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4365050,
+      "name": "EXPOSED",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5255950/"
+      "store_url": "https://store.steampowered.com/app/4365050/"
     },
     {
       "steam_rank": 20,
-      "appid": 5034300,
-      "name": "Cosmo Cat: A Cozy Desktop Idler",
-      "release_date": "29 Sep, 2026",
+      "appid": 4360230,
+      "name": "Be Positive!",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5034300/"
+      "store_url": "https://store.steampowered.com/app/4360230/"
     },
     {
       "steam_rank": 21,
-      "appid": 2900640,
-      "name": "TOEM 2",
-      "release_date": "29 Sep, 2026",
+      "appid": 4525480,
+      "name": "Grim Shift",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2900640/"
+      "store_url": "https://store.steampowered.com/app/4525480/"
     },
     {
       "steam_rank": 22,
-      "appid": 5131830,
-      "name": "Hero of the Kingdom: Echoes Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4411930,
+      "name": "Warfront: One Turn",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5131830/"
+      "store_url": "https://store.steampowered.com/app/4411930/"
     },
     {
       "steam_rank": 23,
-      "appid": 5218570,
-      "name": "Lost &amp; Found",
-      "release_date": "29 Sep, 2026",
+      "appid": 4424410,
+      "name": "No Further Instructions",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5218570/"
+      "store_url": "https://store.steampowered.com/app/4424410/"
     },
     {
       "steam_rank": 24,
-      "appid": 4601120,
-      "name": "Endless Rails",
-      "release_date": "29 Sep, 2026",
+      "appid": 4259140,
+      "name": "2 Hours to Refund",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4601120/"
+      "store_url": "https://store.steampowered.com/app/4259140/"
     },
     {
       "steam_rank": 25,
-      "appid": 4787700,
-      "name": "Automania Remastered",
-      "release_date": "29 Sep, 2026",
+      "appid": 4261790,
+      "name": "TuringDefence",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4787700/"
+      "store_url": "https://store.steampowered.com/app/4261790/"
     },
     {
       "steam_rank": 26,
-      "appid": 4629170,
-      "name": "Epic Action Packs",
-      "release_date": "29 Sep, 2026",
+      "appid": 4643400,
+      "name": "Floppy Desk",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4629170/"
+      "store_url": "https://store.steampowered.com/app/4643400/"
     },
     {
       "steam_rank": 27,
-      "appid": 5261750,
-      "name": "HOLD THE COOP! Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4652350,
+      "name": "Grandma's Golden Boy: Sheep Shear Madness",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5261750/"
+      "store_url": "https://store.steampowered.com/app/4652350/"
     },
     {
       "steam_rank": 28,
-      "appid": 4764780,
-      "name": "Another Tavern Simulator",
-      "release_date": "29 Sep, 2026",
+      "appid": 4337500,
+      "name": "GenkiNaru",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4764780/"
+      "store_url": "https://store.steampowered.com/app/4337500/"
     },
     {
       "steam_rank": 29,
-      "appid": 5248150,
-      "name": "Overflow Protocol Demo",
-      "release_date": "29 Sep, 2026",
+      "appid": 4328600,
+      "name": "Riftward Warriors",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5248150/"
+      "store_url": "https://store.steampowered.com/app/4328600/"
     },
     {
       "steam_rank": 30,
-      "appid": 3917700,
-      "name": "Dicevaders",
-      "release_date": "29 Sep, 2026",
+      "appid": 4004660,
+      "name": "消失的第四天",
+      "release_date": "Q3 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3917700/"
+      "store_url": "https://store.steampowered.com/app/4004660/"
     },
     {
-      "steam_rank": 3,
+      "steam_rank": 2,
       "appid": 4656000,
       "name": "BOMBANANA!",
       "release_date": "2 Sep, 2026",
@@ -869,7 +840,7 @@
       "coming_soon": false,
       "short_description": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve p",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1790377390",
-      "recommendations": 2956,
+      "recommendations": 2998,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4656000/"
     },
@@ -894,12 +865,12 @@
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790605593",
-      "recommendations": 5227,
+      "recommendations": 5818,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
-      "steam_rank": 7,
+      "steam_rank": 9,
       "appid": 892970,
       "name": "Valheim",
       "release_date": "9 Sep, 2026",
@@ -921,12 +892,12 @@
       "coming_soon": false,
       "short_description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s pat",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
-      "recommendations": 469493,
+      "recommendations": 469752,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/892970/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 14,
       "appid": 4090260,
       "name": "Lifeguard Holic",
       "release_date": "16 Sep, 2026",
@@ -949,12 +920,12 @@
       "coming_soon": false,
       "short_description": "Ryoma, cousin of the infamous landlord Ryunosuke from &quot;NTRaholic&quot;, won a luxury pool in a high-stakes bet and became its &quot;Lifeguard.&quot; You must manage the pool while using Ryoma's e",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090260/9527d2a74eb35bdf0c8f8e4c5c5eb8769ef1f641/header.jpg?t=1790126933",
-      "recommendations": 462,
+      "recommendations": 476,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4090260/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 23,
       "appid": 4110220,
       "name": "Room 404: Erotic Massage",
       "release_date": "16 Sep, 2026",
@@ -977,12 +948,12 @@
       "coming_soon": false,
       "short_description": "After a long, busy day, the girls’ bodies are tense and tight. From their tiptoes to heads, help them fully relax. Gently knead their sensitive areas, apply massage oil to make their skin smooth and g",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110220/7a40178e7708be9571104cc9242d17b60d8dbad5/header.jpg?t=1789619164",
-      "recommendations": 194,
+      "recommendations": 198,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4110220/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 27,
       "appid": 3208930,
       "name": "Galvatein : Adventurers' Guild",
       "release_date": "22 Sep, 2026",
@@ -1004,15 +975,67 @@
       "coming_soon": false,
       "short_description": "&quot;Welcome, adventurer! What quest have you completed today?” A classic fantasy guild reception simulation — 『Galvatein: Adventurer’s Guild』",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208930/9ae3ec85ebba9906952a2f9a32c6041ed3b1f0e9/header.jpg?t=1790060446",
-      "recommendations": 447,
+      "recommendations": 469,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3208930/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 2459550,
+      "name": "Emberward",
+      "release_date": "17 Sep, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "Refic Games"
+      ],
+      "publishers": [
+        "Refic Games"
+      ],
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Free To Play"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Build twisting mazes with tetromino blocks and deploy unique towers in this strategic roguelite tower defense adventure!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/44e4e61c24c26440fa8deaab2299aab603e47958/header.jpg?t=1790056350",
+      "recommendations": 4206,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/2459550/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 4659620,
+      "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+      "release_date": "9 Sep, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "上海アリス幻樂団",
+        "上海アリスReprise"
+      ],
+      "publishers": [
+        "Alliance Arts"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Dodge the barrage, defeat the enemies, and brave the Scarlet Mist Incident. The Embodiment of Scarlet Devil returns with fresh music and graphics. Control the shrine maiden Reimu and the magician Mari",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659620/e1fc78d7ff003b772b8637de6440c541c25fa0b9/header.jpg?t=1790661667",
+      "recommendations": 4192,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/4659620/"
     }
   ],
   "summary": {
-    "total": 66,
+    "total": 68,
     "free_games": 1,
-    "released": 6,
+    "released": 8,
     "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
@@ -1021,27 +1044,23 @@
         18
       ],
       [
-        "Simulation",
-        10
-      ],
-      [
         "Action",
-        8
+        9
       ],
       [
         "Adventure",
         8
       ],
       [
-        "Casual",
+        "Simulation",
         8
+      ],
+      [
+        "Casual",
+        7
       ]
     ],
     "top_developers": [
-      [
-        "SCS Software",
-        2
-      ],
       [
         "Hello Games",
         1
@@ -1056,6 +1075,10 @@
       ],
       [
         "Funselektor Labs Inc.",
+        1
+      ],
+      [
+        "Perfect Garbage",
         1
       ]
     ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:00:00.000Z",
+  "generatedAt": "2026-09-30T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1271,7 +1271,7 @@
       "venue": "부산 벡스코",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "접수중 (인디 쇼케이스 2.0: Galaxy)",
+      "submissionPeriod": "마감 (결과발표 2026.09.23)",
       "url": "https://www.gstar.or.kr/",
       "status": "upcoming",
       "month": 11
