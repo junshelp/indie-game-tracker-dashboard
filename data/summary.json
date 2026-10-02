@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:00:00.000Z",
-  "kstDate": "2026-10-01",
+  "generatedAt": "2026-10-02T12:00:00.000Z",
+  "kstDate": "2026-10-02",
   "monthly": {
     "1월": {
       "total": 4,
@@ -633,9 +633,9 @@
       ]
     },
     "11월": {
-      "total": 13,
+      "total": 14,
       "byCountry": {
-        "JP": 11,
+        "JP": 12,
         "KR": 1,
         "CN": 1
       },
@@ -690,6 +690,13 @@
           "country": "JP"
         },
         {
+          "name": "Unite Tokyo 2026",
+          "startDate": "2026-11-17",
+          "endDate": "2026-11-17",
+          "type": "기타",
+          "country": "JP"
+        },
+        {
           "name": "G-STAR 2026",
           "startDate": "2026-11-19",
           "endDate": "2026-11-19",
@@ -734,14 +741,21 @@
       ]
     },
     "12월": {
-      "total": 10,
+      "total": 11,
       "byCountry": {
+        "JP": 7,
         "ONLINE": 1,
         "KR": 2,
-        "JP": 6,
         "OTHER": 1
       },
       "events": [
+        {
+          "name": "XR Kaigi 2026",
+          "startDate": "2026-11-30",
+          "endDate": "2026-11-12",
+          "type": "기타",
+          "country": "JP"
+        },
         {
           "name": "INDIE Live Expo 2026.12.1",
           "startDate": "2026-12-01",
@@ -816,10 +830,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 100,
+    "newDiscoveries": 102,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 100,
+    "totalChanges": 102,
     "note": ""
   }
 }
