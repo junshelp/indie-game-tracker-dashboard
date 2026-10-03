@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T12:00:00.000Z",
-  "kstDate": "2026-10-02",
+  "generatedAt": "2026-10-03T12:00:00.000Z",
+  "kstDate": "2026-10-03",
   "monthly": {
     "1월": {
       "total": 4,
@@ -582,7 +582,7 @@
           "country": "KR"
         },
         {
-          "name": "第8回全国エンタメまつり",
+          "name": "第9回全国エンタメまつり",
           "startDate": "2026-10-17",
           "endDate": "2026-10-18",
           "type": "페스티벌",
@@ -741,11 +741,12 @@
       ]
     },
     "12월": {
-      "total": 11,
+      "total": 12,
       "byCountry": {
         "JP": 7,
         "ONLINE": 1,
         "KR": 2,
+        "TW": 1,
         "OTHER": 1
       },
       "events": [
@@ -769,6 +770,13 @@
           "endDate": "2026-12-06",
           "type": "페스티벌",
           "country": "KR"
+        },
+        {
+          "name": "G-EIGHT 2026",
+          "startDate": "2026-12-04",
+          "endDate": "2026-12-06",
+          "type": "기타",
+          "country": "TW"
         },
         {
           "name": "京都ゲームホリデー",
@@ -830,10 +838,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 102,
+    "newDiscoveries": 2,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 102,
+    "totalChanges": 2,
     "note": ""
   }
 }

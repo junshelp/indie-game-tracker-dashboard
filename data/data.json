@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:00:00.000Z",
+  "generatedAt": "2026-10-03T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1053,7 +1053,7 @@
     },
     {
       "id": "evt-070",
-      "name": "第8回全国エンタメまつり",
+      "name": "第9回全国エンタメまつり",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
       "startDate": "2026-10-17",
@@ -1413,6 +1413,21 @@
     },
     {
       "id": "evt-095",
+      "name": "G-EIGHT 2026",
+      "country": "🇹🇼 대만",
+      "countryCode": "TW",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "venue": "타이페이",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "",
+      "url": "https://x.com/geight_tw",
+      "status": "upcoming",
+      "month": 12
+    },
+    {
+      "id": "evt-096",
       "name": "京都ゲームホリデー",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1427,7 +1442,7 @@
       "month": 12
     },
     {
-      "id": "evt-101",
+      "id": "evt-102",
       "name": "インディーゲームフェスティバル @大阪梅田 (12월)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1442,7 +1457,7 @@
       "month": 12
     },
     {
-      "id": "evt-096",
+      "id": "evt-097",
       "name": "BEAVER ROCKS 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
@@ -1457,7 +1472,7 @@
       "month": 12
     },
     {
-      "id": "evt-097",
+      "id": "evt-098",
       "name": "Comic Fiesta 2026",
       "country": "🇲🇾 말레이시아",
       "countryCode": "OTHER",
@@ -1472,7 +1487,7 @@
       "month": 12
     },
     {
-      "id": "evt-102",
+      "id": "evt-103",
       "name": "GameJam EXPO (12월)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1487,7 +1502,7 @@
       "month": 12
     },
     {
-      "id": "evt-098",
+      "id": "evt-099",
       "name": "MY GAME FES Vol.4",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1502,7 +1517,7 @@
       "month": 12
     },
     {
-      "id": "evt-099",
+      "id": "evt-100",
       "name": "大阪ゲームダンジョン2",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1517,7 +1532,7 @@
       "month": 12
     },
     {
-      "id": "evt-100",
+      "id": "evt-101",
       "name": "Comiket C109 (Winter)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
@@ -1533,8 +1548,8 @@
     }
   ],
   "summary": {
-    "totalEvents": 102,
-    "upcomingEvents": 40,
+    "totalEvents": 103,
+    "upcomingEvents": 41,
     "pastEvents": 62,
     "upcoming30Days": 16,
     "byCountry": {
@@ -1543,6 +1558,7 @@
       "ONLINE": 3,
       "CN": 6,
       "TH": 1,
+      "TW": 1,
       "OTHER": 1
     },
     "byType": {
@@ -1551,7 +1567,7 @@
       "공모전": 2,
       "마켓": 4,
       "컨퍼런스": 7,
-      "기타": 18,
+      "기타": 19,
       "동인": 4,
       "게임잼": 1
     },
@@ -1567,7 +1583,7 @@
       "9": 11,
       "10": 15,
       "11": 14,
-      "12": 11
+      "12": 12
     },
     "submissionOpen": 53,
     "dateRange": {

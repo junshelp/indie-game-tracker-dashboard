@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-02T12:00:00.000Z",
+  "updatedAt": "2026-10-03T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-10-03",
+      "type": "discovered",
+      "eventId": "evt-070",
+      "name": "第9回全国エンタメまつり",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "discovered",
+      "eventId": "evt-095",
+      "name": "G-EIGHT 2026",
+      "detail": "신규 발견 (🇹🇼 대만)",
+      "country": "🇹🇼 대만"
+    },
     {
       "date": "2026-10-02",
       "type": "discovered",
@@ -818,5 +834,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 102
+  "totalTracked": 103
 }
