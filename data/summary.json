@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T12:00:00.000Z",
-  "kstDate": "2026-10-03",
+  "generatedAt": "2026-10-04T12:00:00.000Z",
+  "kstDate": "2026-10-04",
   "monthly": {
     "1월": {
       "total": 4,
@@ -633,9 +633,9 @@
       ]
     },
     "11월": {
-      "total": 14,
+      "total": 15,
       "byCountry": {
-        "JP": 12,
+        "JP": 13,
         "KR": 1,
         "CN": 1
       },
@@ -659,6 +659,13 @@
           "startDate": "2026-11-06",
           "endDate": "2026-11-07",
           "type": "기타",
+          "country": "JP"
+        },
+        {
+          "name": "クールジャパンEXPO in NIIGATA (쿨재팬 엑스포 니가타)",
+          "startDate": "2026-11-07",
+          "endDate": "2026-11-08",
+          "type": "전시회",
           "country": "JP"
         },
         {
@@ -741,10 +748,10 @@
       ]
     },
     "12월": {
-      "total": 12,
+      "total": 15,
       "byCountry": {
-        "JP": 7,
-        "ONLINE": 1,
+        "JP": 9,
+        "ONLINE": 2,
         "KR": 2,
         "TW": 1,
         "OTHER": 1
@@ -765,6 +772,13 @@
           "country": "ONLINE"
         },
         {
+          "name": "Game Tools & Middleware Forum 2026 大阪 (GTMF 2026 오사카)",
+          "startDate": "2026-12-02",
+          "endDate": "2026-12-02",
+          "type": "기타",
+          "country": "JP"
+        },
+        {
           "name": "AGF 2026 (Anime×Game Festival)",
           "startDate": "2026-12-04",
           "endDate": "2026-12-06",
@@ -777,6 +791,20 @@
           "endDate": "2026-12-06",
           "type": "기타",
           "country": "TW"
+        },
+        {
+          "name": "バーチャルマーケット2026 Winter (버추얼 마켓 2026 Winter)",
+          "startDate": "2026-12-05",
+          "endDate": "2026-12-20",
+          "type": "기타",
+          "country": "ONLINE"
+        },
+        {
+          "name": "Game Tools & Middleware Forum 2026 東京 (GTMF 2026 도쿄)",
+          "startDate": "2026-12-08",
+          "endDate": "2026-12-08",
+          "type": "기타",
+          "country": "JP"
         },
         {
           "name": "京都ゲームホリデー",
@@ -838,10 +866,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 2,
+    "newDiscoveries": 4,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 2,
+    "totalChanges": 4,
     "note": ""
   }
 }
