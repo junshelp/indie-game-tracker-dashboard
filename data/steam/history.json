@@ -1,6 +1,265 @@
 {
-  "updatedAt": "2026-10-04T12:00:00.000Z",
+  "updatedAt": "2026-10-05T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 4917250,
+      "name": "Midwest Goodbye",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 4838690,
+      "name": "Chill Cat",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 5144390,
+      "name": "OverBlocked",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 4992970,
+      "name": "Tawger Defense Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 5294770,
+      "name": "Fresh Market Simulator Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 5255350,
+      "name": "Idle Miner",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "new_entry",
+      "appid": 4612950,
+      "name": "Tidy Backpack: In the Faraway Lands",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5297450,
+      "name": "CLAWSTROPHOBIA Demo",
+      "detail": "Top 62에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5096270,
+      "name": "The Last Ores Demo",
+      "detail": "Top 62에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5250990,
+      "name": "The Judges' Quandary: Chimera Protocol",
+      "detail": "Top 62에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5226480,
+      "name": "SightSplice",
+      "detail": "Top 62에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5241790,
+      "name": "The Ones Who Answered Demo",
+      "detail": "Top 62에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5201270,
+      "name": "AutoChart",
+      "detail": "Top 62에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "dropped",
+      "appid": 5372350,
+      "name": "Phluxel Demo",
+      "detail": "Top 62에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5208960,
+      "name": "CROVA CHAIN",
+      "detail": "랭크 변동: #17 → #10 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5303680,
+      "name": "Project Exodus Demo",
+      "detail": "랭크 변동: #23 → #16 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 3419140,
+      "name": "Stickility",
+      "detail": "랭크 변동: #24 → #17 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5294090,
+      "name": "Dwarf Wars Demo",
+      "detail": "랭크 변동: #20 → #13 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5295120,
+      "name": "Little Dive Demo",
+      "detail": "랭크 변동: #15 → #9 (↑6)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4905490,
+      "name": "Service, please",
+      "detail": "랭크 변동: #16 → #8 (↑8)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4946070,
+      "name": "Sudoku Girls: Hawaii Vacation",
+      "detail": "랭크 변동: #11 → #4 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5271960,
+      "name": "Corridors",
+      "detail": "랭크 변동: #27 → #22 (↑5)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 2559520,
+      "name": "Bony Bones Adventures",
+      "detail": "랭크 변동: #9 → #2 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5257510,
+      "name": "Prison Break: Thirty Walls",
+      "detail": "랭크 변동: #10 → #3 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5056810,
+      "name": "The Pass - Well Regarded Pack",
+      "detail": "랭크 변동: #28 → #21 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5172140,
+      "name": "MOLTYN Demo",
+      "detail": "랭크 변동: #25 → #18 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5018420,
+      "name": "Biryado Demo",
+      "detail": "랭크 변동: #13 → #6 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5338690,
+      "name": "Chicks vs Ducks Demo",
+      "detail": "랭크 변동: #22 → #15 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5294150,
+      "name": "Broadband Architect Demo",
+      "detail": "랭크 변동: #14 → #7 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4914240,
+      "name": "Veillombre",
+      "detail": "랭크 변동: #29 → #20 (↑9)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4955610,
+      "name": "Orbit Breaker",
+      "detail": "랭크 변동: #8 → #1 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5262170,
+      "name": "FLATBED Demo",
+      "detail": "랭크 변동: #30 → #25 (↑5)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5238890,
+      "name": "Catkin Hollow: The Moonbell Mystery",
+      "detail": "랭크 변동: #21 → #14 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4991220,
+      "name": "Novo: The Colony",
+      "detail": "랭크 변동: #18 → #11 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5256950,
+      "name": "SanGoFate",
+      "detail": "랭크 변동: #19 → #12 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 4930810,
+      "name": "Drone n Gone",
+      "detail": "랭크 변동: #12 → #5 (↑7)"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "rank_change",
+      "appid": 5218430,
+      "name": "Ping Ball!",
+      "detail": "랭크 변동: #26 → #19 (↑7)"
+    },
     {
       "date": "2026-10-04",
       "type": "new_entry",

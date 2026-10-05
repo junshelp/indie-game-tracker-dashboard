@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:00:00.000Z",
+  "generatedAt": "2026-10-05T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -294,11 +294,38 @@
     },
     {
       "steam_rank": 12,
+      "appid": 5072600,
+      "name": "Family Time",
+      "release_date": "Q1 2027",
+      "review_summary": "",
+      "wishlist_rank": 12,
+      "source": "top_wishlisted",
+      "developers": [
+        "sgthale"
+      ],
+      "publishers": [
+        "sgthale"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5072600/"
+    },
+    {
+      "steam_rank": 13,
       "appid": 1586260,
       "name": "BLACKFROST: The Long Dark 2",
       "release_date": "2027",
       "review_summary": "",
-      "wishlist_rank": 12,
+      "wishlist_rank": 13,
       "source": "top_wishlisted",
       "developers": [
         "Hinterland Studio Inc."
@@ -319,33 +346,6 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1586260/header.jpg?t=1784314335",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1586260/"
-    },
-    {
-      "steam_rank": 13,
-      "appid": 5072600,
-      "name": "Family Time",
-      "release_date": "Q1 2027",
-      "review_summary": "",
-      "wishlist_rank": 13,
-      "source": "top_wishlisted",
-      "developers": [
-        "sgthale"
-      ],
-      "publishers": [
-        "sgthale"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5072600/"
     },
     {
       "steam_rank": 14,
@@ -615,76 +615,6 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5201270,
-      "name": "AutoChart",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5201270/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 5297450,
-      "name": "CLAWSTROPHOBIA Demo",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5297450/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 5096270,
-      "name": "The Last Ores Demo",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5096270/"
-    },
-    {
-      "steam_rank": 4,
-      "appid": 5241790,
-      "name": "The Ones Who Answered Demo",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5241790/"
-    },
-    {
-      "steam_rank": 5,
-      "appid": 5250990,
-      "name": "The Judges' Quandary: Chimera Protocol",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5250990/"
-    },
-    {
-      "steam_rank": 6,
-      "appid": 5372350,
-      "name": "Phluxel Demo",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5372350/"
-    },
-    {
-      "steam_rank": 7,
-      "appid": 5226480,
-      "name": "SightSplice",
-      "release_date": "4 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5226480/"
-    },
-    {
-      "steam_rank": 8,
       "appid": 4955610,
       "name": "Orbit Breaker",
       "release_date": "4 Oct, 2026",
@@ -694,7 +624,7 @@
       "store_url": "https://store.steampowered.com/app/4955610/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 2,
       "appid": 2559520,
       "name": "Bony Bones Adventures",
       "release_date": "4 Oct, 2026",
@@ -704,7 +634,7 @@
       "store_url": "https://store.steampowered.com/app/2559520/"
     },
     {
-      "steam_rank": 10,
+      "steam_rank": 3,
       "appid": 5257510,
       "name": "Prison Break: Thirty Walls",
       "release_date": "4 Oct, 2026",
@@ -714,7 +644,7 @@
       "store_url": "https://store.steampowered.com/app/5257510/"
     },
     {
-      "steam_rank": 11,
+      "steam_rank": 4,
       "appid": 4946070,
       "name": "Sudoku Girls: Hawaii Vacation",
       "release_date": "5 Oct, 2026",
@@ -724,7 +654,7 @@
       "store_url": "https://store.steampowered.com/app/4946070/"
     },
     {
-      "steam_rank": 12,
+      "steam_rank": 5,
       "appid": 4930810,
       "name": "Drone n Gone",
       "release_date": "5 Oct, 2026",
@@ -734,7 +664,7 @@
       "store_url": "https://store.steampowered.com/app/4930810/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 6,
       "appid": 5018420,
       "name": "Biryado Demo",
       "release_date": "5 Oct, 2026",
@@ -744,7 +674,7 @@
       "store_url": "https://store.steampowered.com/app/5018420/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 7,
       "appid": 5294150,
       "name": "Broadband Architect Demo",
       "release_date": "5 Oct, 2026",
@@ -754,17 +684,7 @@
       "store_url": "https://store.steampowered.com/app/5294150/"
     },
     {
-      "steam_rank": 15,
-      "appid": 5295120,
-      "name": "Little Dive Demo",
-      "release_date": "5 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5295120/"
-    },
-    {
-      "steam_rank": 16,
+      "steam_rank": 8,
       "appid": 4905490,
       "name": "Service, please",
       "release_date": "5 Oct, 2026",
@@ -774,7 +694,17 @@
       "store_url": "https://store.steampowered.com/app/4905490/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 9,
+      "appid": 5295120,
+      "name": "Little Dive Demo",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5295120/"
+    },
+    {
+      "steam_rank": 10,
       "appid": 5208960,
       "name": "CROVA CHAIN",
       "release_date": "5 Oct, 2026",
@@ -784,7 +714,7 @@
       "store_url": "https://store.steampowered.com/app/5208960/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 11,
       "appid": 4991220,
       "name": "Novo: The Colony",
       "release_date": "5 Oct, 2026",
@@ -794,7 +724,7 @@
       "store_url": "https://store.steampowered.com/app/4991220/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 12,
       "appid": 5256950,
       "name": "SanGoFate",
       "release_date": "5 Oct, 2026",
@@ -804,7 +734,7 @@
       "store_url": "https://store.steampowered.com/app/5256950/"
     },
     {
-      "steam_rank": 20,
+      "steam_rank": 13,
       "appid": 5294090,
       "name": "Dwarf Wars Demo",
       "release_date": "5 Oct, 2026",
@@ -814,7 +744,7 @@
       "store_url": "https://store.steampowered.com/app/5294090/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 14,
       "appid": 5238890,
       "name": "Catkin Hollow: The Moonbell Mystery",
       "release_date": "5 Oct, 2026",
@@ -824,7 +754,7 @@
       "store_url": "https://store.steampowered.com/app/5238890/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 15,
       "appid": 5338690,
       "name": "Chicks vs Ducks Demo",
       "release_date": "5 Oct, 2026",
@@ -834,7 +764,7 @@
       "store_url": "https://store.steampowered.com/app/5338690/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 16,
       "appid": 5303680,
       "name": "Project Exodus Demo",
       "release_date": "5 Oct, 2026",
@@ -844,7 +774,7 @@
       "store_url": "https://store.steampowered.com/app/5303680/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 17,
       "appid": 3419140,
       "name": "Stickility",
       "release_date": "5 Oct, 2026",
@@ -854,7 +784,7 @@
       "store_url": "https://store.steampowered.com/app/3419140/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 18,
       "appid": 5172140,
       "name": "MOLTYN Demo",
       "release_date": "5 Oct, 2026",
@@ -864,7 +794,7 @@
       "store_url": "https://store.steampowered.com/app/5172140/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 19,
       "appid": 5218430,
       "name": "Ping Ball!",
       "release_date": "5 Oct, 2026",
@@ -874,27 +804,7 @@
       "store_url": "https://store.steampowered.com/app/5218430/"
     },
     {
-      "steam_rank": 27,
-      "appid": 5271960,
-      "name": "Corridors",
-      "release_date": "5 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5271960/"
-    },
-    {
-      "steam_rank": 28,
-      "appid": 5056810,
-      "name": "The Pass - Well Regarded Pack",
-      "release_date": "5 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5056810/"
-    },
-    {
-      "steam_rank": 29,
+      "steam_rank": 20,
       "appid": 4914240,
       "name": "Veillombre",
       "release_date": "5 Oct, 2026",
@@ -904,7 +814,47 @@
       "store_url": "https://store.steampowered.com/app/4914240/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 21,
+      "appid": 5056810,
+      "name": "The Pass - Well Regarded Pack",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5056810/"
+    },
+    {
+      "steam_rank": 22,
+      "appid": 5271960,
+      "name": "Corridors",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5271960/"
+    },
+    {
+      "steam_rank": 23,
+      "appid": 4917250,
+      "name": "Midwest Goodbye",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4917250/"
+    },
+    {
+      "steam_rank": 24,
+      "appid": 5144390,
+      "name": "OverBlocked",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5144390/"
+    },
+    {
+      "steam_rank": 25,
       "appid": 5262170,
       "name": "FLATBED Demo",
       "release_date": "5 Oct, 2026",
@@ -914,7 +864,57 @@
       "store_url": "https://store.steampowered.com/app/5262170/"
     },
     {
-      "steam_rank": 7,
+      "steam_rank": 26,
+      "appid": 4612950,
+      "name": "Tidy Backpack: In the Faraway Lands",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4612950/"
+    },
+    {
+      "steam_rank": 27,
+      "appid": 4838690,
+      "name": "Chill Cat",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4838690/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 4992970,
+      "name": "Tawger Defense Demo",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4992970/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 5294770,
+      "name": "Fresh Market Simulator Demo",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5294770/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 5255350,
+      "name": "Idle Miner",
+      "release_date": "5 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5255350/"
+    },
+    {
+      "steam_rank": 9,
       "appid": 4019220,
       "name": "Dressmaker",
       "release_date": "21 Sep, 2026",
@@ -934,7 +934,7 @@
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790947386",
-      "recommendations": 8191,
+      "recommendations": 8830,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
@@ -961,7 +961,7 @@
       "coming_soon": false,
       "short_description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s pat",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
-      "recommendations": 470874,
+      "recommendations": 471174,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/892970/"
     }
