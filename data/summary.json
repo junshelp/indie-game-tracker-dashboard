@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T12:00:00.000Z",
-  "kstDate": "2026-10-05",
+  "generatedAt": "2026-10-06T12:00:00.000Z",
+  "kstDate": "2026-10-06",
   "monthly": {
     "1월": {
       "total": 4,
@@ -517,9 +517,9 @@
       ]
     },
     "10월": {
-      "total": 15,
+      "total": 16,
       "byCountry": {
-        "JP": 11,
+        "JP": 12,
         "ONLINE": 1,
         "KR": 2,
         "TH": 1
@@ -621,6 +621,13 @@
           "startDate": "2026-10-31",
           "endDate": "2026-10-31",
           "type": "전시회",
+          "country": "JP"
+        },
+        {
+          "name": "刈谷インディーゲーム",
+          "startDate": "2026-10-31",
+          "endDate": "2026-10-31",
+          "type": "기타",
           "country": "JP"
         },
         {
@@ -866,10 +873,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 1,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 0,
+    "totalChanges": 1,
     "note": ""
   }
 }

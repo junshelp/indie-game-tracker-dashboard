@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-05T12:00:00.000Z",
+  "updatedAt": "2026-10-06T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-10-06",
+      "type": "discovered",
+      "eventId": "evt-075",
+      "name": "刈谷インディーゲーム",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-10-04",
       "type": "discovered",
@@ -866,5 +874,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 107
+  "totalTracked": 108
 }
