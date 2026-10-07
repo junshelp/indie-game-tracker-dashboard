@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-10-06T12:00:00.000Z",
+  "updatedAt": "2026-10-07T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-001",
+      "name": "Taipei Game Show 2026",
+      "detail": "신규 발견 (🇹🇼 대만)",
+      "country": "🇹🇼 대만"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-002",
+      "name": "BitSummit Drift",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-003",
+      "name": "TOKYO INDIE GAMES SUMMIT 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-006",
+      "name": "INDIE Live Expo 2026.4.25",
+      "detail": "신규 발견 (🌏 온라인)",
+      "country": "🌏 온라인"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-007",
+      "name": "게임파빌리온jp2026夏",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-008",
+      "name": "BIC 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-011",
+      "name": "IndieCraft 2026",
+      "detail": "신규 발견 (🇰🇷 한국)",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-010",
+      "name": "Tokyo Game Show 2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-022",
+      "name": "デジゲー博2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-025",
+      "name": "神戸ゲームラビリンス2026",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-026",
+      "name": "WePlay Expo 2026",
+      "detail": "신규 발견 (🇨🇳 중국)",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "discovered",
+      "eventId": "evt-032",
+      "name": "コミックマーケット C109",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "changed",
+      "eventId": "evt-005",
+      "name": "PlayX4 2026",
+      "detail": "일정 변경: 2026-05-21 → 2026-05-22",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "confirmed",
+      "eventId": "evt-009",
+      "name": "AKIBA 서브컬처 서밋 @칸다묘진 2026",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "confirmed",
+      "eventId": "evt-012",
+      "name": "OSAKA INDIE GAMES SUMMIT 2026",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "confirmed",
+      "eventId": "evt-020",
+      "name": "東京ゲームダンジョン14",
+      "detail": "접수 기간 확정: 마감 (선착순 270枠)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "confirmed",
+      "eventId": "evt-024",
+      "name": "G-STAR 2026",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "confirmed",
+      "eventId": "evt-029",
+      "name": "INDIE Live Expo 2026.12.1",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🌏 온라인"
+    },
     {
       "date": "2026-10-06",
       "type": "discovered",
@@ -874,5 +1018,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 108
+  "totalTracked": 32
 }
