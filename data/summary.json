@@ -517,9 +517,9 @@
       ]
     },
     "10월": {
-      "total": 16,
+      "total": 17,
       "byCountry": {
-        "JP": 12,
+        "JP": 13,
         "ONLINE": 1,
         "KR": 2,
         "TH": 1
@@ -566,6 +566,13 @@
           "endDate": "2026-10-09",
           "type": "기타",
           "country": "KR"
+        },
+        {
+          "name": "【THEインディー展】個人開発プロダクトの展示会",
+          "startDate": "2026-10-10",
+          "endDate": "2026-10-10",
+          "type": "기타",
+          "country": "JP"
         },
         {
           "name": "サブカル魂2026",
@@ -873,10 +880,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 88,
+    "newDiscoveries": 89,
     "dateChanges": 1,
     "submissionUpdates": 4,
-    "totalChanges": 93,
+    "totalChanges": 94,
     "note": ""
   }
 }

@@ -4,6 +4,14 @@
     {
       "date": "2026-10-08",
       "type": "discovered",
+      "eventId": "evt-068",
+      "name": "【THEインディー展】個人開発プロダクトの展示会",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "discovered",
       "eventId": "evt-000",
       "name": "コウゲイゲームショウ2026",
       "detail": "신규 발견 (🇯🇵 일본)",
@@ -1762,5 +1770,5 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 108
+  "totalTracked": 109
 }
