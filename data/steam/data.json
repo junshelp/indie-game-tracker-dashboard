@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:00:00.000Z",
+  "generatedAt": "2026-10-08T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -615,303 +615,303 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5371800,
-      "name": "CLOUD PATROL Demo",
-      "release_date": "6 Oct, 2026",
+      "appid": 5126020,
+      "name": "Dungeon Wanderers Demo",
+      "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5371800/"
+      "store_url": "https://store.steampowered.com/app/5126020/"
     },
     {
       "steam_rank": 2,
-      "appid": 5330120,
-      "name": "Bake It Tight Demo",
-      "release_date": "6 Oct, 2026",
+      "appid": 5185130,
+      "name": "Obsessive",
+      "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5330120/"
+      "store_url": "https://store.steampowered.com/app/5185130/"
     },
     {
       "steam_rank": 3,
-      "appid": 5245680,
-      "name": "Steak Simulator: Medium Rare Demo",
-      "release_date": "6 Oct, 2026",
+      "appid": 5333810,
+      "name": "Blooming Parasite Demo",
+      "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5245680/"
+      "store_url": "https://store.steampowered.com/app/5333810/"
     },
     {
       "steam_rank": 4,
-      "appid": 5323380,
-      "name": "Company Captain: Westashes Demo",
-      "release_date": "6 Oct, 2026",
+      "appid": 5298560,
+      "name": "Star Driver Ultra Demo",
+      "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5323380/"
+      "store_url": "https://store.steampowered.com/app/5298560/"
     },
     {
       "steam_rank": 5,
-      "appid": 4970480,
-      "name": "Chaos The Devil Demo",
+      "appid": 5285260,
+      "name": "Pill &amp; Chill Demo",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4970480/"
+      "store_url": "https://store.steampowered.com/app/5285260/"
     },
     {
       "steam_rank": 6,
-      "appid": 5257350,
-      "name": "Hex Reverse",
+      "appid": 5129260,
+      "name": "Norselings Demo",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5257350/"
+      "store_url": "https://store.steampowered.com/app/5129260/"
     },
     {
       "steam_rank": 7,
-      "appid": 5019930,
-      "name": "Autumn Urban Style - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure",
+      "appid": 5284070,
+      "name": "It's A Flop Demo",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5019930/"
+      "store_url": "https://store.steampowered.com/app/5284070/"
     },
     {
       "steam_rank": 8,
-      "appid": 5318510,
-      "name": "Ammo Eater",
+      "appid": 5362130,
+      "name": "Balls Armed Demo",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5318510/"
+      "store_url": "https://store.steampowered.com/app/5362130/"
     },
     {
       "steam_rank": 9,
-      "appid": 5018500,
-      "name": "Football on Paper Demo",
+      "appid": 5245720,
+      "name": "Old War Together",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5018500/"
+      "store_url": "https://store.steampowered.com/app/5245720/"
     },
     {
       "steam_rank": 10,
-      "appid": 5356790,
-      "name": "Involved Demo",
+      "appid": 4221660,
+      "name": "DungeonOS",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5356790/"
+      "store_url": "https://store.steampowered.com/app/4221660/"
     },
     {
       "steam_rank": 11,
-      "appid": 3561610,
-      "name": "Horde Arena",
+      "appid": 4549850,
+      "name": "Deceptive Shadows Demo",
       "release_date": "7 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3561610/"
+      "store_url": "https://store.steampowered.com/app/4549850/"
     },
     {
       "steam_rank": 12,
-      "appid": 5294150,
-      "name": "Broadband Architect Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 4692320,
+      "name": "MYRIORAMA Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5294150/"
+      "store_url": "https://store.steampowered.com/app/4692320/"
     },
     {
       "steam_rank": 13,
-      "appid": 5089160,
-      "name": "Not Now, Aliens! Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 4800470,
+      "name": "Big Market Simulator",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5089160/"
+      "store_url": "https://store.steampowered.com/app/4800470/"
     },
     {
       "steam_rank": 14,
-      "appid": 5031520,
-      "name": "Endless Bonds",
-      "release_date": "7 Oct, 2026",
+      "appid": 5356810,
+      "name": "Drain the Galaxy Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5031520/"
+      "store_url": "https://store.steampowered.com/app/5356810/"
     },
     {
       "steam_rank": 15,
-      "appid": 5231870,
-      "name": "OUT OF BOUNDS Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5232780,
+      "name": "PLANETOON Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5231870/"
+      "store_url": "https://store.steampowered.com/app/5232780/"
     },
     {
       "steam_rank": 16,
-      "appid": 5253300,
-      "name": "DIGITRE:SUM 10/20 Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 3883570,
+      "name": "Invokyr",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5253300/"
+      "store_url": "https://store.steampowered.com/app/3883570/"
     },
     {
       "steam_rank": 17,
-      "appid": 4822560,
-      "name": "Cats In The Shell Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 4112840,
+      "name": "Demon General Kirsten",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4822560/"
+      "store_url": "https://store.steampowered.com/app/4112840/"
     },
     {
       "steam_rank": 18,
-      "appid": 4932560,
-      "name": "Annie's DineInn: Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5121000,
+      "name": "My Oshi Uses Too Much Slang! Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4932560/"
+      "store_url": "https://store.steampowered.com/app/5121000/"
     },
     {
       "steam_rank": 19,
-      "appid": 5125890,
-      "name": "Puzzle Arrows: The Original",
-      "release_date": "7 Oct, 2026",
+      "appid": 4364580,
+      "name": "Harold Rabbit 3 : The House of Mysteries",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5125890/"
+      "store_url": "https://store.steampowered.com/app/4364580/"
     },
     {
       "steam_rank": 20,
-      "appid": 5092180,
-      "name": "Flippy Burgers",
-      "release_date": "7 Oct, 2026",
+      "appid": 5326590,
+      "name": "Re:Red Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5092180/"
+      "store_url": "https://store.steampowered.com/app/5326590/"
     },
     {
       "steam_rank": 21,
-      "appid": 4891720,
-      "name": "Hybrid Gene",
-      "release_date": "7 Oct, 2026",
+      "appid": 5324860,
+      "name": "MIU",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4891720/"
+      "store_url": "https://store.steampowered.com/app/5324860/"
     },
     {
       "steam_rank": 22,
-      "appid": 4699770,
-      "name": "Babel Legacy",
-      "release_date": "7 Oct, 2026",
+      "appid": 4891650,
+      "name": "PlantUp",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4699770/"
+      "store_url": "https://store.steampowered.com/app/4891650/"
     },
     {
       "steam_rank": 23,
-      "appid": 5213380,
-      "name": "Heartbeats - Anniversary Edition",
-      "release_date": "7 Oct, 2026",
+      "appid": 4149040,
+      "name": "Drillbound",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5213380/"
+      "store_url": "https://store.steampowered.com/app/4149040/"
     },
     {
       "steam_rank": 24,
-      "appid": 5344940,
-      "name": "White and Tabby Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5125340,
+      "name": "Sex Novel - Cheating Girlfriend",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5344940/"
+      "store_url": "https://store.steampowered.com/app/5125340/"
     },
     {
       "steam_rank": 25,
-      "appid": 5368350,
-      "name": "Delivery Today Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 3871980,
+      "name": "Ship Shape Slam!!!",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5368350/"
+      "store_url": "https://store.steampowered.com/app/3871980/"
     },
     {
       "steam_rank": 26,
-      "appid": 4993290,
-      "name": "Rollamech Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5119670,
+      "name": "Abyssal Moonlight-Chapter1 Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4993290/"
+      "store_url": "https://store.steampowered.com/app/5119670/"
     },
     {
       "steam_rank": 27,
-      "appid": 5251580,
-      "name": "Super Shooting Gallery Battle",
-      "release_date": "7 Oct, 2026",
+      "appid": 5289790,
+      "name": "《Boring Ball-無聊的球》",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5251580/"
+      "store_url": "https://store.steampowered.com/app/5289790/"
     },
     {
       "steam_rank": 28,
-      "appid": 5291860,
-      "name": "Become Blackhole Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5277190,
+      "name": "Valley of Stability Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5291860/"
+      "store_url": "https://store.steampowered.com/app/5277190/"
     },
     {
       "steam_rank": 29,
-      "appid": 5210470,
-      "name": "Hexograph Demo",
-      "release_date": "7 Oct, 2026",
+      "appid": 5357990,
+      "name": "Abyssalis Demo",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5210470/"
+      "store_url": "https://store.steampowered.com/app/5357990/"
     },
     {
       "steam_rank": 30,
-      "appid": 5284210,
-      "name": "Maybe Hero",
-      "release_date": "7 Oct, 2026",
+      "appid": 5259600,
+      "name": "Nine Lives Deep",
+      "release_date": "8 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5284210/"
+      "store_url": "https://store.steampowered.com/app/5259600/"
     },
     {
       "steam_rank": 8,
@@ -934,12 +934,12 @@
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790947386",
-      "recommendations": 9943,
+      "recommendations": 10398,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
-      "steam_rank": 12,
+      "steam_rank": 15,
       "appid": 892970,
       "name": "Valheim",
       "release_date": "9 Sep, 2026",
@@ -961,7 +961,7 @@
       "coming_soon": false,
       "short_description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s pat",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
-      "recommendations": 471704,
+      "recommendations": 471954,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/892970/"
     }
