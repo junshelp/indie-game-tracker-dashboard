@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:00:00.000Z",
+  "generatedAt": "2026-10-09T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1256,7 +1256,7 @@
       "venue": "도쿄",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "",
+      "submissionPeriod": "접수중",
       "url": "https://digigame-expo.org/",
       "status": "upcoming",
       "month": 11
@@ -1639,8 +1639,8 @@
   ],
   "summary": {
     "totalEvents": 109,
-    "upcomingEvents": 43,
-    "pastEvents": 66,
+    "upcomingEvents": 42,
+    "pastEvents": 67,
     "upcoming30Days": 17,
     "byCountry": {
       "JP": 79,
@@ -1675,7 +1675,7 @@
       "11": 15,
       "12": 15
     },
-    "submissionOpen": 53,
+    "submissionOpen": 54,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"

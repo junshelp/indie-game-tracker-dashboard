@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-08T12:00:00.000Z",
+  "updatedAt": "2026-10-09T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-10-09",
+      "type": "confirmed",
+      "eventId": "evt-083",
+      "name": "デジゲー博2026 (디지게임엑스포)",
+      "detail": "접수 기간 확정: 접수중",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-10-08",
       "type": "discovered",
