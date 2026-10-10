@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:00:00.000Z",
+  "generatedAt": "2026-10-10T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1018,7 +1018,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "마감 (8/11~23)",
       "url": "https://x.com/ALTG_OFFICIAL",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1639,9 +1639,9 @@
   ],
   "summary": {
     "totalEvents": 109,
-    "upcomingEvents": 42,
-    "pastEvents": 67,
-    "upcoming30Days": 17,
+    "upcomingEvents": 41,
+    "pastEvents": 68,
+    "upcoming30Days": 16,
     "byCountry": {
       "JP": 79,
       "KR": 17,
