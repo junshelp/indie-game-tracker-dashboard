@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:00:00.000Z",
+  "generatedAt": "2026-10-11T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1033,7 +1033,7 @@
       "typeLabel": "기타",
       "submissionPeriod": "",
       "url": "https://x.com/EngineerCafeJP/status/2105854808448180349",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1326,8 +1326,8 @@
       "name": "G-STAR 2026",
       "country": "🇰🇷 한국",
       "countryCode": "KR",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
       "venue": "부산 벡스코",
       "type": "expo",
       "typeLabel": "전시회",
@@ -1631,7 +1631,7 @@
       "venue": "도쿄 빅사이트",
       "type": "doujin",
       "typeLabel": "동인",
-      "submissionPeriod": "",
+      "submissionPeriod": "마감 (온라인 8/10~8/24, 우편 8/10~8/19)",
       "url": "https://www.comiket.co.jp/",
       "status": "upcoming",
       "month": 12
@@ -1639,9 +1639,9 @@
   ],
   "summary": {
     "totalEvents": 109,
-    "upcomingEvents": 41,
-    "pastEvents": 68,
-    "upcoming30Days": 16,
+    "upcomingEvents": 39,
+    "pastEvents": 70,
+    "upcoming30Days": 14,
     "byCountry": {
       "JP": 79,
       "KR": 17,
@@ -1675,7 +1675,7 @@
       "11": 15,
       "12": 15
     },
-    "submissionOpen": 54,
+    "submissionOpen": 55,
     "dateRange": {
       "earliest": "2026-01-10",
       "latest": "2026-12-29"

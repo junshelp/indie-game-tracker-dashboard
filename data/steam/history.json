@@ -1,6 +1,286 @@
 {
-  "updatedAt": "2026-10-10T12:00:00.000Z",
+  "updatedAt": "2026-10-11T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5363200,
+      "name": "Pizzapoly Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 4968640,
+      "name": "Japanese Ramen Simulator",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 3356000,
+      "name": "The Traveller's Sight",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5331400,
+      "name": "Nullwatch Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5103470,
+      "name": "BrouHaHa Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5239090,
+      "name": "Skulls and Sweets",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5405010,
+      "name": "Slingbox Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5338230,
+      "name": "Security Duty",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "new_entry",
+      "appid": 5288280,
+      "name": "PHOBOS: Rescue",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 5256770,
+      "name": "PropHuntFPS",
+      "detail": "Top 63에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 5309060,
+      "name": "Afternoon Paws",
+      "detail": "Top 63에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 3627560,
+      "name": "Bounty Hunter Horrors",
+      "detail": "Top 63에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 5333520,
+      "name": "FUTA GIRLS",
+      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 5114480,
+      "name": "The Cup Demo",
+      "detail": "Top 63에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 5176690,
+      "name": "Bar Keeper",
+      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 4575830,
+      "name": "Big Furry Weekends!",
+      "detail": "Top 63에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "dropped",
+      "appid": 4330940,
+      "name": "Lord Liberty Quest II ~Pure White~",
+      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5138180,
+      "name": "Don't Give Up",
+      "detail": "랭크 변동: #7 → #1 (↑6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 2210950,
+      "name": "Aethel Mine",
+      "detail": "랭크 변동: #28 → #22 (↑6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5318150,
+      "name": "Timber Knight",
+      "detail": "랭크 변동: #14 → #7 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 3746950,
+      "name": "Life, the Universe, and Restaurants",
+      "detail": "랭크 변동: #30 → #19 (↑11)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5315210,
+      "name": "Massively Singleplayer Demo",
+      "detail": "랭크 변동: #13 → #6 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5332620,
+      "name": "Phantom Fleet",
+      "detail": "랭크 변동: #9 → #3 (↑6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 3187340,
+      "name": "Food Truck Frenzy",
+      "detail": "랭크 변동: #23 → #14 (↑9)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4809870,
+      "name": "Ravenswatch - Kintaro",
+      "detail": "랭크 변동: #29 → #21 (↑8)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4267800,
+      "name": "Bandit Simulator TD",
+      "detail": "랭크 변동: #18 → #11 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 3530010,
+      "name": "Meow Garden",
+      "detail": "랭크 변동: #25 → #18 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5087010,
+      "name": "界玄牌 Demo",
+      "detail": "랭크 변동: #19 → #12 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 3820460,
+      "name": "Last On Duty",
+      "detail": "랭크 변동: #24 → #17 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4985520,
+      "name": "Idle Vapor Legends",
+      "detail": "랭크 변동: #17 → #10 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4402610,
+      "name": "My Princess is The AV Idol",
+      "detail": "랭크 변동: #20 → #13 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4894260,
+      "name": "Inspector Sommers in: Ouroborian Madness",
+      "detail": "랭크 변동: #10 → #4 (↑6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5189940,
+      "name": "Next time... I'll work from home",
+      "detail": "랭크 변동: #12 → #5 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5234230,
+      "name": "Warring States: Seven Hegemons",
+      "detail": "랭크 변동: #15 → #8 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5242420,
+      "name": "Augment Mahjong Demo",
+      "detail": "랭크 변동: #21 → #16 (↑5)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5344950,
+      "name": "Penny Potluck Demo",
+      "detail": "랭크 변동: #22 → #15 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5166790,
+      "name": "Unwatching -The Seven Dolls-",
+      "detail": "랭크 변동: #16 → #9 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 5102310,
+      "name": "DISK-Y Demo",
+      "detail": "랭크 변동: #8 → #2 (↑6)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "rank_change",
+      "appid": 4801520,
+      "name": "Adventures of Mack",
+      "detail": "랭크 변동: #27 → #20 (↑7)"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "released",
+      "appid": 4614080,
+      "name": "Cartel Pilots Wanted",
+      "detail": "출시 완료! (To be announced)"
+    },
     {
       "date": "2026-10-10",
       "type": "new_entry",

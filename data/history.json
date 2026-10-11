@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-10T12:00:00.000Z",
+  "updatedAt": "2026-10-11T12:00:00.000Z",
   "events": [
+    {
+      "date": "2026-10-11",
+      "type": "changed",
+      "eventId": "evt-088",
+      "name": "G-STAR 2026",
+      "detail": "일정 변경: 2026-11-19 → 2026-11-18",
+      "country": "🇰🇷 한국"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "confirmed",
+      "eventId": "evt-107",
+      "name": "Comiket C109 (Winter)",
+      "detail": "접수 기간 확정: 마감 (온라인 8/10~8/24, 우편 8/10~8/19)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-10-09",
       "type": "confirmed",
