@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:00:00.000Z",
+  "generatedAt": "2026-10-12T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -190,36 +190,11 @@
     },
     {
       "steam_rank": 8,
-      "appid": 2610770,
-      "name": "Dust Front RTS",
-      "release_date": "To be announced",
-      "review_summary": "",
-      "wishlist_rank": 8,
-      "source": "top_wishlisted",
-      "developers": [
-        "rtsDimon"
-      ],
-      "publishers": [
-        "rtsDimon"
-      ],
-      "genres": [
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Dust Front is a classic RTS with grand strategy elements and a non-linear campaign. Lead strategic maneuvers, overwhelm your enemies with cannon fodder, or stomp them into the stone age with carpet bo",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610770/3063d11decd4e3cb61ec31bd862660b736147bb8/header.jpg?t=1781542029",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2610770/"
-    },
-    {
-      "steam_rank": 9,
       "appid": 5072600,
       "name": "Family Time",
       "release_date": "Q1 2027",
       "review_summary": "",
-      "wishlist_rank": 9,
+      "wishlist_rank": 8,
       "source": "top_wishlisted",
       "developers": [
         "sgthale"
@@ -239,6 +214,31 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5072600/"
+    },
+    {
+      "steam_rank": 9,
+      "appid": 2610770,
+      "name": "Dust Front RTS",
+      "release_date": "To be announced",
+      "review_summary": "",
+      "wishlist_rank": 9,
+      "source": "top_wishlisted",
+      "developers": [
+        "rtsDimon"
+      ],
+      "publishers": [
+        "rtsDimon"
+      ],
+      "genres": [
+        "Indie",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Dust Front is a classic RTS with grand strategy elements and a non-linear campaign. Lead strategic maneuvers, overwhelm your enemies with cannon fodder, or stomp them into the stone age with carpet bo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610770/3063d11decd4e3cb61ec31bd862660b736147bb8/header.jpg?t=1781542029",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/2610770/"
     },
     {
       "steam_rank": 10,
@@ -349,11 +349,38 @@
     },
     {
       "steam_rank": 14,
+      "appid": 4150720,
+      "name": "Drunken Goddess Reflux",
+      "release_date": "To be announced",
+      "review_summary": "",
+      "wishlist_rank": 14,
+      "source": "top_wishlisted",
+      "developers": [
+        "Alliance Arts",
+        "WHO YOU"
+      ],
+      "publishers": [
+        " Alliance Arts"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it a",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1778427552",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4150720/"
+    },
+    {
+      "steam_rank": 15,
       "appid": 2454980,
       "name": "Drakantos",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 14,
+      "wishlist_rank": 15,
       "source": "top_wishlisted",
       "developers": [
         "Wingeon Game Studios LLC"
@@ -377,12 +404,12 @@
       "store_url": "https://store.steampowered.com/app/2454980/"
     },
     {
-      "steam_rank": 15,
+      "steam_rank": 16,
       "appid": 1536500,
       "name": "Euro Truck Simulator 2 - Heart of Russia",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 15,
+      "wishlist_rank": 16,
       "source": "top_wishlisted",
       "developers": [
         "SCS Software"
@@ -402,33 +429,6 @@
       "store_url": "https://store.steampowered.com/app/1536500/"
     },
     {
-      "steam_rank": 16,
-      "appid": 4150720,
-      "name": "Drunken Goddess Reflux",
-      "release_date": "To be announced",
-      "review_summary": "",
-      "wishlist_rank": 16,
-      "source": "top_wishlisted",
-      "developers": [
-        "Alliance Arts",
-        "WHO YOU"
-      ],
-      "publishers": [
-        " Alliance Arts"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it a",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1778427552",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4150720/"
-    },
-    {
       "steam_rank": 17,
       "appid": 4031890,
       "name": "Palworld: Palfarm",
@@ -436,21 +436,6 @@
       "review_summary": "",
       "wishlist_rank": 17,
       "source": "top_wishlisted",
-      "developers": [
-        "Pocketpair"
-      ],
-      "publishers": [
-        "Pocketpair"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Enjoy a farming life with mysterious creatures known as Pals! Team up with them to grow your farm at your own pace in this brand new creature-collecting farming sim, fully playable in multiplayer!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031890/92aca012dc905e2a27e47e5f2b669ec9a811ab03/header.jpg?t=1782286523",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4031890/"
     },
@@ -599,96 +584,6 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5138180,
-      "name": "Don't Give Up",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5138180/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 5102310,
-      "name": "DISK-Y Demo",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5102310/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 5332620,
-      "name": "Phantom Fleet",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5332620/"
-    },
-    {
-      "steam_rank": 4,
-      "appid": 4894260,
-      "name": "Inspector Sommers in: Ouroborian Madness",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4894260/"
-    },
-    {
-      "steam_rank": 5,
-      "appid": 5189940,
-      "name": "Next time... I'll work from home",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5189940/"
-    },
-    {
-      "steam_rank": 6,
-      "appid": 5315210,
-      "name": "Massively Singleplayer Demo",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5315210/"
-    },
-    {
-      "steam_rank": 7,
-      "appid": 5318150,
-      "name": "Timber Knight",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5318150/"
-    },
-    {
-      "steam_rank": 8,
-      "appid": 5234230,
-      "name": "Warring States: Seven Hegemons",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5234230/"
-    },
-    {
-      "steam_rank": 9,
-      "appid": 5166790,
-      "name": "Unwatching -The Seven Dolls-",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5166790/"
-    },
-    {
-      "steam_rank": 10,
       "appid": 4985520,
       "name": "Idle Vapor Legends",
       "release_date": "11 Oct, 2026",
@@ -698,7 +593,7 @@
       "store_url": "https://store.steampowered.com/app/4985520/"
     },
     {
-      "steam_rank": 11,
+      "steam_rank": 2,
       "appid": 4267800,
       "name": "Bandit Simulator TD",
       "release_date": "11 Oct, 2026",
@@ -708,7 +603,17 @@
       "store_url": "https://store.steampowered.com/app/4267800/"
     },
     {
-      "steam_rank": 12,
+      "steam_rank": 3,
+      "appid": 5430550,
+      "name": "AL-Mafia Demo",
+      "release_date": "11 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5430550/"
+    },
+    {
+      "steam_rank": 4,
       "appid": 5087010,
       "name": "界玄牌 Demo",
       "release_date": "11 Oct, 2026",
@@ -718,7 +623,7 @@
       "store_url": "https://store.steampowered.com/app/5087010/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 5,
       "appid": 4402610,
       "name": "My Princess is The AV Idol",
       "release_date": "11 Oct, 2026",
@@ -728,7 +633,7 @@
       "store_url": "https://store.steampowered.com/app/4402610/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 6,
       "appid": 3187340,
       "name": "Food Truck Frenzy",
       "release_date": "11 Oct, 2026",
@@ -738,17 +643,7 @@
       "store_url": "https://store.steampowered.com/app/3187340/"
     },
     {
-      "steam_rank": 15,
-      "appid": 5344950,
-      "name": "Penny Potluck Demo",
-      "release_date": "11 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5344950/"
-    },
-    {
-      "steam_rank": 16,
+      "steam_rank": 7,
       "appid": 5242420,
       "name": "Augment Mahjong Demo",
       "release_date": "11 Oct, 2026",
@@ -758,7 +653,17 @@
       "store_url": "https://store.steampowered.com/app/5242420/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 8,
+      "appid": 5344950,
+      "name": "Penny Potluck Demo",
+      "release_date": "11 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5344950/"
+    },
+    {
+      "steam_rank": 9,
       "appid": 3820460,
       "name": "Last On Duty",
       "release_date": "11 Oct, 2026",
@@ -768,7 +673,7 @@
       "store_url": "https://store.steampowered.com/app/3820460/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 10,
       "appid": 3530010,
       "name": "Meow Garden",
       "release_date": "12 Oct, 2026",
@@ -778,17 +683,7 @@
       "store_url": "https://store.steampowered.com/app/3530010/"
     },
     {
-      "steam_rank": 19,
-      "appid": 3746950,
-      "name": "Life, the Universe, and Restaurants",
-      "release_date": "12 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3746950/"
-    },
-    {
-      "steam_rank": 20,
+      "steam_rank": 11,
       "appid": 4801520,
       "name": "Adventures of Mack",
       "release_date": "12 Oct, 2026",
@@ -798,17 +693,7 @@
       "store_url": "https://store.steampowered.com/app/4801520/"
     },
     {
-      "steam_rank": 21,
-      "appid": 4809870,
-      "name": "Ravenswatch - Kintaro",
-      "release_date": "12 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4809870/"
-    },
-    {
-      "steam_rank": 22,
+      "steam_rank": 12,
       "appid": 2210950,
       "name": "Aethel Mine",
       "release_date": "12 Oct, 2026",
@@ -818,7 +703,27 @@
       "store_url": "https://store.steampowered.com/app/2210950/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 13,
+      "appid": 4809870,
+      "name": "Ravenswatch - Kintaro",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4809870/"
+    },
+    {
+      "steam_rank": 14,
+      "appid": 3746950,
+      "name": "Life, the Universe, and Restaurants",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3746950/"
+    },
+    {
+      "steam_rank": 15,
       "appid": 5103470,
       "name": "BrouHaHa Demo",
       "release_date": "12 Oct, 2026",
@@ -828,7 +733,7 @@
       "store_url": "https://store.steampowered.com/app/5103470/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 16,
       "appid": 5338230,
       "name": "Security Duty",
       "release_date": "12 Oct, 2026",
@@ -838,7 +743,7 @@
       "store_url": "https://store.steampowered.com/app/5338230/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 17,
       "appid": 5405010,
       "name": "Slingbox Demo",
       "release_date": "12 Oct, 2026",
@@ -848,7 +753,7 @@
       "store_url": "https://store.steampowered.com/app/5405010/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 18,
       "appid": 5363200,
       "name": "Pizzapoly Demo",
       "release_date": "12 Oct, 2026",
@@ -858,7 +763,7 @@
       "store_url": "https://store.steampowered.com/app/5363200/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 19,
       "appid": 3356000,
       "name": "The Traveller's Sight",
       "release_date": "12 Oct, 2026",
@@ -868,7 +773,7 @@
       "store_url": "https://store.steampowered.com/app/3356000/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 20,
       "appid": 5288280,
       "name": "PHOBOS: Rescue",
       "release_date": "12 Oct, 2026",
@@ -878,24 +783,104 @@
       "store_url": "https://store.steampowered.com/app/5288280/"
     },
     {
-      "steam_rank": 29,
-      "appid": 5331400,
-      "name": "Nullwatch Demo",
+      "steam_rank": 21,
+      "appid": 5306000,
+      "name": "BABEL: Invent a Way",
       "release_date": "12 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5331400/"
+      "store_url": "https://store.steampowered.com/app/5306000/"
+    },
+    {
+      "steam_rank": 22,
+      "appid": 5248840,
+      "name": "PotionsTidy Demo",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5248840/"
+    },
+    {
+      "steam_rank": 23,
+      "appid": 4456180,
+      "name": "Overdue",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4456180/"
+    },
+    {
+      "steam_rank": 24,
+      "appid": 5313130,
+      "name": "Solitaire Crime Stories: Chapter 1",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5313130/"
+    },
+    {
+      "steam_rank": 25,
+      "appid": 2509870,
+      "name": "Time To Wake Up",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/2509870/"
+    },
+    {
+      "steam_rank": 26,
+      "appid": 5278730,
+      "name": "I Was Reincarnated as a Bosozoku Hamster, So I Became a Racing Champion to Return Home",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5278730/"
+    },
+    {
+      "steam_rank": 27,
+      "appid": 5045760,
+      "name": "Pieps Fruit Fall",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5045760/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 4373960,
+      "name": "Q's Curse",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4373960/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 5350660,
+      "name": "Silent Trench Demo",
+      "release_date": "12 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5350660/"
     },
     {
       "steam_rank": 30,
-      "appid": 5239090,
-      "name": "Skulls and Sweets",
+      "appid": 5065920,
+      "name": "Mushroom Marketplace",
       "release_date": "12 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5239090/"
+      "store_url": "https://store.steampowered.com/app/5065920/"
     },
     {
       "steam_rank": 4,
@@ -918,7 +903,7 @@
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1791464969",
-      "recommendations": 11733,
+      "recommendations": 12218,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
@@ -943,12 +928,12 @@
       "coming_soon": false,
       "short_description": "Death comes for us all - Overcome powerful curses, strange new enemies and deadly trials as two new Survivors but never forget for a moment… She is watching.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055670/3bf4b68ad7af9933602ecd2fc26f588f047e09e7/header.jpg?t=1791531426",
-      "recommendations": 702,
+      "recommendations": 832,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3055670/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 20,
       "appid": 4968640,
       "name": "Japanese Ramen Simulator",
       "release_date": "9 Oct, 2026",
@@ -970,15 +955,45 @@
       "coming_soon": false,
       "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
-      "recommendations": 145,
+      "recommendations": 208,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4968640/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 3883570,
+      "name": "Invokyr",
+      "release_date": "8 Oct, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "Ludogram"
+      ],
+      "publishers": [
+        "Ludogram",
+        "Shochiku"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Free To Play",
+        "Early Access"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
+      "recommendations": 405,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/3883570/"
     }
   ],
   "summary": {
-    "total": 63,
+    "total": 64,
     "free_games": 1,
-    "released": 3,
+    "released": 4,
     "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
@@ -988,11 +1003,11 @@
       ],
       [
         "Adventure",
-        10
+        11
       ],
       [
         "Action",
-        9
+        10
       ],
       [
         "Simulation",
@@ -1000,7 +1015,7 @@
       ],
       [
         "Casual",
-        7
+        6
       ]
     ],
     "top_developers": [
