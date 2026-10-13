@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T12:00:00.000Z",
-  "kstDate": "2026-10-12",
+  "generatedAt": "2026-10-13T12:00:00.000Z",
+  "kstDate": "2026-10-13",
   "monthly": {
     "1월": {
       "total": 4,
@@ -517,9 +517,9 @@
       ]
     },
     "10월": {
-      "total": 17,
+      "total": 15,
       "byCountry": {
-        "JP": 13,
+        "JP": 11,
         "ONLINE": 1,
         "KR": 2,
         "TH": 1
@@ -566,13 +566,6 @@
           "endDate": "2026-10-09",
           "type": "기타",
           "country": "KR"
-        },
-        {
-          "name": "【THEインディー展】個人開発プロダクトの展示会",
-          "startDate": "2026-10-10",
-          "endDate": "2026-10-10",
-          "type": "기타",
-          "country": "JP"
         },
         {
           "name": "サブカル魂2026",
@@ -628,13 +621,6 @@
           "startDate": "2026-10-31",
           "endDate": "2026-10-31",
           "type": "전시회",
-          "country": "JP"
-        },
-        {
-          "name": "刈谷インディーゲーム",
-          "startDate": "2026-10-31",
-          "endDate": "2026-10-31",
-          "type": "기타",
           "country": "JP"
         },
         {
@@ -719,8 +705,8 @@
         },
         {
           "name": "G-STAR 2026",
-          "startDate": "2026-11-18",
-          "endDate": "2026-11-22",
+          "startDate": "2026-11-19",
+          "endDate": "2026-11-19",
           "type": "전시회",
           "country": "KR"
         },
@@ -880,10 +866,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 109,
+    "newDiscoveries": 107,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 109,
+    "totalChanges": 107,
     "note": ""
   }
 }
