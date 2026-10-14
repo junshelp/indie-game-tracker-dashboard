@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:00:00.000Z",
+  "generatedAt": "2026-10-14T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -103,7 +103,7 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1791201212",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1791920596",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2929250/"
     },
@@ -242,38 +242,11 @@
     },
     {
       "steam_rank": 10,
-      "appid": 1228610,
-      "name": "KARLSON",
-      "release_date": "Coming soon",
-      "review_summary": "",
-      "wishlist_rank": 10,
-      "source": "top_wishlisted",
-      "developers": [
-        "Dani"
-      ],
-      "publishers": [
-        "Dani"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "What do you get if you combine an FPS, Parkour, Slowmo &amp; ... Milk? KARLSON. The milk-infused man will stop at nothing to locate and drink his favorite beverage.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228610/header.jpg?t=1649362618",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/1228610/"
-    },
-    {
-      "steam_rank": 11,
       "appid": 2318330,
       "name": "Neverway",
       "release_date": "2027",
       "review_summary": "",
-      "wishlist_rank": 11,
+      "wishlist_rank": 10,
       "source": "top_wishlisted",
       "developers": [
         "Coldblood Inc."
@@ -293,6 +266,33 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318330/9597af8151ee58cb5d8ca14b3cba33b2a574f35a/header.jpg?t=1790726661",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2318330/"
+    },
+    {
+      "steam_rank": 11,
+      "appid": 1228610,
+      "name": "KARLSON",
+      "release_date": "Coming soon",
+      "review_summary": "",
+      "wishlist_rank": 11,
+      "source": "top_wishlisted",
+      "developers": [
+        "Dani"
+      ],
+      "publishers": [
+        "Dani"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "What do you get if you combine an FPS, Parkour, Slowmo &amp; ... Milk? KARLSON. The milk-infused man will stop at nothing to locate and drink his favorite beverage.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228610/header.jpg?t=1649362618",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/1228610/"
     },
     {
       "steam_rank": 12,
@@ -540,25 +540,25 @@
     },
     {
       "steam_rank": 27,
-      "appid": 1977610,
-      "name": "Long Gone",
-      "release_date": "2027",
-      "review_summary": "",
-      "wishlist_rank": 27,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/1977610/"
-    },
-    {
-      "steam_rank": 28,
       "appid": 3115160,
       "name": "Warhammer 40,000: Boltgun 2",
       "release_date": "14 Oct, 2026",
       "review_summary": "",
-      "wishlist_rank": 28,
+      "wishlist_rank": 27,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3115160/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 1977610,
+      "name": "Long Gone",
+      "release_date": "2027",
+      "review_summary": "",
+      "wishlist_rank": 28,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/1977610/"
     },
     {
       "steam_rank": 29,
@@ -584,306 +584,306 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5322840,
-      "name": "JOCKEY RISING: BLOODLINE Demo",
-      "release_date": "12 Oct, 2026",
+      "appid": 4519510,
+      "name": "Keysaster",
+      "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5322840/"
+      "store_url": "https://store.steampowered.com/app/4519510/"
     },
     {
       "steam_rank": 2,
-      "appid": 4691490,
-      "name": "Adventurer's Life",
-      "release_date": "12 Oct, 2026",
+      "appid": 5306900,
+      "name": "2034 Demo",
+      "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4691490/"
+      "store_url": "https://store.steampowered.com/app/5306900/"
     },
     {
       "steam_rank": 3,
-      "appid": 3859210,
-      "name": "Rhythm Animal Café",
-      "release_date": "12 Oct, 2026",
+      "appid": 5096130,
+      "name": "It Was Not a Suicide Demo",
+      "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3859210/"
+      "store_url": "https://store.steampowered.com/app/5096130/"
     },
     {
       "steam_rank": 4,
-      "appid": 5099290,
-      "name": "Dub Night Live",
-      "release_date": "12 Oct, 2026",
+      "appid": 5358680,
+      "name": "Embersworn II: Throne of Endless Night",
+      "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5099290/"
+      "store_url": "https://store.steampowered.com/app/5358680/"
     },
     {
       "steam_rank": 5,
-      "appid": 5344520,
-      "name": "Ratocalypse Demo",
+      "appid": 3299050,
+      "name": "No Such Place",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5344520/"
+      "store_url": "https://store.steampowered.com/app/3299050/"
     },
     {
       "steam_rank": 6,
-      "appid": 5317080,
-      "name": "Race on Stream!",
+      "appid": 5358900,
+      "name": "Leek Survivors",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5317080/"
+      "store_url": "https://store.steampowered.com/app/5358900/"
     },
     {
       "steam_rank": 7,
-      "appid": 5176650,
-      "name": "Nursing Home Simulator",
+      "appid": 4250470,
+      "name": "Labyrinth Knights",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5176650/"
+      "store_url": "https://store.steampowered.com/app/4250470/"
     },
     {
       "steam_rank": 8,
-      "appid": 5312040,
-      "name": "Galdr Inkblade",
+      "appid": 5379400,
+      "name": "Zero Colour Demo",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5312040/"
+      "store_url": "https://store.steampowered.com/app/5379400/"
     },
     {
       "steam_rank": 9,
-      "appid": 5281450,
-      "name": "100s Fishing",
+      "appid": 5195360,
+      "name": "BitWise",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5281450/"
+      "store_url": "https://store.steampowered.com/app/5195360/"
     },
     {
       "steam_rank": 10,
-      "appid": 4958670,
-      "name": "Orderfall",
+      "appid": 5323760,
+      "name": "Verity's Revenge",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4958670/"
+      "store_url": "https://store.steampowered.com/app/5323760/"
     },
     {
       "steam_rank": 11,
-      "appid": 5316090,
-      "name": "Dead Keys Demo",
+      "appid": 3080070,
+      "name": "Order: The New Dawn",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5316090/"
+      "store_url": "https://store.steampowered.com/app/3080070/"
     },
     {
       "steam_rank": 12,
-      "appid": 4385110,
-      "name": "PigPonyPocalypse",
+      "appid": 4485350,
+      "name": "Deunocta",
       "release_date": "13 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4385110/"
+      "store_url": "https://store.steampowered.com/app/4485350/"
     },
     {
       "steam_rank": 13,
-      "appid": 5033710,
-      "name": "Yume Tenshi",
-      "release_date": "13 Oct, 2026",
+      "appid": 5153860,
+      "name": "Hippo Hop",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5033710/"
+      "store_url": "https://store.steampowered.com/app/5153860/"
     },
     {
       "steam_rank": 14,
-      "appid": 5124350,
-      "name": "Steal &amp; Sell Simulator Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 5289970,
+      "name": "Tales From Eternity - Interactive Preview",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5124350/"
+      "store_url": "https://store.steampowered.com/app/5289970/"
     },
     {
       "steam_rank": 15,
-      "appid": 5179800,
-      "name": "Cone &amp; Crest",
-      "release_date": "13 Oct, 2026",
+      "appid": 4547860,
+      "name": "Escape from EloHell",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5179800/"
+      "store_url": "https://store.steampowered.com/app/4547860/"
     },
     {
       "steam_rank": 16,
-      "appid": 4695040,
-      "name": "Gym Bros: LooksMaxx",
-      "release_date": "13 Oct, 2026",
+      "appid": 5162410,
+      "name": "COLD CALL Demo",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4695040/"
+      "store_url": "https://store.steampowered.com/app/5162410/"
     },
     {
       "steam_rank": 17,
-      "appid": 5321030,
-      "name": "Plow-A-Lot",
-      "release_date": "13 Oct, 2026",
+      "appid": 5283330,
+      "name": "Wattverse",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5321030/"
+      "store_url": "https://store.steampowered.com/app/5283330/"
     },
     {
       "steam_rank": 18,
-      "appid": 5279900,
-      "name": "Fallacy Of The Absolute",
-      "release_date": "13 Oct, 2026",
+      "appid": 5324710,
+      "name": "GeomSurf",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5279900/"
+      "store_url": "https://store.steampowered.com/app/5324710/"
     },
     {
       "steam_rank": 19,
-      "appid": 4582210,
-      "name": "Dungeon Drawlers Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 5137000,
+      "name": "Tidy &amp; Bright: Together at the Christmas Market",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4582210/"
+      "store_url": "https://store.steampowered.com/app/5137000/"
     },
     {
       "steam_rank": 20,
-      "appid": 5300140,
-      "name": "Monkeys Don't Fear Hell Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 5214490,
+      "name": "Colors Of V",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5300140/"
+      "store_url": "https://store.steampowered.com/app/5214490/"
     },
     {
       "steam_rank": 21,
-      "appid": 3977340,
-      "name": "Poly Fighter",
-      "release_date": "13 Oct, 2026",
+      "appid": 5076060,
+      "name": "Madcar Multiplayer : Premium pack",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3977340/"
+      "store_url": "https://store.steampowered.com/app/5076060/"
     },
     {
       "steam_rank": 22,
-      "appid": 4703110,
-      "name": "Whispers Of The Lost Ticket",
-      "release_date": "13 Oct, 2026",
+      "appid": 5313620,
+      "name": "How to Wait for the Bus",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4703110/"
+      "store_url": "https://store.steampowered.com/app/5313620/"
     },
     {
       "steam_rank": 23,
-      "appid": 4996960,
-      "name": "Handle with Care!",
-      "release_date": "13 Oct, 2026",
+      "appid": 5284480,
+      "name": "À Deriva",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4996960/"
+      "store_url": "https://store.steampowered.com/app/5284480/"
     },
     {
       "steam_rank": 24,
-      "appid": 5304770,
-      "name": "Pickleball Tycoon",
-      "release_date": "13 Oct, 2026",
+      "appid": 3079180,
+      "name": "SIGNAL LOST",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5304770/"
+      "store_url": "https://store.steampowered.com/app/3079180/"
     },
     {
       "steam_rank": 25,
-      "appid": 5388730,
-      "name": "Hearsay Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 5180000,
+      "name": "PixelPainter 95 Demo",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5388730/"
+      "store_url": "https://store.steampowered.com/app/5180000/"
     },
     {
       "steam_rank": 26,
-      "appid": 5295730,
-      "name": "Abyzou Rituals: The Manson Case",
-      "release_date": "13 Oct, 2026",
+      "appid": 4273760,
+      "name": "Text Dungeon: The Ring of Life",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5295730/"
+      "store_url": "https://store.steampowered.com/app/4273760/"
     },
     {
       "steam_rank": 27,
-      "appid": 5113860,
-      "name": "BIO-SUBMARINER DX",
-      "release_date": "13 Oct, 2026",
+      "appid": 5214640,
+      "name": "My Bookshop Dreams Demo",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5113860/"
+      "store_url": "https://store.steampowered.com/app/5214640/"
     },
     {
       "steam_rank": 28,
-      "appid": 4664450,
-      "name": "Theos: Cities Of Myth Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 5232860,
+      "name": "Ghost//Root",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4664450/"
+      "store_url": "https://store.steampowered.com/app/5232860/"
     },
     {
       "steam_rank": 29,
-      "appid": 4169060,
-      "name": "Office Manager",
-      "release_date": "13 Oct, 2026",
+      "appid": 5264130,
+      "name": "Witch's Cottage",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4169060/"
+      "store_url": "https://store.steampowered.com/app/5264130/"
     },
     {
       "steam_rank": 30,
-      "appid": 4348840,
-      "name": "Cursed Gas Station Demo",
-      "release_date": "13 Oct, 2026",
+      "appid": 3364080,
+      "name": "Blessing In The Darkness",
+      "release_date": "14 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4348840/"
+      "store_url": "https://store.steampowered.com/app/3364080/"
     },
     {
-      "steam_rank": 4,
+      "steam_rank": 6,
       "appid": 4019220,
       "name": "Dressmaker",
       "release_date": "21 Sep, 2026",
@@ -902,13 +902,13 @@
       "is_free": false,
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1791464969",
-      "recommendations": 12660,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1791898779",
+      "recommendations": 13047,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 16,
       "appid": 4968640,
       "name": "Japanese Ramen Simulator",
       "release_date": "9 Oct, 2026",
@@ -930,39 +930,12 @@
       "coming_soon": false,
       "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
-      "recommendations": 258,
+      "recommendations": 301,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4968640/"
     },
     {
       "steam_rank": 27,
-      "appid": 499170,
-      "name": "Order of the Sinking Star",
-      "release_date": "8 Oct, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Thekla, Inc."
-      ],
-      "publishers": [
-        "Arc Games",
-        "Gamirror Games"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, disc",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/deda420d9e42288f4734a068c707f4c156203969/header.jpg?t=1791706750",
-      "recommendations": 1638,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/499170/"
-    },
-    {
-      "steam_rank": 29,
       "appid": 3883570,
       "name": "Invokyr",
       "release_date": "8 Oct, 2026",
@@ -986,10 +959,37 @@
       "is_free": false,
       "coming_soon": false,
       "short_description": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-      "recommendations": 491,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791907648",
+      "recommendations": 564,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3883570/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 499170,
+      "name": "Order of the Sinking Star",
+      "release_date": "8 Oct, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "Thekla, Inc."
+      ],
+      "publishers": [
+        "Arc Games",
+        "Gamirror Games"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, disc",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/deda420d9e42288f4734a068c707f4c156203969/header.jpg?t=1791706750",
+      "recommendations": 1821,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/499170/"
     }
   ],
   "summary": {
