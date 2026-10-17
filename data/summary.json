@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T12:00:00.000Z",
-  "kstDate": "2026-10-16",
+  "generatedAt": "2026-10-17T12:00:00.000Z",
+  "kstDate": "2026-10-17",
   "monthly": {
     "1월": {
       "total": 4,
@@ -624,7 +624,7 @@
           "country": "JP"
         },
         {
-          "name": "カリヤインディーゲーム2026",
+          "name": "カリヤインディーゲーム2026 · SHIBUYA GAME CROSS3",
           "startDate": "2026-10-31",
           "endDate": "2026-10-31",
           "type": "기타",
@@ -640,9 +640,9 @@
       ]
     },
     "11월": {
-      "total": 15,
+      "total": 16,
       "byCountry": {
-        "JP": 13,
+        "JP": 14,
         "KR": 1,
         "CN": 1
       },
@@ -659,6 +659,13 @@
           "startDate": "2026-11-03",
           "endDate": "2026-11-04",
           "type": "페스티벌",
+          "country": "JP"
+        },
+        {
+          "name": "SHIBUYA GAME CROSS3",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-03",
+          "type": "기타",
           "country": "JP"
         },
         {
@@ -873,10 +880,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 1,
+    "newDiscoveries": 2,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 1,
+    "totalChanges": 2,
     "note": ""
   }
 }

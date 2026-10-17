@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:00:00.000Z",
+  "generatedAt": "2026-10-17T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -107,29 +107,30 @@
     },
     {
       "steam_rank": 5,
-      "appid": 3864580,
-      "name": "P.O.N.",
-      "release_date": "Coming soon",
+      "appid": 5072600,
+      "name": "Family Time",
+      "release_date": "Q1 2027",
       "review_summary": "",
       "wishlist_rank": 5,
       "source": "top_wishlisted",
       "developers": [
-        "Team VAC"
+        "sgthale"
       ],
       "publishers": [
-        "Spaghetti Cat"
+        "sgthale"
       ],
       "genres": [
-        "Action",
+        "Adventure",
+        "Casual",
         "Indie",
-        "Massively Multiplayer"
+        "Simulation"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "P.O.N. is a co-op superhero horror game where you're just another low-level thug in the criminal underworld. Justice never sleeps. Stick together, watch each other's backs, or be trapped here forever.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/1edd9e7a8f48a168cc270f5c996e983fd53f4eb2/header.jpg?t=1780325656",
+      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3864580/"
+      "store_url": "https://store.steampowered.com/app/5072600/"
     },
     {
       "steam_rank": 6,
@@ -161,30 +162,29 @@
     },
     {
       "steam_rank": 7,
-      "appid": 5072600,
-      "name": "Family Time",
-      "release_date": "Q1 2027",
+      "appid": 3864580,
+      "name": "P.O.N.",
+      "release_date": "Coming soon",
       "review_summary": "",
       "wishlist_rank": 7,
       "source": "top_wishlisted",
       "developers": [
-        "sgthale"
+        "Team VAC"
       ],
       "publishers": [
-        "sgthale"
+        "Spaghetti Cat"
       ],
       "genres": [
-        "Adventure",
-        "Casual",
+        "Action",
         "Indie",
-        "Simulation"
+        "Massively Multiplayer"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
+      "short_description": "P.O.N. is a co-op superhero horror game where you're just another low-level thug in the criminal underworld. Justice never sleeps. Stick together, watch each other's backs, or be trapped here forever.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/1edd9e7a8f48a168cc270f5c996e983fd53f4eb2/header.jpg?t=1780325656",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5072600/"
+      "store_url": "https://store.steampowered.com/app/3864580/"
     },
     {
       "steam_rank": 8,
@@ -555,342 +555,317 @@
     },
     {
       "steam_rank": 30,
-      "appid": 2295060,
-      "name": "Beyond These Stars",
-      "release_date": "16 Oct, 2026",
+      "appid": 3590650,
+      "name": "OKU",
+      "release_date": "To be announced",
       "review_summary": "",
       "wishlist_rank": 30,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2295060/"
+      "store_url": "https://store.steampowered.com/app/3590650/"
     },
     {
       "steam_rank": 1,
-      "appid": 5218930,
-      "name": "Lyfe of the Blade",
-      "release_date": "15 Oct, 2026",
+      "appid": 4771580,
+      "name": "Five Nights with Maids",
+      "release_date": "16 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5218930/"
+      "store_url": "https://store.steampowered.com/app/4771580/"
     },
     {
       "steam_rank": 2,
-      "appid": 5206590,
-      "name": "Tactful Tactics Demo",
-      "release_date": "15 Oct, 2026",
+      "appid": 5381120,
+      "name": "Carpet Daddy Demo",
+      "release_date": "16 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5206590/"
+      "store_url": "https://store.steampowered.com/app/5381120/"
     },
     {
       "steam_rank": 3,
-      "appid": 5245250,
-      "name": "KAEBON",
-      "release_date": "15 Oct, 2026",
+      "appid": 3864280,
+      "name": "Mr. Prepper - Mountaineer DLC",
+      "release_date": "17 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5245250/"
+      "store_url": "https://store.steampowered.com/app/3864280/"
     },
     {
       "steam_rank": 4,
-      "appid": 3450540,
-      "name": "Tiny Monster Village",
-      "release_date": "15 Oct, 2026",
+      "appid": 5337870,
+      "name": "NETWORK &amp; CYBER SECURITY SIMULATOR Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3450540/"
+      "store_url": "https://store.steampowered.com/app/5337870/"
     },
     {
       "steam_rank": 5,
-      "appid": 5302110,
-      "name": "Qiang Gu: Ghost Festival",
-      "release_date": "15 Oct, 2026",
+      "appid": 5220910,
+      "name": "GomokuSoccer",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5302110/"
+      "store_url": "https://store.steampowered.com/app/5220910/"
     },
     {
       "steam_rank": 6,
-      "appid": 5077250,
-      "name": "Robot City: Delivery",
-      "release_date": "15 Oct, 2026",
+      "appid": 5351640,
+      "name": "STOREBOT: Tidy Up PC Parts",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5077250/"
+      "store_url": "https://store.steampowered.com/app/5351640/"
     },
     {
       "steam_rank": 7,
-      "appid": 5314050,
-      "name": "Fossil Digger",
-      "release_date": "15 Oct, 2026",
+      "appid": 5391710,
+      "name": "萤光之旅",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5314050/"
+      "store_url": "https://store.steampowered.com/app/5391710/"
     },
     {
       "steam_rank": 8,
-      "appid": 5293240,
-      "name": "Minus Zero",
-      "release_date": "15 Oct, 2026",
+      "appid": 5409120,
+      "name": "Nodebreak Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5293240/"
+      "store_url": "https://store.steampowered.com/app/5409120/"
     },
     {
       "steam_rank": 9,
-      "appid": 5082370,
-      "name": "Todd The Technician",
-      "release_date": "15 Oct, 2026",
+      "appid": 5395740,
+      "name": "HEROES' BATTLE HYMN：Demonfire Era Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5082370/"
+      "store_url": "https://store.steampowered.com/app/5395740/"
     },
     {
       "steam_rank": 10,
-      "appid": 5403200,
-      "name": "FEED HIM Demo",
-      "release_date": "15 Oct, 2026",
+      "appid": 5233310,
+      "name": "Idle Commander Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5403200/"
+      "store_url": "https://store.steampowered.com/app/5233310/"
     },
     {
       "steam_rank": 11,
-      "appid": 5335250,
-      "name": "Tickerbound",
-      "release_date": "15 Oct, 2026",
+      "appid": 5140500,
+      "name": "Vauren's BeastBorn Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5335250/"
+      "store_url": "https://store.steampowered.com/app/5140500/"
     },
     {
       "steam_rank": 12,
-      "appid": 4904470,
-      "name": "Sleep Walk",
-      "release_date": "15 Oct, 2026",
+      "appid": 5379560,
+      "name": "SLUP",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4904470/"
+      "store_url": "https://store.steampowered.com/app/5379560/"
     },
     {
       "steam_rank": 13,
-      "appid": 5419620,
-      "name": "Slime Splitter Demo",
-      "release_date": "15 Oct, 2026",
+      "appid": 5441290,
+      "name": "Boric  Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5419620/"
+      "store_url": "https://store.steampowered.com/app/5441290/"
     },
     {
       "steam_rank": 14,
-      "appid": 3318210,
-      "name": "Doomed Otaku",
-      "release_date": "15 Oct, 2026",
+      "appid": 5322200,
+      "name": "Crimson Spine Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3318210/"
+      "store_url": "https://store.steampowered.com/app/5322200/"
     },
     {
       "steam_rank": 15,
-      "appid": 5275120,
-      "name": "Huanhai: A Career in Ink Demo",
-      "release_date": "15 Oct, 2026",
+      "appid": 5402160,
+      "name": "Build the Hole Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5275120/"
+      "store_url": "https://store.steampowered.com/app/5402160/"
     },
     {
       "steam_rank": 16,
-      "appid": 5281430,
-      "name": "Platformino",
-      "release_date": "15 Oct, 2026",
+      "appid": 5347060,
+      "name": "City Party Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5281430/"
+      "store_url": "https://store.steampowered.com/app/5347060/"
     },
     {
       "steam_rank": 17,
-      "appid": 5438670,
-      "name": "SUPERUSER Demo",
-      "release_date": "15 Oct, 2026",
+      "appid": 5099470,
+      "name": "无尽地下城 Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5438670/"
+      "store_url": "https://store.steampowered.com/app/5099470/"
     },
     {
       "steam_rank": 18,
-      "appid": 5116930,
-      "name": "Coldline: Disconnect Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5265870,
+      "name": "Shattermine Idle Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5116930/"
+      "store_url": "https://store.steampowered.com/app/5265870/"
     },
     {
       "steam_rank": 19,
-      "appid": 5358480,
-      "name": "Chief? About That File... Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5275180,
+      "name": "They Cry Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5358480/"
+      "store_url": "https://store.steampowered.com/app/5275180/"
     },
     {
       "steam_rank": 20,
-      "appid": 5392460,
-      "name": "Desktop Bouncer - Zumball Spinners",
-      "release_date": "16 Oct, 2026",
+      "appid": 5431180,
+      "name": "MeowMiner Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5392460/"
+      "store_url": "https://store.steampowered.com/app/5431180/"
     },
     {
       "steam_rank": 21,
-      "appid": 5044690,
-      "name": "Hentai Tales: Profane Arbitration",
-      "release_date": "16 Oct, 2026",
+      "appid": 5443510,
+      "name": "Take That Shot Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5044690/"
+      "store_url": "https://store.steampowered.com/app/5443510/"
     },
     {
       "steam_rank": 22,
-      "appid": 2934660,
-      "name": "Ducking Grenades",
-      "release_date": "16 Oct, 2026",
+      "appid": 5335610,
+      "name": "Physics Exam Trainer",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2934660/"
+      "store_url": "https://store.steampowered.com/app/5335610/"
     },
     {
       "steam_rank": 23,
-      "appid": 2069070,
-      "name": "Hay! One Billion!",
-      "release_date": "16 Oct, 2026",
+      "appid": 5339070,
+      "name": "Frogs Jump Together",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2069070/"
+      "store_url": "https://store.steampowered.com/app/5339070/"
     },
     {
       "steam_rank": 24,
-      "appid": 3196120,
-      "name": "Mahjong, Sex &amp; Girls",
-      "release_date": "16 Oct, 2026",
+      "appid": 3737540,
+      "name": "Arbiter",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3196120/"
+      "store_url": "https://store.steampowered.com/app/3737540/"
     },
     {
       "steam_rank": 25,
-      "appid": 5325810,
-      "name": "Midnight Flare Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5347380,
+      "name": "Cinema Business Simulator Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5325810/"
+      "store_url": "https://store.steampowered.com/app/5347380/"
     },
     {
       "steam_rank": 26,
-      "appid": 5353360,
-      "name": "Project MAGNUM Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5143010,
+      "name": "CyberMerit Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5353360/"
+      "store_url": "https://store.steampowered.com/app/5143010/"
     },
     {
       "steam_rank": 27,
-      "appid": 4796230,
-      "name": "Höllenburg, Hell Castle",
-      "release_date": "16 Oct, 2026",
+      "appid": 5343950,
+      "name": "Supernatural Archives：The Frontrooms",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4796230/"
+      "store_url": "https://store.steampowered.com/app/5343950/"
     },
     {
       "steam_rank": 28,
-      "appid": 5439360,
-      "name": "Tidy Up Her Toys Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5108490,
+      "name": "Titanic Survival Simulator Together Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5439360/"
+      "store_url": "https://store.steampowered.com/app/5108490/"
     },
     {
       "steam_rank": 29,
-      "appid": 4815840,
-      "name": "Tentacle Nurse Demo",
-      "release_date": "16 Oct, 2026",
+      "appid": 5108460,
+      "name": "Border Control Together Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4815840/"
+      "store_url": "https://store.steampowered.com/app/5108460/"
     },
     {
       "steam_rank": 30,
-      "appid": 5240710,
-      "name": "Break Order",
-      "release_date": "16 Oct, 2026",
+      "appid": 4871880,
+      "name": "Voidshift Demo",
+      "release_date": "18 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5240710/"
+      "store_url": "https://store.steampowered.com/app/4871880/"
     },
     {
       "steam_rank": 4,
-      "appid": 4019220,
-      "name": "Dressmaker",
-      "release_date": "21 Sep, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Cozy Lives"
-      ],
-      "publishers": [
-        "Free Lives"
-      ],
-      "genres": [
-        "Casual",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1791898779",
-      "recommendations": 14008,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/4019220/"
-    },
-    {
-      "steam_rank": 8,
       "appid": 1203620,
       "name": "Enshrouded",
       "release_date": "15 Oct, 2026",
@@ -912,39 +887,37 @@
       "coming_soon": false,
       "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world fu",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "recommendations": 94784,
+      "recommendations": 95352,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/1203620/"
     },
     {
-      "steam_rank": 19,
-      "appid": 4968640,
-      "name": "Japanese Ramen Simulator",
-      "release_date": "9 Oct, 2026",
+      "steam_rank": 7,
+      "appid": 4019220,
+      "name": "Dressmaker",
+      "release_date": "21 Sep, 2026",
       "review_summary": "",
       "source": "recent_release",
       "developers": [
-        "Wild Dog"
+        "Cozy Lives"
       ],
       "publishers": [
-        "Wild Dog"
+        "Free Lives"
       ],
       "genres": [
         "Casual",
-        "Indie",
-        "Simulation",
-        "Early Access"
+        "Simulation"
       ],
       "is_free": false,
       "coming_soon": false,
-      "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
-      "recommendations": 367,
+      "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1792150938",
+      "recommendations": 14398,
       "status": "released",
-      "store_url": "https://store.steampowered.com/app/4968640/"
+      "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 18,
       "appid": 2929250,
       "name": "over the hill",
       "release_date": "14 Oct, 2026",
@@ -968,12 +941,39 @@
       "coming_soon": false,
       "short_description": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
-      "recommendations": 968,
+      "recommendations": 1451,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2929250/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 19,
+      "appid": 4968640,
+      "name": "Japanese Ramen Simulator",
+      "release_date": "9 Oct, 2026",
+      "review_summary": "",
+      "source": "recent_release",
+      "developers": [
+        "Wild Dog"
+      ],
+      "publishers": [
+        "Wild Dog"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792165212",
+      "recommendations": 397,
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/4968640/"
+    },
+    {
+      "steam_rank": 21,
       "appid": 3883570,
       "name": "Invokyr",
       "release_date": "8 Oct, 2026",
@@ -998,7 +998,7 @@
       "coming_soon": false,
       "short_description": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791907648",
-      "recommendations": 660,
+      "recommendations": 712,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3883570/"
     }

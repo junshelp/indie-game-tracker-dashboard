@@ -1,6 +1,454 @@
 {
-  "updatedAt": "2026-10-16T12:00:00.000Z",
+  "updatedAt": "2026-10-17T12:00:00.000Z",
   "changes": [
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5381120,
+      "name": "Carpet Daddy Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5441290,
+      "name": "Boric  Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5108490,
+      "name": "Titanic Survival Simulator Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5431180,
+      "name": "MeowMiner Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5337870,
+      "name": "NETWORK &amp; CYBER SECURITY SIMULATOR Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5140500,
+      "name": "Vauren's BeastBorn Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5395740,
+      "name": "HEROES' BATTLE HYMN：Demonfire Era Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5233310,
+      "name": "Idle Commander Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5275180,
+      "name": "They Cry Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5220910,
+      "name": "GomokuSoccer",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5402160,
+      "name": "Build the Hole Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5347380,
+      "name": "Cinema Business Simulator Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5443510,
+      "name": "Take That Shot Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5335610,
+      "name": "Physics Exam Trainer",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5339070,
+      "name": "Frogs Jump Together",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 3737540,
+      "name": "Arbiter",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 4871880,
+      "name": "Voidshift Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5099470,
+      "name": "无尽地下城 Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5265870,
+      "name": "Shattermine Idle Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5343950,
+      "name": "Supernatural Archives：The Frontrooms",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 3864280,
+      "name": "Mr. Prepper - Mountaineer DLC",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5351640,
+      "name": "STOREBOT: Tidy Up PC Parts",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5322200,
+      "name": "Crimson Spine Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5391710,
+      "name": "萤光之旅",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5409120,
+      "name": "Nodebreak Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5143010,
+      "name": "CyberMerit Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5379560,
+      "name": "SLUP",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5108460,
+      "name": "Border Control Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 5347060,
+      "name": "City Party Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 3590650,
+      "name": "OKU",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_entry",
+      "appid": 4771580,
+      "name": "Five Nights with Maids",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5439360,
+      "name": "Tidy Up Her Toys Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5077250,
+      "name": "Robot City: Delivery",
+      "detail": "Top 65에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5314050,
+      "name": "Fossil Digger",
+      "detail": "Top 65에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5082370,
+      "name": "Todd The Technician",
+      "detail": "Top 65에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5116930,
+      "name": "Coldline: Disconnect Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 2934660,
+      "name": "Ducking Grenades",
+      "detail": "Top 65에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5240710,
+      "name": "Break Order",
+      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5358480,
+      "name": "Chief? About That File... Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5353360,
+      "name": "Project MAGNUM Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 2295060,
+      "name": "Beyond These Stars",
+      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 4904470,
+      "name": "Sleep Walk",
+      "detail": "Top 65에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5281430,
+      "name": "Platformino",
+      "detail": "Top 65에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 3450540,
+      "name": "Tiny Monster Village",
+      "detail": "Top 65에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5293240,
+      "name": "Minus Zero",
+      "detail": "Top 65에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5206590,
+      "name": "Tactful Tactics Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5403200,
+      "name": "FEED HIM Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5245250,
+      "name": "KAEBON",
+      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 3318210,
+      "name": "Doomed Otaku",
+      "detail": "Top 65에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 4796230,
+      "name": "Höllenburg, Hell Castle",
+      "detail": "Top 65에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5392460,
+      "name": "Desktop Bouncer - Zumball Spinners",
+      "detail": "Top 65에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5438670,
+      "name": "SUPERUSER Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 2069070,
+      "name": "Hay! One Billion!",
+      "detail": "Top 65에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5335250,
+      "name": "Tickerbound",
+      "detail": "Top 65에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5044690,
+      "name": "Hentai Tales: Profane Arbitration",
+      "detail": "Top 65에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 3196120,
+      "name": "Mahjong, Sex &amp; Girls",
+      "detail": "Top 65에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5302110,
+      "name": "Qiang Gu: Ghost Festival",
+      "detail": "Top 65에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 4815840,
+      "name": "Tentacle Nurse Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5419620,
+      "name": "Slime Splitter Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5275120,
+      "name": "Huanhai: A Career in Ink Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5218930,
+      "name": "Lyfe of the Blade",
+      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "dropped",
+      "appid": 5325810,
+      "name": "Midnight Flare Demo",
+      "detail": "Top 65에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "rank_change",
+      "appid": 3883570,
+      "name": "Invokyr",
+      "detail": "랭크 변동: #27 → #21 (↑6)"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "rank_change",
+      "appid": 2929250,
+      "name": "over the hill",
+      "detail": "랭크 변동: #24 → #18 (↑6)"
+    },
     {
       "date": "2026-10-16",
       "type": "new_entry",
