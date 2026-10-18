@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:00:00.000Z",
+  "generatedAt": "2026-10-18T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -156,7 +156,7 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Awaken with no memories inside the Vitromotus, a vast underground world created as a magical dungeon where death no longer lasts. Explore its depths, battle dangerous creatures, rescue survivors, and ",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/99852482000e8eb5b7b75c52bf5f70406c6f6e5f/header.jpg?t=1791011952",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/99852482000e8eb5b7b75c52bf5f70406c6f6e5f/header.jpg?t=1792209927",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2295170/"
     },
@@ -478,25 +478,25 @@
     },
     {
       "steam_rank": 23,
-      "appid": 4348760,
-      "name": "Totally Secure Airport",
+      "appid": 2254950,
+      "name": "The Eternal Life of Goldman",
       "release_date": "Coming soon",
       "review_summary": "",
       "wishlist_rank": 23,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4348760/"
+      "store_url": "https://store.steampowered.com/app/2254950/"
     },
     {
       "steam_rank": 24,
-      "appid": 2254950,
-      "name": "The Eternal Life of Goldman",
+      "appid": 4348760,
+      "name": "Totally Secure Airport",
       "release_date": "Coming soon",
       "review_summary": "",
       "wishlist_rank": 24,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2254950/"
+      "store_url": "https://store.steampowered.com/app/4348760/"
     },
     {
       "steam_rank": 25,
@@ -522,25 +522,25 @@
     },
     {
       "steam_rank": 27,
-      "appid": 2595260,
-      "name": "RECUR",
+      "appid": 3796990,
+      "name": "Euro Truck Simulator 2 - Iceland",
       "release_date": "To be announced",
       "review_summary": "",
       "wishlist_rank": 27,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2595260/"
+      "store_url": "https://store.steampowered.com/app/3796990/"
     },
     {
       "steam_rank": 28,
-      "appid": 3796990,
-      "name": "Euro Truck Simulator 2 - Iceland",
+      "appid": 2595260,
+      "name": "RECUR",
       "release_date": "To be announced",
       "review_summary": "",
       "wishlist_rank": 28,
       "source": "top_wishlisted",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3796990/"
+      "store_url": "https://store.steampowered.com/app/2595260/"
     },
     {
       "steam_rank": 29,
@@ -566,36 +566,6 @@
     },
     {
       "steam_rank": 1,
-      "appid": 4771580,
-      "name": "Five Nights with Maids",
-      "release_date": "16 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4771580/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 5381120,
-      "name": "Carpet Daddy Demo",
-      "release_date": "16 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5381120/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 3864280,
-      "name": "Mr. Prepper - Mountaineer DLC",
-      "release_date": "17 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3864280/"
-    },
-    {
-      "steam_rank": 4,
       "appid": 5337870,
       "name": "NETWORK &amp; CYBER SECURITY SIMULATOR Demo",
       "release_date": "18 Oct, 2026",
@@ -605,7 +575,7 @@
       "store_url": "https://store.steampowered.com/app/5337870/"
     },
     {
-      "steam_rank": 5,
+      "steam_rank": 2,
       "appid": 5220910,
       "name": "GomokuSoccer",
       "release_date": "18 Oct, 2026",
@@ -615,17 +585,7 @@
       "store_url": "https://store.steampowered.com/app/5220910/"
     },
     {
-      "steam_rank": 6,
-      "appid": 5351640,
-      "name": "STOREBOT: Tidy Up PC Parts",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5351640/"
-    },
-    {
-      "steam_rank": 7,
+      "steam_rank": 3,
       "appid": 5391710,
       "name": "萤光之旅",
       "release_date": "18 Oct, 2026",
@@ -635,7 +595,7 @@
       "store_url": "https://store.steampowered.com/app/5391710/"
     },
     {
-      "steam_rank": 8,
+      "steam_rank": 4,
       "appid": 5409120,
       "name": "Nodebreak Demo",
       "release_date": "18 Oct, 2026",
@@ -645,7 +605,7 @@
       "store_url": "https://store.steampowered.com/app/5409120/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 5,
       "appid": 5395740,
       "name": "HEROES' BATTLE HYMN：Demonfire Era Demo",
       "release_date": "18 Oct, 2026",
@@ -655,7 +615,7 @@
       "store_url": "https://store.steampowered.com/app/5395740/"
     },
     {
-      "steam_rank": 10,
+      "steam_rank": 6,
       "appid": 5233310,
       "name": "Idle Commander Demo",
       "release_date": "18 Oct, 2026",
@@ -665,17 +625,7 @@
       "store_url": "https://store.steampowered.com/app/5233310/"
     },
     {
-      "steam_rank": 11,
-      "appid": 5140500,
-      "name": "Vauren's BeastBorn Demo",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5140500/"
-    },
-    {
-      "steam_rank": 12,
+      "steam_rank": 7,
       "appid": 5379560,
       "name": "SLUP",
       "release_date": "18 Oct, 2026",
@@ -685,7 +635,17 @@
       "store_url": "https://store.steampowered.com/app/5379560/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 8,
+      "appid": 5140500,
+      "name": "Vauren's BeastBorn Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5140500/"
+    },
+    {
+      "steam_rank": 9,
       "appid": 5441290,
       "name": "Boric  Demo",
       "release_date": "18 Oct, 2026",
@@ -695,7 +655,7 @@
       "store_url": "https://store.steampowered.com/app/5441290/"
     },
     {
-      "steam_rank": 14,
+      "steam_rank": 10,
       "appid": 5322200,
       "name": "Crimson Spine Demo",
       "release_date": "18 Oct, 2026",
@@ -705,17 +665,7 @@
       "store_url": "https://store.steampowered.com/app/5322200/"
     },
     {
-      "steam_rank": 15,
-      "appid": 5402160,
-      "name": "Build the Hole Demo",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5402160/"
-    },
-    {
-      "steam_rank": 16,
+      "steam_rank": 11,
       "appid": 5347060,
       "name": "City Party Demo",
       "release_date": "18 Oct, 2026",
@@ -725,37 +675,7 @@
       "store_url": "https://store.steampowered.com/app/5347060/"
     },
     {
-      "steam_rank": 17,
-      "appid": 5099470,
-      "name": "无尽地下城 Demo",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5099470/"
-    },
-    {
-      "steam_rank": 18,
-      "appid": 5265870,
-      "name": "Shattermine Idle Demo",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5265870/"
-    },
-    {
-      "steam_rank": 19,
-      "appid": 5275180,
-      "name": "They Cry Demo",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5275180/"
-    },
-    {
-      "steam_rank": 20,
+      "steam_rank": 12,
       "appid": 5431180,
       "name": "MeowMiner Demo",
       "release_date": "18 Oct, 2026",
@@ -765,7 +685,37 @@
       "store_url": "https://store.steampowered.com/app/5431180/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 13,
+      "appid": 5275180,
+      "name": "They Cry Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5275180/"
+    },
+    {
+      "steam_rank": 14,
+      "appid": 5265870,
+      "name": "Shattermine Idle Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5265870/"
+    },
+    {
+      "steam_rank": 15,
+      "appid": 5099470,
+      "name": "无尽地下城 Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5099470/"
+    },
+    {
+      "steam_rank": 16,
       "appid": 5443510,
       "name": "Take That Shot Demo",
       "release_date": "18 Oct, 2026",
@@ -775,7 +725,7 @@
       "store_url": "https://store.steampowered.com/app/5443510/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 17,
       "appid": 5335610,
       "name": "Physics Exam Trainer",
       "release_date": "18 Oct, 2026",
@@ -785,7 +735,7 @@
       "store_url": "https://store.steampowered.com/app/5335610/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 18,
       "appid": 5339070,
       "name": "Frogs Jump Together",
       "release_date": "18 Oct, 2026",
@@ -795,17 +745,7 @@
       "store_url": "https://store.steampowered.com/app/5339070/"
     },
     {
-      "steam_rank": 24,
-      "appid": 3737540,
-      "name": "Arbiter",
-      "release_date": "18 Oct, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3737540/"
-    },
-    {
-      "steam_rank": 25,
+      "steam_rank": 19,
       "appid": 5347380,
       "name": "Cinema Business Simulator Demo",
       "release_date": "18 Oct, 2026",
@@ -815,7 +755,7 @@
       "store_url": "https://store.steampowered.com/app/5347380/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 20,
       "appid": 5143010,
       "name": "CyberMerit Demo",
       "release_date": "18 Oct, 2026",
@@ -825,7 +765,7 @@
       "store_url": "https://store.steampowered.com/app/5143010/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 21,
       "appid": 5343950,
       "name": "Supernatural Archives：The Frontrooms",
       "release_date": "18 Oct, 2026",
@@ -835,7 +775,17 @@
       "store_url": "https://store.steampowered.com/app/5343950/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 22,
+      "appid": 3737540,
+      "name": "Arbiter",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3737540/"
+    },
+    {
+      "steam_rank": 23,
       "appid": 5108490,
       "name": "Titanic Survival Simulator Together Demo",
       "release_date": "18 Oct, 2026",
@@ -845,7 +795,7 @@
       "store_url": "https://store.steampowered.com/app/5108490/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 24,
       "appid": 5108460,
       "name": "Border Control Together Demo",
       "release_date": "18 Oct, 2026",
@@ -855,7 +805,7 @@
       "store_url": "https://store.steampowered.com/app/5108460/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 25,
       "appid": 4871880,
       "name": "Voidshift Demo",
       "release_date": "18 Oct, 2026",
@@ -865,7 +815,57 @@
       "store_url": "https://store.steampowered.com/app/4871880/"
     },
     {
-      "steam_rank": 4,
+      "steam_rank": 26,
+      "appid": 5416640,
+      "name": "Switch Ball Deluxe Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5416640/"
+    },
+    {
+      "steam_rank": 27,
+      "appid": 5355960,
+      "name": "FallChess: Wizard's Chess Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5355960/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 5431020,
+      "name": "Montone Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5431020/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 5403680,
+      "name": "Kebab Dynasty Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5403680/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 5447730,
+      "name": "Voiceless Demo",
+      "release_date": "18 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5447730/"
+    },
+    {
+      "steam_rank": 3,
       "appid": 1203620,
       "name": "Enshrouded",
       "release_date": "15 Oct, 2026",
@@ -887,7 +887,7 @@
       "coming_soon": false,
       "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world fu",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "recommendations": 95352,
+      "recommendations": 95707,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/1203620/"
     },
@@ -912,12 +912,12 @@
       "coming_soon": false,
       "short_description": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1792150938",
-      "recommendations": 14398,
+      "recommendations": 14737,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 16,
       "appid": 2929250,
       "name": "over the hill",
       "release_date": "14 Oct, 2026",
@@ -941,12 +941,12 @@
       "coming_soon": false,
       "short_description": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
-      "recommendations": 1451,
+      "recommendations": 1896,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2929250/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 18,
       "appid": 4968640,
       "name": "Japanese Ramen Simulator",
       "release_date": "9 Oct, 2026",
@@ -968,12 +968,12 @@
       "coming_soon": false,
       "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792165212",
-      "recommendations": 397,
+      "recommendations": 438,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4968640/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 19,
       "appid": 3883570,
       "name": "Invokyr",
       "release_date": "8 Oct, 2026",
@@ -998,7 +998,7 @@
       "coming_soon": false,
       "short_description": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791907648",
-      "recommendations": 712,
+      "recommendations": 796,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3883570/"
     }
