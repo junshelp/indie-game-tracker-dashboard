@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:00:00.000Z",
+  "generatedAt": "2026-10-19T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1048,7 +1048,7 @@
       "typeLabel": "전시회",
       "submissionPeriod": "",
       "url": "https://www.k-character.co.kr/community/news/85",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1063,7 +1063,7 @@
       "typeLabel": "페스티벌",
       "submissionPeriod": "",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1078,7 +1078,7 @@
       "typeLabel": "마켓",
       "submissionPeriod": "",
       "url": "https://gamemarket.jp/",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {

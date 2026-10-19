@@ -1,2406 +1,460 @@
 {
-  "updatedAt": "2026-10-18T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
   "changes": [
     {
-      "date": "2026-10-18",
-      "type": "new_entry",
-      "appid": 5403680,
-      "name": "Kebab Dynasty Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "new_entry",
-      "appid": 5416640,
-      "name": "Switch Ball Deluxe Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "new_entry",
-      "appid": 5431020,
-      "name": "Montone Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "new_entry",
-      "appid": 5447730,
-      "name": "Voiceless Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "new_entry",
-      "appid": 5355960,
-      "name": "FallChess: Wizard's Chess Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "dropped",
-      "appid": 5381120,
-      "name": "Carpet Daddy Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "dropped",
-      "appid": 3864280,
-      "name": "Mr. Prepper - Mountaineer DLC",
-      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "dropped",
-      "appid": 5402160,
-      "name": "Build the Hole Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #15)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "dropped",
-      "appid": 5351640,
-      "name": "STOREBOT: Tidy Up PC Parts",
-      "detail": "Top 65에서 이탈 (이전 랭크 #6)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "dropped",
-      "appid": 4771580,
-      "name": "Five Nights with Maids",
-      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5431180,
-      "name": "MeowMiner Demo",
-      "detail": "랭크 변동: #20 → #12 (↑8)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5108490,
-      "name": "Titanic Survival Simulator Together Demo",
-      "detail": "랭크 변동: #28 → #23 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5275180,
-      "name": "They Cry Demo",
-      "detail": "랭크 변동: #19 → #13 (↑6)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5347380,
-      "name": "Cinema Business Simulator Demo",
-      "detail": "랭크 변동: #25 → #19 (↑6)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5443510,
-      "name": "Take That Shot Demo",
-      "detail": "랭크 변동: #21 → #16 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5335610,
-      "name": "Physics Exam Trainer",
-      "detail": "랭크 변동: #22 → #17 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5339070,
-      "name": "Frogs Jump Together",
-      "detail": "랭크 변동: #23 → #18 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 4871880,
-      "name": "Voidshift Demo",
-      "detail": "랭크 변동: #30 → #25 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5343950,
-      "name": "Supernatural Archives：The Frontrooms",
-      "detail": "랭크 변동: #27 → #21 (↑6)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5143010,
-      "name": "CyberMerit Demo",
-      "detail": "랭크 변동: #26 → #20 (↑6)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5379560,
-      "name": "SLUP",
-      "detail": "랭크 변동: #12 → #7 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5108460,
-      "name": "Border Control Together Demo",
-      "detail": "랭크 변동: #29 → #24 (↑5)"
-    },
-    {
-      "date": "2026-10-18",
-      "type": "rank_change",
-      "appid": 5347060,
-      "name": "City Party Demo",
-      "detail": "랭크 변동: #16 → #11 (↑5)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5381120,
-      "name": "Carpet Daddy Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #2)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5441290,
-      "name": "Boric  Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #13)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5108490,
-      "name": "Titanic Survival Simulator Together Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5431180,
-      "name": "MeowMiner Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5337870,
-      "name": "NETWORK &amp; CYBER SECURITY SIMULATOR Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5140500,
-      "name": "Vauren's BeastBorn Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #11)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5395740,
-      "name": "HEROES' BATTLE HYMN：Demonfire Era Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #9)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5233310,
-      "name": "Idle Commander Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #10)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5275180,
-      "name": "They Cry Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5220910,
-      "name": "GomokuSoccer",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #5)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5402160,
-      "name": "Build the Hole Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #15)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5347380,
-      "name": "Cinema Business Simulator Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5443510,
-      "name": "Take That Shot Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #21)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5335610,
-      "name": "Physics Exam Trainer",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5339070,
-      "name": "Frogs Jump Together",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 3737540,
-      "name": "Arbiter",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 4871880,
-      "name": "Voidshift Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5099470,
-      "name": "无尽地下城 Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #17)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5265870,
-      "name": "Shattermine Idle Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #18)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5343950,
-      "name": "Supernatural Archives：The Frontrooms",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 3864280,
-      "name": "Mr. Prepper - Mountaineer DLC",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5351640,
-      "name": "STOREBOT: Tidy Up PC Parts",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #6)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5322200,
-      "name": "Crimson Spine Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5391710,
-      "name": "萤光之旅",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5409120,
-      "name": "Nodebreak Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5143010,
-      "name": "CyberMerit Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5379560,
-      "name": "SLUP",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5108460,
-      "name": "Border Control Together Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 5347060,
-      "name": "City Party Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 3590650,
-      "name": "OKU",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "new_entry",
-      "appid": 4771580,
-      "name": "Five Nights with Maids",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #1)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5439360,
-      "name": "Tidy Up Her Toys Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #28)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5077250,
-      "name": "Robot City: Delivery",
-      "detail": "Top 65에서 이탈 (이전 랭크 #6)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5314050,
-      "name": "Fossil Digger",
-      "detail": "Top 65에서 이탈 (이전 랭크 #7)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5082370,
-      "name": "Todd The Technician",
-      "detail": "Top 65에서 이탈 (이전 랭크 #9)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5116930,
-      "name": "Coldline: Disconnect Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #18)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 2934660,
-      "name": "Ducking Grenades",
-      "detail": "Top 65에서 이탈 (이전 랭크 #22)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5240710,
-      "name": "Break Order",
-      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5358480,
-      "name": "Chief? About That File... Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #19)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5353360,
-      "name": "Project MAGNUM Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #26)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 2295060,
-      "name": "Beyond These Stars",
-      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 4904470,
-      "name": "Sleep Walk",
-      "detail": "Top 65에서 이탈 (이전 랭크 #12)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5281430,
-      "name": "Platformino",
-      "detail": "Top 65에서 이탈 (이전 랭크 #16)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 3450540,
-      "name": "Tiny Monster Village",
-      "detail": "Top 65에서 이탈 (이전 랭크 #4)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5293240,
-      "name": "Minus Zero",
-      "detail": "Top 65에서 이탈 (이전 랭크 #8)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5206590,
-      "name": "Tactful Tactics Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5403200,
-      "name": "FEED HIM Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #10)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5245250,
-      "name": "KAEBON",
-      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 3318210,
-      "name": "Doomed Otaku",
-      "detail": "Top 65에서 이탈 (이전 랭크 #14)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 4796230,
-      "name": "Höllenburg, Hell Castle",
-      "detail": "Top 65에서 이탈 (이전 랭크 #27)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5392460,
-      "name": "Desktop Bouncer - Zumball Spinners",
-      "detail": "Top 65에서 이탈 (이전 랭크 #20)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5438670,
-      "name": "SUPERUSER Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #17)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 2069070,
-      "name": "Hay! One Billion!",
-      "detail": "Top 65에서 이탈 (이전 랭크 #23)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5335250,
-      "name": "Tickerbound",
-      "detail": "Top 65에서 이탈 (이전 랭크 #11)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5044690,
-      "name": "Hentai Tales: Profane Arbitration",
-      "detail": "Top 65에서 이탈 (이전 랭크 #21)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 3196120,
-      "name": "Mahjong, Sex &amp; Girls",
-      "detail": "Top 65에서 이탈 (이전 랭크 #24)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5302110,
-      "name": "Qiang Gu: Ghost Festival",
-      "detail": "Top 65에서 이탈 (이전 랭크 #5)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 4815840,
-      "name": "Tentacle Nurse Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #29)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5419620,
-      "name": "Slime Splitter Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #13)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5275120,
-      "name": "Huanhai: A Career in Ink Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #15)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5218930,
-      "name": "Lyfe of the Blade",
-      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "dropped",
-      "appid": 5325810,
-      "name": "Midnight Flare Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #25)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "rank_change",
-      "appid": 3883570,
-      "name": "Invokyr",
-      "detail": "랭크 변동: #27 → #21 (↑6)"
-    },
-    {
-      "date": "2026-10-17",
-      "type": "rank_change",
-      "appid": 2929250,
-      "name": "over the hill",
-      "detail": "랭크 변동: #24 → #18 (↑6)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5439360,
-      "name": "Tidy Up Her Toys Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5077250,
-      "name": "Robot City: Delivery",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #6)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5314050,
-      "name": "Fossil Digger",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5082370,
-      "name": "Todd The Technician",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #9)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5116930,
-      "name": "Coldline: Disconnect Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #18)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 2934660,
-      "name": "Ducking Grenades",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5240710,
-      "name": "Break Order",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5358480,
-      "name": "Chief? About That File... Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5353360,
-      "name": "Project MAGNUM Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 2295060,
-      "name": "Beyond These Stars",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 4904470,
-      "name": "Sleep Walk",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5281430,
-      "name": "Platformino",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 1203620,
-      "name": "Enshrouded",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 3450540,
-      "name": "Tiny Monster Village",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5293240,
-      "name": "Minus Zero",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5206590,
-      "name": "Tactful Tactics Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #2)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5403200,
-      "name": "FEED HIM Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #10)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5245250,
-      "name": "KAEBON",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 3318210,
-      "name": "Doomed Otaku",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 4796230,
-      "name": "Höllenburg, Hell Castle",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5392460,
-      "name": "Desktop Bouncer - Zumball Spinners",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5438670,
-      "name": "SUPERUSER Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #17)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 2069070,
-      "name": "Hay! One Billion!",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5335250,
-      "name": "Tickerbound",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #11)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5044690,
-      "name": "Hentai Tales: Profane Arbitration",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #21)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 3196120,
-      "name": "Mahjong, Sex &amp; Girls",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5302110,
-      "name": "Qiang Gu: Ghost Festival",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #5)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 4815840,
-      "name": "Tentacle Nurse Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 2929250,
-      "name": "over the hill",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5419620,
-      "name": "Slime Splitter Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #13)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5275120,
-      "name": "Huanhai: A Career in Ink Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #15)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5218930,
-      "name": "Lyfe of the Blade",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #1)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "new_entry",
-      "appid": 5325810,
-      "name": "Midnight Flare Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5231360,
-      "name": "Thinki - Brain Games",
-      "detail": "Top 65에서 이탈 (이전 랭크 #22)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 4153730,
-      "name": "Navy Island Confidential",
-      "detail": "Top 65에서 이탈 (이전 랭크 #24)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3187340,
-      "name": "Food Truck Frenzy",
-      "detail": "Top 65에서 이탈 (이전 랭크 #10)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 2690830,
-      "name": "Unrivaled Heroes: 2.5D Brawler",
-      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5436430,
-      "name": "Deforest a Planet Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #19)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5165970,
-      "name": "A Bad Dream: Trypophobia",
-      "detail": "Top 65에서 이탈 (이전 랭크 #6)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5207190,
-      "name": "Desktop Hourgrass",
-      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 4199960,
-      "name": "The Jackbox Party Pack 12",
-      "detail": "Top 65에서 이탈 (이전 랭크 #11)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 4474400,
-      "name": "SWORD FLINGER",
-      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3685410,
-      "name": "Thalia",
-      "detail": "Top 65에서 이탈 (이전 랭크 #17)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5339810,
-      "name": "Gold Digger Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #26)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3175590,
-      "name": "HAUNT",
-      "detail": "Top 65에서 이탈 (이전 랭크 #23)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5252270,
-      "name": "Moomin: Midsummer Madness Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #20)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3452720,
-      "name": "Realm of Taiwu",
-      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5136050,
-      "name": "DeepCorp Rescue Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #15)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5019450,
-      "name": "My Elf Gym Adventure!",
-      "detail": "Top 65에서 이탈 (이전 랭크 #13)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5247170,
-      "name": "Sheep Go!",
-      "detail": "Top 65에서 이탈 (이전 랭크 #7)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5224520,
-      "name": "Vocabug",
-      "detail": "Top 65에서 이탈 (이전 랭크 #25)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5366220,
-      "name": "Tetherlight",
-      "detail": "Top 65에서 이탈 (이전 랭크 #12)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5360210,
-      "name": "Real Zombie Survivors Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #18)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5314260,
-      "name": "Freakopoly",
-      "detail": "Top 65에서 이탈 (이전 랭크 #9)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 4808150,
-      "name": "ReGLOSS: CROSS",
-      "detail": "Top 65에서 이탈 (이전 랭크 #5)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5299160,
-      "name": "Milf Puzzle",
-      "detail": "Top 65에서 이탈 (이전 랭크 #14)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5308120,
-      "name": "Bathyscaphe",
-      "detail": "Top 65에서 이탈 (이전 랭크 #29)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5232090,
-      "name": "Shelf Stacker: Toy Store",
-      "detail": "Top 65에서 이탈 (이전 랭크 #21)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5339360,
-      "name": "Your Cat",
-      "detail": "Top 65에서 이탈 (이전 랭크 #27)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5394920,
-      "name": "Crimson Ark Demo",
-      "detail": "Top 65에서 이탈 (이전 랭크 #4)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5123950,
-      "name": "Tokyo Canvas",
-      "detail": "Top 65에서 이탈 (이전 랭크 #28)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 5315060,
-      "name": "Freakopoly - Task Editor",
-      "detail": "Top 65에서 이탈 (이전 랭크 #8)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3955960,
-      "name": "Chant Wizard",
-      "detail": "Top 65에서 이탈 (이전 랭크 #16)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "dropped",
-      "appid": 3590650,
-      "name": "OKU",
-      "detail": "Top 65에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "released",
-      "appid": 4031890,
-      "name": "Palworld: Palfarm",
-      "detail": "출시 완료! (To be announced)"
-    },
-    {
-      "date": "2026-10-16",
-      "type": "released",
-      "appid": 4614080,
-      "name": "Cartel Pilots Wanted",
-      "detail": "출시 완료! (To be announced)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5231360,
-      "name": "Thinki - Brain Games",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #22)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 4153730,
-      "name": "Navy Island Confidential",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3187340,
-      "name": "Food Truck Frenzy",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #10)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 2690830,
-      "name": "Unrivaled Heroes: 2.5D Brawler",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #1)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5436430,
-      "name": "Deforest a Planet Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #19)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5165970,
-      "name": "A Bad Dream: Trypophobia",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #6)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 2017940,
-      "name": "Pony Island 2: Panda Circus",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5207190,
-      "name": "Desktop Hourgrass",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 4199960,
-      "name": "The Jackbox Party Pack 12",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #11)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 4474400,
-      "name": "SWORD FLINGER",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #2)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3685410,
-      "name": "Thalia",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #17)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5339810,
-      "name": "Gold Digger Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #26)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3175590,
-      "name": "HAUNT",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #23)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5252270,
-      "name": "Moomin: Midsummer Madness Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #20)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3452720,
-      "name": "Realm of Taiwu",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #3)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5136050,
-      "name": "DeepCorp Rescue Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #15)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5019450,
-      "name": "My Elf Gym Adventure!",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #13)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5247170,
-      "name": "Sheep Go!",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #7)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5224520,
-      "name": "Vocabug",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #25)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5366220,
-      "name": "Tetherlight",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #12)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5360210,
-      "name": "Real Zombie Survivors Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #18)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5314260,
-      "name": "Freakopoly",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #9)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 4808150,
-      "name": "ReGLOSS: CROSS",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #5)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5299160,
-      "name": "Milf Puzzle",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #14)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5308120,
-      "name": "Bathyscaphe",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5232090,
-      "name": "Shelf Stacker: Toy Store",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #21)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5339360,
-      "name": "Your Cat",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #27)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5394920,
-      "name": "Crimson Ark Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #4)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5123950,
-      "name": "Tokyo Canvas",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #28)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 5315060,
-      "name": "Freakopoly - Task Editor",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3955960,
-      "name": "Chant Wizard",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #16)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "new_entry",
-      "appid": 3590650,
-      "name": "OKU",
-      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5284480,
-      "name": "À Deriva",
-      "detail": "Top 63에서 이탈 (이전 랭크 #23)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5283330,
-      "name": "Wattverse",
-      "detail": "Top 63에서 이탈 (이전 랭크 #17)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5264130,
-      "name": "Witch's Cottage",
-      "detail": "Top 63에서 이탈 (이전 랭크 #29)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 3080070,
-      "name": "Order: The New Dawn",
-      "detail": "Top 63에서 이탈 (이전 랭크 #11)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 3079180,
-      "name": "SIGNAL LOST",
-      "detail": "Top 63에서 이탈 (이전 랭크 #24)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5306900,
-      "name": "2034 Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 4547860,
-      "name": "Escape from EloHell",
-      "detail": "Top 63에서 이탈 (이전 랭크 #15)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 3115160,
-      "name": "Warhammer 40,000: Boltgun 2",
-      "detail": "Top 63에서 이탈 (이전 랭크 #27)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5214490,
-      "name": "Colors Of V",
-      "detail": "Top 63에서 이탈 (이전 랭크 #20)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5324710,
-      "name": "GeomSurf",
-      "detail": "Top 63에서 이탈 (이전 랭크 #18)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5162410,
-      "name": "COLD CALL Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #16)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5214640,
-      "name": "My Bookshop Dreams Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #27)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5358900,
-      "name": "Leek Survivors",
-      "detail": "Top 63에서 이탈 (이전 랭크 #6)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5096130,
-      "name": "It Was Not a Suicide Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5153860,
-      "name": "Hippo Hop",
-      "detail": "Top 63에서 이탈 (이전 랭크 #13)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5379400,
-      "name": "Zero Colour Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #8)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5313620,
-      "name": "How to Wait for the Bus",
-      "detail": "Top 63에서 이탈 (이전 랭크 #22)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 4519510,
-      "name": "Keysaster",
-      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5358680,
-      "name": "Embersworn II: Throne of Endless Night",
-      "detail": "Top 63에서 이탈 (이전 랭크 #4)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5076060,
-      "name": "Madcar Multiplayer : Premium pack",
-      "detail": "Top 63에서 이탈 (이전 랭크 #21)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5232860,
-      "name": "Ghost//Root",
-      "detail": "Top 63에서 이탈 (이전 랭크 #28)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5195360,
-      "name": "BitWise",
-      "detail": "Top 63에서 이탈 (이전 랭크 #9)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5180000,
-      "name": "PixelPainter 95 Demo",
-      "detail": "Top 63에서 이탈 (이전 랭크 #25)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 2929250,
-      "name": "over the hill",
-      "detail": "Top 63에서 이탈 (이전 랭크 #4)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 4273760,
-      "name": "Text Dungeon: The Ring of Life",
-      "detail": "Top 63에서 이탈 (이전 랭크 #26)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 499170,
-      "name": "Order of the Sinking Star",
-      "detail": "Top 63에서 이탈 (이전 랭크 #29)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 4250470,
-      "name": "Labyrinth Knights",
-      "detail": "Top 63에서 이탈 (이전 랭크 #7)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 4485350,
-      "name": "Deunocta",
-      "detail": "Top 63에서 이탈 (이전 랭크 #12)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5137000,
-      "name": "Tidy &amp; Bright: Together at the Christmas Market",
-      "detail": "Top 63에서 이탈 (이전 랭크 #19)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 3299050,
-      "name": "No Such Place",
-      "detail": "Top 63에서 이탈 (이전 랭크 #5)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5323760,
-      "name": "Verity's Revenge",
-      "detail": "Top 63에서 이탈 (이전 랭크 #10)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 3364080,
-      "name": "Blessing In The Darkness",
-      "detail": "Top 63에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "dropped",
-      "appid": 5289970,
-      "name": "Tales From Eternity - Interactive Preview",
-      "detail": "Top 63에서 이탈 (이전 랭크 #14)"
-    },
-    {
-      "date": "2026-10-15",
-      "type": "rank_change",
-      "appid": 4968640,
-      "name": "Japanese Ramen Simulator",
-      "detail": "랭크 변동: #16 → #21 (↓5)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5284480,
-      "name": "À Deriva",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #23)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5283330,
-      "name": "Wattverse",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #17)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5264130,
-      "name": "Witch's Cottage",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 3080070,
-      "name": "Order: The New Dawn",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #11)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 3079180,
-      "name": "SIGNAL LOST",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5306900,
-      "name": "2034 Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #2)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 4547860,
-      "name": "Escape from EloHell",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #15)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5214490,
-      "name": "Colors Of V",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #20)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5324710,
-      "name": "GeomSurf",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #18)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5162410,
-      "name": "COLD CALL Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #16)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5214640,
-      "name": "My Bookshop Dreams Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5358900,
-      "name": "Leek Survivors",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #6)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5096130,
-      "name": "It Was Not a Suicide Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #3)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5153860,
-      "name": "Hippo Hop",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #13)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5379400,
-      "name": "Zero Colour Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5313620,
-      "name": "How to Wait for the Bus",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #22)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 4519510,
-      "name": "Keysaster",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #1)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5358680,
-      "name": "Embersworn II: Throne of Endless Night",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #4)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5076060,
-      "name": "Madcar Multiplayer : Premium pack",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #21)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5232860,
-      "name": "Ghost//Root",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #28)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5195360,
-      "name": "BitWise",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #9)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5180000,
-      "name": "PixelPainter 95 Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #25)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 4273760,
-      "name": "Text Dungeon: The Ring of Life",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #26)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 4250470,
-      "name": "Labyrinth Knights",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #7)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 4485350,
-      "name": "Deunocta",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #12)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5137000,
-      "name": "Tidy &amp; Bright: Together at the Christmas Market",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #19)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 3299050,
-      "name": "No Such Place",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #5)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5323760,
-      "name": "Verity's Revenge",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #10)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 3364080,
-      "name": "Blessing In The Darkness",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "new_entry",
-      "appid": 5289970,
-      "name": "Tales From Eternity - Interactive Preview",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #14)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4695040,
-      "name": "Gym Bros: LooksMaxx",
-      "detail": "Top 64에서 이탈 (이전 랭크 #16)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4664450,
-      "name": "Theos: Cities Of Myth Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #28)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5113860,
-      "name": "BIO-SUBMARINER DX",
-      "detail": "Top 64에서 이탈 (이전 랭크 #27)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4703110,
-      "name": "Whispers Of The Lost Ticket",
-      "detail": "Top 64에서 이탈 (이전 랭크 #22)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5344520,
-      "name": "Ratocalypse Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #5)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 3859210,
-      "name": "Rhythm Animal Café",
-      "detail": "Top 64에서 이탈 (이전 랭크 #3)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5179800,
-      "name": "Cone &amp; Crest",
-      "detail": "Top 64에서 이탈 (이전 랭크 #15)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5099290,
-      "name": "Dub Night Live",
-      "detail": "Top 64에서 이탈 (이전 랭크 #4)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5279900,
-      "name": "Fallacy Of The Absolute",
-      "detail": "Top 64에서 이탈 (이전 랭크 #18)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4691490,
-      "name": "Adventurer's Life",
-      "detail": "Top 64에서 이탈 (이전 랭크 #2)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5312040,
-      "name": "Galdr Inkblade",
-      "detail": "Top 64에서 이탈 (이전 랭크 #8)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4348840,
-      "name": "Cursed Gas Station Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #30)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5281450,
-      "name": "100s Fishing",
-      "detail": "Top 64에서 이탈 (이전 랭크 #9)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5300140,
-      "name": "Monkeys Don't Fear Hell Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #20)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5388730,
-      "name": "Hearsay Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #25)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4582210,
-      "name": "Dungeon Drawlers Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #19)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5304770,
-      "name": "Pickleball Tycoon",
-      "detail": "Top 64에서 이탈 (이전 랭크 #24)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5321030,
-      "name": "Plow-A-Lot",
-      "detail": "Top 64에서 이탈 (이전 랭크 #17)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5176650,
-      "name": "Nursing Home Simulator",
-      "detail": "Top 64에서 이탈 (이전 랭크 #7)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4958670,
-      "name": "Orderfall",
-      "detail": "Top 64에서 이탈 (이전 랭크 #10)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4385110,
-      "name": "PigPonyPocalypse",
-      "detail": "Top 64에서 이탈 (이전 랭크 #12)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5322840,
-      "name": "JOCKEY RISING: BLOODLINE Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #1)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5317080,
-      "name": "Race on Stream!",
-      "detail": "Top 64에서 이탈 (이전 랭크 #6)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4996960,
-      "name": "Handle with Care!",
-      "detail": "Top 64에서 이탈 (이전 랭크 #23)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 4169060,
-      "name": "Office Manager",
-      "detail": "Top 64에서 이탈 (이전 랭크 #29)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5033710,
-      "name": "Yume Tenshi",
-      "detail": "Top 64에서 이탈 (이전 랭크 #13)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5295730,
-      "name": "Abyzou Rituals: The Manson Case",
-      "detail": "Top 64에서 이탈 (이전 랭크 #26)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5316090,
-      "name": "Dead Keys Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #11)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 3977340,
-      "name": "Poly Fighter",
-      "detail": "Top 64에서 이탈 (이전 랭크 #21)"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "dropped",
-      "appid": 5124350,
-      "name": "Steal &amp; Sell Simulator Demo",
-      "detail": "Top 64에서 이탈 (이전 랭크 #14)"
-    },
-    {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 4695040,
-      "name": "Gym Bros: LooksMaxx",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #16)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3864580,
       "name": "P.O.N.",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #6)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5113860,
-      "name": "BIO-SUBMARINER DX",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
+      "appid": 5382150,
+      "name": "PropAlive Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5344520,
-      "name": "Ratocalypse Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #5)"
+      "appid": 5251080,
+      "name": "SOS :Should I Stay or Should I Hit Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 1977610,
       "name": "Long Gone",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 3859210,
-      "name": "Rhythm Animal Café",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #3)"
+      "appid": 5108490,
+      "name": "Titanic Survival Simulator Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4019220,
       "name": "Dressmaker",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #4)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4293910,
       "name": "XenoFeels",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #22)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5099290,
-      "name": "Dub Night Live",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #4)"
+      "appid": 5455400,
+      "name": "COG Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #15)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 4691490,
-      "name": "Adventurer's Life",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #2)"
+      "appid": 5447730,
+      "name": "Voiceless Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #13)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 5312040,
-      "name": "Galdr Inkblade",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #8)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3883570,
       "name": "Invokyr",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #29)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5347380,
+      "name": "Cinema Business Simulator Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5335610,
+      "name": "Physics Exam Trainer",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 1228610,
       "name": "KARLSON",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #10)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #11)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 4582210,
-      "name": "Dungeon Drawlers Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #19)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2376260,
       "name": "Mariachi Legends",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #21)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #21)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3255110,
       "name": "Grave Seasons",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #5)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #5)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5321030,
-      "name": "Plow-A-Lot",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #17)"
+      "appid": 5462350,
+      "name": "Skull &amp; Tail: Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #18)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 5176650,
-      "name": "Nursing Home Simulator",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #7)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2610770,
       "name": "Dust Front RTS",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #9)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #8)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 1586260,
       "name": "BLACKFROST: The Long Dark 2",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #13)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #13)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 4385110,
-      "name": "PigPonyPocalypse",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #12)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4348760,
       "name": "Totally Secure Airport",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #24)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5322840,
-      "name": "JOCKEY RISING: BLOODLINE Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #1)"
+      "appid": 5160800,
+      "name": "Find The Needle",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 4996960,
-      "name": "Handle with Care!",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #23)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2929250,
       "name": "over the hill",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #4)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 4169060,
-      "name": "Office Manager",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #29)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2719590,
       "name": "Light No Fire",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #1)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #1)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3426150,
       "name": "I Have No Change",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #20)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2254950,
       "name": "The Eternal Life of Goldman",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #25)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 1728620,
       "name": "IKUMA - The Frozen Compass",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #26)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #25)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5295730,
-      "name": "Abyzou Rituals: The Manson Case",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #26)"
+      "appid": 5196140,
+      "name": "Chaos &amp; Seek Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3669620,
       "name": "Warhammer Survivors",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #23)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #19)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 3796990,
-      "name": "Euro Truck Simulator 2 - Iceland",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #30)"
-    },
-    {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 3977340,
-      "name": "Poly Fighter",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #21)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2295170,
       "name": "Emberville",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #7)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #6)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 4664450,
-      "name": "Theos: Cities Of Myth Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #28)"
+      "appid": 5173640,
+      "name": "Shift Happens: Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 4703110,
-      "name": "Whispers Of The Lost Ticket",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #22)"
+      "appid": 4254350,
+      "name": "Broken &amp; Loved Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #22)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4031890,
       "name": "Palworld: Palfarm",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #17)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #16)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 3115160,
-      "name": "Warhammer 40,000: Boltgun 2",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #28)"
+      "appid": 2017940,
+      "name": "Pony Island 2: Panda Circus",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5179800,
-      "name": "Cone &amp; Crest",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #15)"
+      "appid": 5260180,
+      "name": "Army Factory Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5279900,
-      "name": "Fallacy Of The Absolute",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #18)"
+      "appid": 5293210,
+      "name": "ROGRID",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #26)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 4348840,
-      "name": "Cursed Gas Station Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #30)"
+      "appid": 1203620,
+      "name": "Enshrouded",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5281450,
-      "name": "100s Fishing",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #9)"
+      "appid": 5349800,
+      "name": "The Haunting Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 5300140,
-      "name": "Monkeys Don't Fear Hell Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #20)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4534960,
       "name": "Dear Passengers",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #2)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #2)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5388730,
-      "name": "Hearsay Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #25)"
+      "appid": 5418420,
+      "name": "Invasion Of Britannia Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #23)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5443510,
+      "name": "Take That Shot Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5355960,
+      "name": "FallChess: Wizard's Chess Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5393850,
+      "name": "TRACE Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5445050,
+      "name": "Cinderdelve Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2595260,
       "name": "RECUR",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #29)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5339070,
+      "name": "Frogs Jump Together",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4150720,
       "name": "Drunken Goddess Reflux",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #14)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4614080,
       "name": "Cartel Pilots Wanted",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #18)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #17)"
     },
     {
-      "date": "2026-10-13",
-      "type": "new_entry",
-      "appid": 5304770,
-      "name": "Pickleball Tycoon",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #24)"
-    },
-    {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4968640,
       "name": "Japanese Ramen Simulator",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #18)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2454980,
       "name": "Drakantos",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #15)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 4958670,
-      "name": "Orderfall",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #10)"
+      "appid": 3737540,
+      "name": "Arbiter",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 4871880,
+      "name": "Voidshift Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5343950,
+      "name": "Supernatural Archives：The Frontrooms",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 2381520,
       "name": "Unrecord",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #3)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #3)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 4858580,
+      "name": "The Labyrinth At The End Of Time Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 5072600,
       "name": "Family Time",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #8)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #4)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5317080,
-      "name": "Race on Stream!",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #6)"
+      "appid": 5465560,
+      "name": "My Gaming Shop Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 499170,
-      "name": "Order of the Sinking Star",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
+      "appid": 5143010,
+      "name": "CyberMerit Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #5)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 2318330,
-      "name": "Neverway",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #11)"
+      "appid": 5351140,
+      "name": "B.L.U.E. Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #21)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5033710,
-      "name": "Yume Tenshi",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #13)"
+      "appid": 5108460,
+      "name": "Border Control Together Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #9)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 5431020,
+      "name": "Montone Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 4258290,
       "name": "We Are So Cooked",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #19)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #18)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 1536500,
       "name": "Euro Truck Simulator 2 - Heart of Russia",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #16)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #15)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
       "appid": 3809270,
       "name": "Euro Truck Simulator 2 - Coaches",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #12)"
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #10)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5316090,
-      "name": "Dead Keys Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #11)"
+      "appid": 5403640,
+      "name": "Chinoris: Little Transporters Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-19",
       "type": "new_entry",
-      "appid": 5124350,
-      "name": "Steal &amp; Sell Simulator Demo",
-      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #14)"
+      "appid": 2318330,
+      "name": "Neverway",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "new_entry",
+      "appid": 3796990,
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
     }
   ]
 }
