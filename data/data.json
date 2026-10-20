@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:00:00.000Z",
+  "generatedAt": "2026-10-20T12:00:00.000Z",
   "events": [
     {
       "id": "evt-000",
@@ -1143,7 +1143,7 @@
     },
     {
       "id": "evt-075",
-      "name": "カリヤインディーゲーム2026 · SHIBUYA GAME CROSS3",
+      "name": "カリヤインディーゲーム2026 (카리야 인디게임 2026)",
       "country": "🇯🇵 일본",
       "countryCode": "JP",
       "startDate": "2026-10-31",
@@ -1641,7 +1641,7 @@
     "totalEvents": 109,
     "upcomingEvents": 37,
     "pastEvents": 72,
-    "upcoming30Days": 16,
+    "upcoming30Days": 17,
     "byCountry": {
       "JP": 79,
       "KR": 17,

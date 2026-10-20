@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T12:00:00.000Z",
-  "kstDate": "2026-10-19",
+  "generatedAt": "2026-10-20T12:00:00.000Z",
+  "kstDate": "2026-10-20",
   "monthly": {
     "1월": {
       "total": 4,
@@ -624,7 +624,7 @@
           "country": "JP"
         },
         {
-          "name": "カリヤインディーゲーム2026 · SHIBUYA GAME CROSS3",
+          "name": "カリヤインディーゲーム2026 (카리야 인디게임 2026)",
           "startDate": "2026-10-31",
           "endDate": "2026-10-31",
           "type": "기타",
