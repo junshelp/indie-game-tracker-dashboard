@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:00:00.000Z",
+  "generatedAt": "2026-10-21T12:00:00.000Z",
   "games": [
     {
       "steam_rank": 1,
@@ -80,38 +80,11 @@
     },
     {
       "steam_rank": 4,
-      "appid": 5072600,
-      "name": "Family Time",
-      "release_date": "Q1 2027",
-      "review_summary": "",
-      "wishlist_rank": 4,
-      "source": "top_wishlisted",
-      "developers": [
-        "sgthale"
-      ],
-      "publishers": [
-        "sgthale"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5072600/"
-    },
-    {
-      "steam_rank": 5,
       "appid": 2295170,
       "name": "Emberville",
       "release_date": "27 Oct, 2026",
       "review_summary": "",
-      "wishlist_rank": 5,
+      "wishlist_rank": 4,
       "source": "top_wishlisted",
       "developers": [
         "Cygnus Cross"
@@ -132,6 +105,33 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/99852482000e8eb5b7b75c52bf5f70406c6f6e5f/header.jpg?t=1792426937",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2295170/"
+    },
+    {
+      "steam_rank": 5,
+      "appid": 5072600,
+      "name": "Family Time",
+      "release_date": "Q1 2027",
+      "review_summary": "",
+      "wishlist_rank": 5,
+      "source": "top_wishlisted",
+      "developers": [
+        "sgthale"
+      ],
+      "publishers": [
+        "sgthale"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Build a family of thousands of wolf children with your own wolf partner!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789744534",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5072600/"
     },
     {
       "steam_rank": 6,
@@ -156,7 +156,7 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Grave Seasons is a narrative farming sim with a terrifying twist – someone in the town is a supernatural serial killer. Farm, romance, and investigate your way through the unsettling town of Ashenridg",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255110/4147ac320e25fa3728e80dc0a14608d28a93d49a/header.jpg?t=1791997479",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255110/4147ac320e25fa3728e80dc0a14608d28a93d49a/header.jpg?t=1792529260",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3255110/"
     },
@@ -382,6 +382,20 @@
       "review_summary": "",
       "wishlist_rank": 15,
       "source": "top_wishlisted",
+      "developers": [
+        "SCS Software"
+      ],
+      "publishers": [
+        "SCS Software"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Explore the heart of Russia, Moscow, and beyond. Feel the spirit of Russian history driving through centuries-old cities. Get lost in the sea of trees and open plains.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536500/header.jpg?t=1696679200",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1536500/"
     },
@@ -393,6 +407,21 @@
       "review_summary": "",
       "wishlist_rank": 16,
       "source": "top_wishlisted",
+      "developers": [
+        "Pocketpair"
+      ],
+      "publishers": [
+        "Pocketpair"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Enjoy a farming life with mysterious creatures known as Pals! Team up with them to grow your farm at your own pace in this brand new creature-collecting farming sim, fully playable in multiplayer!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031890/92aca012dc905e2a27e47e5f2b669ec9a811ab03/header.jpg?t=1782286523",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4031890/"
     },
@@ -420,25 +449,25 @@
     },
     {
       "steam_rank": 19,
-      "appid": 2315050,
-      "name": "We Were Here Tomorrow",
-      "release_date": "20 Oct, 2026",
-      "review_summary": "",
-      "wishlist_rank": 19,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2315050/"
-    },
-    {
-      "steam_rank": 20,
       "appid": 3669620,
       "name": "Warhammer Survivors",
       "release_date": "10 Nov, 2026",
       "review_summary": "",
-      "wishlist_rank": 20,
+      "wishlist_rank": 19,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3669620/"
+    },
+    {
+      "steam_rank": 20,
+      "appid": 4293910,
+      "name": "XenoFeels",
+      "release_date": "Coming soon",
+      "review_summary": "",
+      "wishlist_rank": 20,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4293910/"
     },
     {
       "steam_rank": 21,
@@ -453,395 +482,405 @@
     },
     {
       "steam_rank": 22,
-      "appid": 4293910,
-      "name": "XenoFeels",
-      "release_date": "Coming soon",
-      "review_summary": "",
-      "wishlist_rank": 22,
-      "source": "top_wishlisted",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4293910/"
-    },
-    {
-      "steam_rank": 23,
       "appid": 2376260,
       "name": "Mariachi Legends",
       "release_date": "27 Apr, 2027",
       "review_summary": "",
-      "wishlist_rank": 23,
+      "wishlist_rank": 22,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2376260/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 23,
       "appid": 2254950,
       "name": "The Eternal Life of Goldman",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 24,
+      "wishlist_rank": 23,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2254950/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 24,
       "appid": 4348760,
       "name": "Totally Secure Airport",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 25,
+      "wishlist_rank": 24,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4348760/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 25,
       "appid": 1728620,
       "name": "IKUMA - The Frozen Compass",
       "release_date": "2026",
       "review_summary": "",
-      "wishlist_rank": 26,
+      "wishlist_rank": 25,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1728620/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 26,
       "appid": 1977610,
       "name": "Long Gone",
       "release_date": "2027",
       "review_summary": "",
-      "wishlist_rank": 27,
+      "wishlist_rank": 26,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1977610/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 27,
       "appid": 3796990,
       "name": "Euro Truck Simulator 2 - Iceland",
       "release_date": "To be announced",
       "review_summary": "",
-      "wishlist_rank": 28,
+      "wishlist_rank": 27,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3796990/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 28,
       "appid": 2595260,
       "name": "RECUR",
       "release_date": "To be announced",
       "review_summary": "",
-      "wishlist_rank": 29,
+      "wishlist_rank": 28,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2595260/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 29,
       "appid": 2017940,
       "name": "Pony Island 2: Panda Circus",
       "release_date": "27 Apr, 2027",
       "review_summary": "",
-      "wishlist_rank": 30,
+      "wishlist_rank": 29,
       "source": "top_wishlisted",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2017940/"
     },
     {
+      "steam_rank": 30,
+      "appid": 5160800,
+      "name": "Find The Needle",
+      "release_date": "Q4 2026",
+      "review_summary": "",
+      "wishlist_rank": 30,
+      "source": "top_wishlisted",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5160800/"
+    },
+    {
       "steam_rank": 1,
-      "appid": 4510190,
-      "name": "Gloop: Liquid Physics",
-      "release_date": "19 Oct, 2026",
+      "appid": 5470500,
+      "name": "S.O.I.: Sphere of Influence Demo",
+      "release_date": "20 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4510190/"
+      "store_url": "https://store.steampowered.com/app/5470500/"
     },
     {
       "steam_rank": 2,
-      "appid": 5157790,
-      "name": "Sabado Demo",
-      "release_date": "19 Oct, 2026",
+      "appid": 5365780,
+      "name": "Deckbound",
+      "release_date": "20 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5157790/"
+      "store_url": "https://store.steampowered.com/app/5365780/"
     },
     {
       "steam_rank": 3,
-      "appid": 5180150,
-      "name": "Beastwood Haven",
-      "release_date": "19 Oct, 2026",
+      "appid": 5373530,
+      "name": "Robot Fisher",
+      "release_date": "20 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5180150/"
+      "store_url": "https://store.steampowered.com/app/5373530/"
     },
     {
       "steam_rank": 4,
-      "appid": 4314060,
-      "name": "PuzzMao〜Puzzle and Magical Overlord〜",
-      "release_date": "19 Oct, 2026",
+      "appid": 5305740,
+      "name": "Uncanny Train",
+      "release_date": "20 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4314060/"
+      "store_url": "https://store.steampowered.com/app/5305740/"
     },
     {
       "steam_rank": 5,
-      "appid": 5357950,
-      "name": "Grind or Die",
-      "release_date": "19 Oct, 2026",
+      "appid": 5019950,
+      "name": "Hair Extension Set - WorldNeverland - Daily Life in the Elnea Kingdom - Another Life Adventure",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5357950/"
+      "store_url": "https://store.steampowered.com/app/5019950/"
     },
     {
       "steam_rank": 6,
-      "appid": 5450450,
-      "name": "Oath of Stigmata Demo",
-      "release_date": "19 Oct, 2026",
+      "appid": 4409620,
+      "name": "ARCS",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5450450/"
+      "store_url": "https://store.steampowered.com/app/4409620/"
     },
     {
       "steam_rank": 7,
-      "appid": 5357460,
-      "name": "Cheat Koi-Koi",
-      "release_date": "20 Oct, 2026",
+      "appid": 5404530,
+      "name": "PLEASE WAIT",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5357460/"
+      "store_url": "https://store.steampowered.com/app/5404530/"
     },
     {
       "steam_rank": 8,
-      "appid": 4467710,
-      "name": "Choc Tactic 4 Chess Master - Voodoo Legends",
-      "release_date": "20 Oct, 2026",
+      "appid": 5081300,
+      "name": "MECCHA LIAR",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4467710/"
+      "store_url": "https://store.steampowered.com/app/5081300/"
     },
     {
       "steam_rank": 9,
-      "appid": 4469060,
-      "name": "Choc Tactic 4 Chess Master - Technologia",
-      "release_date": "20 Oct, 2026",
+      "appid": 4338180,
+      "name": "Dearbnb",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4469060/"
+      "store_url": "https://store.steampowered.com/app/4338180/"
     },
     {
       "steam_rank": 10,
-      "appid": 4469090,
-      "name": "Choc Tactic 4 Chess Master - Realm King",
-      "release_date": "20 Oct, 2026",
+      "appid": 5445550,
+      "name": "Click to Mine Demo",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4469090/"
+      "store_url": "https://store.steampowered.com/app/5445550/"
     },
     {
       "steam_rank": 11,
-      "appid": 5291390,
-      "name": "Choc Tactic for Chess Master - Raid Over Life",
-      "release_date": "20 Oct, 2026",
+      "appid": 5297320,
+      "name": "JIGOKU YUGI: Only The Last Gambler Standing Returns to Life",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5291390/"
+      "store_url": "https://store.steampowered.com/app/5297320/"
     },
     {
       "steam_rank": 12,
-      "appid": 5294420,
-      "name": "Choc Tactic for Chess Master - Castle Before Break",
-      "release_date": "20 Oct, 2026",
+      "appid": 5354400,
+      "name": "Sudoku Unlimited",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5294420/"
+      "store_url": "https://store.steampowered.com/app/5354400/"
     },
     {
       "steam_rank": 13,
-      "appid": 4467680,
-      "name": "Choc Tactic 4 Chess Master - Seed Of Mana",
-      "release_date": "20 Oct, 2026",
+      "appid": 4731510,
+      "name": "Subject Zero",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4467680/"
+      "store_url": "https://store.steampowered.com/app/4731510/"
     },
     {
       "steam_rank": 14,
-      "appid": 5291200,
-      "name": "Choc Tactic for Chess Master - Royal Fork Ever",
-      "release_date": "20 Oct, 2026",
+      "appid": 4207990,
+      "name": "GemCraft - Legacy Collection",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5291200/"
+      "store_url": "https://store.steampowered.com/app/4207990/"
     },
     {
       "steam_rank": 15,
-      "appid": 5343820,
-      "name": "Welcome To HillVeil",
-      "release_date": "20 Oct, 2026",
+      "appid": 5227910,
+      "name": "Messa Anomaly",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5343820/"
+      "store_url": "https://store.steampowered.com/app/5227910/"
     },
     {
       "steam_rank": 16,
-      "appid": 5357500,
-      "name": "Reactance",
-      "release_date": "20 Oct, 2026",
+      "appid": 3996640,
+      "name": "Inky's Sleep",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5357500/"
+      "store_url": "https://store.steampowered.com/app/3996640/"
     },
     {
       "steam_rank": 17,
-      "appid": 5189370,
-      "name": "Trapoint",
-      "release_date": "20 Oct, 2026",
+      "appid": 4859550,
+      "name": "BioSphere: Genesis",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5189370/"
+      "store_url": "https://store.steampowered.com/app/4859550/"
     },
     {
       "steam_rank": 18,
-      "appid": 5324790,
-      "name": "Superpower Rally: Home Guard",
-      "release_date": "20 Oct, 2026",
+      "appid": 4087210,
+      "name": "Red Rain",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5324790/"
+      "store_url": "https://store.steampowered.com/app/4087210/"
     },
     {
       "steam_rank": 19,
-      "appid": 5294080,
-      "name": "Clean your Garden",
-      "release_date": "20 Oct, 2026",
+      "appid": 3907910,
+      "name": "Cutout Village",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5294080/"
+      "store_url": "https://store.steampowered.com/app/3907910/"
     },
     {
       "steam_rank": 20,
-      "appid": 5183640,
-      "name": "Anomaly Cafe Demo",
-      "release_date": "20 Oct, 2026",
+      "appid": 5329480,
+      "name": "Solo Shift! Karaoke",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5183640/"
+      "store_url": "https://store.steampowered.com/app/5329480/"
     },
     {
       "steam_rank": 21,
-      "appid": 2105440,
-      "name": "Fall of Bali",
-      "release_date": "20 Oct, 2026",
+      "appid": 5381850,
+      "name": "Elevator Button Simulator",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2105440/"
+      "store_url": "https://store.steampowered.com/app/5381850/"
     },
     {
       "steam_rank": 22,
-      "appid": 5360850,
-      "name": "Grind Grid",
-      "release_date": "20 Oct, 2026",
+      "appid": 5101820,
+      "name": "CUSTOM PENNANT BASEBALL",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5360850/"
+      "store_url": "https://store.steampowered.com/app/5101820/"
     },
     {
       "steam_rank": 23,
-      "appid": 5244290,
-      "name": "Grape by Grape Demo",
-      "release_date": "20 Oct, 2026",
+      "appid": 4509200,
+      "name": "Grease Trap '99",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5244290/"
+      "store_url": "https://store.steampowered.com/app/4509200/"
     },
     {
       "steam_rank": 24,
-      "appid": 4791190,
-      "name": "ASWANG HUNTER Demo",
-      "release_date": "20 Oct, 2026",
+      "appid": 5455240,
+      "name": "Godsever Demo",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4791190/"
+      "store_url": "https://store.steampowered.com/app/5455240/"
     },
     {
       "steam_rank": 25,
-      "appid": 4901020,
-      "name": "TWIN Hotel, Spa and More Demo",
-      "release_date": "20 Oct, 2026",
+      "appid": 5278050,
+      "name": "Fish Wrangler",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4901020/"
+      "store_url": "https://store.steampowered.com/app/5278050/"
     },
     {
       "steam_rank": 26,
-      "appid": 5373570,
-      "name": "CrossSpell Demo",
-      "release_date": "20 Oct, 2026",
+      "appid": 5279620,
+      "name": "Halloween On Goober Street",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5373570/"
+      "store_url": "https://store.steampowered.com/app/5279620/"
     },
     {
       "steam_rank": 27,
-      "appid": 4974640,
-      "name": "zenaimu",
-      "release_date": "20 Oct, 2026",
+      "appid": 5364370,
+      "name": "Dungeon Prisoner Simulator",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4974640/"
+      "store_url": "https://store.steampowered.com/app/5364370/"
     },
     {
       "steam_rank": 28,
-      "appid": 4832650,
-      "name": "EDO: Endless Demon Omen",
-      "release_date": "20 Oct, 2026",
+      "appid": 5132990,
+      "name": "Puppet Mall: Chapter 1: Lost Friend",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4832650/"
+      "store_url": "https://store.steampowered.com/app/5132990/"
     },
     {
       "steam_rank": 29,
-      "appid": 5355820,
-      "name": "Beatrice",
-      "release_date": "20 Oct, 2026",
+      "appid": 4642780,
+      "name": "SAKIMORI",
+      "release_date": "21 Oct, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5355820/"
+      "store_url": "https://store.steampowered.com/app/4642780/"
     },
     {
-      "steam_rank": 3,
+      "steam_rank": 30,
+      "appid": 5359290,
+      "name": "念 Horizon Demo",
+      "release_date": "21 Oct, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5359290/"
+    },
+    {
+      "steam_rank": 4,
       "appid": 1203620,
       "name": "Enshrouded",
       "release_date": "15 Oct, 2026",
@@ -863,34 +902,9 @@
       "coming_soon": false,
       "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world fu",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "recommendations": 96359,
+      "recommendations": 96608,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/1203620/"
-    },
-    {
-      "steam_rank": 6,
-      "appid": 4019220,
-      "name": "Dressmaker",
-      "release_date": "21 Sep, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Cozy Lives"
-      ],
-      "publishers": [
-        "Free Lives"
-      ],
-      "genres": [
-        "Casual",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Become a dressmaker! Choose fabric, cut out pattern pieces and sew them all together to make the dresses of your dreams - in this cozy crafting game, inspired by real dressmaking.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1792401675",
-      "recommendations": 15528,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/4019220/"
     },
     {
       "steam_rank": 13,
@@ -915,12 +929,12 @@
       "coming_soon": false,
       "short_description": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your ki",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792334006",
-      "recommendations": 498,
+      "recommendations": 513,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4968640/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 16,
       "appid": 3883570,
       "name": "Invokyr",
       "release_date": "8 Oct, 2026",
@@ -945,12 +959,12 @@
       "coming_soon": false,
       "short_description": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1792307731",
-      "recommendations": 923,
+      "recommendations": 968,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3883570/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 18,
       "appid": 2929250,
       "name": "over the hill",
       "release_date": "14 Oct, 2026",
@@ -974,52 +988,25 @@
       "coming_soon": false,
       "short_description": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
-      "recommendations": 2611,
+      "recommendations": 2852,
       "status": "released",
       "store_url": "https://store.steampowered.com/app/2929250/"
-    },
-    {
-      "steam_rank": 30,
-      "appid": 499170,
-      "name": "Order of the Sinking Star",
-      "release_date": "8 Oct, 2026",
-      "review_summary": "",
-      "source": "recent_release",
-      "developers": [
-        "Thekla, Inc."
-      ],
-      "publishers": [
-        "Arc Games",
-        "Gamirror Games"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, disc",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/deda420d9e42288f4734a068c707f4c156203969/header.jpg?t=1792144507",
-      "recommendations": 2600,
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/499170/"
     }
   ],
   "summary": {
-    "total": 65,
+    "total": 64,
     "free_games": 1,
-    "released": 6,
-    "upcoming": 59,
+    "released": 4,
+    "upcoming": 60,
     "wishlisted": 30,
     "top_genres": [
       [
         "Indie",
-        18
+        19
       ],
       [
         "Adventure",
-        13
+        12
       ],
       [
         "Action",
@@ -1027,7 +1014,7 @@
       ],
       [
         "Simulation",
-        8
+        9
       ],
       [
         "Casual",
@@ -1035,6 +1022,10 @@
       ]
     ],
     "top_developers": [
+      [
+        "SCS Software",
+        2
+      ],
       [
         "Hello Games",
         1
@@ -1045,10 +1036,6 @@
       ],
       [
         "Drama Studios",
-        1
-      ],
-      [
-        "sgthale",
         1
       ],
       [
