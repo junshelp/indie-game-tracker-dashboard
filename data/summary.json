@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T12:00:00.000Z",
-  "kstDate": "2026-10-22",
+  "generatedAt": "2026-10-23T12:00:00.000Z",
+  "kstDate": "2026-10-23",
   "monthly": {
     "1월": {
       "total": 4,
@@ -517,11 +517,11 @@
       ]
     },
     "10월": {
-      "total": 16,
+      "total": 17,
       "byCountry": {
         "JP": 12,
         "ONLINE": 1,
-        "KR": 2,
+        "KR": 3,
         "TH": 1
       },
       "events": [
@@ -564,6 +564,13 @@
           "name": "ALT+G (제2회)",
           "startDate": "2026-10-09",
           "endDate": "2026-10-09",
+          "type": "기타",
+          "country": "KR"
+        },
+        {
+          "name": "인디보드게임마켓 2026",
+          "startDate": "2026-10-09",
+          "endDate": "2026-10-10",
           "type": "기타",
           "country": "KR"
         },
@@ -880,10 +887,10 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 1,
     "dateChanges": 0,
     "submissionUpdates": 0,
-    "totalChanges": 0,
+    "totalChanges": 1,
     "note": ""
   }
 }
