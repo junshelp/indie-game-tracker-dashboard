@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-23T12:00:00.000Z",
+  "updatedAt": "2026-10-23T14:00:34Z",
   "events": [
+    {
+      "date": "2026-10-23",
+      "type": "changed",
+      "eventId": "evt-038",
+      "name": "ChinaJoy 2026",
+      "detail": "일정 변경: 2026-07-31–2026-07-08 → 2026-07-31–2026-08-03",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "changed",
+      "eventId": "evt-074",
+      "name": "gamescom asia 2026",
+      "detail": "일정 변경: 2026-10-29–2026-10-11 → 2026-10-29–2026-11-01",
+      "country": "🇹🇭 태국"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "changed",
+      "eventId": "evt-077",
+      "name": "OTAFEST 2026",
+      "detail": "일정 변경: 2026-10-31–2026-10-11 → 2026-10-31–2026-11-01",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "changed",
+      "eventId": "evt-096",
+      "name": "XR Kaigi 2026",
+      "detail": "일정 변경: 2026-11-30–2026-11-12 → 2026-11-30–2026-12-02",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-10-23",
       "type": "discovered",
@@ -882,5 +914,6 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 110
+  "totalTracked": 110,
+  "snapshotId": "af0887108aa5943778e1"
 }

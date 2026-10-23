@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>인디게임 행사 트래커</title>
-  <link rel="stylesheet" href="./styles.css?v=67">
+  <meta name="description" content="한국·일본·중국과 온라인 인디·서브컬처 게임 행사 일정 및 Steam 인디 게임을 확인하세요.">
+  <link rel="stylesheet" href="./styles.css?v=68">
 </head>
 <body>
   <main class="shell">
@@ -45,8 +46,8 @@
         </div>
         <h2>장르</h2>
         <div id="steamGenreFilters" class="filter-list"></div>
-        <h2>정렬</h2>
-        <select id="steamSortSelect" style="width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--text1);font-size:0.85rem;cursor:pointer;">
+        <h2><label for="steamSortSelect">정렬</label></h2>
+        <select id="steamSortSelect" style="width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:0.85rem;cursor:pointer;">
           <option value="smart">📋 스마트 정렬</option>
           <option value="date">🕐 출시일 순</option>
           <option value="recommendations">👍 추천 순</option>
@@ -57,21 +58,21 @@
 
       <!-- Right: views -->
       <section class="main-content">
-        <div class="main-tabs">
-          <button class="main-tab active" data-view="timeline">📅 타임라인</button>
-          <button class="main-tab" data-view="upcoming">⏰ 다가오는 행사</button>
-          <button class="main-tab" data-view="history">📋 변경 이력</button>
-          <button class="main-tab" data-view="steam">🎮 Steam 인디 워치</button>
+        <div class="main-tabs" role="tablist" aria-label="대시보드 보기">
+          <button class="main-tab active" data-view="timeline" id="tabTimeline" role="tab" aria-controls="viewTimeline" aria-selected="true" tabindex="0">📅 타임라인</button>
+          <button class="main-tab" data-view="upcoming" id="tabUpcoming" role="tab" aria-controls="viewUpcoming" aria-selected="false" tabindex="-1">⏰ 다가오는 행사</button>
+          <button class="main-tab" data-view="history" id="tabHistory" role="tab" aria-controls="viewHistory" aria-selected="false" tabindex="-1">📋 변경 이력</button>
+          <button class="main-tab" data-view="steam" id="tabSteam" role="tab" aria-controls="viewSteam" aria-selected="false" tabindex="-1">🎮 Steam 인디 워치</button>
         </div>
 
-        <div id="viewTimeline" class="view"></div>
-        <div id="viewUpcoming" class="view" style="display:none"></div>
-        <div id="viewHistory" class="view" style="display:none"></div>
-        <div id="viewSteam" class="view" style="display:none"></div>
+        <div id="viewTimeline" class="view" role="tabpanel" aria-labelledby="tabTimeline" tabindex="0"></div>
+        <div id="viewUpcoming" class="view" role="tabpanel" aria-labelledby="tabUpcoming" tabindex="0" style="display:none"></div>
+        <div id="viewHistory" class="view" role="tabpanel" aria-labelledby="tabHistory" tabindex="0" style="display:none"></div>
+        <div id="viewSteam" class="view" role="tabpanel" aria-labelledby="tabSteam" tabindex="0" style="display:none"></div>
       </section>
     </div>
   </main>
 
-  <script src="./app.js?v=67"></script>
+  <script src="./app.js?v=68"></script>
 </body>
 </html>

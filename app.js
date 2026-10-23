@@ -24,56 +24,69 @@ const els = {
 };
 
 // === Init ===
+async function fetchJSON(url) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+
+function todayKST() {
+  const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Seoul',
+    year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
+  const value = type => parts.find(p => p.type === type).value;
+  return `${value('year')}-${value('month')}-${value('day')}`;
+}
+
+function refreshEventStats() {
+  if (!state.data) return;
+  const today = todayKST();
+  const cutoff = new Date(`${today}T00:00:00Z`);
+  cutoff.setUTCDate(cutoff.getUTCDate() + 30);
+  const end = cutoff.toISOString().slice(0, 10);
+  const events = state.data.events;
+  events.forEach(e => { e.status = e.endDate < today ? 'past' : 'upcoming'; });
+  state.data.summary = {
+    totalEvents: events.length,
+    upcomingEvents: events.filter(e => e.status === 'upcoming').length,
+    upcoming30Days: events.filter(e => e.status === 'upcoming' && e.startDate >= today && e.startDate <= end).length,
+    thisMonth: events.filter(e => e.startDate.slice(0, 7) === today.slice(0, 7)).length,
+    byCountry: Object.fromEntries(events.map(e => [e.countryCode, true])),
+  };
+}
+
 async function init() {
-  try {
-    const [dataRes, historyRes, summaryRes] = await Promise.all([
-      fetch('./data/data.json?v=67'),
-      fetch('./data/history.json?v=67'),
-      fetch('./data/summary.json?v=67'),
-    ]);
-    state.data = await dataRes.json();
-    state.history = await historyRes.json();
-    state.summary = await summaryRes.json();
-    
-    if (state.data.generatedAt) {
-      els.refreshTime.textContent = `마지막 갱신: ${formatDate(state.data.generatedAt)}`;
-    }
-    
+  els.viewTimeline.innerHTML = '<div class="empty-state" role="status">행사 데이터를 불러오는 중입니다…</div>';
+  const [data, history] = await Promise.allSettled([
+    fetchJSON('./data/data.json?v=68'), fetchJSON('./data/history.json?v=68'),
+  ]);
+  if (data.status === 'fulfilled' && Array.isArray(data.value.events)) {
+    state.data = data.value;
+    state.history = history.status === 'fulfilled' ? history.value : { events: [], unavailable: true };
+    if (state.data.generatedAt) els.refreshTime.textContent = `데이터 생성: ${formatDate(state.data.generatedAt)} (한국시간)`;
     render();
-  } catch (err) {
-    console.error('Failed to load data:', err);
-    els.viewTimeline.innerHTML = '<div class="empty-state"><div class="empty-icon">⚠️</div>데이터를 불러올 수 없습니다</div>';
+  } else {
+    els.viewTimeline.innerHTML = '<div class="empty-state" role="alert">행사 데이터를 불러올 수 없습니다. <button type="button" data-retry="events">다시 시도</button></div>';
   }
-  
-  // Load Steam data in background
-  loadSteamData().then(() => {
-    renderSteamGenreFilters();
-  }).catch(() => {});
+  loadSteamData();
 }
 
 function formatDate(isoStr) {
   try {
     return new Intl.DateTimeFormat('ko-KR', {
       year: 'numeric', month: '2-digit', day: '2-digit',
-      hour: '2-digit', minute: '2-digit',
+      hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Seoul',
     }).format(new Date(isoStr));
   } catch { return isoStr; }
 }
 
 function formatDateShort(isoStr) {
-  try {
-    const d = new Date(isoStr);
-    return `${d.getMonth() + 1}/${d.getDate()}`;
-  } catch { return isoStr; }
+  const [year, month, day] = String(isoStr).slice(0, 10).split('-').map(Number);
+  return year && month && day ? `${month}/${day}` : String(isoStr || '미정');
 }
 
 function formatDateRange(start, end) {
-  const s = new Date(start);
-  const e = new Date(end);
-  const sStr = `${s.getMonth() + 1}/${s.getDate()}`;
-  if (start === end) return sStr;
-  const eStr = s.getMonth() === e.getMonth() ? `${e.getDate()}` : `${e.getMonth() + 1}/${e.getDate()}`;
-  return `${sStr}-${eStr}`;
+  if (start === end) return formatDateShort(start);
+  return `${formatDateShort(start)}–${formatDateShort(end)}`;
 }
 
 function timeAgo(isoStr) {
@@ -100,11 +113,13 @@ function render() {
 
 // === Stats cards ===
 function renderStats() {
+  if (!state.data) return;
+  refreshEventStats();
   const s = state.data.summary;
   const cards = [
     { label: '전체 행사', value: s.totalEvents, cls: '' },
     { label: '예정 행사', value: s.upcomingEvents, cls: 'green' },
-    { label: '이번 달', value: s.byMonth['8'] || 0, cls: 'accent' },
+    { label: '이번 달', value: s.thisMonth, cls: 'accent' },
     { label: '국가 수', value: Object.keys(s.byCountry).length, cls: '' },
     { label: '30일 내', value: s.upcoming30Days, cls: 'amber' },
   ];
@@ -147,12 +162,14 @@ function renderFilters() {
 }
 
 function countryLabel(code) {
-  const map = { KR: '🇰🇷 한국', JP: '🇯🇵 일본', CN: '🇨🇳 중국', ONLINE: '🌏 온라인', TH: '🇹🇭 태국' };
+  const map = { KR: '🇰🇷 한국', JP: '🇯🇵 일본', CN: '🇨🇳 중국', ONLINE: '🌏 온라인', TH: '🇹🇭 태국', TW: '🇹🇼 대만', OTHER: '기타 지역' };
   return map[code] || code;
 }
 
 // === Filter events ===
 function filteredEvents() {
+  if (!state.data) return [];
+  refreshEventStats();
   return state.data.events.filter(e => {
     if (state.country !== '전체' && e.countryCode !== state.country) return false;
     if (state.type !== '전체' && e.typeLabel !== state.type) return false;
@@ -183,19 +200,23 @@ function renderTimeline(events) {
   // Group by month
   const grouped = {};
   events.forEach(e => {
-    const m = e.month;
+    const m = e.startDate.slice(0, 7);
     if (!grouped[m]) grouped[m] = [];
     grouped[m].push(e);
   });
   
-  const months = Object.keys(grouped).sort((a, b) => Number(a) - Number(b));
+  const months = Object.keys(grouped).sort();
   
+  if (!events.length) {
+    els.viewTimeline.innerHTML = '<div class="empty-state" role="status">조건에 맞는 행사가 없습니다. <button type="button" data-reset-filters>필터 초기화</button></div>';
+    return;
+  }
   els.viewTimeline.innerHTML = months.map(m => {
     const monthEvents = grouped[m];
     return `
       <div class="month-group">
         <div class="month-header">
-          <span>${m}월</span>
+          <span>${m.slice(0, 4)}년 ${Number(m.slice(5))}월</span>
           <span class="month-count">${monthEvents.length}개 행사</span>
         </div>
         ${monthEvents.map(e => renderEventCard(e)).join('')}
@@ -224,7 +245,11 @@ function renderUpcoming(events) {
 }
 
 function renderHistory() {
-  const hist = state.history.events;
+  if (state.history?.unavailable) {
+    els.viewHistory.innerHTML = '<div class="empty-state" role="alert">변경 이력을 불러오지 못했습니다. 행사 목록은 이용할 수 있습니다.</div>';
+    return;
+  }
+  const hist = state.history?.events;
   if (!hist || hist.length === 0) {
     els.viewHistory.innerHTML = '<div class="empty-state"><div class="empty-icon">📋</div>변경 이력이 없습니다</div>';
     return;
@@ -235,8 +260,8 @@ function renderHistory() {
       <div class="hi-date">${h.date}</div>
       <div class="hi-badge ${h.type}">${historyTypeLabel(h.type)}</div>
       <div class="hi-text">
-        <strong>${h.country} ${escapeHtml(h.name)}</strong><br>
-        <span style="color:var(--text3)">${h.detail}</span>
+        <strong>${escapeHtml(h.country)} ${escapeHtml(h.name)}</strong><br>
+        <span style="color:var(--text3)">${escapeHtml(h.detail)}</span>
       </div>
     </div>
   `).join('');
@@ -248,9 +273,8 @@ function historyTypeLabel(type) {
 }
 
 function renderEventCard(e, urgent = false) {
-  const d = new Date(e.startDate);
-  const day = d.getDate();
-  const month = d.getMonth() + 1;
+  const [, month, day] = e.startDate.split('-').map(Number);
+  const url = cleanURL(e.url);
   
   const countryBadgeClass = {
     KR: 'badge-kr', JP: 'badge-jp', CN: 'badge-cn', ONLINE: 'badge-online'
@@ -261,26 +285,30 @@ function renderEventCard(e, urgent = false) {
       <div class="event-date">
         <div class="date-month">${month}월</div>
         <div class="date-main">${day}일</div>
-        ${e.startDate !== e.endDate ? `<div style="font-size:0.65rem;color:var(--text3)">~${new Date(e.endDate).getDate()}일</div>` : ''}
+        ${e.startDate !== e.endDate ? `<div class="date-range-end">~${formatDateShort(e.endDate)}</div>` : ''}
       </div>
       <div class="event-body">
         <div class="event-name">${escapeHtml(e.name)}</div>
         <div class="event-meta">
           <span class="badge ${countryBadgeClass}">${countryLabel(e.countryCode)}</span>
-          <span class="badge badge-expo">${e.typeLabel}</span>
+          <span class="badge badge-expo">${escapeHtml(e.typeLabel)}</span>
           ${e.venue ? `<span>📍 ${escapeHtml(e.venue)}</span>` : ''}
           ${e.submissionPeriod ? `<span class="badge badge-deadline">📝 ${escapeHtml(e.submissionPeriod)}</span>` : ''}
         </div>
-        ${e.url ? `<div class="event-url"><a href="${escapeHtml(cleanURL(e.url))}" target="_blank" rel="noopener">🔗 바로가기</a></div>` : ''}
+        ${url ? `<div class="event-url"><a href="${escapeHtml(url)}" target="_blank" rel="noopener" aria-label="${escapeHtml(e.name)} 행사 정보 열기">🔗 행사 정보</a></div>` : '<div class="event-url">공식 링크 확인 중</div>'}
       </div>
     </div>
   `;
 }
 
 function cleanURL(raw) {
-  // Strip markdown link syntax: [text](url) → url
-  const m = String(raw || '').match(/\[.*?\]\((https?:\/\/[^\s)]+)\)/);
-  return m ? m[1] : raw;
+  const match = String(raw || '').match(/\[.*?\]\((https?:\/\/[^\s)]+)\)/);
+  const value = match ? match[1] : String(raw || '');
+  try {
+    if (!/^https?:\/\//i.test(value) || /\s/.test(value)) return null;
+    const url = new URL(value);
+    return ['http:', 'https:'].includes(url.protocol) ? url.href : null;
+  } catch { return null; }
 }
 
 function escapeHtml(str) {
@@ -290,31 +318,46 @@ function escapeHtml(str) {
 
 // === Event listeners ===
 document.addEventListener('click', (e) => {
+  const target = e.target.closest('button');
+  if (!target) return;
+  if (target.dataset.retry === 'events') { init(); return; }
+  if (target.dataset.retry === 'steam') { loadSteamData(); return; }
+  if (target.hasAttribute('data-reset-filters')) {
+    state.country = state.type = '전체';
+    state.statuses = new Set(['upcoming']);
+    $$('#statusToggles input').forEach(input => input.checked = input.dataset.status === 'upcoming');
+    render(); return;
+  }
   // Tab buttons
-  if (e.target.matches('.main-tab')) {
-    $$('.main-tab').forEach(t => t.classList.remove('active'));
-    e.target.classList.add('active');
-    state.view = e.target.dataset.view;
+  if (target.matches('.main-tab')) {
+    $$('.main-tab').forEach(t => {
+      const active = t === target;
+      t.classList.toggle('active', active);
+      t.setAttribute('aria-selected', String(active));
+      t.tabIndex = active ? 0 : -1;
+    });
+    target.classList.add('active');
+    state.view = target.dataset.view;
     $$('.view').forEach(v => v.style.display = 'none');
-    const viewId = `#view${e.target.dataset.view.charAt(0).toUpperCase() + e.target.dataset.view.slice(1)}`;
+    const viewId = `#view${target.dataset.view.charAt(0).toUpperCase() + target.dataset.view.slice(1)}`;
     const viewEl = document.querySelector(viewId);
     if (viewEl) viewEl.style.display = '';
     renderView();
   }
   
   // Country filter
-  if (e.target.matches('.filter-btn[data-country]')) {
+  if (target.matches('.filter-btn[data-country]')) {
     $$('.filter-btn[data-country]').forEach(b => b.classList.remove('active'));
-    e.target.classList.add('active');
-    state.country = e.target.dataset.country;
+    target.classList.add('active');
+    state.country = target.dataset.country;
     renderView();
   }
   
   // Type filter
-  if (e.target.matches('.filter-btn[data-type]')) {
+  if (target.matches('.filter-btn[data-type]')) {
     $$('.filter-btn[data-type]').forEach(b => b.classList.remove('active'));
-    e.target.classList.add('active');
-    state.type = e.target.dataset.type;
+    target.classList.add('active');
+    state.type = target.dataset.type;
     renderView();
   }
 });
@@ -339,10 +382,12 @@ document.addEventListener('change', (e) => {
 
 // Steam genre filter
 document.addEventListener('click', (e) => {
-  if (e.target.matches('.filter-btn[data-steam-genre]')) {
+  const target = e.target.closest('button');
+  if (!target) return;
+  if (target.matches('.filter-btn[data-steam-genre]')) {
     document.querySelectorAll('.filter-btn[data-steam-genre]').forEach(b => b.classList.remove('active'));
-    e.target.classList.add('active');
-    steamState.genre = e.target.dataset.steamGenre;
+    target.classList.add('active');
+    steamState.genre = target.dataset.steamGenre;
     renderSteamView();
   }
 });
@@ -359,6 +404,8 @@ document.addEventListener('change', (e) => {
 const steamState = {
   data: null,
   history: null,
+  loading: true,
+  error: null,
   genre: '전체',
   statuses: new Set(['upcoming', 'released']),
   sortBy: 'smart',  // 'smart' | 'date' | 'recommendations' | 'steam_rank'
@@ -366,16 +413,35 @@ const steamState = {
 
 // === Steam: Load data ===
 async function loadSteamData() {
-  try {
-    const [dataRes, historyRes] = await Promise.all([
-      fetch('./data/steam/data.json?v=67'),
-      fetch('./data/steam/history.json?v=67'),
-    ]);
-    steamState.data = await dataRes.json();
-    steamState.history = await historyRes.json();
-  } catch (err) {
-    console.error('Failed to load Steam data:', err);
-  }
+  steamState.loading = true;
+  steamState.error = null;
+  if (state.view === 'steam') renderSteamView();
+  const [data, history] = await Promise.allSettled([
+    fetchJSON('./data/steam/data.json?v=68'), fetchJSON('./data/steam/history.json?v=68'),
+  ]);
+  if (data.status === 'fulfilled' && Array.isArray(data.value.games) && data.value.summary) {
+    steamState.data = data.value;
+    steamState.history = history.status === 'fulfilled' ? history.value : { changes: [] };
+    renderSteamGenreFilters();
+  } else steamState.error = 'Steam 데이터를 불러오지 못했습니다.';
+  steamState.loading = false;
+  if (state.view === 'steam') { renderSteamView(); renderSteamStats(); }
+}
+
+function recentSteamEntry(change) {
+  if (change.type !== 'new_entry' || !change.date) return false;
+  const days = (Date.parse(`${todayKST()}T00:00:00Z`) - Date.parse(`${change.date}T00:00:00Z`)) / 86400000;
+  return days >= 0 && days < 3;
+}
+
+function releaseSortTime(text) {
+  const value = String(text || '').trim();
+  if (!value || /announced|coming|TBA|TBD|미정/i.test(value)) return Infinity;
+  let match = value.match(/^Q([1-4])\s+(\d{4})$/i);
+  if (match) return Date.UTC(Number(match[2]), (Number(match[1]) - 1) * 3, 1);
+  if (/^\d{4}$/.test(value)) return Date.UTC(Number(value), 0, 1);
+  const parsed = Date.parse(value);
+  return Number.isNaN(parsed) ? Infinity : parsed;
 }
 
 // === Steam: Filter ===
@@ -393,20 +459,19 @@ function filteredSteamGames() {
   // Helper: check if new entry from history
   const newAppIds = new Set(
     (steamState.history?.changes || [])
-      .filter(c => c.type === 'new_entry')
+      .filter(recentSteamEntry)
       .map(c => c.appid)
   );
   
   // Helper: parse release date
-  function parseDate(ds) {
-    if (!ds) return new Date(0);
-    const d = new Date(ds);
-    return isNaN(d.getTime()) ? new Date(0) : d;
+  function compareRelease(a, b) {
+    const first = releaseSortTime(a.release_date), second = releaseSortTime(b.release_date);
+    return first === second ? 0 : first < second ? -1 : 1;
   }
-  
+
   switch (sortBy) {
     case 'date':
-      games.sort((a, b) => parseDate(a.release_date) - parseDate(b.release_date));
+      games.sort((a, b) => compareRelease(a, b));
       break;
     case 'recommendations':
       games.sort((a, b) => (b.recommendations || 0) - (a.recommendations || 0));
@@ -430,7 +495,7 @@ function filteredSteamGames() {
           const bNew = newAppIds.has(b.appid) ? 1 : 0;
           if (aNew !== bNew) return bNew - aNew;
           // Sooner release first
-          const dd = parseDate(a.release_date) - parseDate(b.release_date);
+          const dd = compareRelease(a, b);
           if (dd !== 0) return dd;
           // Tiebreaker: steam_rank
           return (a.steam_rank || 999) - (b.steam_rank || 999);
@@ -440,7 +505,7 @@ function filteredSteamGames() {
         const rd = (b.recommendations || 0) - (a.recommendations || 0);
         if (rd !== 0) return rd;
         // Tiebreaker: recent release first
-        return parseDate(b.release_date) - parseDate(a.release_date);
+        return compareRelease(b, a);
       });
       break;
   }
@@ -460,6 +525,10 @@ function buildRankChangeMap() {
 }
 
 function renderSteamView() {
+  const view = document.querySelector('#viewSteam');
+  view.setAttribute('aria-busy', String(steamState.loading));
+  if (steamState.loading) { view.innerHTML = '<div class="empty-state" role="status">Steam 데이터를 불러오는 중입니다…</div>'; return; }
+  if (steamState.error) { view.innerHTML = '<div class="empty-state" role="alert">Steam 데이터를 불러오지 못했습니다. <button type="button" data-retry="steam">다시 시도</button></div>'; return; }
   const games = filteredSteamGames();
   if (!games.length) {
     document.querySelector('#viewSteam').innerHTML = '<div class="empty-state"><div class="empty-icon">🎮</div>데이터가 없습니다</div>';
@@ -475,7 +544,7 @@ function renderSteamView() {
   let html = '';
 
   html += `<div class="wishlist-banner">⭐ 위시리스트 순위는 Steam 'popularwishlist' 랭킹(상대 순위)입니다. 절대 위시리스트·팔로워 수치는 Steam이 공개하지 않아 제공하지 않습니다.</div>`;
-  html += `<div style="font-size:0.75rem;color:var(--text3);margin:6px 2px;">🕒 Steam 데이터 수집: ${timeAgo(steamState.data?.generatedAt) || '—'} &nbsp;·&nbsp; ▲▼ = 직전 수집 대비 랭킹 변동</div>`;
+  html += `<div style="font-size:0.75rem;color:var(--text3);margin:6px 2px;">상세 정보 ${steamState.data.games.filter(g => Array.isArray(g.genres)).length}/${steamState.data.games.length}개 확인 · 🕒 Steam 데이터 수집: ${timeAgo(steamState.data?.generatedAt) || '—'} &nbsp;·&nbsp; ▲▼ = 직전 수집 대비 랭킹 변동</div>`;
 
   if (upcoming.length > 0) {
     html += `<div class="month-group">
@@ -548,7 +617,7 @@ function renderSteamCard(g, rankChangeMap = {}) {
   }
   
   // Check if game is newly discovered (from history)
-  const isNew = (steamState.history?.changes || []).some(c => c.appid === g.appid && c.type === 'new_entry');
+  const isNew = (steamState.history?.changes || []).some(c => c.appid === g.appid && recentSteamEntry(c));
   const newBadge = isNew ? ' 🆕' : '';
   
   return `
@@ -556,7 +625,7 @@ function renderSteamCard(g, rankChangeMap = {}) {
       <div class="event-date" style="width:100px;">
         <div class="date-month">#${g.wishlist_rank || g.steam_rank}</div>
         <div class="date-main" style="font-size:0.7rem;color:var(--${isUpcoming ? 'accent2' : 'text2'})">${isUpcoming ? '출시예정' : '출시일'}</div>
-        <div style="font-size:0.65rem;color:var(--text3)">${escapeHtml(g.release_date || '미정').substring(0, 12)}</div>
+        <div style="font-size:0.65rem;color:var(--text3)">${escapeHtml(g.release_date || '미정')}</div>
       </div>
       <div class="event-body">
         <div class="event-name">${escapeHtml(g.name)}${newBadge}</div>
@@ -591,14 +660,17 @@ function renderSteamGenreFilters() {
   container.innerHTML = [
     `<button class="filter-btn ${steamState.genre === '전체' ? 'active' : ''}" data-steam-genre="전체">전체 <span class="count">${steamState.data.games.length}</span></button>`,
     ...Object.entries(genres).sort((a, b) => b[1] - a[1]).map(([genre, count]) =>
-      `<button class="filter-btn ${steamState.genre === genre ? 'active' : ''}" data-steam-genre="${genre}">${genre} <span class="count">${count}</span></button>`
+      `<button class="filter-btn ${steamState.genre === genre ? 'active' : ''}" data-steam-genre="${genre}">${escapeHtml(genre)} <span class="count">${count}</span></button>`
     )
   ].join('');
 }
 
 // === Steam: Render stats ===
 function renderSteamStats() {
-  if (!steamState.data) return;
+  if (steamState.loading || steamState.error || !steamState.data) {
+    if (state.view === 'steam') document.querySelector('#statsCards').innerHTML = '';
+    return;
+  }
   const s = steamState.data.summary;
   const el = document.querySelector('#statsCards');
   if (state.view !== 'steam') return; // only show steam stats on steam tab
@@ -609,7 +681,18 @@ function renderSteamStats() {
     { label: '출시 예정', value: s.upcoming, cls: 'green' },
     { label: '최근 출시', value: s.released, cls: 'accent' },
     { label: '무료 게임', value: s.free_games, cls: '' },
-    { label: '장르 수', value: (s.top_genres || []).length, cls: 'amber' },
+    { label: '장르 수', value: new Set(steamState.data.games.flatMap(g => g.genres || [])).size, cls: 'amber' },
   ].map(c => `<div class="stat-card ${c.cls}"><div class="stat-value">${c.value}</div><div class="stat-label">${c.label}</div></div>`).join('');
 }
+document.addEventListener('keydown', event => {
+  const tab = event.target.closest('[role="tab"]');
+  if (!tab || !['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
+  const tabs = [...$$('[role="tab"]')];
+  const current = tabs.indexOf(tab);
+  const index = event.key === 'Home' ? 0 : event.key === 'End' ? tabs.length - 1 :
+    (current + (event.key === 'ArrowRight' ? 1 : -1) + tabs.length) % tabs.length;
+  event.preventDefault(); tabs[index].focus(); tabs[index].click();
+});
+document.addEventListener('visibilitychange', () => { if (!document.hidden && state.data) renderView(); });
+
 init();
