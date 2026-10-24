@@ -57,7 +57,7 @@ function refreshEventStats() {
 async function init() {
   els.viewTimeline.innerHTML = '<div class="empty-state" role="status">행사 데이터를 불러오는 중입니다…</div>';
   const [data, history] = await Promise.allSettled([
-    fetchJSON('./data/data.json?v=68'), fetchJSON('./data/history.json?v=68'),
+    fetchJSON('./data/data.json?v=69'), fetchJSON('./data/history.json?v=69'),
   ]);
   if (data.status === 'fulfilled' && Array.isArray(data.value.events)) {
     state.data = data.value;
@@ -417,7 +417,7 @@ async function loadSteamData() {
   steamState.error = null;
   if (state.view === 'steam') renderSteamView();
   const [data, history] = await Promise.allSettled([
-    fetchJSON('./data/steam/data.json?v=68'), fetchJSON('./data/steam/history.json?v=68'),
+    fetchJSON('./data/steam/data.json?v=69'), fetchJSON('./data/steam/history.json?v=69'),
   ]);
   if (data.status === 'fulfilled' && Array.isArray(data.value.games) && data.value.summary) {
     steamState.data = data.value;
