@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T00:02:51Z",
-  "asOfDate": "2026-10-24",
-  "snapshotId": "c21ebfc10db1defb3308",
+  "generatedAt": "2026-11-01T00:03:39Z",
+  "asOfDate": "2026-11-01",
+  "snapshotId": "4d3713adfe5315acb7cc",
   "events": [
     {
       "id": "evt-000",
@@ -1184,7 +1184,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1200,7 +1200,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1232,7 +1232,7 @@
       "submissionPeriod": "마감",
       "submissionStatus": "closed",
       "url": "https://tokyogamedungeon.com/",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1248,7 +1248,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://www.eveco.me/events/1018-20261031",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1766,9 +1766,9 @@
   ],
   "summary": {
     "totalEvents": 110,
-    "upcomingEvents": 37,
-    "pastEvents": 73,
-    "upcoming30Days": 19,
+    "upcomingEvents": 33,
+    "pastEvents": 77,
+    "upcoming30Days": 18,
     "byCountry": {
       "JP": 79,
       "KR": 18,
