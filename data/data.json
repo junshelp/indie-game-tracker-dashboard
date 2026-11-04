@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T00:03:39Z",
-  "asOfDate": "2026-11-01",
-  "snapshotId": "4d3713adfe5315acb7cc",
+  "generatedAt": "2026-11-04T23:00:33Z",
+  "asOfDate": "2026-11-05",
+  "snapshotId": "21f96e06677f84f56f98",
   "events": [
     {
       "id": "evt-000",
@@ -1216,7 +1216,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://gamescom.asia/",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1264,7 +1264,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://x.com/OTACRUZinfo",
-      "status": "upcoming",
+      "status": "past",
       "month": 10
     },
     {
@@ -1280,7 +1280,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1296,7 +1296,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://www.unrealengine.com/events/unreal-fest-tokyo-2026",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1312,7 +1312,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1766,9 +1766,9 @@
   ],
   "summary": {
     "totalEvents": 110,
-    "upcomingEvents": 33,
-    "pastEvents": 77,
-    "upcoming30Days": 18,
+    "upcomingEvents": 28,
+    "pastEvents": 82,
+    "upcoming30Days": 19,
     "byCountry": {
       "JP": 79,
       "KR": 18,
