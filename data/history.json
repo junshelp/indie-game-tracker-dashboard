@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-04T23:00:33Z",
+  "updatedAt": "2026-11-05T00:14:15Z",
   "events": [
+    {
+      "date": "2026-11-05",
+      "type": "discovered",
+      "eventId": "evt-7ec0ab732f657dad06c5",
+      "name": "関西インディー試遊会 in ひらかた",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "changed",
+      "eventId": "evt-089",
+      "name": "G-STAR 2026",
+      "detail": "일정 변경: 2026-11-19–2026-11-19 → 2026-11-19–2026-11-22",
+      "country": "🇰🇷 한국"
+    },
     {
       "date": "2026-10-23",
       "type": "changed",
@@ -914,6 +930,6 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 110,
-  "snapshotId": "21f96e06677f84f56f98"
+  "totalTracked": 111,
+  "snapshotId": "2a1f738a150f7a3f45b2"
 }

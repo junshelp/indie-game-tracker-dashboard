@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T23:00:33Z",
+  "generatedAt": "2026-11-05T00:14:15Z",
   "asOfDate": "2026-11-05",
-  "snapshotId": "21f96e06677f84f56f98",
+  "snapshotId": "2a1f738a150f7a3f45b2",
   "events": [
     {
       "id": "evt-000",
@@ -1433,7 +1433,7 @@
       "country": "🇰🇷 한국",
       "countryCode": "KR",
       "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
+      "endDate": "2026-11-22",
       "venue": "부산 벡스코",
       "type": "expo",
       "typeLabel": "전시회",
@@ -1520,6 +1520,22 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
+      "status": "upcoming",
+      "month": 11
+    },
+    {
+      "id": "evt-7ec0ab732f657dad06c5",
+      "name": "関西インディー試遊会 in ひらかた",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "venue": "오사카 히라카타",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "",
+      "submissionStatus": "unknown",
+      "url": "https://newgrads.recgame.jp/news/detail/3147",
       "status": "upcoming",
       "month": 11
     },
@@ -1765,12 +1781,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 110,
-    "upcomingEvents": 28,
+    "totalEvents": 111,
+    "upcomingEvents": 29,
     "pastEvents": 82,
-    "upcoming30Days": 19,
+    "upcoming30Days": 20,
     "byCountry": {
-      "JP": 79,
+      "JP": 80,
       "KR": 18,
       "ONLINE": 4,
       "CN": 6,
@@ -1784,7 +1800,7 @@
       "공모전": 2,
       "마켓": 4,
       "컨퍼런스": 7,
-      "기타": 25,
+      "기타": 26,
       "동인": 4,
       "게임잼": 1
     },
@@ -1799,7 +1815,7 @@
       "8": 12,
       "9": 11,
       "10": 17,
-      "11": 17,
+      "11": 18,
       "12": 14
     },
     "byYearMonth": {
@@ -1813,7 +1829,7 @@
       "2026-08": 12,
       "2026-09": 11,
       "2026-10": 17,
-      "2026-11": 17,
+      "2026-11": 18,
       "2026-12": 14
     },
     "submissionOpen": 0,
