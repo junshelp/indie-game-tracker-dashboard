@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T00:14:15Z",
-  "kstDate": "2026-11-05",
+  "generatedAt": "2026-11-05T23:00:42Z",
+  "kstDate": "2026-11-06",
   "monthly": {
     "1월": {
       "total": 4,
@@ -900,5 +900,5 @@
     "totalChanges": 2,
     "note": ""
   },
-  "snapshotId": "2a1f738a150f7a3f45b2"
+  "snapshotId": "9cc2b356c102daf1de38"
 }
