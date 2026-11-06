@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T00:07:49Z",
-  "asOfDate": "2026-11-06",
-  "snapshotId": "a6a352da8eae4b051016",
+  "generatedAt": "2026-11-06T23:01:05Z",
+  "asOfDate": "2026-11-07",
+  "snapshotId": "644cc8532f4650594ba4",
   "events": [
     {
       "id": "evt-000",
@@ -1784,7 +1784,7 @@
     "totalEvents": 111,
     "upcomingEvents": 29,
     "pastEvents": 82,
-    "upcoming30Days": 20,
+    "upcoming30Days": 19,
     "byCountry": {
       "JP": 80,
       "KR": 18,
