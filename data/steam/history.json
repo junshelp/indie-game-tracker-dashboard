@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-06T23:01:44Z",
+  "updatedAt": "2026-11-07T00:20:39Z",
   "changes": [
+    {
+      "date": "2026-11-07",
+      "type": "new_entry",
+      "appid": 4621940,
+      "name": "Leviticus",
+      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-07",
+      "type": "new_entry",
+      "appid": 2806540,
+      "name": "Travellin Cats Advent Calendar",
+      "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-07",
+      "type": "dropped",
+      "appid": 5217960,
+      "name": "Jewelry Keeper",
+      "detail": "Top 64에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-07",
+      "type": "dropped",
+      "appid": 4913670,
+      "name": "The Peg Mines",
+      "detail": "Top 64에서 이탈 (이전 랭크 #1)"
+    },
     {
       "date": "2026-11-07",
       "type": "new_entry",
@@ -4237,5 +4265,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "c23c5e4de4ec20af3167"
+  "snapshotId": "e33dc1195cb759dbf11f"
 }

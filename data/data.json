@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T23:01:05Z",
+  "generatedAt": "2026-11-07T00:19:57Z",
   "asOfDate": "2026-11-07",
-  "snapshotId": "644cc8532f4650594ba4",
+  "snapshotId": "a763663e8d78589cf26f",
   "events": [
     {
       "id": "evt-000",
@@ -1178,12 +1178,12 @@
       "countryCode": "JP",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
-      "venue": "(미정)",
+      "venue": "도쿄 국제포럼 홀E2 (유라쿠초)",
       "type": "festival",
       "typeLabel": "페스티벌",
       "submissionPeriod": "",
       "submissionStatus": "unknown",
-      "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
+      "url": "https://animemaps.com/ja/event/indie-game-dreamscape-5-2026/",
       "status": "past",
       "month": 10
     },
@@ -1597,9 +1597,9 @@
       "venue": "일산 KINTEX 제1전시관",
       "type": "festival",
       "typeLabel": "페스티벌",
-      "submissionPeriod": "",
-      "submissionStatus": "unknown",
-      "url": "https://byline.network/2026/06/19-645/",
+      "submissionPeriod": "마감",
+      "submissionStatus": "closed",
+      "url": "https://agfkorea.com/",
       "status": "upcoming",
       "month": 12
     },
@@ -1632,6 +1632,22 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://vket.com/",
+      "status": "upcoming",
+      "month": 12
+    },
+    {
+      "id": "evt-fb89b61d22264e437431",
+      "name": "Korea Indiegame Showcase 2026",
+      "country": "🇰🇷 한국",
+      "countryCode": "KR",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "venue": "경기 성남 판교 그래비티조선서울 B1 스페이스볼룸",
+      "type": "other",
+      "typeLabel": "기타",
+      "submissionPeriod": "마감 (서포터즈·평가단 ~11/15)",
+      "submissionStatus": "closed",
+      "url": "https://koreaindiegameshowcase.kr/",
       "status": "upcoming",
       "month": 12
     },
@@ -1781,13 +1797,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 111,
-    "upcomingEvents": 29,
+    "totalEvents": 112,
+    "upcomingEvents": 30,
     "pastEvents": 82,
     "upcoming30Days": 19,
     "byCountry": {
       "JP": 80,
-      "KR": 18,
+      "KR": 19,
       "ONLINE": 4,
       "CN": 6,
       "TH": 1,
@@ -1800,7 +1816,7 @@
       "공모전": 2,
       "마켓": 4,
       "컨퍼런스": 7,
-      "기타": 26,
+      "기타": 27,
       "동인": 4,
       "게임잼": 1
     },
@@ -1816,7 +1832,7 @@
       "9": 11,
       "10": 17,
       "11": 18,
-      "12": 14
+      "12": 15
     },
     "byYearMonth": {
       "2026-01": 4,
@@ -1830,7 +1846,7 @@
       "2026-09": 11,
       "2026-10": 17,
       "2026-11": 18,
-      "2026-12": 14
+      "2026-12": 15
     },
     "submissionOpen": 0,
     "dateRange": {

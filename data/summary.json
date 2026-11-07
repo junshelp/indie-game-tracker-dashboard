@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:01:05Z",
+  "generatedAt": "2026-11-07T00:19:57Z",
   "kstDate": "2026-11-07",
   "monthly": {
     "1월": {
@@ -783,11 +783,11 @@
       ]
     },
     "12월": {
-      "total": 14,
+      "total": 15,
       "byCountry": {
         "ONLINE": 2,
         "JP": 8,
-        "KR": 2,
+        "KR": 3,
         "TW": 1,
         "OTHER": 1
       },
@@ -826,6 +826,13 @@
           "endDate": "2026-12-20",
           "type": "기타",
           "country": "ONLINE"
+        },
+        {
+          "name": "Korea Indiegame Showcase 2026",
+          "startDate": "2026-12-08",
+          "endDate": "2026-12-10",
+          "type": "기타",
+          "country": "KR"
         },
         {
           "name": "Game Tools & Middleware Forum 2026 東京 (GTMF 2026 도쿄)",
@@ -894,11 +901,11 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 1,
+    "newDiscoveries": 2,
     "dateChanges": 1,
-    "submissionUpdates": 0,
-    "totalChanges": 2,
+    "submissionUpdates": 1,
+    "totalChanges": 4,
     "note": ""
   },
-  "snapshotId": "644cc8532f4650594ba4"
+  "snapshotId": "a763663e8d78589cf26f"
 }
