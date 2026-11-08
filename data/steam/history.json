@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-07T00:20:39Z",
+  "updatedAt": "2026-11-08T00:08:24Z",
   "changes": [
+    {
+      "date": "2026-11-08",
+      "type": "new_entry",
+      "appid": 5456360,
+      "name": "昭幽：阴阳渡",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "new_entry",
+      "appid": 724930,
+      "name": "Last Chickenburg",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "new_entry",
+      "appid": 3433110,
+      "name": "Cinema Theater Tycoon",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "dropped",
+      "appid": 3873760,
+      "name": "Football Manager: Auto Chess",
+      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "dropped",
+      "appid": 4005870,
+      "name": "FreshWomen - Season 3",
+      "detail": "Top 63에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "dropped",
+      "appid": 4909100,
+      "name": "Box Flow",
+      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "dropped",
+      "appid": 3725550,
+      "name": "The Ring Of Succubus Queen",
+      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "rank_change",
+      "appid": 4459600,
+      "name": "PICK A BOO",
+      "detail": "랭크 변동: #23 → #17 (↑6)"
+    },
     {
       "date": "2026-11-07",
       "type": "new_entry",
@@ -4265,5 +4321,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "e33dc1195cb759dbf11f"
+  "snapshotId": "e3befd70f4fa880e1440"
 }

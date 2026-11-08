@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T00:19:57Z",
-  "asOfDate": "2026-11-07",
-  "snapshotId": "a763663e8d78589cf26f",
+  "generatedAt": "2026-11-08T00:07:37Z",
+  "asOfDate": "2026-11-08",
+  "snapshotId": "ccf5211ba3bcb9dbe526",
   "events": [
     {
       "id": "evt-000",
@@ -1328,7 +1328,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://prtimes.jp/main/html/rd/p/000000014.000167085.html",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1798,9 +1798,9 @@
   ],
   "summary": {
     "totalEvents": 112,
-    "upcomingEvents": 30,
-    "pastEvents": 82,
-    "upcoming30Days": 19,
+    "upcomingEvents": 29,
+    "pastEvents": 83,
+    "upcoming30Days": 20,
     "byCountry": {
       "JP": 80,
       "KR": 19,
