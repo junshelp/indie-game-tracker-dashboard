@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T00:07:37Z",
-  "asOfDate": "2026-11-08",
-  "snapshotId": "ccf5211ba3bcb9dbe526",
+  "generatedAt": "2026-11-09T00:09:49Z",
+  "asOfDate": "2026-11-09",
+  "snapshotId": "050ab8c0e6ebb99a3ecf",
   "events": [
     {
       "id": "evt-000",
@@ -1344,7 +1344,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://cje-niigata.jp/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1360,7 +1360,7 @@
       "submissionPeriod": "접수중 (마감일 미공개)",
       "submissionStatus": "closed",
       "url": "https://digigame-expo.org/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1798,9 +1798,9 @@
   ],
   "summary": {
     "totalEvents": 112,
-    "upcomingEvents": 29,
-    "pastEvents": 83,
-    "upcoming30Days": 20,
+    "upcomingEvents": 27,
+    "pastEvents": 85,
+    "upcoming30Days": 19,
     "byCountry": {
       "JP": 80,
       "KR": 19,
