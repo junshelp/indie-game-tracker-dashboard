@@ -1,6 +1,454 @@
 {
-  "updatedAt": "2026-11-10T00:10:43Z",
+  "updatedAt": "2026-11-11T00:11:09Z",
   "changes": [
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4598400,
+      "name": "12 Board Games",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5498880,
+      "name": "Sylvaris: Black Reign Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 3718540,
+      "name": "Brickino: The 3D Domino Game",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5433870,
+      "name": "Ghosts Before Dawn",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 3810960,
+      "name": "Sting Operation",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4977170,
+      "name": "ROBOTEKA",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 2017940,
+      "name": "Pony Island 2: Panda Circus",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5091990,
+      "name": "Hell is Neon Colored",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4530340,
+      "name": "Physics Clicker",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4750760,
+      "name": "La Agencia del Riel",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5500200,
+      "name": "Dicekin: Monster Tamer",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4289450,
+      "name": "PegLotto!",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4249520,
+      "name": "異界ノ宿帳",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5039030,
+      "name": "Wheel Be Fine",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4916290,
+      "name": "Dream Glitcher",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5456460,
+      "name": "GAEKGWI",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4951630,
+      "name": "Soundway",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5115730,
+      "name": "Didgeridoo Man - The Legend of the Hill",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5051090,
+      "name": "The Cozy Funemployment",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5458260,
+      "name": "모야이게임",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5161560,
+      "name": "A Bun Above",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4051290,
+      "name": "Tape Man",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4696540,
+      "name": "Working95",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5477340,
+      "name": "Heroinu",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5276140,
+      "name": "Satisfactory - Core Values Expansion",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4975340,
+      "name": "3D Bumper Billiards",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5323500,
+      "name": "DEEP SEAL",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 4005870,
+      "name": "FreshWomen - Season 3",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5187700,
+      "name": "Confess To Me",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5471990,
+      "name": "Disk Defragmenter",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 3850230,
+      "name": "99Day Survival Guide",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5488250,
+      "name": "Zomking",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "new_entry",
+      "appid": 5110270,
+      "name": "Ghost Express",
+      "detail": "Steam 인디 다가오는 게임 Top 66 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 2319360,
+      "name": "Memento Dawn",
+      "detail": "Top 66에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4859520,
+      "name": "Smashboom",
+      "detail": "Top 66에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4626050,
+      "name": "Apawcalypse: Gang War",
+      "detail": "Top 66에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5061890,
+      "name": "Scramshaw",
+      "detail": "Top 66에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5298050,
+      "name": "Scrapline",
+      "detail": "Top 66에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3699850,
+      "name": "The Devil's Due",
+      "detail": "Top 66에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3218570,
+      "name": "TANUKI: Pon's Summer",
+      "detail": "Top 66에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4351380,
+      "name": "Hair Removal Salon Simulator",
+      "detail": "Top 66에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4295830,
+      "name": "Prison Breaker",
+      "detail": "Top 66에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5232160,
+      "name": "Between Cats",
+      "detail": "Top 66에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4380710,
+      "name": "DNA FIGHT",
+      "detail": "Top 66에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5312680,
+      "name": "The Light in the Darkness: Director's Cut",
+      "detail": "Top 66에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4825260,
+      "name": "Great Space Race of 3032",
+      "detail": "Top 66에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4857910,
+      "name": "Kabebutt Royale",
+      "detail": "Top 66에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5157060,
+      "name": "Hotdog Killer",
+      "detail": "Top 66에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5287500,
+      "name": "Santa's Workshop: Tidy Up Christmas",
+      "detail": "Top 66에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3321550,
+      "name": "The Adventures of Tango Rio",
+      "detail": "Top 66에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3935570,
+      "name": "No More Ground",
+      "detail": "Top 66에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4575700,
+      "name": "Vida:Unslain",
+      "detail": "Top 66에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5478740,
+      "name": "Pixel Pause - Steampunk Pack",
+      "detail": "Top 66에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5491030,
+      "name": "Pixel Pause - Stained Glass Pack",
+      "detail": "Top 66에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5222230,
+      "name": "CUBE - The 125 Chambers -",
+      "detail": "Top 66에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 2670430,
+      "name": "Dashoot: ABYA's Adventure",
+      "detail": "Top 66에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 2848990,
+      "name": "Mates and Crates",
+      "detail": "Top 66에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5006690,
+      "name": "Lucky Crafter",
+      "detail": "Top 66에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5345650,
+      "name": "ASCENT: MASKLINGS",
+      "detail": "Top 66에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 5461620,
+      "name": "Ironline",
+      "detail": "Top 66에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 4789240,
+      "name": "TALES: INK GUARDIAN",
+      "detail": "Top 66에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3801210,
+      "name": "Rebirth TD",
+      "detail": "Top 66에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "dropped",
+      "appid": 3796990,
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "detail": "Top 66에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "rank_change",
+      "appid": 1203620,
+      "name": "Enshrouded",
+      "detail": "랭크 변동: #2 → #10 (↓8)"
+    },
     {
       "date": "2026-11-10",
       "type": "new_entry",
@@ -5042,5 +5490,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "b4ed28f1b95cc83bc572"
+  "snapshotId": "87ef0f7de9bda56d7cad"
 }
