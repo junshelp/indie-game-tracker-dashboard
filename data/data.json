@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T00:11:40Z",
-  "asOfDate": "2026-11-13",
-  "snapshotId": "566a3a8e5608fd69e70c",
+  "generatedAt": "2026-11-14T00:07:53Z",
+  "asOfDate": "2026-11-14",
+  "snapshotId": "c8a4429cdffd59b9e23b",
   "events": [
     {
       "id": "evt-000",
@@ -1770,7 +1770,7 @@
       "countryCode": "JP",
       "startDate": "2026-12-26",
       "endDate": "2026-12-26",
-      "venue": "오사카 사카이스지혼마치",
+      "venue": "오사카 마이돔오사카 3층 E·F홀 (사카이스지혼마치역 도보 6분)",
       "type": "expo",
       "typeLabel": "전시회",
       "submissionPeriod": "마감",
@@ -1800,7 +1800,7 @@
     "totalEvents": 112,
     "upcomingEvents": 27,
     "pastEvents": 85,
-    "upcoming30Days": 21,
+    "upcoming30Days": 20,
     "byCountry": {
       "JP": 80,
       "KR": 19,

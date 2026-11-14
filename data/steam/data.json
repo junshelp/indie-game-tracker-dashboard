@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:12:24Z",
+  "generatedAt": "2026-11-14T00:08:42Z",
   "games": [
     {
       "steam_rank": 1,
@@ -447,39 +447,11 @@
     },
     {
       "steam_rank": 16,
-      "appid": 4258290,
-      "name": "We Are So Cooked",
-      "release_date": "Q1 2027",
-      "review_summary": "",
-      "wishlist_rank": 16,
-      "source": "top_wishlisted",
-      "developers": [
-        "Dwarven Brothers"
-      ],
-      "publishers": [
-        "1312 Interactive"
-      ],
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "You and your friends are in trouble. Big trouble. You’ve accidentally killed someone, and now you have to get rid of the evidence. &quot;We Are So Cooked&quot; is a 1-4 player co-op physics-stealth ga",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258290/87d5a0927985c5163d4625e40137060b5de45c11/header.jpg?t=1792393986",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:24Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4258290/"
-    },
-    {
-      "steam_rank": 17,
       "appid": 4915700,
       "name": "Ebbtide",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 17,
+      "wishlist_rank": 16,
       "source": "top_wishlisted",
       "developers": [
         "ProjectAlive"
@@ -501,6 +473,34 @@
       "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4915700/"
+    },
+    {
+      "steam_rank": 17,
+      "appid": 4258290,
+      "name": "We Are So Cooked",
+      "release_date": "Q1 2027",
+      "review_summary": "",
+      "wishlist_rank": 17,
+      "source": "top_wishlisted",
+      "developers": [
+        "Dwarven Brothers"
+      ],
+      "publishers": [
+        "1312 Interactive"
+      ],
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "You and your friends are in trouble. Big trouble. You’ve accidentally killed someone, and now you have to get rid of the evidence. &quot;We Are So Cooked&quot; is a 1-4 player co-op physics-stealth ga",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258290/87d5a0927985c5163d4625e40137060b5de45c11/header.jpg?t=1792393986",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-08T00:08:24Z",
+      "metadataStatus": "cached",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4258290/"
     },
     {
       "steam_rank": 18,
@@ -859,7 +859,6 @@
       "review_summary": "",
       "wishlist_rank": 30,
       "source": "top_wishlisted",
-      "metadataStatus": "complete",
       "developers": [
         "Andy Sztark"
       ],
@@ -880,452 +879,504 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828020/202d4765edcc3372f2a406cee58d38cc63139d5a/header.jpg?t=1794091485",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-13T00:11:47Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2828020/"
     },
     {
       "steam_rank": 1,
-      "appid": 3256790,
-      "name": "Satelital",
-      "release_date": "12 Nov, 2026",
+      "appid": 4433840,
+      "name": "Starlit Archive: Idle Collector",
+      "release_date": "13 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Miguel Dorta"
+        "tkgamesdev"
       ],
       "publishers": [
-        "Spectral Orbit"
+        "tkgamesdev"
       ],
       "genres": [
-        "Adventure"
+        "Casual",
+        "Indie",
+        "RPG"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "A rule-discovery puzzle game where you place alien symbols on a grid. Uncover their logic as you journey through an atmospheric solar system.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3256790/f2de129e15f722fa3580281dc5cfc6b33155e5a0/header.jpg?t=1794528393",
+      "short_description": "Collect dazzling anime girls in an idle game at your own pace. Battles, recruiting and leveling are automatic: just leave the game running. No click spamming or constant upgrades. When you feel like i",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433840/04ec81eb748667abc3576fc40b00be8ec724e757/header.jpg?t=1792951644",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:49Z",
+      "metadataCheckedAt": "2026-11-14T00:08:02Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3256790/"
+      "store_url": "https://store.steampowered.com/app/4433840/"
     },
     {
       "steam_rank": 2,
-      "appid": 5236370,
-      "name": "The SwordSmith",
-      "release_date": "12 Nov, 2026",
+      "appid": 4382510,
+      "name": "Monster Girls Dice Board",
+      "release_date": "13 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "SUN"
+        "EXAMGAMES"
       ],
       "publishers": [
-        "SUN"
+        "OTAKU Plan"
       ],
       "genres": [
-        "Adventure",
-        "Casual",
         "Indie",
         "RPG",
         "Simulation",
-        "Strategy",
-        "Early Access"
+        "Strategy"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Forge every blade with your own hands. Build your sword formation, battle demons from all sides, and protect the one who waits for you — a heartwarming wuxia journey of crafting, roguelite runs and au",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5236370/db71c74bfd930e19dc4f206df06b6577228a5e92/header.jpg?t=1794275403",
+      "short_description": "On the mysterious Mysteria Island, embark on an exciting dice adventure with charming and unique monster girls! Use strategic board game mechanics to collect resources, buy lands, and compete in frien",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382510/62a34d5119333d101a66cbe9535439b8d0894f0a/header.jpg?t=1794291804",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:51Z",
+      "metadataCheckedAt": "2026-11-14T00:08:04Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5236370/"
+      "store_url": "https://store.steampowered.com/app/4382510/"
     },
     {
       "steam_rank": 3,
-      "appid": 5082320,
-      "name": "Riskline",
-      "release_date": "12 Nov, 2026",
+      "appid": 2408840,
+      "name": "Alchedoom",
+      "release_date": "13 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "KawaiiCore"
+        "万古白夜工作室"
       ],
       "publishers": [
-        "KawaiiCore"
+        "万古白夜工作室"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A first-person alchemy roguelite. Wake in a dark lord's cell. Refine pills as tribute to survive. Handle pills, add ingredients, use fire. Success, damage or ruin: decide when to stop. Combine relics,",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408840/511c87eb8d3b211bd49727377f9d98554f2d6632/header.jpg?t=1794349584",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:06Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/2408840/"
+    },
+    {
+      "steam_rank": 4,
+      "appid": 5300300,
+      "name": "Elementys",
+      "release_date": "14 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Triquiteur"
+      ],
+      "publishers": [
+        "Triquiteur"
       ],
       "genres": [
         "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+      ],
+      "is_free": true,
+      "coming_soon": true,
+      "short_description": "Explore a vast pixel-art MMORPG where adventure, progression, crafting, trading, PvE, and ranked PvP shape your journey. Play alone or with others, master your class, conquer powerful bosses, and buil",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300300/2b529bcbcd27f2e44ede2cd1642c036eae54266f/header.jpg?t=1794603174",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:08Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5300300/"
+    },
+    {
+      "steam_rank": 5,
+      "appid": 5082170,
+      "name": "Fruit Kombat",
+      "release_date": "14 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Luke Lime"
+      ],
+      "publishers": [
+        "Luke Lime"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "The viral brain-rot fruit novela, now a chaotic 3D fighting game. Live the soap-opera betrayals and the reveals nobody asked for while fruit brawlers settle it in the gym. Farm aura to unleash weapon ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082170/0ea42d51c5bf098ce8881939199dbb149c18ca28/header.jpg?t=1793782794",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:09Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5082170/"
+    },
+    {
+      "steam_rank": 6,
+      "appid": 4995460,
+      "name": "Tiny Chef",
+      "release_date": "14 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Brydon Creative Inc."
+      ],
+      "publishers": [
+        "Brydon Creative Inc."
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A co-op restaurant management sim for 1-4 players. Chop, fry and plate orders against a ticking clock, then spend the takings between shifts on new appliances, conveyor automation, knocked-down walls ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995460/976e580fdf0b1b3d5cbd3087a5e88a0fb27c6b57/header.jpg?t=1793581895",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:11Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4995460/"
+    },
+    {
+      "steam_rank": 7,
+      "appid": 5547370,
+      "name": "文明融合",
+      "release_date": "14 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "福州软件职业技术学院"
+      ],
+      "publishers": [
+        "福州软件职业技术学院"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Free To Play"
+      ],
+      "is_free": true,
+      "coming_soon": true,
+      "short_description": "A history-driven merge puzzler. Water meets fire and becomes steam; steam pushes the first machine — 223 elements, 10 Chinese dynasties, 74 levels, from a Stone Age campfire to a Qing-era firearms wor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5547370/9c6313dd52312effa38f13ba960e39b36fd139a4/header.jpg?t=1794359195",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:13Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5547370/"
+    },
+    {
+      "steam_rank": 8,
+      "appid": 5450860,
+      "name": "How Many Tickets Does It Take To Win The Lottery?",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Monu"
+      ],
+      "publishers": [
+        "Monu"
+      ],
+      "genres": [
         "Casual",
         "Indie"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Cut through hostile arenas, close risky trails, and capture territory to reveal anime character art. Master 10 escalating stages..",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082320/02e3029f2abde1bc323865edf0260e79d26af7d7/header.jpg?t=1787678179",
+      "short_description": "Have you ever wondered, how many tickets does it take to win the lottery? Scratch tickets, match the numbers and spend your winnings on more tickets, until you are scratching millions at a time. The j",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450860/bfc07a296f60a316de8c4669f8eb023d0ea7d80d/header.jpg?t=1793648514",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:53Z",
+      "metadataCheckedAt": "2026-11-14T00:08:15Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5082320/"
+      "store_url": "https://store.steampowered.com/app/5450860/"
     },
     {
-      "steam_rank": 4,
-      "appid": 4829780,
-      "name": "Frontier Tale",
-      "release_date": "12 Nov, 2026",
+      "steam_rank": 9,
+      "appid": 2384980,
+      "name": "Cafe Simulator",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "APOPHIS GAME STUDIO"
+        "ZiyaDEV"
       ],
       "publishers": [
-        "APOPHIS GAME STUDIO",
-        "NPC Entertainment"
+        "ZiyaDEV"
       ],
       "genres": [
-        "Adventure",
-        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Build and manage your cafe business. Customize your shop with furniture and decorations, brew various beverages, serve customers efficiently, expand your space, and compete with rival cafés. Grow from",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384980/fa177aeb18e86f458b6076aca04b6df2a103e464/header.jpg?t=1794242865",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:17Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/2384980/"
+    },
+    {
+      "steam_rank": 10,
+      "appid": 5285190,
+      "name": "That's My Life",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Gary's Studios"
+      ],
+      "publishers": [
+        "Gary's Studios"
+      ],
+      "genres": [
         "Indie",
         "RPG",
         "Simulation"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Frontier Tale is a cozy adventure farming game that blends extraction-style gameplay with town building. Forge weapons, explore a charming cel-shaded fantasy world, gather rare resources, recruit uniq",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829780/b29736eb1ead9ab4db23858e43b40e1a68df4f0f/header.jpg?t=1794478864",
+      "short_description": "Build one life across an entire connected world. Choose from hundreds of careers, run businesses from raw materials to retail, invest, own property, raise a family, enter politics or crime, and deal w",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285190/89e8b8ef47574a9abd32762227dd02a990893b50/header.jpg?t=1794356920",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:55Z",
+      "metadataCheckedAt": "2026-11-14T00:08:19Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4829780/"
+      "store_url": "https://store.steampowered.com/app/5285190/"
     },
     {
-      "steam_rank": 5,
-      "appid": 5452870,
-      "name": "MANBOU / VOYAGE",
-      "release_date": "12 Nov, 2026",
+      "steam_rank": 11,
+      "appid": 3175580,
+      "name": "Water Maid",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "teihen0gc"
+        "GamoRaloe"
       ],
       "publishers": [
-        "teihen0gc"
+        "GamoRaloe",
+        "764 Latitudes"
       ],
       "genres": [
         "Action",
+        "Adventure",
         "Indie"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Guide a cute, drifting sunfish through an underwater cave in this 2D side-scrolling action game. Dodge rocks, rubbish, shells, anemones, fish and charging orcas. Ride powerful currents, beat your best",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5452870/e54e9710a97a225dfa10dc8486ef2c2a644fa490/header.jpg?t=1793923175",
+      "short_description": "Water Maid is all about fetching water. Run, jump and dash to avoid enemies and find the elusive fresh water springs scattered around the island. Fill up your pot and make it back to the village, safe",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175580/header.jpg?t=1794544663",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:57Z",
+      "metadataCheckedAt": "2026-11-14T00:08:27Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5452870/"
+      "store_url": "https://store.steampowered.com/app/3175580/"
     },
     {
-      "steam_rank": 6,
-      "appid": 5205880,
-      "name": "Undealt",
-      "release_date": "12 Nov, 2026",
+      "steam_rank": 12,
+      "appid": 5043330,
+      "name": "Snake Echos",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Tail House"
+        "Stinghe Dorian"
       ],
       "publishers": [
-        "Tail House"
+        "Stinghe Dorian"
       ],
       "genres": [
-        "Adventure",
+        "Action",
         "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "&quot;Snake Echos: your trail hardens into deadly walls. Loop enemies into your own path, level up with Magnet/Fireball/Scythe abilities, survive escalating chaos with blocks and lasers. Solo leaderbo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043330/8ec8506e77a26978acb10572cdcd4f49688e16fe/header.jpg?t=1790232706",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:29Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5043330/"
+    },
+    {
+      "steam_rank": 13,
+      "appid": 5492180,
+      "name": "Grand Space Game",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Patrot"
+      ],
+      "publishers": [
+        "Patrot"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A whacky physics action game about space! In Grand Space Game, take control of a problematic planet that has attracted the attention of many across the cosmos. Smash your way through the galaxy and fo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492180/f376ff739c49ae088b50b204e52dce8857ee5d3a/header.jpg?t=1794500922",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:31Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5492180/"
+    },
+    {
+      "steam_rank": 14,
+      "appid": 5262190,
+      "name": "Blind Katana: The Ember Keeper",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Wandering Sparky"
+      ],
+      "publishers": [
+        "Wandering Sparky"
+      ],
+      "genres": [
+        "Action",
         "Indie",
         "RPG",
         "Free To Play"
       ],
       "is_free": true,
       "coming_soon": true,
-      "short_description": "Undealt is an idle RPG that lives in the corner of your screen. Four heroes fight on their own while you work or play — you come back to equip the loot, forge better gear, learn skills and collect car",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5205880/f2a0603edd09251507938ea286c5a484820929e1/header.jpg?t=1794513797",
+      "short_description": "Samurai action roguelike as a blind swordsman who sees by sound. In the [Eternal Night], enemy footsteps become waves of light that reveal them. Read the dark, slash, guard, roll and execute foes. Pic",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262190/04bd3b74dbe0213a4294038a5c6dd09ca5f767ae/header.jpg?t=1792426812",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:11:59Z",
+      "metadataCheckedAt": "2026-11-14T00:08:33Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5205880/"
-    },
-    {
-      "steam_rank": 7,
-      "appid": 2439500,
-      "name": "Overhours",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "CtrlD Studio"
-      ],
-      "publishers": [
-        "CtrlD Studio"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Overhours is a single-player action tower defense game set in a fictional agency facing an invasion of soul-eating monsters. Work the night owl shift and face the hordes with a variety of traps and sp",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439500/header.jpg?t=1794399985",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:01Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2439500/"
-    },
-    {
-      "steam_rank": 8,
-      "appid": 4421480,
-      "name": "Best Streamer",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Tamga Games"
-      ],
-      "publishers": [
-        "Tamga Games"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "Simulation",
-        "Early Access"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A ruthless streamer simulation where you'll do anything to reach the top. Grow legally with content or eliminate rivals with weapons. Manage survival needs, use illegal tactics to crush the competitio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421480/7b183d8b08c34f2b5fdce13e51c7c50785198a90/header.jpg?t=1794237377",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:03Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4421480/"
-    },
-    {
-      "steam_rank": 9,
-      "appid": 4591260,
-      "name": "Desktop Claw Master",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "JJelly Studio"
-      ],
-      "publishers": [
-        " JJelly Studio"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Graboo is the shyest claw machine in the world. Graboo quietly picks up doll friends from the corner of the screen while you're working or enjoying games. Give warm friends to Graboo, a loner!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591260/d78e36bc4c4ab5b34af34f0a5dbe2f31f82194f3/header.jpg?t=1794054256",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:05Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4591260/"
-    },
-    {
-      "steam_rank": 10,
-      "appid": 2810320,
-      "name": "世界傳記",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "阿強",
-        "WC工作室"
-      ],
-      "publishers": [
-        "阿強",
-        "RMAsia"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "RPG",
-        "Strategy",
-        "Early Access"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Fantasy RPG that features AP turn-based combat and various RPG nurturing elements, while also offering rich and diverse character storylines that grip the heart.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810320/be346dc67fbcfc4d30a76a3b9b06c6379e6934ef/header.jpg?t=1794407550",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:07Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2810320/"
-    },
-    {
-      "steam_rank": 11,
-      "appid": 5490150,
-      "name": "PARTNERS IN PANIC - asymmetric CO-OP driving game",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "PanicStudio"
-      ],
-      "publishers": [
-        "PanicStudio"
-      ],
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "TWO COPS. ONE CAR. ZERO CHILL. In this asymmetric CO-OP driving game, one player drives while the other navigates and leans out the window to shoot out the suspect’s tyre. Keep the windscreen clear, c",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490150/2c73ea7ebb49d5ae22befab6abcb18a7c1689891/header.jpg?t=1793482941",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:08Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5490150/"
-    },
-    {
-      "steam_rank": 12,
-      "appid": 5462040,
-      "name": "KNURLWORM",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Flip Flap Creations"
-      ],
-      "publishers": [
-        "Flip Flap Creations"
-      ],
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Knurlworm is a short character-driven game where every visual asset is made from real woodcut stamps pressed onto real paper. Watch a lone Carver's story unfold print by print as he searches for a myt",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5462040/943bb7f2bb34b1a1b3de0cfda3e5184fc942b836/header.jpg?t=1793306934",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:10Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5462040/"
-    },
-    {
-      "steam_rank": 13,
-      "appid": 5081480,
-      "name": "Black Market INC.",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Pixellow Official"
-      ],
-      "publishers": [
-        "Pixellow Official"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation",
-        "Strategy",
-        "Early Access"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Build and manage your own criminal empire in this first-person sandbox management simulator. Produce illegal goods, automate production, hire staff, complete customer orders, expand your base, and gro",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081480/f9a58613db989e75380a204bf245a2aa8721a135/header.jpg?t=1792252238",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:12Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5081480/"
-    },
-    {
-      "steam_rank": 14,
-      "appid": 5179560,
-      "name": "Hentai Tales: Chesty Gyaru Naughty Service",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Hentai works"
-      ],
-      "publishers": [
-        "Hentai works"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "You're an ordinary office worker, crushed by overtime and a boss who never stops. Late one night, in the family restaurant where you always hide from the world, a chesty gyaru part-timer drags you int",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179560/c0dff864983dd5eb0ff927151db6479c6d24a4f7/header.jpg?t=1789061685",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:14Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5179560/"
+      "store_url": "https://store.steampowered.com/app/5262190/"
     },
     {
       "steam_rank": 15,
-      "appid": 4840450,
-      "name": "Fragmenta: Ancient Egypt",
-      "release_date": "12 Nov, 2026",
+      "appid": 5494840,
+      "name": "Don’t  Drop!!",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "MyHan Studios"
+        "遊戯ノ人"
       ],
       "publishers": [
-        "MyHan Studios"
+        "遊戯ノ人"
       ],
       "genres": [
-        "Casual",
+        "Action",
+        "Adventure",
         "Indie",
         "Strategy"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Restore the lost treasures of Ancient Egypt in a relaxing 3D reconstruction puzzle experience. Every artifact is shattered into a unique arrangement of fragments, offering endless replayability across",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840450/3b8edf8fa510ae95d0d5165e3169d851fdac415c/header.jpg?t=1792948073",
+      "short_description": "“Don't Drop!!” is a challenging 3D action game that captures the essence of platformers. Control the ball using only jump commands as you aim for the top of the tower! Go through repeated trial and er",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494840/c2aa00dbca804340094d4649f87a9fff2e827bf2/header.jpg?t=1794378136",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:16Z",
+      "metadataCheckedAt": "2026-11-14T00:08:35Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4840450/"
+      "store_url": "https://store.steampowered.com/app/5494840/"
     },
     {
       "steam_rank": 16,
-      "appid": 4880820,
-      "name": "疾风群侠传",
-      "release_date": "12 Nov, 2026",
+      "appid": 5519610,
+      "name": "The Midnight Client",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "云片糕工作室"
+        "Angel Dust"
       ],
       "publishers": [
-        "WindField Games"
+        "Angel Dust"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Run a late-night cafe in Tokyo, serve meals tailored to your regulars, and investigate the secrets behind their requests. Balance supplies, cooking and income with clues, conversations and relationshi",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519610/bae1144feee06965ce2e107337184b69ee3315a6/header.jpg?t=1793680815",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:36Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5519610/"
+    },
+    {
+      "steam_rank": 17,
+      "appid": 5484320,
+      "name": "FOG",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Nafuboay"
+      ],
+      "publishers": [
+        "Nafuboay"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "FOG is a role-playing game centered on combat and character progression, incorporating elements such as Minesweeper. It features mechanics like chain fog-clearing, allowing even newcomers unfamiliar w",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5484320/9f1f655f0c21fc57379a6606a3db4e5584cf20ef/header.jpg?t=1793771196",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-14T00:08:38Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5484320/"
+    },
+    {
+      "steam_rank": 18,
+      "appid": 5055310,
+      "name": "A Heart-Stirring Date by Victoria Harbour: New Year's Eve at the Turn of the Millennium",
+      "release_date": "15 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "澜晓科技"
+      ],
+      "publishers": [
+        "澜晓科技"
       ],
       "genres": [
         "Adventure",
@@ -1336,224 +1387,188 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "《疾风群侠传》是一款武侠题材的多周目养成Roguelike游戏。在不断推进的江湖岁月中，自由修炼武学，加入风栖谷或凌霄门，踏上截然不同的门派道路。邂逅多位性格各异的红颜，在随机见闻、奇遇抉择与生死战斗中积累实力，探寻身世之谜，决定正邪立场，谱写独属于你的侠客传奇。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880820/aae60ce6dc4827bbcb0205c840fb7188ed1f1175/header.jpg?t=1794300499",
+      "short_description": "这是一款互动恋爱 + 港片商战悬疑影游。在千禧前的香港，你将扮演李洋，在失恋、追杀与资本争夺中寻找真相，你得先活下来，改变处境，也需要找到愿意与你站在一起的人。最后结局会是怎样的，我想把这个决定留给你。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055310/b7308fa04573d7fdbe57b75ebfdd50034fffa59e/header.jpg?t=1794225717",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:18Z",
+      "metadataCheckedAt": "2026-11-14T00:08:40Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4880820/"
-    },
-    {
-      "steam_rank": 17,
-      "appid": 4672030,
-      "name": "Malignus",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Mossbomb"
-      ],
-      "publishers": [
-        "Mossbomb"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation",
-        "Strategy",
-        "Early Access"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A dungeon colony sim where you play the dungeon itself: its Boss, its minions and the beasts in its caves. Dig out halls, wire deadly traps, and raid the world above for treasure. Then hold your hoard",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/2a48de38188ea6095251866d65344f6429399f44/header.jpg?t=1793933634",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:20Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4672030/"
-    },
-    {
-      "steam_rank": 18,
-      "appid": 5457010,
-      "name": "777 HERO ~The One Who Defies Time~",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Deadcat123"
-      ],
-      "publishers": [
-        "DOPAMINE GAMES"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "RPG",
-        "Simulation",
-        "Early Access"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "777 HERO is a pixel-art idle RPG that captures all the heart-pounding moments of pachinko! And of course! It's built so that even people who know nothing about pachinko can have plenty of fun, so don'",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457010/26005ae358477f62f4eaabbfb9e9f4d491b92ea2/header.jpg?t=1793909144",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:21Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5457010/"
+      "store_url": "https://store.steampowered.com/app/5055310/"
     },
     {
       "steam_rank": 19,
-      "appid": 5352690,
-      "name": "Bust Out",
-      "release_date": "12 Nov, 2026",
+      "appid": 5441840,
+      "name": "执笔人 The Inkwright",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Rhou",
-        "CryNation"
+        "执笔人工作室"
       ],
       "publishers": [
-        "ScriptForge"
+        "执笔人工作室"
       ],
       "genres": [
         "Action",
-        "Adventure",
         "Indie",
-        "Simulation",
-        "Strategy",
-        "Early Access"
+        "RPG"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Bust Out is a chaotic co-op casino sandbox for 1 to 8 friends. Gamble at real tables, party at the bar, brawl with security and if you dare, sneak past the guards and clean out the vault. No timers, n",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352690/a019191bbccffdbc0d0e18ab774833a2ef344e38/header.jpg?t=1794357160",
+      "short_description": "An ink-wash xianxia action game. You are your sect's most worthless disciple — spirit energy leaks right out of you. Then you learn the one technique only you can use: clash blades at the instant stee",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5441840/04c9f2f9382c026f607303b2cf5dd4b16a9f5514/header.jpg?t=1792771935",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-13T00:12:24Z",
+      "metadataCheckedAt": "2026-11-14T00:08:42Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5352690/"
+      "store_url": "https://store.steampowered.com/app/5441840/"
     },
     {
       "steam_rank": 20,
-      "appid": 3652920,
-      "name": "Netherwake",
-      "release_date": "12 Nov, 2026",
+      "appid": 4947690,
+      "name": "Crossroad Chaos",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3652920/"
+      "store_url": "https://store.steampowered.com/app/4947690/"
     },
     {
       "steam_rank": 21,
-      "appid": 5300620,
-      "name": "Random Slot Adventurers : Matched Words... Now I'm the Strongest",
-      "release_date": "13 Nov, 2026",
+      "appid": 5583810,
+      "name": "Dark Ages Battle Simulator Demo",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5300620/"
+      "store_url": "https://store.steampowered.com/app/5583810/"
     },
     {
       "steam_rank": 22,
-      "appid": 5289620,
-      "name": "Strip Bubbles: Rich Ladies Club",
-      "release_date": "13 Nov, 2026",
+      "appid": 5267520,
+      "name": "Tomo-chan's Cleaning Panic",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5289620/"
+      "store_url": "https://store.steampowered.com/app/5267520/"
     },
     {
       "steam_rank": 23,
-      "appid": 4999930,
-      "name": "ASAGE",
-      "release_date": "13 Nov, 2026",
+      "appid": 5420510,
+      "name": "When Ren Ran",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4999930/"
+      "store_url": "https://store.steampowered.com/app/5420510/"
     },
     {
       "steam_rank": 24,
-      "appid": 4943870,
-      "name": "The Demon King's Reclusive Strategist",
-      "release_date": "13 Nov, 2026",
+      "appid": 5476120,
+      "name": "Cruisopolis: Cruise Line Tycoon",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4943870/"
+      "store_url": "https://store.steampowered.com/app/5476120/"
     },
     {
       "steam_rank": 25,
-      "appid": 3709320,
-      "name": "Coffee Buns",
-      "release_date": "13 Nov, 2026",
+      "appid": 5459510,
+      "name": "Chip Factory Simulator Demo",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3709320/"
+      "store_url": "https://store.steampowered.com/app/5459510/"
     },
     {
       "steam_rank": 26,
-      "appid": 4661070,
-      "name": "HANDS OVER",
-      "release_date": "13 Nov, 2026",
+      "appid": 4653390,
+      "name": "Deep Space Miner",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4661070/"
+      "store_url": "https://store.steampowered.com/app/4653390/"
     },
     {
       "steam_rank": 27,
-      "appid": 4603990,
-      "name": "CRED",
-      "release_date": "13 Nov, 2026",
+      "appid": 5493880,
+      "name": "Home Sweet Bunker: Bunker Tycoon",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4603990/"
+      "store_url": "https://store.steampowered.com/app/5493880/"
     },
     {
       "steam_rank": 28,
-      "appid": 5173540,
-      "name": "Idle Legend",
-      "release_date": "13 Nov, 2026",
+      "appid": 5119450,
+      "name": "Pending Review",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5173540/"
+      "store_url": "https://store.steampowered.com/app/5119450/"
     },
     {
       "steam_rank": 29,
-      "appid": 4951770,
-      "name": "Door Code",
-      "release_date": "13 Nov, 2026",
+      "appid": 5161950,
+      "name": "HauntedHouseNO14",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4951770/"
+      "store_url": "https://store.steampowered.com/app/5161950/"
     },
     {
       "steam_rank": 30,
-      "appid": 5240510,
-      "name": "Altertum",
-      "release_date": "13 Nov, 2026",
+      "appid": 5093250,
+      "name": "Nine Thrones",
+      "release_date": "15 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5240510/"
+      "store_url": "https://store.steampowered.com/app/5093250/"
+    },
+    {
+      "steam_rank": 4,
+      "appid": 3809270,
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "release_date": "12 Nov, 2026",
+      "review_summary": "Very Positive",
+      "source": "recent_release",
+      "metadataStatus": "complete",
+      "developers": [
+        "SCS Software"
+      ],
+      "publishers": [
+        "SCS Software"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "Trade cargo for passengers in a whole new ETS2 journey! Take a seat behind the wheel – not of a truck, but of a coach. The Coaches DLC brings a new dimension to the ETS2 experience by introducing sche",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/76265f5ca82a7e38ef486f169108f08379785a51/header.jpg?t=1794576017",
+      "recommendations": 1537,
+      "metadataCheckedAt": "2026-11-14T00:08:00Z",
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/3809270/"
     },
     {
       "steam_rank": 5,
@@ -1584,36 +1599,7 @@
       "store_url": "https://store.steampowered.com/app/5266240/"
     },
     {
-      "steam_rank": 8,
-      "appid": 1203620,
-      "name": "Enshrouded",
-      "release_date": "15 Oct, 2026",
-      "review_summary": "Very Positive",
-      "source": "recent_release",
-      "developers": [
-        "Keen Games GmbH"
-      ],
-      "publishers": [
-        "Keen Games GmbH"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world fu",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "recommendations": 99775,
-      "metadataCheckedAt": "2026-11-07T00:20:32Z",
-      "metadataStatus": "cached",
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/1203620/"
-    },
-    {
-      "steam_rank": 11,
+      "steam_rank": 12,
       "appid": 5335510,
       "name": "Moon Sweepers",
       "release_date": "23 Oct, 2026",
@@ -1644,7 +1630,7 @@
       "store_url": "https://store.steampowered.com/app/5335510/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 14,
       "appid": 3796990,
       "name": "Euro Truck Simulator 2 - Iceland",
       "release_date": "10 Nov, 2026",
@@ -1669,71 +1655,43 @@
       "metadataStatus": "cached",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/3796990/"
-    },
-    {
-      "steam_rank": 19,
-      "appid": 5228920,
-      "name": "Brick by Brick: Tidy Up the Small Town!",
-      "release_date": "15 Oct, 2026",
-      "review_summary": "Very Positive",
-      "source": "recent_release",
-      "developers": [
-        "PaperPixel Games"
-      ],
-      "publishers": [
-        "PaperPixel Games"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Brick By Brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. Collect, sort, and place 18,490 bricks to rebuild a charming town. Unlock helpful abilities and watch scatter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1793912232",
-      "recommendations": 944,
-      "metadataCheckedAt": "2026-11-10T00:10:07Z",
-      "metadataStatus": "cached",
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/5228920/"
     }
   ],
   "summary": {
-    "total": 65,
-    "free_games": 2,
-    "released": 5,
+    "total": 64,
+    "free_games": 4,
+    "released": 4,
     "upcoming": 60,
     "wishlisted": 30,
     "genreCount": 10,
     "metadataMissing": 11,
-    "metadataKnown": 54,
+    "metadataKnown": 53,
     "top_genres": [
       [
         "Indie",
         51
       ],
       [
-        "Adventure",
-        27
-      ],
-      [
-        "Simulation",
+        "Action",
         24
       ],
       [
-        "Action",
+        "Adventure",
+        24
+      ],
+      [
+        "Simulation",
         23
       ],
       [
         "Casual",
-        20
+        16
       ]
     ],
     "top_developers": [
       [
         "SCS Software",
-        2
+        3
       ],
       [
         "FLEXUS",
@@ -1753,5 +1711,5 @@
       ]
     ]
   },
-  "snapshotId": "f69d9fcc0b10d6610c02"
+  "snapshotId": "313983da83def79eed81"
 }
