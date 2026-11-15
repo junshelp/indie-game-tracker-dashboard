@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-11-14T00:08:42Z",
+  "updatedAt": "2026-11-15T00:09:49Z",
   "changes": [
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 5396000,
+      "name": "The City of Endless Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 5257090,
+      "name": "Two & Two: Agents Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 4459590,
+      "name": "Slotbound",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 5479000,
+      "name": "DeCube Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 5318580,
+      "name": "Jyoka -Castle town-",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "new_entry",
+      "appid": 5110520,
+      "name": "Monster Girls Survival & Craft 2040",
+      "detail": "Steam 인디 다가오는 게임 Top 65 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "dropped",
+      "appid": 5043330,
+      "name": "Snake Echos",
+      "detail": "Top 65에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "dropped",
+      "appid": 2408840,
+      "name": "Alchedoom",
+      "detail": "Top 65에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "dropped",
+      "appid": 5300300,
+      "name": "Elementys",
+      "detail": "Top 65에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "dropped",
+      "appid": 4382510,
+      "name": "Monster Girls Dice Board",
+      "detail": "Top 65에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "dropped",
+      "appid": 4433840,
+      "name": "Starlit Archive: Idle Collector",
+      "detail": "Top 65에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5484320,
+      "name": "FOG",
+      "detail": "랭크 변동: #17 → #12 (↑5)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5494840,
+      "name": "Don’t  Drop!!",
+      "detail": "랭크 변동: #15 → #9 (↑6)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5055310,
+      "name": "A Heart-Stirring Date by Victoria Harbour: New Year's Eve at the Turn of the Millennium",
+      "detail": "랭크 변동: #18 → #13 (↑5)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5492180,
+      "name": "Grand Space Game",
+      "detail": "랭크 변동: #13 → #8 (↑5)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5493880,
+      "name": "Home Sweet Bunker: Bunker Tycoon",
+      "detail": "랭크 변동: #27 → #22 (↑5)"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "rank_change",
+      "appid": 5519610,
+      "name": "The Midnight Client",
+      "detail": "랭크 변동: #16 → #11 (↑5)"
+    },
     {
       "date": "2026-11-14",
       "type": "new_entry",
@@ -6827,5 +6946,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "313983da83def79eed81"
+  "snapshotId": "7c5b3992a8639b4b6327"
 }

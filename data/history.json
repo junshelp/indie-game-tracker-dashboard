@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-14T00:07:53Z",
+  "updatedAt": "2026-11-15T00:09:03Z",
   "events": [
+    {
+      "date": "2026-11-15",
+      "type": "confirmed",
+      "eventId": "evt-084",
+      "name": "デジゲー博2026 (디지게임엑스포)",
+      "detail": "접수 기간 확정: 종료",
+      "country": "🇯🇵 일본"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "confirmed",
+      "eventId": "evt-091",
+      "name": "WePlay Expo 2026 + indiePlay 시상",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇨🇳 중국"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "confirmed",
+      "eventId": "evt-108",
+      "name": "Comiket C109 (Winter)",
+      "detail": "접수 기간 확정: 마감",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-11-07",
       "type": "discovered",
@@ -947,5 +971,5 @@
     }
   ],
   "totalTracked": 112,
-  "snapshotId": "c8a4429cdffd59b9e23b"
+  "snapshotId": "216917715db8feb8e667"
 }

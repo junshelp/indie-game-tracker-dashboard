@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T00:07:53Z",
-  "asOfDate": "2026-11-14",
-  "snapshotId": "c8a4429cdffd59b9e23b",
+  "generatedAt": "2026-11-15T00:09:03Z",
+  "asOfDate": "2026-11-15",
+  "snapshotId": "216917715db8feb8e667",
   "events": [
     {
       "id": "evt-000",
@@ -1357,7 +1357,7 @@
       "venue": "도쿄 아키하바라 UDX",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "접수중 (마감일 미공개)",
+      "submissionPeriod": "종료",
       "submissionStatus": "closed",
       "url": "https://digigame-expo.org/",
       "status": "past",
@@ -1466,11 +1466,11 @@
       "countryCode": "CN",
       "startDate": "2026-11-21",
       "endDate": "2026-11-22",
-      "venue": "상하이",
+      "venue": "상하이 세계박람회전시관 (上海世博展览館)",
       "type": "expo",
       "typeLabel": "전시회",
-      "submissionPeriod": "",
-      "submissionStatus": "unknown",
+      "submissionPeriod": "마감",
+      "submissionStatus": "closed",
       "url": "https://weplay.163.com/",
       "status": "upcoming",
       "month": 11
@@ -1789,8 +1789,8 @@
       "venue": "도쿄 빅사이트",
       "type": "doujin",
       "typeLabel": "동인",
-      "submissionPeriod": "",
-      "submissionStatus": "unknown",
+      "submissionPeriod": "마감",
+      "submissionStatus": "closed",
       "url": "https://www.comiket.co.jp/",
       "status": "upcoming",
       "month": 12
@@ -1800,7 +1800,7 @@
     "totalEvents": 112,
     "upcomingEvents": 27,
     "pastEvents": 85,
-    "upcoming30Days": 20,
+    "upcoming30Days": 19,
     "byCountry": {
       "JP": 80,
       "KR": 19,
