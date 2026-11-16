@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T00:09:03Z",
-  "asOfDate": "2026-11-15",
-  "snapshotId": "216917715db8feb8e667",
+  "generatedAt": "2026-11-16T00:14:02Z",
+  "asOfDate": "2026-11-16",
+  "snapshotId": "65f93a11650f4b9abf7e",
   "events": [
     {
       "id": "evt-000",
@@ -1392,7 +1392,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://gigazine.net/gsc_news/en/20260516-kitakon-machiasobi30/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1408,7 +1408,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1798,9 +1798,9 @@
   ],
   "summary": {
     "totalEvents": 112,
-    "upcomingEvents": 27,
-    "pastEvents": 85,
-    "upcoming30Days": 19,
+    "upcomingEvents": 25,
+    "pastEvents": 87,
+    "upcoming30Days": 18,
     "byCountry": {
       "JP": 80,
       "KR": 19,
