@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T00:14:02Z",
-  "asOfDate": "2026-11-16",
-  "snapshotId": "65f93a11650f4b9abf7e",
+  "generatedAt": "2026-11-17T00:09:24Z",
+  "asOfDate": "2026-11-17",
+  "snapshotId": "7dd2eab8fa81c13c9e71",
   "events": [
     {
       "id": "evt-000",
@@ -1376,7 +1376,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://note.com/ririka_y_/n/n00fe303bbe0c",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1798,8 +1798,8 @@
   ],
   "summary": {
     "totalEvents": 112,
-    "upcomingEvents": 25,
-    "pastEvents": 87,
+    "upcomingEvents": 24,
+    "pastEvents": 88,
     "upcoming30Days": 18,
     "byCountry": {
       "JP": 80,
