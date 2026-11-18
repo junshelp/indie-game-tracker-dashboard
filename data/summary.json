@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T00:09:24Z",
-  "kstDate": "2026-11-17",
+  "generatedAt": "2026-11-18T00:10:23Z",
+  "kstDate": "2026-11-18",
   "monthly": {
     "1월": {
       "total": 4,
@@ -783,10 +783,10 @@
       ]
     },
     "12월": {
-      "total": 15,
+      "total": 16,
       "byCountry": {
         "ONLINE": 2,
-        "JP": 8,
+        "JP": 9,
         "KR": 3,
         "TW": 1,
         "OTHER": 1
@@ -849,6 +849,13 @@
           "country": "JP"
         },
         {
+          "name": "COMITIA 158",
+          "startDate": "2026-12-13",
+          "endDate": "2026-12-13",
+          "type": "동인",
+          "country": "JP"
+        },
+        {
           "name": "インディーゲームフェスティバル @大阪梅田 (12월)",
           "startDate": "2026-12-13",
           "endDate": "2026-12-13",
@@ -901,11 +908,11 @@
     }
   },
   "weekly": {
-    "newDiscoveries": 0,
+    "newDiscoveries": 1,
     "dateChanges": 0,
     "submissionUpdates": 3,
-    "totalChanges": 3,
+    "totalChanges": 4,
     "note": ""
   },
-  "snapshotId": "7dd2eab8fa81c13c9e71"
+  "snapshotId": "bd6aa489afaf25730a47"
 }

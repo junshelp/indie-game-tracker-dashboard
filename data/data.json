@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T00:09:24Z",
-  "asOfDate": "2026-11-17",
-  "snapshotId": "7dd2eab8fa81c13c9e71",
+  "generatedAt": "2026-11-18T00:10:23Z",
+  "asOfDate": "2026-11-18",
+  "snapshotId": "bd6aa489afaf25730a47",
   "events": [
     {
       "id": "evt-000",
@@ -1424,7 +1424,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://unitetokyo.com/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1684,6 +1684,22 @@
       "month": 12
     },
     {
+      "id": "evt-601849f58dfa21649f17",
+      "name": "COMITIA 158",
+      "country": "🇯🇵 일본",
+      "countryCode": "JP",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "venue": "도쿄 빅사이트 (東1·2·3·7·8홀)",
+      "type": "doujin",
+      "typeLabel": "동인",
+      "submissionPeriod": "마감",
+      "submissionStatus": "closed",
+      "url": "https://www.comitia.co.jp/",
+      "status": "upcoming",
+      "month": 12
+    },
+    {
       "id": "evt-109",
       "name": "インディーゲームフェスティバル @大阪梅田 (12월)",
       "country": "🇯🇵 일본",
@@ -1797,12 +1813,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 112,
+    "totalEvents": 113,
     "upcomingEvents": 24,
-    "pastEvents": 88,
-    "upcoming30Days": 18,
+    "pastEvents": 89,
+    "upcoming30Days": 19,
     "byCountry": {
-      "JP": 80,
+      "JP": 81,
       "KR": 19,
       "ONLINE": 4,
       "CN": 6,
@@ -1817,7 +1833,7 @@
       "마켓": 4,
       "컨퍼런스": 7,
       "기타": 27,
-      "동인": 4,
+      "동인": 5,
       "게임잼": 1
     },
     "byMonth": {
@@ -1832,7 +1848,7 @@
       "9": 11,
       "10": 17,
       "11": 18,
-      "12": 15
+      "12": 16
     },
     "byYearMonth": {
       "2026-01": 4,
@@ -1846,7 +1862,7 @@
       "2026-09": 11,
       "2026-10": 17,
       "2026-11": 18,
-      "2026-12": 15
+      "2026-12": 16
     },
     "submissionOpen": 0,
     "dateRange": {

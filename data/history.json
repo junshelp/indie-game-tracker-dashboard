@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T00:09:24Z",
+  "updatedAt": "2026-11-18T00:10:23Z",
   "events": [
+    {
+      "date": "2026-11-18",
+      "type": "discovered",
+      "eventId": "evt-601849f58dfa21649f17",
+      "name": "COMITIA 158",
+      "detail": "신규 발견 (🇯🇵 일본)",
+      "country": "🇯🇵 일본"
+    },
     {
       "date": "2026-11-15",
       "type": "confirmed",
@@ -970,6 +978,6 @@
       "country": "🇯🇵 일본"
     }
   ],
-  "totalTracked": 112,
-  "snapshotId": "7dd2eab8fa81c13c9e71"
+  "totalTracked": 113,
+  "snapshotId": "bd6aa489afaf25730a47"
 }
