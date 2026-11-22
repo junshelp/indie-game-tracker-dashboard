@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-21T00:03:59Z",
+  "updatedAt": "2026-11-22T00:04:08Z",
   "changes": [
+    {
+      "date": "2026-11-22",
+      "type": "new_entry",
+      "appid": 5617130,
+      "name": "Click the Stone: Active Incremental and Idler Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "new_entry",
+      "appid": 3809270,
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "new_entry",
+      "appid": 3006460,
+      "name": "Sukfaristo Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "new_entry",
+      "appid": 5598630,
+      "name": "Neverwake Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "dropped",
+      "appid": 5283120,
+      "name": "The Seven Beacons",
+      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "dropped",
+      "appid": 5335510,
+      "name": "Moon Sweepers",
+      "detail": "Top 63에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "dropped",
+      "appid": 5532830,
+      "name": "New Age War: Online",
+      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "dropped",
+      "appid": 4762560,
+      "name": "Etranger In the City of Doom",
+      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
+    },
     {
       "date": "2026-11-21",
       "type": "new_entry",
@@ -9508,5 +9564,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "505dfdf60991367b504b"
+  "snapshotId": "34f4aca04e555791967e"
 }

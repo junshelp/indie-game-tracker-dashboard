@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T00:03:20Z",
-  "asOfDate": "2026-11-21",
-  "snapshotId": "b0cecda1e1a2900f1569",
+  "generatedAt": "2026-11-22T00:02:44Z",
+  "asOfDate": "2026-11-22",
+  "snapshotId": "8045a85bcf96959963ee",
   "events": [
     {
       "id": "evt-000",
@@ -1456,7 +1456,7 @@
       "submissionPeriod": "",
       "submissionStatus": "unknown",
       "url": "https://game.watch.impress.co.jp/docs/news/2123150.html",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1814,9 +1814,9 @@
   ],
   "summary": {
     "totalEvents": 113,
-    "upcomingEvents": 24,
-    "pastEvents": 89,
-    "upcoming30Days": 20,
+    "upcomingEvents": 23,
+    "pastEvents": 90,
+    "upcoming30Days": 18,
     "byCountry": {
       "JP": 81,
       "KR": 19,
