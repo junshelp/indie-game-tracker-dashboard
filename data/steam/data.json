@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:04:08Z",
+  "generatedAt": "2026-11-23T00:05:08Z",
   "games": [
     {
       "steam_rank": 1,
@@ -26,7 +26,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:58Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4534960/"
     },
@@ -83,7 +83,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381520/header.jpg?t=1789060539",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:04:00Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2381520/"
     },
@@ -113,7 +113,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1794874153",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:04:04Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5072600/"
     },
@@ -144,7 +144,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/99852482000e8eb5b7b75c52bf5f70406c6f6e5f/header.jpg?t=1795171328",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:04:02Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2295170/"
     },
@@ -171,10 +171,10 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it a",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1792768849",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1794467895",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:07Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:49Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4150720/"
     },
@@ -204,7 +204,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255110/4147ac320e25fa3728e80dc0a14608d28a93d49a/header.jpg?t=1794839208",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:04:06Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3255110/"
     },
@@ -233,7 +233,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/1edd9e7a8f48a168cc270f5c996e983fd53f4eb2/header.jpg?t=1780325656",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:04:08Z",
-      "metadataStatus": "complete",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3864580/"
     },
@@ -258,10 +258,10 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Dust Front is a classic RTS with grand strategy elements and a non-linear campaign. Lead strategic maneuvers, overwhelm your enemies with cannon fodder, or stomp them into the stone age with carpet bo",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610770/3063d11decd4e3cb61ec31bd862660b736147bb8/header.jpg?t=1781542029",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610770/3063d11decd4e3cb61ec31bd862660b736147bb8/header.jpg?t=1794205329",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:00Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:44Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2610770/"
     },
@@ -290,8 +290,8 @@
       "short_description": "After quitting her dead-end job, Fiona starts over on a farm and becomes the immortal herald of a dead god. Make friends, fight through horrors and pay your debt in this nightmarish life sim RPG.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318330/9597af8151ee58cb5d8ca14b3cba33b2a574f35a/header.jpg?t=1790726661",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:02Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:46Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2318330/"
     },
@@ -320,8 +320,8 @@
       "short_description": "What do you get if you combine an FPS, Parkour, Slowmo &amp; ... Milk? KARLSON. The milk-infused man will stop at nothing to locate and drink his favorite beverage.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228610/header.jpg?t=1649362618",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:05Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:47Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1228610/"
     },
@@ -351,8 +351,8 @@
       "short_description": "A year after the Aurora’s appearance &amp; the world went dark, the people of Harmont &amp; its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1586260/header.jpg?t=1784314335",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:09Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:51Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1586260/"
     },
@@ -379,8 +379,8 @@
       "short_description": "Explore the heart of Russia, Moscow, and beyond. Feel the spirit of Russian history driving through centuries-old cities. Get lost in the sea of trees and open plains.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536500/header.jpg?t=1696679200",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:13Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:55Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/1536500/"
     },
@@ -411,8 +411,8 @@
       "short_description": "Drakantos is a free-to-play MMORPG with a nostalgic pixel art style, combined with exciting action combat and more than 20 unique playable heroes.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454980/header.jpg?t=1788282563",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:11Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:53Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/2454980/"
     },
@@ -440,8 +440,8 @@
       "short_description": "Ebbtide is a zombie survival strategy game. Lead the last carrier task force through a world overrun by the dead, starting in Los Angeles: direct your forces on a real-time operations map, then zoom s",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915700/b2005f59eb292ca2909fb1bab06976ee1f89c47e/header.jpg?t=1792676931",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:20Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:05:01Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4915700/"
     },
@@ -469,8 +469,8 @@
       "short_description": "Enjoy a farming life with mysterious creatures known as Pals! Team up with them to grow your farm at your own pace in this brand new creature-collecting farming sim, fully playable in multiplayer!",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031890/92aca012dc905e2a27e47e5f2b669ec9a811ab03/header.jpg?t=1782286523",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:15Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:04:57Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4031890/"
     },
@@ -497,8 +497,8 @@
       "short_description": "You and your friends are in trouble. Big trouble. You’ve accidentally killed someone, and now you have to get rid of the evidence. &quot;We Are So Cooked&quot; is a 1-4 player co-op physics-stealth ga",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258290/87d5a0927985c5163d4625e40137060b5de45c11/header.jpg?t=1792393986",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:24Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:05:04Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4258290/"
     },
@@ -525,10 +525,10 @@
       "is_free": false,
       "coming_soon": true,
       "short_description": "Cartel Pilots Wanted is a co-op pilot job sim set in a tropical archipelago controlled by the cartel. Fly smuggling missions with friends, deliver sketchy cargo, and upgrade your aircraft. Master acce",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614080/ee7c38ae6bb63b3e425548512b98e0dd34d83dba/header.jpg?t=1786631735",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614080/ee7c38ae6bb63b3e425548512b98e0dd34d83dba/header.jpg?t=1794293562",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-08T00:08:22Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:05:03Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4614080/"
     },
@@ -557,8 +557,8 @@
       "short_description": "You are a lone space customs officer. Every day, spaceships from different galaxies fly past your tiny asteroid. Tourists, truckers, travelers... Bad news: There are terrorists among them. If you miss",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293910/6ecfae1307f2a67637dff2be23cd69771a219efa/header.jpg?t=1790248952",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-09T00:10:25Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:05:06Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4293910/"
     },
@@ -614,8 +614,8 @@
       "short_description": "“I Have No Change” is a first-person narrative game that immerses players in the atmosphere of a night kiosk filled with stories, melancholia, and the reflections of residents from Russia’s regions.",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3426150/header.jpg?t=1779138020",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-09T00:10:28Z",
-      "metadataStatus": "cached",
+      "metadataCheckedAt": "2026-11-23T00:05:08Z",
+      "metadataStatus": "complete",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3426150/"
     },
@@ -884,169 +884,6 @@
     },
     {
       "steam_rank": 1,
-      "appid": 5403220,
-      "name": "How to grow a man · 7-Character Epilogue DLC",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Daeinbae"
-      ],
-      "publishers": [],
-      "genres": [
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "What happens after the romance ending? Seven new epilogues for the seven men of How to Grow a Man, with 7 new CGs and a new title screen featuring all seven.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403220/14f9c5625a3ac2f9f57625c3bf892f8b4fecf787/header.jpg?t=1795165126",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:29Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5403220/"
-    },
-    {
-      "steam_rank": 2,
-      "appid": 5492690,
-      "name": "Night Wash: GE-418-NK",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "MTSU"
-      ],
-      "publishers": [
-        "MTSU"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Night shift at a tunnel car wash on the edge of town. Take the money, log the plates, keep the brushes turning until six. The attendant before you stopped coming three weeks ago. His notes are still i",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7ff5f225cc15d2738316baa1496d2d95ca78cc8c/header.jpg?t=1795106628",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:31Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5492690/"
-    },
-    {
-      "steam_rank": 3,
-      "appid": 3006460,
-      "name": "Sukfaristo Demo",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Bloub Team",
-        "Concepts"
-      ],
-      "publishers": [
-        "Bloub Team",
-        "Concepts"
-      ],
-      "genres": [],
-      "is_free": true,
-      "coming_soon": true,
-      "short_description": "",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3006460/3a316a58c2bdfb1f8233ca83528a6105dcb25f23/header.jpg?t=1795235375",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-22T00:03:34Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3006460/"
-    },
-    {
-      "steam_rank": 4,
-      "appid": 3953900,
-      "name": "Egg Souls",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "LeafX Studio"
-      ],
-      "publishers": [
-        "LeafX Studio"
-      ],
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Nobody believed in the egg. Can you prove that it will reach the nest?",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953900/877a659ab9fecbff0d4805b2e3adb7e7e18bd5d0/header.jpg?t=1794937337",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:33Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/3953900/"
-    },
-    {
-      "steam_rank": 5,
-      "appid": 5544230,
-      "name": "Gorse Roll",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Oliver Lenz, Feral Rebel Works"
-      ],
-      "publishers": [
-        "Oliver Lenz, Feral Rebel Works"
-      ],
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Steer a ray-traced glass marble along floating roads of ice, mirrors and spinning floors. Race the clock through five worlds, hunt hidden sun crystals to earn a sixth, then build your own courses in a",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544230/d7bd4ca9511606b3f67c9fd52ba2f0a96ed30ab8/header.jpg?t=1794857004",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:34Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5544230/"
-    },
-    {
-      "steam_rank": 6,
-      "appid": 4538150,
-      "name": "After Hue",
-      "release_date": "22 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        "Afterthought"
-      ],
-      "publishers": [
-        "Afterthought"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "After Hue is a charming puzzle platformer starring an adorable chameleon on a grand adventure! Shift colors, phase through obstacles, and unravel the mysteries hidden within every hue!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538150/946f95890a67c99eef4de6b9e24324f02af832fa/header.jpg?t=1793539256",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:36Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4538150/"
-    },
-    {
-      "steam_rank": 7,
       "appid": 5325990,
       "name": "OVERDRIVE PINBALL",
       "release_date": "22 Nov, 2026",
@@ -1074,7 +911,7 @@
       "store_url": "https://store.steampowered.com/app/5325990/"
     },
     {
-      "steam_rank": 8,
+      "steam_rank": 2,
       "appid": 5014420,
       "name": "Cat Survivor",
       "release_date": "22 Nov, 2026",
@@ -1101,7 +938,7 @@
       "store_url": "https://store.steampowered.com/app/5014420/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 3,
       "appid": 4937320,
       "name": "KAREI - ENDLESS DEATH MATCH",
       "release_date": "22 Nov, 2026",
@@ -1128,7 +965,7 @@
       "store_url": "https://store.steampowered.com/app/4937320/"
     },
     {
-      "steam_rank": 10,
+      "steam_rank": 4,
       "appid": 5514250,
       "name": "DeepBreaker",
       "release_date": "22 Nov, 2026",
@@ -1156,7 +993,7 @@
       "store_url": "https://store.steampowered.com/app/5514250/"
     },
     {
-      "steam_rank": 11,
+      "steam_rank": 5,
       "appid": 5543980,
       "name": "Token Club: AI Desktop Pet",
       "release_date": "22 Nov, 2026",
@@ -1184,7 +1021,7 @@
       "store_url": "https://store.steampowered.com/app/5543980/"
     },
     {
-      "steam_rank": 12,
+      "steam_rank": 6,
       "appid": 5548320,
       "name": "Party Home: Tidy Up Together",
       "release_date": "22 Nov, 2026",
@@ -1212,36 +1049,7 @@
       "store_url": "https://store.steampowered.com/app/5548320/"
     },
     {
-      "steam_rank": 13,
-      "appid": 5507320,
-      "name": "Ancient Moves: Hnefatafl (Viking Chess)",
-      "release_date": "23 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "developers": [
-        " Reckless Software",
-        "EmGooser"
-      ],
-      "publishers": [
-        "Reckless Software"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Command the siege or lead a royal escape in Ancient Moves: Hnefatafl, a Viking strategy board game. Capture the king with 24 attackers or break through with 12 defenders and their king. Play solo agai",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507320/13d8b7550a9f26307e2346d2eacfd865c155fa99/header.jpg?t=1793736719",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:51Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5507320/"
-    },
-    {
-      "steam_rank": 14,
+      "steam_rank": 7,
       "appid": 5475700,
       "name": "Gonggi: Recess",
       "release_date": "23 Nov, 2026",
@@ -1270,35 +1078,36 @@
       "store_url": "https://store.steampowered.com/app/5475700/"
     },
     {
-      "steam_rank": 15,
-      "appid": 5561120,
-      "name": "Single File",
+      "steam_rank": 8,
+      "appid": 5507320,
+      "name": "Ancient Moves: Hnefatafl (Viking Chess)",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "developers": [
-        "BlueZero Studio"
+        " Reckless Software",
+        "EmGooser"
       ],
       "publishers": [
-        "BlueZero Studio"
+        "Reckless Software"
       ],
       "genres": [
-        "Action",
         "Casual",
-        "Indie"
+        "Indie",
+        "Strategy"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "A pixel-art auto-battler. You get one save file. If your party wipes, it's deleted and you start over. Not quite from zero though cause the Scrolls you earned stay, and they make every new file strong",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561120/8a850277b2a5258c92973ec53c691123af808d7b/header.jpg?t=1795060945",
+      "short_description": "Command the siege or lead a royal escape in Ancient Moves: Hnefatafl, a Viking strategy board game. Capture the king with 24 attackers or break through with 12 defenders and their king. Play solo agai",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507320/13d8b7550a9f26307e2346d2eacfd865c155fa99/header.jpg?t=1793736719",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-21T00:03:55Z",
+      "metadataCheckedAt": "2026-11-21T00:03:51Z",
       "metadataStatus": "cached",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5561120/"
+      "store_url": "https://store.steampowered.com/app/5507320/"
     },
     {
-      "steam_rank": 16,
+      "steam_rank": 9,
       "appid": 4463480,
       "name": "ArcaneBound",
       "release_date": "23 Nov, 2026",
@@ -1326,7 +1135,35 @@
       "store_url": "https://store.steampowered.com/app/4463480/"
     },
     {
-      "steam_rank": 17,
+      "steam_rank": 10,
+      "appid": 5561120,
+      "name": "Single File",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "developers": [
+        "BlueZero Studio"
+      ],
+      "publishers": [
+        "BlueZero Studio"
+      ],
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A pixel-art auto-battler. You get one save file. If your party wipes, it's deleted and you start over. Not quite from zero though cause the Scrolls you earned stay, and they make every new file strong",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561120/8a850277b2a5258c92973ec53c691123af808d7b/header.jpg?t=1795060945",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-21T00:03:55Z",
+      "metadataStatus": "cached",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5561120/"
+    },
+    {
+      "steam_rank": 11,
       "appid": 5026590,
       "name": "Goblin Island",
       "release_date": "23 Nov, 2026",
@@ -1354,7 +1191,7 @@
       "store_url": "https://store.steampowered.com/app/5026590/"
     },
     {
-      "steam_rank": 18,
+      "steam_rank": 12,
       "appid": 5425700,
       "name": "Bouture",
       "release_date": "23 Nov, 2026",
@@ -1383,13 +1220,12 @@
       "store_url": "https://store.steampowered.com/app/5425700/"
     },
     {
-      "steam_rank": 19,
+      "steam_rank": 13,
       "appid": 4940860,
       "name": "Dice",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         " eCho Software "
       ],
@@ -1407,17 +1243,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940860/3d841df7d15f0d00a27f67850217ff972e97da1e/header.jpg?t=1795011492",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:36Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4940860/"
     },
     {
-      "steam_rank": 20,
+      "steam_rank": 14,
       "appid": 5234740,
       "name": "Fantasy Auction House",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "FWGames"
       ],
@@ -1438,17 +1274,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234740/f824f5eb16b5f2cedcaf899698154f977e1304fa/header.jpg?t=1794402098",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:38Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5234740/"
     },
     {
-      "steam_rank": 21,
+      "steam_rank": 15,
       "appid": 5543070,
       "name": "Xiuxian Purge",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "StarMatrix Labs"
       ],
@@ -1467,17 +1303,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543070/d54f407cfb2b5fee30105058acf32040c19274bb/header.jpg?t=1794624478",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:39Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5543070/"
     },
     {
-      "steam_rank": 22,
+      "steam_rank": 16,
       "appid": 5494340,
       "name": "Totally Not Gaming",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "ColaCatGames"
       ],
@@ -1494,17 +1330,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494340/f2fe06f78187f3f24721bc5df1b97f51f99c1288/header.jpg?t=1793861297",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:41Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5494340/"
     },
     {
-      "steam_rank": 23,
+      "steam_rank": 17,
       "appid": 5584120,
       "name": "Tell Me How I Can Hurt You",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "Monstrr"
       ],
@@ -1521,17 +1357,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584120/133ef7381f708871522f4df3a9d9fb79e2403f27/header.jpg?t=1795209705",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:43Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5584120/"
     },
     {
-      "steam_rank": 24,
+      "steam_rank": 18,
       "appid": 5546020,
       "name": "My Little Shadow",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "LICHAO"
       ],
@@ -1549,17 +1385,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546020/aabaa794bfcc4ec2589089b8caa6a6892f807b60/header.jpg?t=1794837170",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:45Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5546020/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 19,
       "appid": 5584590,
       "name": "Ueru",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "Moondeer Games"
       ],
@@ -1576,17 +1412,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584590/badfb3aa026c56379d0236f580b3061a279d0462/header.jpg?t=1795019791",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:47Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5584590/"
     },
     {
-      "steam_rank": 26,
+      "steam_rank": 20,
       "appid": 3024120,
       "name": "Eletta",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "ABGAST"
       ],
@@ -1603,17 +1439,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024120/header.jpg?t=1793727244",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:49Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/3024120/"
     },
     {
-      "steam_rank": 27,
+      "steam_rank": 21,
       "appid": 5355260,
       "name": "Dungeon Troll",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "RTM Games"
       ],
@@ -1632,17 +1468,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355260/002cfd6c009c73c6705f94029b16b41ab036cc5b/header.jpg?t=1793991942",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:51Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5355260/"
     },
     {
-      "steam_rank": 28,
+      "steam_rank": 22,
       "appid": 5065490,
       "name": "Stranding Echoes",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "Mend Games"
       ],
@@ -1659,17 +1495,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065490/7803489c4beecc954e9697495f09f2236cb2bc34/header.jpg?t=1792902359",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:52Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5065490/"
     },
     {
-      "steam_rank": 29,
+      "steam_rank": 23,
       "appid": 5617130,
       "name": "Click the Stone: Active Incremental and Idler Demo",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "Alice1997"
       ],
@@ -1687,17 +1523,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5617130/00b4dc87e3fe71c0817f856d4c209d70d12508ea/header.jpg?t=1795169938",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:54Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5617130/"
     },
     {
-      "steam_rank": 30,
+      "steam_rank": 24,
       "appid": 5598630,
       "name": "Neverwake Demo",
       "release_date": "23 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "complete",
       "developers": [
         "Pixel Team RED"
       ],
@@ -1718,48 +1554,23 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5598630/eb9ce57a752b6bb12e2294bda6fc373f7234af40/header.jpg?t=1795283557",
       "recommendations": 0,
       "metadataCheckedAt": "2026-11-22T00:03:56Z",
+      "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/5598630/"
     },
     {
-      "steam_rank": 4,
-      "appid": 3809270,
-      "name": "Euro Truck Simulator 2 - Coaches",
-      "release_date": "12 Nov, 2026",
-      "review_summary": "Very Positive",
-      "source": "recent_release",
+      "steam_rank": 25,
+      "appid": 5306350,
+      "name": "Hoard",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "SCS Software"
+        "Radikate"
       ],
       "publishers": [
-        "SCS Software"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": false,
-      "short_description": "Trade cargo for passengers in a whole new ETS2 journey! Take a seat behind the wheel – not of a truck, but of a coach. The Coaches DLC brings a new dimension to the ETS2 experience by introducing sche",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/76265f5ca82a7e38ef486f169108f08379785a51/header.jpg?t=1794576017",
-      "recommendations": 2527,
-      "metadataCheckedAt": "2026-11-22T00:03:32Z",
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/3809270/"
-    },
-    {
-      "steam_rank": 11,
-      "appid": 5266240,
-      "name": "Potato Please",
-      "release_date": "3 Nov, 2026",
-      "review_summary": "Very Positive",
-      "source": "recent_release",
-      "developers": [
-        " Golden Horn Studios"
-      ],
-      "publishers": [
-        " Golden Horn Studios"
+        "MadOctopus"
       ],
       "genres": [
         "Casual",
@@ -1767,17 +1578,155 @@
         "Simulation"
       ],
       "is_free": false,
-      "coming_soon": false,
-      "short_description": "A first-person potato peeling game. You have a knife. You have a bucket. You have a mountain of potatoes. Peel them with real physics. Cut thin, waste nothing. Buy better tools. Finish the pile.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793891257",
-      "recommendations": 1279,
-      "metadataCheckedAt": "2026-11-08T00:08:18Z",
-      "metadataStatus": "cached",
-      "status": "released",
-      "store_url": "https://store.steampowered.com/app/5266240/"
+      "coming_soon": true,
+      "short_description": "Two goblins, six worlds, and a dragon's hoard at the end of the road. Forge keys, crack open chests, dodge (or slay) the mimics, and pour your gold into upgrades and goblin helpers. A short, funny idl",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306350/15b7ecfffd647274c5d1afeaf6827c3fe6938242/header.jpg?t=1793106431",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:33Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5306350/"
     },
     {
-      "steam_rank": 13,
+      "steam_rank": 26,
+      "appid": 5311350,
+      "name": "GNOMINAL",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "zooyos"
+      ],
+      "publishers": [
+        "zooyos"
+      ],
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "$50,000 in debt. Clock in each night and shoot garden gnomes for the cash inside, but every bullet is billed to your balance. When the horn sounds, clock out with your takings, or stay for overtime—bi",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311350/e5e0c9a7fe6aead6ff15c6b5f9dad976c5cb4af3/header.jpg?t=1795234257",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:35Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5311350/"
+    },
+    {
+      "steam_rank": 27,
+      "appid": 5206930,
+      "name": "A Drop of Magenta",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Magma Labs"
+      ],
+      "publishers": [
+        "Magma Labs"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "A Drop of Magenta is a puzzle game about painting inside (and outside) the lines.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206930/5e2e3541c181b7ad897c8388b006b7221102fc51/header.jpg?t=1793817630",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:36Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5206930/"
+    },
+    {
+      "steam_rank": 28,
+      "appid": 4891770,
+      "name": "Orby vs Rects",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Oleg Sereda"
+      ],
+      "publishers": [
+        "Oleg Sereda"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Break the Rects. Collect Recties. Upgrade. Repeat. Orby vs Rects is a retro-inspired shooter that captures the spirit of Arkanoid and Tetris classics, while delivering modern fast-paced bullet-hell ac",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891770/762c9a07018e355ee8d62042d978e5e4e73e1339/header.jpg?t=1794419953",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:38Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4891770/"
+    },
+    {
+      "steam_rank": 29,
+      "appid": 5033130,
+      "name": "Neon Run",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Swifty Studio"
+      ],
+      "publishers": [
+        "Swifty Studio"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Neon Run is a fast-paced precision platformer inspired by old-school arcade games. Jump, slide and dash through challenging levels, master their patterns, discover hidden secrets, defeat enemies and b",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033130/3d9f0059fd511b74277a79f11365cf72fbbd08f2/header.jpg?t=1794537315",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:40Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5033130/"
+    },
+    {
+      "steam_rank": 30,
+      "appid": 4297050,
+      "name": "VacBot Simulator",
+      "release_date": "23 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Radioactive Elephant"
+      ],
+      "publishers": [
+        "Radioactive Elephant"
+      ],
+      "genres": [
+        "Casual",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Have you ever wondered what your robotic vacuum feels when it's wandering through your house? Picking up your messes, leaving your floors pristine again. Wonder no more! Experience the joys of cleanin",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297050/f1f3ed0b62f457cfef41c6fdf06d5be23b8694a2/header.jpg?t=1793780365",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:42Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4297050/"
+    },
+    {
+      "steam_rank": 4,
       "appid": 4459590,
       "name": "Slotbound",
       "release_date": "12 Nov, 2026",
@@ -1802,44 +1751,68 @@
       "metadataStatus": "cached",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/4459590/"
+    },
+    {
+      "steam_rank": 12,
+      "appid": 5266240,
+      "name": "Potato Please",
+      "release_date": "3 Nov, 2026",
+      "review_summary": "Very Positive",
+      "source": "recent_release",
+      "developers": [
+        " Golden Horn Studios"
+      ],
+      "publishers": [
+        " Golden Horn Studios"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": false,
+      "short_description": "A first-person potato peeling game. You have a knife. You have a bucket. You have a mountain of potatoes. Peel them with real physics. Cut thin, waste nothing. Buy better tools. Finish the pile.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794904443",
+      "recommendations": 3148,
+      "metadataCheckedAt": "2026-11-23T00:04:59Z",
+      "metadataStatus": "complete",
+      "status": "released",
+      "store_url": "https://store.steampowered.com/app/5266240/"
     }
   ],
   "summary": {
-    "total": 63,
-    "free_games": 5,
-    "released": 3,
+    "total": 62,
+    "free_games": 4,
+    "released": 2,
     "upcoming": 60,
     "wishlisted": 30,
     "genreCount": 10,
     "metadataMissing": 0,
-    "metadataKnown": 63,
+    "metadataKnown": 62,
     "top_genres": [
       [
         "Indie",
-        58
+        57
       ],
       [
         "Casual",
-        27
-      ],
-      [
-        "Adventure",
-        26
-      ],
-      [
-        "Simulation",
-        25
+        28
       ],
       [
         "Action",
-        23
+        25
+      ],
+      [
+        "Adventure",
+        25
+      ],
+      [
+        "Simulation",
+        24
       ]
     ],
     "top_developers": [
-      [
-        "SCS Software",
-        2
-      ],
       [
         "FLEXUS",
         1
@@ -1855,8 +1828,12 @@
       [
         "sgthale",
         1
+      ],
+      [
+        "Cygnus Cross",
+        1
       ]
     ]
   },
-  "snapshotId": "34f4aca04e555791967e"
+  "snapshotId": "1d248f0c4d7d5e6b24bd"
 }

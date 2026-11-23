@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T00:02:44Z",
-  "asOfDate": "2026-11-22",
-  "snapshotId": "8045a85bcf96959963ee",
+  "generatedAt": "2026-11-23T00:03:44Z",
+  "asOfDate": "2026-11-23",
+  "snapshotId": "758170ae6b85f8b2c822",
   "events": [
     {
       "id": "evt-000",
@@ -1440,7 +1440,7 @@
       "submissionPeriod": "마감 (결과발표 2026.09.23)",
       "submissionStatus": "closed",
       "url": "https://www.gstar.or.kr/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1472,7 +1472,7 @@
       "submissionPeriod": "마감",
       "submissionStatus": "closed",
       "url": "https://weplay.163.com/",
-      "status": "upcoming",
+      "status": "past",
       "month": 11
     },
     {
@@ -1814,8 +1814,8 @@
   ],
   "summary": {
     "totalEvents": 113,
-    "upcomingEvents": 23,
-    "pastEvents": 90,
+    "upcomingEvents": 21,
+    "pastEvents": 92,
     "upcoming30Days": 18,
     "byCountry": {
       "JP": 81,

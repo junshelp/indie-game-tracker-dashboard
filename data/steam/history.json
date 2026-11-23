@@ -1,6 +1,272 @@
 {
-  "updatedAt": "2026-11-22T00:04:08Z",
+  "updatedAt": "2026-11-23T00:05:08Z",
   "changes": [
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 5033130,
+      "name": "Neon Run",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 4297050,
+      "name": "VacBot Simulator",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 5306350,
+      "name": "Hoard",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 5206930,
+      "name": "A Drop of Magenta",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 5311350,
+      "name": "GNOMINAL",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "new_entry",
+      "appid": 4891770,
+      "name": "Orby vs Rects",
+      "detail": "Steam 인디 다가오는 게임 Top 62 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 4538150,
+      "name": "After Hue",
+      "detail": "Top 62에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 5544230,
+      "name": "Gorse Roll",
+      "detail": "Top 62에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 3953900,
+      "name": "Egg Souls",
+      "detail": "Top 62에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 5492690,
+      "name": "Night Wash: GE-418-NK",
+      "detail": "Top 62에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 5403220,
+      "name": "How to grow a man · 7-Character Epilogue DLC",
+      "detail": "Top 62에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 3809270,
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "detail": "Top 62에서 이탈 (이전 랭크 #4)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "dropped",
+      "appid": 3006460,
+      "name": "Sukfaristo Demo",
+      "detail": "Top 62에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5584120,
+      "name": "Tell Me How I Can Hurt You",
+      "detail": "랭크 변동: #23 → #17 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5514250,
+      "name": "DeepBreaker",
+      "detail": "랭크 변동: #10 → #4 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5065490,
+      "name": "Stranding Echoes",
+      "detail": "랭크 변동: #28 → #22 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5014420,
+      "name": "Cat Survivor",
+      "detail": "랭크 변동: #8 → #2 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5543070,
+      "name": "Xiuxian Purge",
+      "detail": "랭크 변동: #21 → #15 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5026590,
+      "name": "Goblin Island",
+      "detail": "랭크 변동: #17 → #11 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5548320,
+      "name": "Party Home: Tidy Up Together",
+      "detail": "랭크 변동: #12 → #6 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5561120,
+      "name": "Single File",
+      "detail": "랭크 변동: #15 → #10 (↑5)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5507320,
+      "name": "Ancient Moves: Hnefatafl (Viking Chess)",
+      "detail": "랭크 변동: #13 → #8 (↑5)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5425700,
+      "name": "Bouture",
+      "detail": "랭크 변동: #18 → #12 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5546020,
+      "name": "My Little Shadow",
+      "detail": "랭크 변동: #24 → #18 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5325990,
+      "name": "OVERDRIVE PINBALL",
+      "detail": "랭크 변동: #7 → #1 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5598630,
+      "name": "Neverwake Demo",
+      "detail": "랭크 변동: #30 → #24 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5543980,
+      "name": "Token Club: AI Desktop Pet",
+      "detail": "랭크 변동: #11 → #5 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 4463480,
+      "name": "ArcaneBound",
+      "detail": "랭크 변동: #16 → #9 (↑7)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5234740,
+      "name": "Fantasy Auction House",
+      "detail": "랭크 변동: #20 → #14 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 4940860,
+      "name": "Dice",
+      "detail": "랭크 변동: #19 → #13 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5494340,
+      "name": "Totally Not Gaming",
+      "detail": "랭크 변동: #22 → #16 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 4459590,
+      "name": "Slotbound",
+      "detail": "랭크 변동: #13 → #4 (↑9)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5584590,
+      "name": "Ueru",
+      "detail": "랭크 변동: #25 → #19 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 4937320,
+      "name": "KAREI - ENDLESS DEATH MATCH",
+      "detail": "랭크 변동: #9 → #3 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5617130,
+      "name": "Click the Stone: Active Incremental and Idler Demo",
+      "detail": "랭크 변동: #29 → #23 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5475700,
+      "name": "Gonggi: Recess",
+      "detail": "랭크 변동: #14 → #7 (↑7)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 3024120,
+      "name": "Eletta",
+      "detail": "랭크 변동: #26 → #20 (↑6)"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "rank_change",
+      "appid": 5355260,
+      "name": "Dungeon Troll",
+      "detail": "랭크 변동: #27 → #21 (↑6)"
+    },
     {
       "date": "2026-11-22",
       "type": "new_entry",
@@ -9564,5 +9830,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "34f4aca04e555791967e"
+  "snapshotId": "1d248f0c4d7d5e6b24bd"
 }
