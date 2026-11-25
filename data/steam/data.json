@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:04:21Z",
+  "generatedAt": "2026-11-25T00:03:30Z",
   "games": [
     {
       "steam_rank": 1,
@@ -358,39 +358,11 @@
     },
     {
       "steam_rank": 13,
-      "appid": 1536500,
-      "name": "Euro Truck Simulator 2 - Heart of Russia",
-      "release_date": "Coming soon",
-      "review_summary": "",
-      "wishlist_rank": 13,
-      "source": "top_wishlisted",
-      "developers": [
-        "SCS Software"
-      ],
-      "publishers": [
-        "SCS Software"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Explore the heart of Russia, Moscow, and beyond. Feel the spirit of Russian history driving through centuries-old cities. Get lost in the sea of trees and open plains.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536500/header.jpg?t=1696679200",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-23T00:04:55Z",
-      "metadataStatus": "cached",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/1536500/"
-    },
-    {
-      "steam_rank": 14,
       "appid": 4915700,
       "name": "Ebbtide",
       "release_date": "Coming soon",
       "review_summary": "",
-      "wishlist_rank": 14,
+      "wishlist_rank": 13,
       "source": "top_wishlisted",
       "developers": [
         "ProjectAlive"
@@ -412,6 +384,34 @@
       "metadataStatus": "cached",
       "status": "upcoming",
       "store_url": "https://store.steampowered.com/app/4915700/"
+    },
+    {
+      "steam_rank": 14,
+      "appid": 1536500,
+      "name": "Euro Truck Simulator 2 - Heart of Russia",
+      "release_date": "Coming soon",
+      "review_summary": "",
+      "wishlist_rank": 14,
+      "source": "top_wishlisted",
+      "developers": [
+        "SCS Software"
+      ],
+      "publishers": [
+        "SCS Software"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Explore the heart of Russia, Moscow, and beyond. Feel the spirit of Russian history driving through centuries-old cities. Get lost in the sea of trees and open plains.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536500/header.jpg?t=1696679200",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-23T00:04:55Z",
+      "metadataStatus": "cached",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/1536500/"
     },
     {
       "steam_rank": 15,
@@ -884,73 +884,74 @@
     },
     {
       "steam_rank": 1,
-      "appid": 4906740,
-      "name": "KARAKARA3",
-      "release_date": "23 Nov, 2026",
+      "appid": 5507950,
+      "name": "Chess Lords",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "calme"
+        "Aykut Games"
       ],
       "publishers": [
-        "Sekai Project"
+        "Aykut Games"
       ],
       "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
+        "Indie",
+        "Sports",
+        "Strategy"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "&quot;Let us live on this land so arid.&quot; Leon's peaceful days suddenly come to an end when he hears the sound of a telephone, a Relic from the past and is informed that Cullen, a member of the to",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906740/09ede4073a0839d09724cf6da07677bf3b99f941/header.jpg?t=1794634931",
+      "short_description": "A cinematic medieval chess saga! Take on 12 rivals in the Campaign, play Free Battle, solve 24 checkmate puzzles and watch every capture become a brutal, piece-specific execution.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507950/ebd6db2e8395cf80f05fbd04fb63437f53ba4f77/header.jpg?t=1794402346",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:47Z",
+      "metadataCheckedAt": "2026-11-25T00:02:55Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4906740/"
+      "store_url": "https://store.steampowered.com/app/5507950/"
     },
     {
       "steam_rank": 2,
-      "appid": 5033740,
-      "name": "PRINCESS VANGUARD",
-      "release_date": "23 Nov, 2026",
+      "appid": 5476460,
+      "name": "Doomsday Survivor 末日幸存者",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "きなこ棒（Kinakoboo）"
+        "PNXIndieGameStudio"
       ],
       "publishers": [
-        "きなこ棒（Kinakoboo）"
+        "PNXIndieGameStudio"
       ],
       "genres": [
         "Action",
+        "Adventure",
         "Indie",
         "RPG"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Control five elemental princesses, unleash spectacular Special Skills, and battle massive enemy hordes in this fast-paced 15-minute 2D top-down action RPG. Upgrade your weapons, defeat powerful bosses",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033740/8b7455370b52f8d19d216486331f1e37189f122a/header.jpg?t=1795160820",
+      "short_description": "《Doomsday Survivor 末日幸存者》 is a shooting game with a post-apocalyptic theme. Players will face the threats of zombies and rebels. They need to defend against zombie attacks, go out to explore, collect ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476460/07fdccbbccac72c372e5a8508e382d96fbba0359/header.jpg?t=1794378430",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:49Z",
+      "metadataCheckedAt": "2026-11-25T00:02:57Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5033740/"
+      "store_url": "https://store.steampowered.com/app/5476460/"
     },
     {
       "steam_rank": 3,
-      "appid": 4346860,
-      "name": "Alice Flower Room: Lo-Fi",
-      "release_date": "23 Nov, 2026",
+      "appid": 5417940,
+      "name": "Swift Cultivation",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "ForindGames"
+        "MuHua"
       ],
       "publishers": [
-        "ForindGames"
+        "MuHua"
       ],
       "genres": [
         "Casual",
@@ -959,54 +960,112 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Run a cozy flower shop alongside Alice, right on your desktop. Grow plants, watch them bloom, and slowly turn an empty corner into a warm, living space. A gentle companion game designed to keep you co",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346860/5fdc35fda50877da06e18aabfa935ddbbca60098/header.jpg?t=1794841359",
+      "short_description": "Swift Cultivation is a text-based idle cultivation game. Set your action queue and let time do the rest: breakthroughs happen on their own, food gets eaten for you, and every death makes you stronger.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417940/c8f9d2fe93453e30d360ae0e16763ab5ab12fb7a/header.jpg?t=1794550101",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:51Z",
+      "metadataCheckedAt": "2026-11-25T00:02:58Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4346860/"
+      "store_url": "https://store.steampowered.com/app/5417940/"
     },
     {
       "steam_rank": 4,
-      "appid": 5274690,
-      "name": "Imperialist Demo",
-      "release_date": "23 Nov, 2026",
+      "appid": 5546750,
+      "name": "CHASA : Twilight Reaper",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "BRR Games"
+        "Act Seven Entertainment Inc."
       ],
       "publishers": [
-        "BRR Games"
+        "Act Seven Entertainment Inc."
       ],
       "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Become a Grim Reaper in this isometric horde-survival action game. Choose your weapon, combine and ascend your skills, and challenge powerful Guardians. Shape your build with gear and the Spirit Vein ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546750/482788fafd616ff8c34c614f7a2a52b1c850bcad/header.jpg?t=1795397605",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:00Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5546750/"
+    },
+    {
+      "steam_rank": 5,
+      "appid": 5547280,
+      "name": "Incremental Pain Profit - Support Pack",
+      "release_date": "24 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Zayndev"
+      ],
+      "publishers": [
+        "Zayndev"
+      ],
+      "genres": [
+        "Casual",
         "Indie",
         "Simulation",
         "Strategy"
       ],
-      "is_free": true,
+      "is_free": false,
       "coming_soon": true,
-      "short_description": "From a veteran 4X developer comes a game of logistics, trade and empire. Lead one of seven European powers from 1500 to 1950: explore the New World, ship its wealth home, industrialise your Capital, a",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5274690/306f4df3358f714c6cdc5fcc0cbc165cec98c544/header.jpg?t=1795402592",
+      "short_description": "Customize your game with an exclusive UI frame, a unique cursor, and pirate themed Thief and Raccoon skins!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5547280/417ed04c704c18d4f61a0fc1a4c94cf2e81d1eca/header.jpg?t=1795487810",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:53Z",
+      "metadataCheckedAt": "2026-11-25T00:03:02Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5274690/"
+      "store_url": "https://store.steampowered.com/app/5547280/"
     },
     {
-      "steam_rank": 5,
-      "appid": 5508060,
-      "name": "One Last Cast",
-      "release_date": "23 Nov, 2026",
+      "steam_rank": 6,
+      "appid": 5559650,
+      "name": "Chalk Thrower Simulator",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Shorepause Studio"
+        "Passytee"
       ],
       "publishers": [
-        "Shorepause Studio"
+        "Passytee"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Keep a sleepy class awake by throwing chalk then a duster to finish. Draft perks between periods, climb twelve Standards, outlast Detention, race the Daily or crack 32 chalk puzzles. Solo, online co-o",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559650/2c917dbb344db47920031a63b3fb972d6d4331b4/header.jpg?t=1794315868",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:04Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5559650/"
+    },
+    {
+      "steam_rank": 7,
+      "appid": 5062970,
+      "name": "Incremental Pachinko Heaven",
+      "release_date": "24 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Meitei Games"
+      ],
+      "publishers": [
+        "Meitei Games"
       ],
       "genres": [
         "Casual",
@@ -1014,334 +1073,310 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "One Last Cast &quot;is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various p",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508060/86ef04e160515460054d6763368481d675affafe/header.jpg?t=1795426720",
+      "short_description": "Launch balls! Upgrade the board! Earn mountains of medals—and keep paying off your debt! A short pachinko incremental with a skill tree that keeps giving you new ways to earn!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062970/7cdfeb1c1b57e4fa125cdc4867d076bef3eb33ab/header.jpg?t=1795142062",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:54Z",
+      "metadataCheckedAt": "2026-11-25T00:03:06Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5508060/"
+      "store_url": "https://store.steampowered.com/app/5062970/"
     },
     {
-      "steam_rank": 6,
-      "appid": 4256130,
-      "name": "Late Night Duty",
-      "release_date": "23 Nov, 2026",
+      "steam_rank": 8,
+      "appid": 3129900,
+      "name": "Murmurs of Fear - A whisper of loneliness",
+      "release_date": "24 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "toastycedes"
+        "BraveCat'Studios"
       ],
       "publishers": [
-        "toastycedes"
+        "BraveCat'Studios"
       ],
       "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Murmurs of Fear is a psychological horror about those left alone with the unexplainable. It is a self-contained story about fear, isolation, and the struggle to stay sane as reality itself begins to f",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129900/7a7ce4d21c22e980ad2bb804ebb61e471c1f3af0/header.jpg?t=1794129398",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:08Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3129900/"
+    },
+    {
+      "steam_rank": 9,
+      "appid": 5196730,
+      "name": "Eldwyn's Dungeon Academy",
+      "release_date": "24 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Dragon's Isle Software"
+      ],
+      "publishers": [
+        "Dragon's Isle Software"
+      ],
+      "genres": [
+        "Action",
         "Adventure",
         "Indie"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "A short, linear narrative-driven psychological horror walking simulator set in Malaysia. Play as a traumatized veteran on his first night as a school security guard, where routine patrols quickly reve",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256130/31e37cfc1ac7775bf5e69d58fe8de47fcf5f3e83/header.jpg?t=1794992975",
+      "short_description": "Eldwyn's Dungeon Academy is an SNES-era inspired top-down action-adventure game where you explore magical dungeons, collect tools, fight monsters, overcome traps, solve puzzles, and find hidden treasu",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196730/0825d88185cd975d1dc1c7bd94f3a60c24b7f3bc/header.jpg?t=1795015234",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:56Z",
+      "metadataCheckedAt": "2026-11-25T00:03:10Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4256130/"
+      "store_url": "https://store.steampowered.com/app/5196730/"
     },
     {
-      "steam_rank": 7,
-      "appid": 4702040,
-      "name": "Dear President",
-      "release_date": "23 Nov, 2026",
+      "steam_rank": 10,
+      "appid": 3911490,
+      "name": "Forge the Fates",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "SN Game Studio"
+        "Chaos Logic Studios"
       ],
       "publishers": [
-        "SN Game Studio"
+        "Surefire.Games"
       ],
       "genres": [
         "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Take deckbuilding to the next level. Transform your hand of cards into a tactical grid of runes. Plan, shift, and strike to unleash powerful combos and chain match-3 bonuses. Choose your hero, master ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911490/291dd141a3092f493ca28c09decb6f4f48304db6/header.jpg?t=1794576862",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:12Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/3911490/"
+    },
+    {
+      "steam_rank": 11,
+      "appid": 5370260,
+      "name": "Junk Tower Together",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "FireDice Studio"
+      ],
+      "publishers": [
+        "NipoBox Publishing"
+      ],
+      "genres": [
+        "Casual",
+        "Massively Multiplayer",
         "Simulation",
+        "Early Access"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "What are friends for if not to build a tower out of junk together... In Junk Tower Together, take turns stacking the most ridiculous objects, balance on the brink of disaster, and build a crazy tower ",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370260/4a6fd3e6dca5c12a7430c9ff51b3f2fddc19debf/header.jpg?t=1795530769",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:13Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5370260/"
+    },
+    {
+      "steam_rank": 12,
+      "appid": 2151730,
+      "name": "Meet the Rome ",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "hope"
+      ],
+      "publishers": [
+        "hope"
+      ],
+      "genres": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "“All roads lead to Rome, but the tolls are strictly non-refundable.” Wrapped in the parchment of ancient bureaucracy, Meet the Rome is a satirical, choice-driven narrative game.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151730/38917f1be0bc7da7d74d98ab26e1d63cf067ea23/header.jpg?t=1794620259",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:15Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/2151730/"
+    },
+    {
+      "steam_rank": 13,
+      "appid": 5172860,
+      "name": "Necro Rising",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "JIEYONG CHEN"
+      ],
+      "publishers": [
+        "JIEYONG CHEN"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Defeat the horde. Raise the fallen into a skeleton legion and lead it with your spells. Reclaim the Seal of Return, bring the dead home, and rebuild a workshop and a camp where people await your retur",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172860/b55608ef1c7a9110b7e7f2137c7748375d3410c1/header.jpg?t=1795537073",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:17Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5172860/"
+    },
+    {
+      "steam_rank": 14,
+      "appid": 5462060,
+      "name": "SheepTag: Dragons",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Slagathor Studios"
+      ],
+      "publishers": [
+        "Slagathor Studios"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
         "Strategy",
         "Early Access"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Ruling a country is easy; surviving is the hard part. Use your stamp to balance the state's four main powers, manage bizarre crises, and avoid assassinations. Every death is a new beginning. Upgrade y",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702040/4129c2fe8a94cbebc9e5471c58bf8e687695fc46/header.jpg?t=1794676951",
+      "short_description": "SheepTag returns with dragons. Build your lair, unleash magical abilities, and outwit wizard hunters—or grab a staff and chase the dragons down. Dive into a frantic, round-based multiplayer hunt packe",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5462060/c75bd5434f1093e1efc26a308a9527fddd903193/header.jpg?t=1795353159",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:03:58Z",
+      "metadataCheckedAt": "2026-11-25T00:03:19Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4702040/"
-    },
-    {
-      "steam_rank": 8,
-      "appid": 5381360,
-      "name": "Tool Tidy",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Tiny Victories"
-      ],
-      "publishers": [
-        "Tiny Victories"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A cosy, first person, tidying game set in a wrecked mechanic's shop. Put every tool, tub, bottle, can and part back where it belongs before opening time, and before Uncle Vic gets back! ",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5381360/0ec48514a4e583432d7d9779751243aacf301327/header.jpg?t=1794317161",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:00Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5381360/"
-    },
-    {
-      "steam_rank": 9,
-      "appid": 2669450,
-      "name": "My Child New Beginnings",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Sarepta Studio"
-      ],
-      "publishers": [
-        "Sarepta Studio"
-      ],
-      "genres": [
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "My Child New Beginnings is a parenting simulator where you go through everyday life of growth. After a series of traumatic events that you and your child went through, you now get to rebuild life toge",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669450/08fe1f9d0a1bea15a4aedc534b9daead2f635980/header.jpg?t=1795099783",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:02Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/2669450/"
-    },
-    {
-      "steam_rank": 10,
-      "appid": 5593120,
-      "name": "Chinese Landmine Girl: Lan Qiao Afterstory - Winter and Summer of Flowers and Cicadas",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "钟夏游戏（ZHONGXIA GAMES）"
-      ],
-      "publishers": [
-        "钟夏游戏（ZHONGXIA GAMES）"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A year after Aixiang's ending, in front of a flower shop in a snowy northern town, you find her again. Not the idol &quot;Aixiang&quot; anymore. Just Lan Qiao, who runs a flower shop.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593120/8225aeb111f7682ab0ea650f85510fd20c44997f/header.jpg?t=1794821350",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:04Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5593120/"
-    },
-    {
-      "steam_rank": 11,
-      "appid": 5626830,
-      "name": "爆増！フラッグ戦記 Demo",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "jincycle"
-      ],
-      "publishers": [
-        "jincycle"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "is_free": true,
-      "coming_soon": true,
-      "short_description": "",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5626830/5095411a4a82d03ae8adf6c82e08e2855b3acc80/header.jpg?t=1795049005",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:06Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5626830/"
-    },
-    {
-      "steam_rank": 12,
-      "appid": 4808180,
-      "name": "Chinese Pancake Simulator",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Furnace Hound Games"
-      ],
-      "publishers": [
-        "Furnace Hound Games",
-        "True Blue Game"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Run a tiny pancake stall beneath an overpass. Cook every order by hand, crack the eggs, add the toppings, give the right change, and work toward achieving your life dreams.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808180/f7264b143ee6daf4797da325e95f1b8651bbb13f/header.jpg?t=1793422948",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:08Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4808180/"
-    },
-    {
-      "steam_rank": 13,
-      "appid": 4971710,
-      "name": "Fruit Store Simulator",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "MetaMata"
-      ],
-      "publishers": [
-        "MetaMata",
-        "True Blue Game Studios"
-      ],
-      "genres": [
-        "Casual",
-        "Simulation"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "Stock it, price it, sell it, and turn a small corner fruit shop into the neighborhood's favorite fruit store.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971710/23f98bffcc819fb6e75f39cb0a60ba892ad69823/header.jpg?t=1794890282",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:09Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4971710/"
-    },
-    {
-      "steam_rank": 14,
-      "appid": 5295270,
-      "name": "Last Order",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "NYANS"
-      ],
-      "publishers": [
-        "NYANS"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "is_free": false,
-      "coming_soon": true,
-      "short_description": "A narrative adventure set in a quiet bar in Shimokitazawa, Tokyo. Choose a cocktail, listen to stories of life, and leave each night with a poem—all presented through a distinctive visual style inspir",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295270/3f69315d4feccf3c2837ec11e55e775a866c20e6/header.jpg?t=1794483023",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:11Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5295270/"
+      "store_url": "https://store.steampowered.com/app/5462060/"
     },
     {
       "steam_rank": 15,
-      "appid": 5515840,
-      "name": "Moments Demo",
-      "release_date": "24 Nov, 2026",
+      "appid": 5347440,
+      "name": "Deadshift",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "MUGIO"
+        "InbredJesus"
       ],
       "publishers": [
-        "MUGIO"
+        "InbredJesus"
       ],
       "genres": [
-        "Adventure",
-        "Casual",
+        "Action",
         "Indie"
-      ],
-      "is_free": true,
-      "coming_soon": true,
-      "short_description": "Moments is a point to go adventure game where you can explore the land with two besties, Mai and Shiro. There are tasks and puzzles that help Mai with solving her way through the adventure. She captur",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515840/4a1c2861557129b14aeef4d47f5bf444c3bf6004/header.jpg?t=1795416803",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:13Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5515840/"
-    },
-    {
-      "steam_rank": 16,
-      "appid": 5433150,
-      "name": "For Bumble's Sake",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "Fliegeralarm Games"
-      ],
-      "publishers": [
-        "Fliegeralarm Games"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Simulation"
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "You are Brumhilde von Hummelbommel. You wake up alone in February: find a hole in the ground, gather pollen and nectar, raise your daughters and build your nest. Nine months against wasps, birds, stor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5433150/55e33a15f3ff394571dcfc666610b9f3d96a9b9e/header.jpg?t=1794130450",
+      "short_description": "Spend your last cash on a gun, a perk or a way out. DEADSHIFT is a single-player &amp; multiplayer, top-down zombie survival roguelike. Repair barricades, unlock rooms and evolve your weapons across s",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347440/fb8341f90f39646d87ed3321e1ce4df9b275de26/header.jpg?t=1795542086",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:15Z",
+      "metadataCheckedAt": "2026-11-25T00:03:21Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5433150/"
+      "store_url": "https://store.steampowered.com/app/5347440/"
     },
     {
-      "steam_rank": 17,
-      "appid": 4526450,
-      "name": "Incremental RTS",
-      "release_date": "24 Nov, 2026",
+      "steam_rank": 16,
+      "appid": 5049560,
+      "name": "Alone at  School:Christmas",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Dyrkabes Games"
+        "ZV GAMES"
       ],
       "publishers": [
-        "Dyrkabes Games"
+        "ZV GAMES"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1794988979",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:23Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/5049560/"
+    },
+    {
+      "steam_rank": 17,
+      "appid": 4779290,
+      "name": "Meme Paint",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Piece Of Voxel",
+        "Gamesforfarm"
+      ],
+      "publishers": [
+        "Gamesforfarm"
+      ],
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Meme Paint is a unique take on the well-known Paint",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779290/888719b6d70b24b5dff28dfc2779326a4103e403/header.jpg?t=1794474185",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:25Z",
+      "status": "upcoming",
+      "store_url": "https://store.steampowered.com/app/4779290/"
+    },
+    {
+      "steam_rank": 18,
+      "appid": 4823250,
+      "name": "Incremental Pain Profit",
+      "release_date": "25 Nov, 2026",
+      "review_summary": "",
+      "source": "coming_soon",
+      "metadataStatus": "complete",
+      "developers": [
+        "Zayndev"
+      ],
+      "publishers": [
+        "Zayndev"
       ],
       "genres": [
         "Casual",
@@ -1351,196 +1386,186 @@
       ],
       "is_free": false,
       "coming_soon": true,
-      "short_description": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Sc",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
+      "short_description": "Click, topple and profit! Knock over tiny wandering Humans, hire Animals to cause chaos, collect mountains of coins and grow your ridiculous empire. Unlock powerful Rebirth upgrades, defeat Bosses and",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823250/1a8b5a061b0ef0b31d3b76d840e010e6c80fef11/header.jpg?t=1795526986",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:17Z",
+      "metadataCheckedAt": "2026-11-25T00:03:27Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4526450/"
-    },
-    {
-      "steam_rank": 18,
-      "appid": 5203260,
-      "name": "Card Dice",
-      "release_date": "24 Nov, 2026",
-      "review_summary": "",
-      "source": "coming_soon",
-      "metadataStatus": "complete",
-      "developers": [
-        "LFY Games"
-      ],
-      "publishers": [
-        "LFY Games"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Free To Play"
-      ],
-      "is_free": true,
-      "coming_soon": true,
-      "short_description": "An idle progression game with a casino dice theme. Let your card dice roll automatically and beat opponents in timed matches. Collect gems and engravings to create different builds, trade up your equi",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5203260/4e466a02b4cfe8a778d205bb5b792bc16063ec95/header.jpg?t=1794831705",
-      "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:19Z",
-      "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5203260/"
+      "store_url": "https://store.steampowered.com/app/4823250/"
     },
     {
       "steam_rank": 19,
-      "appid": 5170520,
-      "name": "Critter Rumble",
-      "release_date": "24 Nov, 2026",
+      "appid": 5284100,
+      "name": "Wheelchair Together Demo",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "complete",
       "developers": [
-        "Gaister Studios"
+        "Flygogo Games"
       ],
       "publishers": [
-        "Farmando XP"
+        "flygogo games"
       ],
       "genres": [
         "Casual",
         "Indie",
-        "Strategy"
+        "Racing",
+        "Simulation"
       ],
-      "is_free": false,
+      "is_free": true,
       "coming_soon": true,
-      "short_description": "Build your team of monsters, choose which enemies to fight, recruit the ones you defeat, and evolve your team in a roguelite autobattler with permanent buffs. Adapt your strategy and face increasingly",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170520/6d3440c64b935181f874418e3568d03d25f9a03d/header.jpg?t=1793128745",
+      "short_description": "1-2 player physics based platformer. Play solo or with a friend in chaotic mini levels, master wheelchair movement, and learn to work together.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284100/5832e440f8d256fb153cb214c341dc1512da0c53/header.jpg?t=1794653530",
       "recommendations": 0,
-      "metadataCheckedAt": "2026-11-24T00:04:21Z",
+      "metadataCheckedAt": "2026-11-25T00:03:28Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5170520/"
+      "store_url": "https://store.steampowered.com/app/5284100/"
     },
     {
       "steam_rank": 20,
-      "appid": 5530490,
-      "name": "HachaMeccha Reversi",
-      "release_date": "24 Nov, 2026",
+      "appid": 4933500,
+      "name": "Me and You",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
-      "metadataStatus": "missing",
+      "metadataStatus": "complete",
+      "developers": [
+        "PMF Top Joy Games"
+      ],
+      "publishers": [
+        "PMF Top Joy Games"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "is_free": false,
+      "coming_soon": true,
+      "short_description": "Me and You is a co-op puzzle game inspired by the acclaimed “Baba Is You”. Create, change and break the rules of each level to solve it together.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1795280346",
+      "recommendations": 0,
+      "metadataCheckedAt": "2026-11-25T00:03:30Z",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5530490/"
+      "store_url": "https://store.steampowered.com/app/4933500/"
     },
     {
       "steam_rank": 21,
-      "appid": 4580330,
-      "name": "Spy Carnival",
-      "release_date": "24 Nov, 2026",
+      "appid": 4572620,
+      "name": "Canvas Attack!",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4580330/"
+      "store_url": "https://store.steampowered.com/app/4572620/"
     },
     {
       "steam_rank": 22,
-      "appid": 5568320,
-      "name": "Chinese-Style Exams",
-      "release_date": "24 Nov, 2026",
+      "appid": 5487170,
+      "name": "Hellstorm Gunners",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5568320/"
+      "store_url": "https://store.steampowered.com/app/5487170/"
     },
     {
       "steam_rank": 23,
-      "appid": 5523630,
-      "name": "Eleven FC Manager",
-      "release_date": "24 Nov, 2026",
+      "appid": 5214570,
+      "name": "Coma Dreams",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5523630/"
+      "store_url": "https://store.steampowered.com/app/5214570/"
     },
     {
       "steam_rank": 24,
-      "appid": 5303440,
-      "name": "The Temple",
-      "release_date": "24 Nov, 2026",
+      "appid": 5224430,
+      "name": "Hotel Architect - Poolside Paradise",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5303440/"
+      "store_url": "https://store.steampowered.com/app/5224430/"
     },
     {
       "steam_rank": 25,
-      "appid": 4971980,
-      "name": "Click Cafe",
-      "release_date": "24 Nov, 2026",
+      "appid": 5556190,
+      "name": "Tidy Up: Gacha Collection",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4971980/"
+      "store_url": "https://store.steampowered.com/app/5556190/"
     },
     {
       "steam_rank": 26,
-      "appid": 4801600,
-      "name": "YuanRong",
-      "release_date": "24 Nov, 2026",
+      "appid": 5335770,
+      "name": "Jingi Tensei",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/4801600/"
+      "store_url": "https://store.steampowered.com/app/5335770/"
     },
     {
       "steam_rank": 27,
-      "appid": 5316210,
-      "name": "Metromino",
-      "release_date": "24 Nov, 2026",
+      "appid": 5553220,
+      "name": "Tea ceremony simulator",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5316210/"
+      "store_url": "https://store.steampowered.com/app/5553220/"
     },
     {
       "steam_rank": 28,
-      "appid": 5395630,
-      "name": "Symphony of War: The Nephilim Saga - Hold the Line",
-      "release_date": "24 Nov, 2026",
+      "appid": 5332920,
+      "name": "ShotMachine",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5395630/"
+      "store_url": "https://store.steampowered.com/app/5332920/"
     },
     {
       "steam_rank": 29,
-      "appid": 5462560,
-      "name": "Jar of Gnomes",
-      "release_date": "24 Nov, 2026",
+      "appid": 5585250,
+      "name": "This is Ikebukuro Demo",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5462560/"
+      "store_url": "https://store.steampowered.com/app/5585250/"
     },
     {
       "steam_rank": 30,
-      "appid": 5554860,
-      "name": "Seoul Zombie City",
-      "release_date": "24 Nov, 2026",
+      "appid": 5607830,
+      "name": "Stay Lit",
+      "release_date": "25 Nov, 2026",
       "review_summary": "",
       "source": "coming_soon",
       "metadataStatus": "missing",
       "status": "upcoming",
-      "store_url": "https://store.steampowered.com/app/5554860/"
+      "store_url": "https://store.steampowered.com/app/5607830/"
     },
     {
-      "steam_rank": 4,
+      "steam_rank": 5,
       "appid": 4459590,
       "name": "Slotbound",
       "release_date": "12 Nov, 2026",
-      "review_summary": "Mostly Positive",
+      "review_summary": "Very Positive",
       "source": "recent_release",
       "developers": [
         "Optima Arch"
@@ -1563,7 +1588,7 @@
       "store_url": "https://store.steampowered.com/app/4459590/"
     },
     {
-      "steam_rank": 9,
+      "steam_rank": 11,
       "appid": 5266240,
       "name": "Potato Please",
       "release_date": "3 Nov, 2026",
@@ -1591,13 +1616,12 @@
       "store_url": "https://store.steampowered.com/app/5266240/"
     },
     {
-      "steam_rank": 25,
+      "steam_rank": 24,
       "appid": 5458210,
       "name": "How They Built the Pyramids",
       "release_date": "13 Nov, 2026",
       "review_summary": "Overwhelmingly Positive",
       "source": "recent_release",
-      "metadataStatus": "complete",
       "developers": [
         "Pattez Games"
       ],
@@ -1615,42 +1639,47 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/e8525d1cf30149534fbc6b2ee780a2dddc2f328b/header.jpg?t=1794589252",
       "recommendations": 673,
       "metadataCheckedAt": "2026-11-24T00:03:45Z",
+      "metadataStatus": "cached",
       "status": "released",
       "store_url": "https://store.steampowered.com/app/5458210/"
     }
   ],
   "summary": {
     "total": 63,
-    "free_games": 5,
+    "free_games": 2,
     "released": 3,
     "upcoming": 60,
     "wishlisted": 30,
-    "genreCount": 10,
-    "metadataMissing": 11,
-    "metadataKnown": 52,
+    "genreCount": 12,
+    "metadataMissing": 10,
+    "metadataKnown": 53,
     "top_genres": [
       [
         "Indie",
-        49
+        50
       ],
       [
         "Adventure",
-        24
-      ],
-      [
-        "Casual",
-        22
-      ],
-      [
-        "Simulation",
-        22
+        23
       ],
       [
         "Action",
-        15
+        21
+      ],
+      [
+        "Simulation",
+        21
+      ],
+      [
+        "Casual",
+        19
       ]
     ],
     "top_developers": [
+      [
+        "Zayndev",
+        2
+      ],
       [
         "FLEXUS",
         1
@@ -1666,12 +1695,8 @@
       [
         "sgthale",
         1
-      ],
-      [
-        "Cygnus Cross",
-        1
       ]
     ]
   },
-  "snapshotId": "d792f8592244249c21e8"
+  "snapshotId": "c3ff7437700895c54ca4"
 }
