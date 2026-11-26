@@ -1,6 +1,426 @@
 {
-  "updatedAt": "2026-11-25T00:03:30Z",
+  "updatedAt": "2026-11-26T00:03:11Z",
   "changes": [
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5150210,
+      "name": "Pet Pet Pet: Tidy Up!",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #29)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5581700,
+      "name": "Zombie Outbreak - Co-Op Edition",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #13)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5568650,
+      "name": "Traymon World - Convenience Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #4)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5036430,
+      "name": "Coding War",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #18)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5423890,
+      "name": "MYTHHUNT",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #6)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5568660,
+      "name": "Traymon World - Tamer Set I",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #1)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5239830,
+      "name": "Zombie Apocalypse Together",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #8)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5433240,
+      "name": "Unknown Depths",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #30)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5568670,
+      "name": "Traymon World - Tamer Set II",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #2)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 4355110,
+      "name": "Marupoyo: The Round Chick's Adventure",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #12)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5418410,
+      "name": "Reshine ‒ Supporter Cutting Mats",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #27)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5360050,
+      "name": "Carnival: Tidy Up!",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #19)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5519800,
+      "name": "Traymon World: Taskbar Monster RPG - Supporter Pack",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #3)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 4796860,
+      "name": "Astral Forge: Desktop Alchemist",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #23)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5114180,
+      "name": "Prism Factory",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #7)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5423300,
+      "name": "Azure Ruins",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #11)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5486660,
+      "name": "Phylactery Slayer Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #25)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 3498700,
+      "name": "Appulse",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #28)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5424210,
+      "name": "The Last Inn Demo",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #10)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5565650,
+      "name": "Depthline",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #24)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5472470,
+      "name": "装甲奇兵",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #9)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5126360,
+      "name": "Clocks Sleep at Zero",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #5)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 3376860,
+      "name": "The Retrospection Of Tomorrow",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #22)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 4904030,
+      "name": "The Veil Chronicles: Nix University | ARTBOOK",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #15)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5554910,
+      "name": "The Great Himalayan Noodle Descent",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #17)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 4754910,
+      "name": "Steal & Sell Simulator",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #20)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5438690,
+      "name": "Oh Baby Blocks",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #14)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 5294820,
+      "name": "Reshine ‒ Digital Artbook",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #26)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 4904040,
+      "name": "The Veil Chronicles: Nix University | SET OF ANIMATIONS",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #16)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "new_entry",
+      "appid": 3309160,
+      "name": "Chronocracy",
+      "detail": "Steam 인디 다가오는 게임 Top 63 신규 진입 (랭크 #21)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5284100,
+      "name": "Wheelchair Together Demo",
+      "detail": "Top 63에서 이탈 (이전 랭크 #19)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5547280,
+      "name": "Incremental Pain Profit - Support Pack",
+      "detail": "Top 63에서 이탈 (이전 랭크 #5)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5370260,
+      "name": "Junk Tower Together",
+      "detail": "Top 63에서 이탈 (이전 랭크 #11)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5607830,
+      "name": "Stay Lit",
+      "detail": "Top 63에서 이탈 (이전 랭크 #30)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 4779290,
+      "name": "Meme Paint",
+      "detail": "Top 63에서 이탈 (이전 랭크 #17)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 3129900,
+      "name": "Murmurs of Fear - A whisper of loneliness",
+      "detail": "Top 63에서 이탈 (이전 랭크 #8)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5462060,
+      "name": "SheepTag: Dragons",
+      "detail": "Top 63에서 이탈 (이전 랭크 #14)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 2151730,
+      "name": "Meet the Rome ",
+      "detail": "Top 63에서 이탈 (이전 랭크 #12)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5332920,
+      "name": "ShotMachine",
+      "detail": "Top 63에서 이탈 (이전 랭크 #28)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5196730,
+      "name": "Eldwyn's Dungeon Academy",
+      "detail": "Top 63에서 이탈 (이전 랭크 #9)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5062970,
+      "name": "Incremental Pachinko Heaven",
+      "detail": "Top 63에서 이탈 (이전 랭크 #7)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 3911490,
+      "name": "Forge the Fates",
+      "detail": "Top 63에서 이탈 (이전 랭크 #10)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5487170,
+      "name": "Hellstorm Gunners",
+      "detail": "Top 63에서 이탈 (이전 랭크 #22)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5553220,
+      "name": "Tea ceremony simulator",
+      "detail": "Top 63에서 이탈 (이전 랭크 #27)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 4572620,
+      "name": "Canvas Attack!",
+      "detail": "Top 63에서 이탈 (이전 랭크 #21)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 4823250,
+      "name": "Incremental Pain Profit",
+      "detail": "Top 63에서 이탈 (이전 랭크 #18)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5417940,
+      "name": "Swift Cultivation",
+      "detail": "Top 63에서 이탈 (이전 랭크 #3)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5049560,
+      "name": "Alone at  School:Christmas",
+      "detail": "Top 63에서 이탈 (이전 랭크 #16)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5335770,
+      "name": "Jingi Tensei",
+      "detail": "Top 63에서 이탈 (이전 랭크 #26)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5556190,
+      "name": "Tidy Up: Gacha Collection",
+      "detail": "Top 63에서 이탈 (이전 랭크 #25)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5172860,
+      "name": "Necro Rising",
+      "detail": "Top 63에서 이탈 (이전 랭크 #13)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5559650,
+      "name": "Chalk Thrower Simulator",
+      "detail": "Top 63에서 이탈 (이전 랭크 #6)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5585250,
+      "name": "This is Ikebukuro Demo",
+      "detail": "Top 63에서 이탈 (이전 랭크 #29)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5214570,
+      "name": "Coma Dreams",
+      "detail": "Top 63에서 이탈 (이전 랭크 #23)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5476460,
+      "name": "Doomsday Survivor 末日幸存者",
+      "detail": "Top 63에서 이탈 (이전 랭크 #2)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5507950,
+      "name": "Chess Lords",
+      "detail": "Top 63에서 이탈 (이전 랭크 #1)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5224430,
+      "name": "Hotel Architect - Poolside Paradise",
+      "detail": "Top 63에서 이탈 (이전 랭크 #24)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5347440,
+      "name": "Deadshift",
+      "detail": "Top 63에서 이탈 (이전 랭크 #15)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 4933500,
+      "name": "Me and You",
+      "detail": "Top 63에서 이탈 (이전 랭크 #20)"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "dropped",
+      "appid": 5546750,
+      "name": "CHASA : Twilight Reaper",
+      "detail": "Top 63에서 이탈 (이전 랭크 #4)"
+    },
     {
       "date": "2026-11-25",
       "type": "new_entry",
@@ -10677,5 +11097,5 @@
       "detail": "Steam 인디 다가오는 게임 Top 64 신규 진입 (랭크 #27)"
     }
   ],
-  "snapshotId": "c3ff7437700895c54ca4"
+  "snapshotId": "59a0c37a129e7d38cab2"
 }
